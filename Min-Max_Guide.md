@@ -16,7 +16,7 @@
 * No using glitches / bugs.
 * No 3rd party cheats.
 * No using Stardew Predictor (https://mouseypounds.github.io/stardew-predictor/).
-* No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run.)
+* No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run or restart all the way back to a new save file.)
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
 
 ### Important Mechanics

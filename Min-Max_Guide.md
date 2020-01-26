@@ -89,9 +89,9 @@
   * We need the 60 Fiber for Scarecrows later on.
   * We need the money for a Fiberglass Rod tomorrow.
 * Empty all inventory in the first chest.
-* Go to Bus Stop, grab foraging items if there. (Do not return to shipping bin because you will be back to the farm in a minute.)
-* Go to the beach and get the Bamboo Pole, grab foraging items if there.
-* Go home, ship all foraging items from Bus Stop / Ocean.
+* Go to Bus Stop, grab foraging items if present.
+* Go to the beach and get the Bamboo Pole, grab foraging items if present.
+* If 3 or more foraging items, go home, ship all foraging items from Bus Stop / Ocean.
 * Go to the mountain lake fishing spot, place the chest one square to the left of the first wooden bridge.
 * Fish until 2 AM, then pass out.
   * Prioritize eating Green Algae, then Joja Cola, then Chub.

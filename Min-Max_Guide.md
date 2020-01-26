@@ -21,7 +21,7 @@
 
 ### Important Mechanics
 
-* On the day after you get one or more skill level increases (e.g. every day until Spring ?), you will always start with full energy, even if you were in an exhausted state (below 0 energy) on the previous day.
+* On the day after you have gained one or more skill level increases, you will always start with full energy, even if you were in an exhausted state (below 0 energy) on the previous day. (With this route, you will gain one or more skill level increases on every single day until Spring 13.)
 * When a player passes out at 2 AM, 10% of their gold is taken (maxing out at 1000g). However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
 * When a player falls asleep at midnight or earlier, they will regenerate all of their energy. When a player falls asleep after 12 AM, they will lose a variable amount of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
@@ -121,21 +121,20 @@
 
 ### Spring 5
 
-* From here on out, check the TV every single day to get the current day's luck.
+* From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.
 * (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)
 * Water.
 * Put all clay + Geodes + fish in the shipping bin.
-* If lucky/neutral day:
+* If a very unlucky day:
+  * Fish at the mountain lake until 12:30 AM and then go home.
+  * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this in order to have the necessary money for Kale. Otherwise, we would be able to fish until 2 AM.)
+* Otherwise:
   * Retrieve the chest from the chest.
   * Go to the mines, place the chest to the right of the elevator.
   * Get as low as possible.
   * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
   * (Even though we need as much money as possible on Spring 6, we do not have to leave the mines to because we can sell the gems to Clint tomorrow.)
-* If not lucky day:
-  * Fish at the mountain lake until 12:30 AM and then go home.
-  * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this.)
-bin.
 
 ### Spring 6
 
@@ -154,25 +153,23 @@ bin.
   * Calculate how much gold you would need to buy that many Kale at 70g a seed.
 * Start clearing + hoeing + watering 200 squares.
 * At 8 PM, go into town from the Bus Stop.
-* If you mined on Spring 5, go to Clint's, upgrade the Pickaxe.
+* If you mined on Spring 5, go to Clint's, upgrade the Pickaxe and sell all gems.
 * Go to Pierre's:
   * Sell low-quality Parsnips until you have enough money for the Kale Seeds.
   * Buy the Kale Seeds.
 * Go home, make max Basic Fertilizer, fertilize + plant + water.
 * (Don't sell anything to stay at 0 gold.)
-* If lucky/neutral day and you have the Pickaxe, mine until 2 AM.
-* Otherwise, fish at mountain lake until 2 AM, then pass out.
+* Mine/fish until 2 AM, then pass out. (Depending on the day's luck.)
 
 ### Spring 7-11
 
 * (Don't sell anything to stay at 0 gold.)
 * If you mined for the first time yesterday, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.
+  * At some point in the day, go into town and upgrade the Pickaxe.
   * Save all remaining copper on more Furnaces.
 * Water.
-* If lucky/neutral day and you have the Pickaxe, mine until 2 AM, then pass out.
-  * If you still need to upgrade your Pickaxe, don't worry about it and wait for an unlucky day.
-* Otherwise, fish at mountain lake until 2 AM, then pass out.
-  * If you still need to upgrade your Pickaxe, take a break from fishing to do it during the day at some point.
+* Upgrade pickaxe
+* Mine/fish until 2 AM, then pass out.
 
 ### Spring 12
 
@@ -184,9 +181,7 @@ bin.
 
 * Claim the reward for any outstanding quests from the journal.
 * Check the mail.
-* If lucky day and you have the Pickaxe, mine until 1 PM.
-* Otherwise, fish at mountain lake until 1:30 PM.
-* Go to the festival. (The latest you can arrive to the town is 2 PM.)
+* Mine/fish until around 1 PM, then go to the festival. (The latest you can arrive to the town is 2 PM.)
 * Buy max Strawberry Seeds (100g each).
 * Clear the farm until 12 PM (to prepare for planting the Strawberry Seeds on day 16), then sleep.
 

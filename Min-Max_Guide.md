@@ -38,16 +38,16 @@
 ### Luck Modifications
 
 * Between Spring 5 and Spring 15, the main activity of the day will depend on the luck.
-  * If a lucky or neutral day, you should mine.
-  * If an unlucky day, you should fish.
-* However, you can only afford to dedicate two full days to fishing. This means that you might be forced to go to the mines on an unlucky day.
-* For example, say that Spring 5 is a lucky day (full day mines), Spring 6 is a neutral day (half day mines because you have other tasks to do today), Spring 7 is a unlucky day (full day fishing), Spring 8 is a neutral day (full day mines), Spring 9 is an unlucky day (full day fishing), and Spring 10 is an unlucky day. In this scenario, since you already had two full unlucky fish days, you must go to the mines on Spring 10 or you will be too far behind on metal collection.
+  * If an very unlucky day (e.g. "very displeased"), you should fish.
+  * Otherwise, you should mine.
+* However, you can only afford to dedicate two full days to fishing. This means that you might be forced to go to the mines on an very unlucky day.
+* For example, say you got a very unlucky day on both Spring 7 and Spring 9 (and spent all of those days fishing). Next, you got a third very unlucky day on Spring 11. In this scenario, since you already took two days off from the mines, you have to go to the mines on Spring 11 or else you will be too far behind on metal collection.
 
 ### General Mines Strategy
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor.
-* Every time you get to an elevator, return to the 0th floor and empty your inventory + keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
+* Every time you get to an elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
 * Scour the entire floor before mining any rocks to see if a staircase has already spawned.
 * Mine all gems and ores on the way + pick up forageables.
 * If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.

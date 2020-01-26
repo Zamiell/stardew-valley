@@ -32,7 +32,7 @@ The guide is designed for the kind of player who is using the following self-imp
 ### Weather Modifications
 
 * The best fishing spot for non-rainy days is the mountain lake.
-  * This is because the easiest fish are here; perfect catches are the best way to level up the fishing skill.
+  * This is because the easiest fish are here and perfect catches are the best way to level up the fishing skill.
 * The best fishing spot for rainy days is the forest river.
   * This is because Catfish sell for 200g. They are difficult to catch with low fishing skill, but still possible with some luck.
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.

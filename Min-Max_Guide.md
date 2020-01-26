@@ -85,8 +85,9 @@
 * Read all of the mail. (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
 * Chop 50 wood, make a Chest. (Do not place it down yet.)
-* Ship all but 60 Fiber + all Clay + all Geodes + all but 4 unique foragables in the Shipping Bin.
-  * We need the 60 Fiber for Scarecrows later on. We need the money for a Fiberglass Rod tomorrow.
+* Save 60 Fiber / all Wood / all Stone / all Coal / all Acorns / all Spring Onions, ship everything else.
+  * We need the 60 Fiber for Scarecrows later on.
+  * We need the money for a Fiberglass Rod tomorrow.
 * Empty all inventory in the first chest.
 * Go to Bus Stop, grab foraging items if there. (Do not return to shipping bin because you will be back to the farm in a minute.)
 * Go to the beach and get the Bamboo Pole, grab foraging items if there.

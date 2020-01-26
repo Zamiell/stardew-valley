@@ -75,9 +75,8 @@
 * At Pierre's, sell all of the foragables, buy the maximum number of Parsnip seeds.
   * Do not bother saving any foragable for the community center; that can be done later on in the season.
 * Go home, hoe + plant + water all Parsnips + mixed seeds.
-* Kill all weeds on farm until 2 AM, then pass out. (Do not go back to the Farmhouse and sleep.)
-  * Every time you have around 4-5 Mixed Seeds, return to the crop area and hoe + plant + water them, then go back out and kill more weeds.
-  * Time it such that you plant all of your renaming mixed seeds before 2 AM.
+* Kill all weeds on farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
+  * Time it such that you return to the crops and plant + water all of your renaming mixed seeds before 2 AM.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging). However, only do this at the end of the night, as the debuffed movement speed will make you kill less overall weeds.
 * Do not ship any items today (since we want to stay at 0 gold).
 

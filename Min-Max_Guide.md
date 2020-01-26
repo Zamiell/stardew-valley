@@ -22,7 +22,7 @@
 ### Important Mechanics
 
 * On the day after you get one or more skill level increases (e.g. every day until Spring ?), you will always start with full energy, even if you were in an exhausted state (below 0 energy) on the previous day.
-* When a player passes out at 2 AM, they have 10% of their gold taken, up to 1000g. However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
+* When a player passes out at 2 AM, 10% of their gold is taken (maxing out at 1000g). However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
 * When a player falls asleep at midnight, they will regenerate all of their energy. When a player falls asleep after 12 AM, they will lose a variable amount of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
 

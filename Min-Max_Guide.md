@@ -1,6 +1,6 @@
 # Stardew Valley Min-Max Routing / Strategy
 
-* This is a "min-max" guide for a Stardew Valley run created by [Foxy Fern](https://www.youtube.com/channel/UCWTKoEsRhIiQCGyCAiVbIZQ) and [Zamiel](https://www.twitch.tv/Zamiell)
+* This is a "min-max" guide for a Stardew Valley run created by [Foxy Fern](https://www.youtube.com/channel/UCWTKoEsRhIiQCGyCAiVbIZQ) and [Zamiel](https://www.twitch.tv/Zamiell).
 * This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 * We assume some restrictions/rules, which makes this different from other min-max guides out there.
 * Many guides out there are designed for older versions of the game. This guide is designed for 1.4.3. (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)

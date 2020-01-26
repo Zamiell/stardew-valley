@@ -68,9 +68,9 @@
 * Chop 50 wood, make a Chest, place it next to the house. (Don't hoe anything yet.)
 * Put everything in the chest except for Axe + Pickaxe + Scythe + Hoe.
 * Head out the north end of your farm and go through the entire map, doing three things:
-	1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.
-	2) Getting all foragables.
-	3) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
+  1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.
+  2) Getting all foragables.
+  3) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
 * After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
 * At Pierre's, sell all of the foragables, buy the maximum number of Parsnip seeds.
   * Do not bother saving any foragable for the community center; that can be done later on in the season.
@@ -145,11 +145,11 @@
 * If you missed a day of watering your Parsnips for whatever reason, harvest the rest of them now and make a note of how many you harvested.
 * Pause the game and:
   * Calculate how much farming experience you currently have.
-		- Parnips give 8 XP each.
+    * Parnips give 8 XP each.
   * Calculate how many Kale you would need to get farming level 6, which is 3300 total XP.
-		- Kale gives 17 XP each.
-		- e.g. ((3300 - current XP) / 17)
-		- We need level 6 farming in order to get the Quality Sprinkler recipe.
+    * Kale gives 17 XP each.
+    * e.g. ((3300 - current XP) / 17)
+    * We need level 6 farming in order to get the Quality Sprinkler recipe. (The route will not work otherwise.)
   * Calculate how much gold you would need to buy that many Kale at 70g a seed.
 * Start clearing + hoeing + watering 200 squares.
 * At 8 PM, go into town from the Bus Stop.

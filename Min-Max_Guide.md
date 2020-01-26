@@ -223,3 +223,7 @@ The guide is designed for the kind of player who is using the following self-imp
 ### Spring 22
 
 * Buy + plant Kale. (If you plant it today, it will be ready to harvest on the 28th.)
+
+## TTD
+
+* check first day with no skill-ups

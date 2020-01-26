@@ -12,6 +12,8 @@
 
 ### Rules
 
+The guide is designed for the kind of player who is using the following self-imposed restrictions:
+
 * No mods.
 * No using glitches / bugs.
 * No 3rd party cheats.

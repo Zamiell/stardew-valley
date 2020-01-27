@@ -8,7 +8,9 @@
 * (G) indicates gold quality.
 * (I) indicates irridium quality.
 
-# Foraging Items
+<br />
+
+### Foraging Items
 
 | Item                 | Gold | Energy | Ratio
 | -------------------- | ---- | ------ | -----
@@ -29,7 +31,7 @@
 | Dandelion (G)        | 60g  | 45     | 1.33
 | Dandelion (I)        | 80g  | 65     | 1.23
 
-# Non-Fish
+### Non-Fish
 
 | Item        | Gold | Energy | Ratio
 | ----------- | ---- | ------ | -----
@@ -39,7 +41,7 @@
 | Seaweed (G) | 30g  | 23     | 1.30
 | Seaweed (I) | 40g  | 33     | 1.21
 
-# Fish
+### Fish
 
 | Item                 | Gold | Energy | Ratio
 | -------------------- | ---- | ------ | -----

@@ -32,7 +32,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * save everything with a ratio equal to or less than 2 for eating
 * sell everything with a ratio above 2
 
-### Important Mechanics
+### Energy Recovery Mechanics
 
 * On the day after a player has gained one or more skill level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.
   * Note that with this route, players will gain one or more skill level increases on every single day until Spring 13.

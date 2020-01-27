@@ -59,7 +59,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * If the level is small, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * In medium/large floors, it is usually better to avoid all the enemies (if possible) and only mine rocks.
   * The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase helps a lot in this case.
-* If you get lucky enough to randomly get a club to drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.)
+* If you get lucky enough to randomly get a club to drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
 
 ### Weather Modifications
 

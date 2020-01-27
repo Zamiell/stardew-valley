@@ -88,6 +88,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * The cave restocks much faster, granting more total items.
   * On average, mushrooms sell for more than fruit.
   * Common Mushrooms are a good energy food. They have high GPE and you can build up a large stack of them.
+* It is possible to get up to 22 Spring Onions on Spring 1.
 
 <br />
 

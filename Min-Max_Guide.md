@@ -250,3 +250,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * track all day skillups
 * test new fishing spots
+* specify when level 8 fishing change to downward angle

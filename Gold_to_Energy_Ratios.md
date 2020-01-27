@@ -14,7 +14,7 @@
 
 | Item                 | Gold | Energy | Ratio
 | -------------------- | ---- | ------ | -----
-| Wild Horseradish     | 50g  | 13     | 3.85
+| <span style="color: green;">Wild Horseradish</span>     | 50g  | 13     | 3.85
 | Wild Horseradish (S) | 62g  | 18     | 3.44
 | Wild Horseradish (G) | 75g  | 23     | 3.26
 | Wild Horseradish (I) | 100g | 33     | 3.03

@@ -118,7 +118,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 2
 
-* Read all of the mail. (We need to read Willy's letter in order to be given the Bamboo Pole.)
+* Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
 * Save 60 Fiber / all Wood / all Stone / all Coal / all Acorns / all Spring Onions, ship everything else.
   * We need the 60 Fiber for Scarecrows later on.

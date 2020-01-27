@@ -36,6 +36,24 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * When a player falls asleep at midnight or earlier, they will regenerate 100% of their energy. When a player falls asleep after 12 AM, they will regenerate a variable percentage of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
 
+### General Fishing Strategy
+
+* Create and place a Chest next to where you will be fishing.
+* If you are expecting a fishing skill level up at the end of the day, then always go down to 0 energy / exhaustion **before** eating any food. (This saves extra energy points.)
+* Prioritize eating Green Algae (1.15 ratio), then Joja Cola (1.92 ratio), then Chub (2.00 ratio).
+* Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
+* Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)
+
+### General Mines Strategy
+
+* Create and place a Chest to the right of the elevator on the 0th floor.
+* Create and place 5 Furnaces to the left of the elevator on the 0th floor.
+* Every time you get to an elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
+* Scour the entire floor before mining any rocks to see if a staircase has already spawned.
+* Mine all gems and ores on the way + pick up forageables.
+* If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.
+* If the level is large and there are a lots of enemies, avoid all the enemies (if possible) and only mine rocks.
+
 ### Weather Modifications
 
 * The best fishing spot for non-rainy days is the mountain lake.
@@ -54,22 +72,11 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * However, you can only afford to dedicate two full days to fishing. This means that you might be forced to go to the mines on an very unlucky day.
 * For example, say you got a very unlucky day on both Spring 7 and Spring 9 (and spent all of those days fishing). Next, you got a third very unlucky day on Spring 11. In this scenario, since you already took two days off from the mines, you have to go to the mines on Spring 11 or else you will be too far behind on metal collection.
 
-### General Mines Strategy
-
-* Create and place a Chest to the right of the elevator on the 0th floor.
-* Create and place 5 Furnaces to the left of the elevator on the 0th floor.
-* Every time you get to an elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
-* Scour the entire floor before mining any rocks to see if a staircase has already spawned.
-* Mine all gems and ores on the way + pick up forageables.
-* If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.
-* If the level is large and there are a lots of enemies, avoid all the enemies (if possible) and only mine rocks.
-
 ### Other Notes
 
 * Don't read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
 * Choose Mushrooms over Bats for the Cave.
-* If you are expecting a fishing skill level up, then always fish to exhaustion before eating any food. (This saves extra energy points.)
 
 <br />
 
@@ -106,9 +113,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * If 3 or more foraging items, go home, ship all foraging items from Bus Stop / Ocean.
 * Go to the mountain lake fishing spot, place the chest one square to the left of the first wooden bridge.
 * Fish until 2 AM, then pass out.
-  * Prioritize eating Green Algae, then Joja Cola, then Chub.
-  * Prioritize capturing treasure chests over perfect fish.
-  * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)
 
 ### Spring 3
 

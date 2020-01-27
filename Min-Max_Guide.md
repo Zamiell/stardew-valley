@@ -39,7 +39,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### General Fishing Strategy
 
 * Create and place a Chest next to where you will be fishing.
-* If you are expecting a fishing skill level up at the end of the day, then always go down to 0 energy / exhaustion **before** eating any food. (This saves extra energy points.)
+* If you are expecting a fishing skill level up at the end of the day, then always go down to 0 energy / exhaustion **before** eating any food. (For example, by casting with 1 energy, you will go down to 0, saving 7 overall energy points.)
 * Prioritize eating Green Algae (1.15 ratio), then Joja Cola (1.92 ratio), then Chub (2.00 ratio).
 * Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)

@@ -139,12 +139,12 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * (It always rains on this day.)
 * Chop 50 wood, make a Chest. (Do not place it down yet.)
 * Empty all inventory in the first chest except for Bamboo Pole + all fish.
+* Retrieve the chest from the chest.
 * Go to the beach. (Don't collect any beach foraging items until after you sell the fish.)
 * Fish outside Willy's until 9 AM.
 * Sell fish + buy Fiberglass Rod (1,800g) + 120 bait (5 x 120 = 600g).
   * If you do not have enough gold, then continue to fish outside of the Fish Shop until you have enough.
   * You only need about 80 bait if you go mining on day 5, but you will need more if you fish on day 5, which is why we get 120 to be safe.
-* Retrieve the chest from the chest.
 * Go to the forest river fishing spot, place the chest next to you.
   * To make sure that you place the chest in a safe spot, you can reference the following pathing guide: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
 * Fish until 2 AM, then pass out.

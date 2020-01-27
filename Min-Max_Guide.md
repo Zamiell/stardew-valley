@@ -156,6 +156,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Water.
 * Chop 50 wood, make a Chest, and put it in storage. (Remember to take your Scythe.)
 * Fish at the mountain lake until 2 AM, then pass out.
+* At the end of the day, you should get:
+  * Fishing 5 --> 6
 
 ### Spring 5
 

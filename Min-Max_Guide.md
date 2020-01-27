@@ -120,6 +120,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 2
 
+* Move the TV next to the bed (so that later on you can immediately check it upon waking up).
+  * (We do this now instead of later because we will have a full inventory on subsequent days.)
 * Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
 * Ship:
@@ -161,7 +163,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 5
 
-* Move the TV next to the bed so that you can immediately check it upon waking up.
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.
 * (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)

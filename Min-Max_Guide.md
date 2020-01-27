@@ -35,7 +35,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Energy Recovery Mechanics
 
 * On the day after a player has gained one or more skill level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.
-  * Note that with this route, players will gain one or more skill level increases on every single day until Spring 13.
+  * Note that with this route, players will gain one or more skill level increases on every single day until Spring ?.
 * When a player passes out at 2 AM, 10% of their gold is taken (maxing out at 1000g). However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
 * When a player falls asleep at midnight or earlier, they will regenerate 100% of their energy. When a player falls asleep after 12 AM, they will regenerate a variable percentage of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
@@ -255,6 +255,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ## TTD
 
 * track all day skillups
+* fill in Spring ?
 * test new fishing spots
 * on day 4, you can fish straight downward at mountain lake, because you are level 5 fishing and you get the range increase at level 4 - At level 4 fishing and above, every downward cast should yield a gold fish (or irridium quality fish with a perfect catch).
 * specify when level 8 fishing change to downward angle

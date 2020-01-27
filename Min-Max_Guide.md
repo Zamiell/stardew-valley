@@ -238,4 +238,5 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ## TTD
 
-* check first day with no skill-ups
+* track all day skillups
+* test new fishing spots

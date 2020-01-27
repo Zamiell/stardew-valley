@@ -21,6 +21,10 @@ The guide is designed for the kind of player who is using the following self-imp
 * No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run or restart all the way back to a new save file.)
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
 
+### Gold per Energy List
+
+You should always eat items with the [lowest gold to energy ratio](https://github.com/Zamiell/stardew-valley/blob/master/Gold_to_Energy_Ratios.md).
+
 ### Important Mechanics
 
 * On the day after a player has gained one or more skill level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.

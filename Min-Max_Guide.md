@@ -55,6 +55,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Mine all gems and ores on the way + pick up forageables.
 * If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.
 * If the level is large and there are a lots of enemies, avoid all the enemies (if possible) and only mine rocks.
+* If you get lucky enough to get a club, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.)
 
 ### Weather Modifications
 

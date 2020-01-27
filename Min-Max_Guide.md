@@ -148,6 +148,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Go to the forest river fishing spot, place the chest next to you.
   * To make sure that you place the chest in a safe spot, you can reference the following pathing guide: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
 * Fish until 2 AM, then pass out.
+* At the end of the day, you should get:
+  * Fishing 3 --> 5 (choose Fisher profession)
 
 ### Spring 4
 

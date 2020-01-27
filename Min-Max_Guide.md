@@ -36,10 +36,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * When a player falls asleep at midnight or earlier, they will regenerate 100% of their energy. When a player falls asleep after 12 AM, they will regenerate a variable percentage of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
 
-### General Tree Chopping Strategy
-
-* Pause the game 
-
 ### General Fishing Strategy
 
 * Create and place a Chest next to where you will be fishing.
@@ -95,6 +91,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 1
 
 * Chop 50 wood, make a Chest, place it next to the house. (Don't hoe anything yet.)
+  * Make sure to pause the game when the tree falling animation is playing. This prevents in-game time from passing, but the falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while still in the pause state. You should use this strategy whenever you chop trees.
+  * For now, only chop down Maple and Pine trees, not Oak trees. (You can chop down Oak trees on day 2 onwards, because you will have level 1 foraging at that point and can get acorn drops.)
 * Put everything in the chest except for Axe + Pickaxe + Scythe + Hoe.
 * Head out the north end of your farm and go through the entire map, doing three things:
   1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.

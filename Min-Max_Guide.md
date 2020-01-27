@@ -137,7 +137,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 3
 
 * (It always rains on this day.)
-* Chop 50 wood, make a Chest. (Do not place it down yet.)
+* Chop 50 wood, make a Chest, and put it in storage. (Remember to take your Scythe.)
 * Empty all inventory in the first chest except for Bamboo Pole + all fish.
 * Retrieve the chest from the chest.
 * Go to the beach. (Don't collect any beach foraging items until after you sell the fish.)
@@ -154,7 +154,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 4
 
 * Water.
-* Chop 50 wood, make a Chest, and put it in storage.
+* Chop 50 wood, make a Chest, and put it in storage. (Remember to take your Scythe.)
 * Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 5

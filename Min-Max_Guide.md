@@ -21,7 +21,7 @@ The guide is designed for the kind of player who is using the following self-imp
 * No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run or restart all the way back to a new save file.)
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
 
-### Gold per Energy List
+### Gold per Energy List (GPE)
 
 In general, you should always eat items with the [lowest gold to energy ratio](https://stardewvalleywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the follow simple rule:
 
@@ -35,6 +35,10 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * When a player passes out at 2 AM, 10% of their gold is taken (maxing out at 1000g). However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
 * When a player falls asleep at midnight or earlier, they will regenerate 100% of their energy. When a player falls asleep after 12 AM, they will regenerate a variable percentage of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
 * Thus, we can combine the above three mechanics to stay up to 2 AM on almost every single day with no consequences.
+
+### General Tree Chopping Strategy
+
+* Pause the game 
 
 ### General Fishing Strategy
 
@@ -78,7 +82,11 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Don't read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
-* Choose Mushrooms over Bats for the Cave.
+* When chopping down trees, pause the game during the tree falling animation. The tree 
+* Choose Mushrooms over Bats for the Cave. This is for several reasons:
+  * The cave restocks much faster, granting more total items.
+  * On average, mushrooms sell for more than fruit.
+  * Common Mushrooms are a good energy food. They have high GPE and you can build up a large stack of them.
 
 <br />
 

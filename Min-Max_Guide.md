@@ -65,10 +65,11 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * If the level is large and there are a lots of enemies, avoid all the enemies (if possible) and only mine rocks.
 
 ### Other Notes
+
 * Don't read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
-* It is entirely up to you whether to choose Mushrooms or Bats; both have pros and cons.
-  * See: https://stardewvalleywiki.com/The_Cave
+* Choose Mushrooms over Bats for the Cave.
+* If you are expecting a fishing skill level up, then always fish to exhaustion before eating any food. (This saves extra energy points.)
 
 <br />
 

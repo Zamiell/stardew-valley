@@ -31,6 +31,8 @@
 | Dandelion (G)        | 60g  | 45     | 1.33
 | Dandelion (I)        | 80g  | 65     | 1.23
 
+<br />
+
 ## Non-Fish
 
 | Item        | Gold | Energy | Ratio
@@ -40,6 +42,8 @@
 | Seaweed (S) | 25g  | 18     | 1.39
 | Seaweed (G) | 30g  | 23     | 1.30
 | Seaweed (I) | 40g  | 33     | 1.21
+
+<br />
 
 ## Fish
 

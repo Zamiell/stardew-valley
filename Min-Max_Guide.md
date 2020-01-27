@@ -54,7 +54,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor.
-* Every time you get to an elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
+* Every 5 floors when you arrive at a new elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
 * Scour the entire floor before mining any rocks to see if a staircase has already spawned.
 * Mine all gems and ores on the way + pick up forageables.
 * If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.

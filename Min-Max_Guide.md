@@ -6,7 +6,7 @@
 * Many guides out there are designed for older versions of the game. This guide is designed for 1.4.3. (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
 * This guide is based on other people's work:
   * [BlackSight6's 1.4 Spring Min/Max guide](https://old.reddit.com/r/StardewValley/comments/edcm3m/stardew_14_spring_minmax_guide/)
-  * [Foxy Fern's 1.4 Spring Min/Max guide](https://www.reddit.com/r/StardewValley/comments/etjtdq/patch_14_minmax_detailed_comprehensive_guide/)
+  * [Foxy Fern's 1.4 Spring Min/Max guide](https://old.reddit.com/r/StardewValley/comments/etjtdq/patch_14_minmax_detailed_comprehensive_guide/)
 
 <br />
 
@@ -120,9 +120,10 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
-* Save 60 Fiber / all Wood / all Stone / all Coal / all Acorns / all Spring Onions, ship everything else.
-  * We need the 60 Fiber for Scarecrows later on.
-  * We need the money for a Fiberglass Rod tomorrow.
+* Ship:
+  * all but 60 Fiber (for Scarecrows later on)
+  * Clay
+  * Geodes
 * Empty all inventory in the first chest, take out the chest.
 * Go to Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
 * Go to the beach and get the Bamboo Pole, grab foraging items if present.

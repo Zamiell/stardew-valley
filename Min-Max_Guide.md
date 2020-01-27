@@ -97,13 +97,15 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 1
 
 * Chop 50 wood, make a Chest, place it next to the house. (Don't hoe anything yet.)
-  * Make sure to pause the game when the tree falling animation is playing. This prevents in-game time from passing, but the falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while still in the pause state. You should use this strategy whenever you chop trees.
-  * For now, only chop down Maple and Pine trees, not Oak trees. (You can chop down Oak trees on day 2 onwards, because you will have level 1 foraging at that point and can get acorn drops.)
+  * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  * Make sure to pause the game when the tree falling animation is playing. This prevents in-game time from passing, but the falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.
+  * Only chop down Maple and Pine trees, not Oak trees. The only reason you should be chopping down an Oak tree is if it is directly blocking where your crops will go. (We will use them to farm as many Acorns as possible for later on in the run.)
 * Put everything in the chest except for Axe + Pickaxe + Scythe + Hoe.
 * Head out the north end of your farm and go through the entire map, doing three things:
   1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.
   2) Getting all foragables.
-  3) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
+  3) Shaking all Oak trees (for extra acorn drops, which should be saved until summer).
+  4) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
 * After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
 * At Pierre's, sell all of the foragables, buy the maximum number of Parsnip seeds.
   * Do not bother saving any foragable for the community center; that can be done later on in the season.
@@ -256,3 +258,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * track all day skillups
 * test new fishing spots
 * specify when level 8 fishing change to downward angle
+* test to see if it is possible to get an acorn on day 1 from shaking

@@ -257,5 +257,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * track all day skillups
 * test new fishing spots
+* on day 4, you can fish straight downward at mountain lake, because you are level 5 fishing and you get the range increase at level 4 - At level 4 fishing and above, every downward cast should yield a gold fish (or irridium quality fish with a perfect catch).
 * specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking

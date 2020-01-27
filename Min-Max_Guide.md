@@ -54,12 +54,12 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor.
-* Every 5 floors when you arrive at a new elevator, return to the 0th floor and empty your inventory. Also, keep the Furnaces smelting Iron Bars + Refined Quartz + Gold Bars.
-* Scour the entire floor before mining any rocks to see if a staircase has already spawned.
 * Mine all gems and ores on the way + pick up forageables.
-* If the level is small and there are not many enemies, kill them all first. This will increase your chance of spawning a staircase from a rock by 4%.
-* If the level is large and there are a lots of enemies, avoid all the enemies (if possible) and only mine rocks.
-* If you get lucky enough to get a club, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.)
+* If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
+* If the level is small, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
+* In medium/large floors, it is usually better to avoid all the enemies (if possible) and only mine rocks.
+  * The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase helps a lot in this case.
+* If you get lucky enough to randomly get a club to drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.)
 
 ### Weather Modifications
 

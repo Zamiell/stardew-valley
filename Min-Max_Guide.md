@@ -12,6 +12,8 @@
 
 ## Preface
 
+Before we start with the route, let's first go over some high-level things that you need to know over the course of the run.
+
 ### Rules
 
 The guide is designed for the kind of player who is using the following self-imposed restrictions:
@@ -47,6 +49,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
 * Casting while facing up goes further than casting left or right, which in turn goes further than casting down.
   * There are no viable spots on the mountain lake to cast upwards, which is why we typically cast to the right here.
+* Casting up or down results in a shorter reeling animation than casting left or right. (In-game time does pass during the reeling animation.) With that said, the difference is small and is outweighed by the ability to catch better fish. However, once you are at fishing level 8 and can get 
 
 ### General Mines Strategy
 

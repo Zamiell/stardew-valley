@@ -97,9 +97,9 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 1
 
 * Chop 50 wood, make a Chest, place it next to the house. (Don't hoe anything yet.)
-  * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
-  * Make sure to pause the game when the tree falling animation is playing. This prevents in-game time from passing, but the falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.
   * Only chop down Maple and Pine trees, not Oak trees. The only reason you should be chopping down an Oak tree is if it is directly blocking where your crops will go. (We will use them to farm as many Acorns as possible for later on in the run.)
+  * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 * Put everything in the chest except for Axe + Pickaxe + Scythe + Hoe.
 * Head out the north end of your farm and go through the entire map, doing three things:
   1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.

@@ -100,7 +100,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * We need the 60 Fiber for Scarecrows later on.
   * We need the money for a Fiberglass Rod tomorrow.
 * Empty all inventory in the first chest, take out the chest.
-* Go to Bus Stop, grab foraging items if present.
+* Go to Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
 * Go to the beach and get the Bamboo Pole, grab foraging items if present.
 * If 3 or more foraging items, go home, ship all foraging items from Bus Stop / Ocean.
 * Go to the mountain lake fishing spot, place the chest one square to the left of the first wooden bridge.

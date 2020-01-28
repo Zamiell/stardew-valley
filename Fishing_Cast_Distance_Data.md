@@ -6,14 +6,14 @@
 
 | Fishing Level | Area          | Tiles Away | Specific Casting Location
 | ------------- | ------------- | ---------- | -------------------------
-| Level 0       | Mountain Lake | 3          | Rightward from the center island
-| Level 0       | Mountain Lake | 3          | Rightward from the center island angled downward
-| Level 0       | Mountain Lake | 2          | Downward from the center island
+| Level 0       | Mountain Lake | 2          | Downward from the bottom of the center island
+| Level 0       | Mountain Lake | 3          | Rightward from the bottom of the center island
+| Level 0       | Mountain Lake | 3          | Rightward from the bottom of the center island angled downward
 | Level 0       | Mountain Lake | 3          | Rightward while touching the fence on the bottom of the map
 | Level 0       | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
-| Level 1-3     | Mountain Lake | 3          | Downward from the center island
-| Level 1-3     | Mountain Lake | 3          | Rightward from the center island
-| Level 1-3     | Mountain Lake | 5          | Rightward from the center island angled downward
+| Level 1-3     | Mountain Lake | 3          | Downward from the bottom of the center island
+| Level 1-3     | Mountain Lake | 3          | Rightward from the bottom of the center island
+| Level 1-3     | Mountain Lake | 5          | Rightward from the bottom of the center island angled downward
 | Level 1-3     | Mountain Lake | 5          | Rightward while touching the fence on the bottom of the map
 | Level 1-3     | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
 | Level 4-10    | Mountain Lake | 5          | All spots

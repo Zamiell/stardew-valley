@@ -47,8 +47,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
-* Casting while facing up goes further than casting left or right, which in turn goes further than casting down. This is only important at early fishing levels; more specifices will be noted below on the respective day.
-* Casting up or down results in a shorter reeling animation than casting left or right. Since in-game time passes during the reeling animation, at level 4 and beyond, casting up or down is generally better. (It still might be better to fish left or right if you will not be fishing for very long and/or if travelling to a up/down casting spot would take a while, but this will be more rare.)
 
 ### General Mines Strategy
 

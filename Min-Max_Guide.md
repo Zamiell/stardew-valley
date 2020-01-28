@@ -52,15 +52,14 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor. (At first, you will only have 1, but you will gradually build up copper to make more.)
+* Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
-* Mine all gems and ores on the way + pick up forageables.
 * In floors 1-30(?), skip over mining the white rocks in favor of the other color rocks. (This is because it takes two hits to destroy a white rock and one hit to destroy the other ones.)
   * When you get the copper pickaxe, this strategy no longer applies, as white rocks will be destroyed in 1 hit.
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
-* If the level is small, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
-* In medium/large floors, it is usually better to avoid all the enemies (if possible) and only mine rocks.
-  * The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase helps a lot in this case.
-* If you get lucky enough to randomly get a club to drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
+* If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
+* If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
+* If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
 
 ### Weather Modifications
 
@@ -295,3 +294,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * specify floors where white rocks stop, search for ?
 * copper trick for early furn
 * watch dont skip community center cutsceen, edit route to read Golden Scroll.
+* see if he gets mining lv 2 in vid

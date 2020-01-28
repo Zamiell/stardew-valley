@@ -219,7 +219,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * At some point in the day, go into town and upgrade the Pickaxe.
   * Save all remaining copper on more Furnaces.
 * Water.
-* Upgrade pickaxe
+* Retrieve the upgrade pickaxe at some point.
 * Mine/fish until 2 AM, then pass out.
 
 ### Spring 12

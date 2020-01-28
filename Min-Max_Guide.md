@@ -179,6 +179,10 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Get as low as possible.
   * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
   * (Even though we need as much money as possible on Spring 6, we do not have to leave the mines to because we can sell the gems to Clint tomorrow.)
+* At the end of the day, you should get (assuming a mining day):
+  * Farming 0 --> 2
+  * Mining 0 --> 1
+  * Combat 0 --> 1
 
 ### Spring 6
 

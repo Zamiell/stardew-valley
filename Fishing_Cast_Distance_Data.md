@@ -6,7 +6,6 @@
 
 | Fishing Level | Area          | Tiles Away | Specific Casting Location
 | ------------- | ------------- | ---------- | -------------------------
-
 | Level 0       | Mountain Lake | 2          | Downward from the bottom of the center island
 | Level 0       | Mountain Lake | 3          | Rightward from the bottom of the center island
 | Level 0       | Mountain Lake | 3          | Rightward from the bottom of the center island angled downward

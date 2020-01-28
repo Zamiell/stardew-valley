@@ -54,6 +54,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor.
+* Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 Combat or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
 * Mine all gems and ores on the way + pick up forageables.
 * In floors 1-30(?), skip over mining the white rocks in favor of the other color rocks. (This is because it takes two hits to destroy a white rock and one hit to destroy the other ones.)
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)

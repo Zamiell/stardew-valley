@@ -57,6 +57,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
 * Mine all gems and ores on the way + pick up forageables.
 * In floors 1-30(?), skip over mining the white rocks in favor of the other color rocks. (This is because it takes two hits to destroy a white rock and one hit to destroy the other ones.)
+  * When you get the copper pickaxe, this strategy no longer applies, as white rocks will be destroyed in 1 hit.
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * If the level is small, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * In medium/large floors, it is usually better to avoid all the enemies (if possible) and only mine rocks.

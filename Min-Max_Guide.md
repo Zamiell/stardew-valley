@@ -230,6 +230,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Combat 1 --> 2
 * At the end of Spring 9, you should get:
   * Mining 1 --> 2
+* At the end of Spring 10, you should get:
+  * Mining 2 --> 3
 
 ### Spring 12
 

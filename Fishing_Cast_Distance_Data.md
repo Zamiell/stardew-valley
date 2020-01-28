@@ -17,7 +17,7 @@
 | Level 1-3     | Mountain Lake | 5          | Rightward while touching the fence on the bottom of the map
 | Level 1-3     | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
 | Level 4-10    | Mountain Lake | 5          | All spots
-| Level 0       | Forest River  | ?          | ?
+| Level 0       | Forest River  | ?          | [untested]
 | Level 1-3     | Forest River  | 3          | Downward from below Leah's Cottage
 | Level 1-3     | Forest River  | 3          | Upward from most places south of the river
 | Level 1-3     | Forest River  | 2          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it

@@ -55,6 +55,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Create and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor.
 * Mine all gems and ores on the way + pick up forageables.
+* In floors 1-30(?), skip over mining the white rocks in favor of the other color rocks. (This is because it takes two hits to destroy a white rock and one hit to destroy the other ones.)
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * If the level is small, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * In medium/large floors, it is usually better to avoid all the enemies (if possible) and only mine rocks.
@@ -270,3 +271,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * on day 4, you can fish straight downward at mountain lake, because you are level 5 fishing and you get the range increase at level 4 - At level 4 fishing and above, every downward cast should yield a gold fish (or irridium quality fish with a perfect catch).
 * specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking
+* specify floors where white rocks stop, search for ?

@@ -169,7 +169,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.
 * (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)
-* Water.
+* Water any remaining Mixed Seeds.
+* Clear the farm, make max Basic Fertilizer, hoe + fertilizer around 150-200 squares in preparation for tomorrow.
 * Put all clay + Geodes + fish in the shipping bin.
 * If a very unlucky day:
   * Fish at the mountain lake until 12:30 AM and then go home.
@@ -208,7 +209,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Go to Pierre's:
   * Sell low-quality Parsnips until you have enough money for the Kale Seeds.
   * Buy the Kale Seeds.
-* Go home, make max Basic Fertilizer, fertilize + plant + water.
+* Go home, fertilize + plant + water.
 * Craft + place 3 Scarecrows.
 * (Don't sell anything to stay at 0 gold.)
 * Mine/fish until 2 AM, then pass out. (Depending on the day's luck.)

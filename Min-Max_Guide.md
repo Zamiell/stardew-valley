@@ -294,3 +294,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking
 * specify floors where white rocks stop, search for ?
+* copper trick for early furn

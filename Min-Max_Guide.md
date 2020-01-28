@@ -294,3 +294,23 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking
 * specify floors where white rocks stop, search for ?
+
+## Fishing Mechanic Notes
+
+* This data was gathered with [a mod that shows the tiles away that a cast is]().
+* All data below assumes a perfect cast. However, in every circumstance that I have tested, getting a near-perfect cast is identical.
+* The farthest you can get is 5 tiles away from land.
+
+| Fishing Level | Area          | Tiles Away | Specific Casting Location
+| ------------- | ------------- | ---------- | -------------------------
+| Level 0       | Mountain Lake | 3          | Rightward from the center island
+| Level 0       | Mountain Lake | 3          | Rightward from the center island angled downward
+| Level 0       | Mountain Lake | 2          | Downward from the center island
+| Level 0       | Mountain Lake | 3          | Rightward while touching the fence on the bottom of the map
+| Level 0       | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
+| Level 1-3     | Forest River  | 3          | Downward from below Leah's Cottage
+| Level 1-3     | Forest River  | 3          | Upward from below Leah's Cottage
+| Level 1-3     | Forest River  | 2          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it
+| Level 1-3     | Forest River  | 5          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it angled upward
+| Level 1-3     | Forest River  | 5          | Leftward above the Abandoned House. (This is much further away.)
+* Level 4 - Forest River - All spots are 5 tiles away.

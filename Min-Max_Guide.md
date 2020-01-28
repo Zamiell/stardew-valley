@@ -201,6 +201,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
     * We need level 6 farming in order to get the Quality Sprinkler recipe. (The route will not work otherwise.)
   * Calculate how much gold you would need to buy that many Kale at 70g a seed.
 * Start clearing + hoeing + watering enough squares for all your Kale.
+  * It is helpful to use the crop pattern for Quality Sprinklers, even though you have no Quality Sprinklers. That way you can transition easier later on.
 * At 8 PM, go into town from the Bus Stop. (You will trigger the Community Center cutscene.)
 * Go to the Community Center and touch the square (to start the quest).
 * If you mined on Spring 5, go to Clint's, upgrade the Pickaxe and sell all gems.
@@ -208,6 +209,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Sell low-quality Parsnips until you have enough money for the Kale Seeds.
   * Buy the Kale Seeds.
 * Go home, make max Basic Fertilizer, fertilize + plant + water.
+* Craft + place 3 Scarecrows.
 * (Don't sell anything to stay at 0 gold.)
 * Mine/fish until 2 AM, then pass out. (Depending on the day's luck.)
 * At the end of the day, you should get:

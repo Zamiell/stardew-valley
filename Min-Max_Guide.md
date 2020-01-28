@@ -308,9 +308,15 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 | Level 0       | Mountain Lake | 2          | Downward from the center island
 | Level 0       | Mountain Lake | 3          | Rightward while touching the fence on the bottom of the map
 | Level 0       | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
+| Level 1-3     | Mountain Lake | 3          | Downward from the center island
+| Level 1-3     | Mountain Lake | 3          | Rightward from the center island
+| Level 1-3     | Mountain Lake | 5          | Rightward from the center island angled downward
+| Level 1-3     | Mountain Lake | 5          | Rightward while touching the fence on the bottom of the map
+| Level 1-3     | Mountain Lake | 3          | Rightward while touching the beginning of the first bridge that leads to the center island
+| Level 4-10    | Mountain Lake | 5          | All spots
 | Level 1-3     | Forest River  | 3          | Downward from below Leah's Cottage
 | Level 1-3     | Forest River  | 3          | Upward from below Leah's Cottage
 | Level 1-3     | Forest River  | 2          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it
 | Level 1-3     | Forest River  | 5          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it angled upward
-| Level 1-3     | Forest River  | 5          | Leftward above the Abandoned House. (This is much further away.)
-* Level 4 - Forest River - All spots are 5 tiles away.
+| Level 1-3     | Forest River  | 5          | Leftward above the Abandoned House
+| Level 4-10    | Forest River  | 5          | All spots

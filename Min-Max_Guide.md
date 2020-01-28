@@ -51,7 +51,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### General Mines Strategy
 
 * Create and place a Chest to the right of the elevator on the 0th floor.
-* Create and place 5 Furnaces to the left of the elevator on the 0th floor.
+* Create and place 5 Furnaces to the left of the elevator on the 0th floor. (At first, we will only have 1, but we will gradually build up copper to make more.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
 * Mine all gems and ores on the way + pick up forageables.
 * In floors 1-30(?), skip over mining the white rocks in favor of the other color rocks. (This is because it takes two hits to destroy a white rock and one hit to destroy the other ones.)
@@ -175,7 +175,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this in order to have the necessary money for Kale. Otherwise, we would be able to fish until 2 AM.)
 * Otherwise:
   * Retrieve the Pickaxe + Chest + all Parsnips from the chest.
-  * Go to the mines, place the chest to the right of the elevator.
+  * Pickaxe the Furnace.
+  * Go to the mines, place the Chest to the right of the elevator and the Furnace to the left.
   * Get as low as possible.
   * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
   * (Even though we need as much money as possible on Spring 6, we do not have to leave the mines to because we can sell the gems to Clint tomorrow.)

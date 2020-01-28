@@ -297,7 +297,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ## Fishing Mechanic Notes
 
-* This data was gathered with [a mod that shows the tiles away that a cast is]().
+* This data was gathered with [a mod that shows the tiles away that a cast is](https://github.com/Zamiell/stardew-valley/blob/master/BobblerDistance.cs).
 * All data below assumes a perfect cast. However, in every circumstance that I have tested, getting a near-perfect cast is identical.
 * The farthest you can get is 5 tiles away from land.
 

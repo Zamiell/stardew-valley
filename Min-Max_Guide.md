@@ -172,7 +172,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Fish at the mountain lake until 12:30 AM and then go home.
   * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this in order to have the necessary money for Kale. Otherwise, we would be able to fish until 2 AM.)
 * Otherwise:
-  * Retrieve the chest from the chest.
+  * Retrieve the Pickaxe + Chest from the chest.
   * Go to the mines, place the chest to the right of the elevator.
   * Get as low as possible.
   * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.

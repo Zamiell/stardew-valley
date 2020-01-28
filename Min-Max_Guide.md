@@ -187,7 +187,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 6
 
 * Claim the reward for any outstanding quests from the journal.
-* Check the mail.
+* Read all of the mail.
 * If you mined on Spring 5, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.
   * Save all remaining copper for more Furnaces.
 * If you missed a day of watering your Parsnips for whatever reason, harvest the rest of them now and make a note of how many you harvested.

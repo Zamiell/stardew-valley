@@ -295,3 +295,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * copper trick for early furn
 * watch dont skip community center cutsceen, edit route to read Golden Scroll.
 * see if he gets mining lv 2 in vid
+* see if he smelts 5 copper bars in vid

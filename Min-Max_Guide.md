@@ -209,6 +209,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Go home, make max Basic Fertilizer, fertilize + plant + water.
 * (Don't sell anything to stay at 0 gold.)
 * Mine/fish until 2 AM, then pass out. (Depending on the day's luck.)
+* At the end of the day, you should get:
+  * Foraging 1 --> 2
 
 ### Spring 7-11
 

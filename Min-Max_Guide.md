@@ -224,10 +224,12 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Water.
 * Retrieve the upgrade pickaxe at some point.
 * Mine/fish until 2 AM, then pass out.
-* At the end of day 7, you should get:
+* At the end of Spring 7, you should get:
   * Fishing 6 --> 7
-* At the end of day 8, you should get:
+* At the end of Spring 8, you should get:
   * Combat 1 --> 2
+* At the end of Spring 9, you should get:
+  * Mining 1 --> 2
 
 ### Spring 12
 

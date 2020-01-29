@@ -10,6 +10,13 @@
 
 <br />
 
+## Table of Contents
+
+* [Preface](#preface)
+  * [Rules](#rules)
+  * [Gold per Energy List (GPE)](#a)
+  * [Energy Recovery Mechanics](#a)
+
 ## Preface
 
 Before we start with the route, let's first go over some high-level things that you need to know over the course of the run.

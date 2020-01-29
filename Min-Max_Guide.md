@@ -162,7 +162,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 4
 
 * Water.
-* Chop 50 wood, make a Chest, and put it in storage. (Remember to take your Scythe.)
+* Chop 150 wood, make a Chest, and put it in storage. (We will need 100 wood for Scarecrows later. Remember to take your Scythe before going to chop wood.)
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 5 --> 6

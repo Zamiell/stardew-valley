@@ -154,8 +154,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 2
 
-* Move the TV next to the bed (so that later on you can immediately check it upon waking up).
-  * (We do this now instead of later because we will have a full inventory on subsequent days.)
+* Move the TV next to the bed (so that later on you can immediately check it upon waking up). I also like to delete the carpet so that it does not get in the way, but that is optional.
+  * You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
 * Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
 * Chop 50 wood, craft a Chest, and take it with you.

@@ -253,6 +253,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 7-11
 
+* On Spring 7, check the Queen of Sauce for a recipie.
 * (Don't sell anything to stay at 0 gold.)
 * If you mined for the first time yesterday, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.
   * At some point in the day, go into town and upgrade the Pickaxe.

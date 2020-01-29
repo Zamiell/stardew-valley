@@ -110,7 +110,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   4) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
 * After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
 * At Pierre's:
-  * Sell any Wild Horseradish + Daffodil (but save 1 of each for the Community Center)
+  * Sell any Wild Horseradish + Daffodil (but save 1 of each for the community center)
   * Buy 1 Bean Starter (60g)
   * Buy 1 Cauliflower Seeds (80g)
   * Buy 1 Potato Seeds (50g)
@@ -206,8 +206,9 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Calculate how much gold you would need to buy that many Kale at 70g a seed.
 * Start clearing + hoeing + watering enough squares for all your Kale.
   * It is helpful to use the crop pattern for Quality Sprinklers, even though you have no Quality Sprinklers. That way you can transition easier later on.
-* At 8 PM, go into town from the Bus Stop. (You will trigger the Community Center cutscene.)
-* Go to the Community Center and touch the square (to start the quest).
+* At 8 AM, go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
+  * This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
+* Go to the community center and touch the square (to start the quest).
 * If you mined on Spring 5, go to Clint's, upgrade the Pickaxe and sell all gems.
 * Go to Pierre's:
   * Sell low-quality Parsnips until you have enough money for the Kale Seeds.

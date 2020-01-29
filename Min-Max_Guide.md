@@ -114,7 +114,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Buy 1 Bean Starter (60g)
   * Buy 1 Cauliflower Seeds (80g)
   * Buy 1 Potato Seeds (50g)
-  * Buy the maximum number of Parsnip seeds
+  * Buy the maximum number of Parsnip seeds (20g each; should be able to buy around 30)
 * Go home, hoe + plant + water all Parsnips + mixed seeds.
 * Kill all weeds on the farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
   * Time it such that you return to the crops and plant + water all of your renaming mixed seeds before 2 AM.

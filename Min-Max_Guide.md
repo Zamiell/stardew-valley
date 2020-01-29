@@ -162,7 +162,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 4
 
 * Water.
-* Chop 150 wood, make a Chest, and put it in storage. (We will need 100 wood for Scarecrows later. Remember to take your Scythe before going to chop wood.)
+* Chop 50 wood, craft a Chest, and put it in storage. (Remember to take your Scythe before going to chop wood.)
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 5 --> 6
@@ -173,6 +173,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Harvest the Parsnips and make a note of how many you harvested.
 * (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)
 * Water any remaining Mixed Seeds.
+* Chop 100 wood (for 2 crafting Scarecrows later on).
 * Clear the farm, make max Basic Fertilizer, hoe + fertilizer around 150-200 squares in preparation for tomorrow.
 * Put all clay + Geodes + fish in the shipping bin.
 * If a very unlucky day:
@@ -195,7 +196,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Read all of the mail.
 * If you mined on Spring 5, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.
   * Save all remaining copper for more Furnaces.
-* If you missed a day of watering your Parsnips for whatever reason, harvest the rest of them now and make a note of how many you harvested.
+* Harvest any mixed seeds and make a note of how many you harvested.
 * Pause the game and:
   * Calculate how much farming experience you currently have.
     * Parnips give 8 XP each.
@@ -203,7 +204,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
     * Kale gives 17 XP each.
     * e.g. ((3300 - current XP) / 17)
     * We need level 6 farming in order to get the Quality Sprinkler recipe. (The route will not work otherwise.)
-  * Calculate how much gold you would need to buy that many Kale at 70g a seed.
+  * Calculate how much gold you would need to buy that many Kale Seeds at 70g a seed. (It will be around 173 Kale Seeds for 12,110g.)
 * Start clearing + hoeing + watering enough squares for all your Kale.
   * It is helpful to use the crop pattern for Quality Sprinklers, even though you have no Quality Sprinklers. That way you can transition easier later on.
 * At 8 AM, go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.

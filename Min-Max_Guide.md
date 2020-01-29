@@ -68,7 +68,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * The best fishing spot for non-rainy days is the mountain lake.
   * This is because the easiest fish are here and perfect catches are the best way to level up the fishing skill.
 * The best fishing spot for rainy days is the forest river.
-  * This is because Catfish sell for 200g. They are difficult to catch with low fishing skill, but still possible with some luck.
+  * This is because Catfish sell for 200g. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
 * Thus, if the guide says to fish at the mountain lake, and it happens to be raining for you, then go to the forest river instead.
 * Furthermore, if the guide says to mine, and it happens to be raining for you, then you should disregard mining and go to fish at the forest river. (Because the money from Catfish is really good.)

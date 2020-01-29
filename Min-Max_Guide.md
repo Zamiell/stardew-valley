@@ -109,11 +109,16 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   3) Shaking all Oak trees (for extra acorn drops, which should be saved until summer).
   4) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
 * After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
-* At Pierre's, sell all of the foragables, buy the maximum number of Parsnip seeds.
+* At Pierre's:
+  * Sell any Wild Horseradish + Daffodil (but save 1 of each for the Community Center)
+  * Buy 1 Bean Starter (60g)
+  * Buy 1 Cauliflower Seeds (80g)
+  * Buy 1 Potato Seeds (50g)
+  * Buy the maximum number of Parsnip seeds
   * Do not bother saving any foragable for the community center; that can be done later on in the season.
 * Go home, hoe + plant + water all Parsnips + mixed seeds.
 * Chop 50 wood, make a Chest, and put it in storage.
-* Kill all weeds on farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
+* Kill all weeds on the farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
   * Time it such that you return to the crops and plant + water all of your renaming mixed seeds before 2 AM.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging). However, only do this at the end of the night, as the debuffed movement speed will make you kill less overall weeds.
 * Do not ship any items today (since we want to stay at 0 gold).

@@ -137,7 +137,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Empty all inventory in the chest (except for the Chest).
 * Go to Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
 * Go to the beach and get the Bamboo Pole, grab foraging items if present.
-* Go to the mountain lake. The optimal fishing spot is casting rightward while touching the fence on the bottom of the map. Place the chest behind you next to the fence.
+* Go to the mountain lake. The optimal fishing spot is casting rightward while touching the fence on the bottom of the map. Place the chest behind you.
 * Fish until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 0 --> 3

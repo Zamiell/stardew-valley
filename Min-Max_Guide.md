@@ -55,7 +55,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor. (At first, you will only have 1, but you will gradually build up copper to make more.)
 * Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
-* In floors 1-30(?), skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
+* On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you get the copper pickaxe, this strategy no longer applies, as white rocks will be destroyed in 1 hit.
   * One alternate strategy would be to intentionally kill all the gray rocks first, because they grant 3 Mining XP (as opposed to the 0 XP from normal rocks). This allows the ability to craft Staircases on the second day of mining (as opposed to only getting the ability on the 3rd day of mining). While this is useful for bypassing infested floors, the strategy will only pay off if you happen to get an infested floor on the 2nd day of mining. Furthermore, since you will be stockpiling the stone, you will get the same total amount of staircase crafts in the long run either way. Thus, I do not believe that this strategy is worth it.
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
@@ -293,7 +293,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * on day 4, you can fish straight downward at mountain lake, because you are level 5 fishing and you get the range increase at level 4 - At level 4 fishing and above, every downward cast should yield a gold fish (or irridium quality fish with a perfect catch).
 * specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking
-* specify floors where white rocks stop, search for ?
 * copper trick for early furn
 * watch dont skip community center cutsceen, edit route to read Golden Scroll.
 * see if he gets mining lv 2 in vid

@@ -326,3 +326,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * track all day skillups for Spring 13 --> 28
 * test to see if it is possible to get an acorn on day 1 from shaking
 * copper trick for early furn
+* from beach foraging, he gets 1290g in total

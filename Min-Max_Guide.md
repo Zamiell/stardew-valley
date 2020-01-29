@@ -202,7 +202,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
     * Parnips give 8 XP each.
   * Calculate how many Kale you would need to get farming level 6, which is 3300 total XP.
     * Kale gives 17 XP each.
-    * e.g. ((3300 - current XP) / 17)
+    * e.g. (3300 - current XP) / 17
     * We need level 6 farming in order to get the Quality Sprinkler recipe. (The route will not work otherwise.)
   * Calculate how much gold you would need to buy that many Kale Seeds at 70g a seed. (It will be around 173 Kale Seeds for 12,110g.)
 * Start clearing + hoeing + watering enough squares for all your Kale.

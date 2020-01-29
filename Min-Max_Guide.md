@@ -145,16 +145,16 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 3
 
 * (It always rains on this day.)
-* Chop 50 wood, craft a Chest, and put it in storage. (Remember to take your Scythe.)
-* Empty all inventory in the first chest except for Bamboo Pole + all fish.
-* Retrieve the chest from the chest.
+* Chop wood until 8 AM. (Remember to take your Scythe to clear any grass that gets in the way.)
+* Craft a chest. (Don't place it, keep it in your inventory.)
+* Empty all inventory in the chest except for Bamboo Pole + all fish + the chest.
 * Go to the beach. (Don't collect any beach foraging items until after you sell the fish.)
-* Fish outside Willy's until 9 AM.
-* Sell fish + buy Fiberglass Rod (1,800g) + 120 bait (5 x 120 = 600g).
+* At Willy's shop, sell fish + buy Fiberglass Rod (1,800g) + 120 bait (5 x 120 = 600g).
   * If you do not have enough gold, then continue to fish outside of the Fish Shop until you have enough.
   * You only need about 80 bait if you go mining on day 5, but you will need more if you fish on day 5, which is why we get 120 to be safe.
-* Go to the forest river fishing spot, place the chest next to you.
-  * To make sure that you place the chest in a safe spot, you can reference the following pathing guide: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
+* Go to the forest river. Place the chest below Leah's house. To make sure that it is in a safe spot, you can reference the following pathing guide: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
+* If you cast downward from Leah's house, you will only get a 3 tile cast, so you must temporarily cast elsewhere. Go to the top-right-hand-corner of the tiny island with a single tree on it. If you angle every cast upward, you will get a 5 tile cast (otherwise you will get a 2 tile cast).
+* Once you get fishing level 4, you can walk back to the chest and cast downwards next to Leah's house. (All casts at this point will be 5 tiles. It is better to have the chest at Leah's because it is a little bit closer to the farm.)
 * Fish until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 3 --> 5 (choose Fisher profession)
@@ -295,6 +295,5 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ## TTD
 
 * track all day skillups for Spring 13 --> 28
-* edit with new fishing spots
 * test to see if it is possible to get an acorn on day 1 from shaking
 * copper trick for early furn

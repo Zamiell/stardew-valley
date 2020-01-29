@@ -42,7 +42,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
-* Create and place a Chest next to where you will be fishing. (You will need two Chests; one for the mountain lake and one for forest river.)
+* Craft and place a Chest next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
 * Prioritize eating Green Algae (1.15 ratio), then Joja Cola (1.92 ratio), then Chub (2.00 ratio).
 * Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)
@@ -51,7 +51,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Mines Strategy
 
-* Create and place a Chest to the right of the elevator on the 0th floor.
+* Craft and place a Chest to the right of the elevator on the 0th floor.
 * Create and place 5 Furnaces to the left of the elevator on the 0th floor. (At first, you will only have 1, but you will gradually build up copper to make more.)
 * Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
@@ -98,7 +98,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 1
 
-* Chop 50 wood, make a Chest, place it next to the house. (Don't hoe anything yet.)
+* Chop 50 wood, craft a Chest, place it next to the house. (Don't hoe anything yet.)
   * Only chop down Maple and Pine trees, not Oak trees. The only reason you should be chopping down an Oak tree is if it is directly blocking where your crops will go. (We will use them to farm as many Acorns as possible for later on in the run.)
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
@@ -116,7 +116,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Buy 1 Potato Seeds (50g)
   * Buy the maximum number of Parsnip seeds
 * Go home, hoe + plant + water all Parsnips + mixed seeds.
-* Chop 50 wood, make a Chest, and put it in storage.
 * Kill all weeds on the farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
   * Time it such that you return to the crops and plant + water all of your renaming mixed seeds before 2 AM.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging). However, only do this at the end of the night, as the debuffed movement speed will make you kill less overall weeds.
@@ -130,11 +129,12 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * (We do this now instead of later because we will have a full inventory on subsequent days.)
 * Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
 * Water.
+* Chop 50 wood, craft a Chest, and take it with you.
 * Ship:
   * all but 60 Fiber (for Scarecrows later on)
   * Clay
   * Geodes
-* Empty all inventory in the first chest, take out the chest.
+* Empty all inventory in the chest (except for the Chest).
 * Go to Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
 * Go to the beach and get the Bamboo Pole, grab foraging items if present.
 * Go to the mountain lake fishing spot, place the chest one square to the left of the first wooden bridge.
@@ -145,7 +145,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Spring 3
 
 * (It always rains on this day.)
-* Chop 50 wood, make a Chest, and put it in storage. (Remember to take your Scythe.)
+* Chop 50 wood, craft a Chest, and put it in storage. (Remember to take your Scythe.)
 * Empty all inventory in the first chest except for Bamboo Pole + all fish.
 * Retrieve the chest from the chest.
 * Go to the beach. (Don't collect any beach foraging items until after you sell the fish.)

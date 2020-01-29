@@ -14,8 +14,29 @@
 
 * [Preface](#preface)
   * [Rules](#rules)
-  * [Gold per Energy List (GPE)](#a)
-  * [Energy Recovery Mechanics](#a)
+  * [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)
+  * [Energy Recovery Mechanics](#energy-recovery-mechanics)
+  * [General Fishing Strategy](#general-fishing-strategy)
+  * [General Mines Strategy](#general-mines-strategy)
+  * [Weather Modifications](#weather-modifications)
+  * [Luck Modifications](#luck-modifications)
+  * [Other Notes](#other-notes)
+* [The Route](#the-route)
+  * [Spring 1](#spring-1)
+  * [Spring 2](#spring-2)
+  * [Spring 3](#spring-3)
+  * [Spring 4](#spring-4)
+  * [Spring 5](#spring-5)
+  * [Spring 6](#spring-6)
+  * [Spring 7-11](#spring-7-11)
+  * [Spring 12](#spring-12)
+  * [Spring 13](#spring-13)
+  * [Spring 14](#spring-14)
+  * [Spring 15](#spring-15)
+  * [Spring 16](#spring-16)
+  * [Spring 17](#spring-17)
+
+<br />
 
 ## Preface
 

@@ -115,7 +115,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * Buy 1 Cauliflower Seeds (80g)
   * Buy 1 Potato Seeds (50g)
   * Buy the maximum number of Parsnip seeds
-  * Do not bother saving any foragable for the community center; that can be done later on in the season.
 * Go home, hoe + plant + water all Parsnips + mixed seeds.
 * Chop 50 wood, make a Chest, and put it in storage.
 * Kill all weeds on the farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)

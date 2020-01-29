@@ -208,7 +208,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * It is helpful to use the crop pattern for Quality Sprinklers, even though you have no Quality Sprinklers. That way you can transition easier later on.
 * At 8 AM, go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
   * This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
-* Go to the community center and touch the square (to start the quest).
+* Go to the community center and touch the Golden Scroll square (to start the quest).
 * If you mined on Spring 5, go to Clint's, upgrade the Pickaxe and sell all gems.
 * Go to Pierre's:
   * Sell low-quality Parsnips until you have enough money for the Kale Seeds.
@@ -295,10 +295,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * track all day skillups for Spring 13 --> 28
 * edit with new fishing spots
-* on day 4, you can fish straight downward at mountain lake, because you are level 5 fishing and you get the range increase at level 4 - At level 4 fishing and above, every downward cast should yield a gold fish (or irridium quality fish with a perfect catch).
-* specify when level 8 fishing change to downward angle
 * test to see if it is possible to get an acorn on day 1 from shaking
 * copper trick for early furn
-* watch dont skip community center cutsceen, edit route to read Golden Scroll.
 * see if he gets mining lv 2 in vid
 * see if he smelts 5 copper bars in vid

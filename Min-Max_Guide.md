@@ -297,5 +297,3 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * edit with new fishing spots
 * test to see if it is possible to get an acorn on day 1 from shaking
 * copper trick for early furn
-* see if he gets mining lv 2 in vid
-* see if he smelts 5 copper bars in vid

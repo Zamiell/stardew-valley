@@ -76,10 +76,10 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Luck Modifications
 
 * Between Spring 5 and Spring 15, the main activity of the day will depend on the luck.
-  * If an very unlucky day (e.g. "very displeased"), you should fish.
+  * If it is a very unlucky day (e.g. "very displeased"), you should fish.
   * Otherwise, you should mine.
 * However, you can only afford to dedicate two full days to fishing. This means that you might be forced to go to the mines on an very unlucky day.
-* For example, say you got a very unlucky day on both Spring 7 and Spring 9 (and spent all of those days fishing). Next, you got a third very unlucky day on Spring 11. In this scenario, since you already took two days off from the mines, you have to go to the mines on Spring 11 or else you will be too far behind on metal collection.
+* For example, say that you got a very unlucky day on both Spring 7 and Spring 9 (and spent all of those days fishing). Next, say that you got a third very unlucky day on Spring 11. In this scenario, since you already took two days off from the mines, you have to go to the mines on Spring 11 or else you will be too far behind on metal collection.
 
 ### Other Notes
 

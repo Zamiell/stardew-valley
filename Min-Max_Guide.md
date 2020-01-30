@@ -331,5 +331,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ## Notes for Fishing Route
 
-* Save 20 Fiber
+* Save 20 Fiber at initial
 * update ratio on wiki with fishing perks angeler
+* is it worth it to plant the rice shoots?

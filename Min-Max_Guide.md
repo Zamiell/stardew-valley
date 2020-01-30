@@ -328,3 +328,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * test to see if it is possible to get an acorn on day 1 from shaking
 * copper trick for early furn
 * from beach foraging, he gets 1290g in total
+
+## Notes for Fishing Route
+
+* Save 20 Fiber

@@ -332,3 +332,4 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ## Notes for Fishing Route
 
 * Save 20 Fiber
+* update ratio on wiki with fishing perks angeler

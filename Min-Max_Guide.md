@@ -78,9 +78,9 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
-* Craft and place a chest next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
-* Prioritize eating Green Algae (1.15 ratio), then Joja Cola (1.92 ratio), then Chub (2.00 ratio).
-* Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
+* Craft and place a [Chest](https://stardewvalleywiki.com/Chest) next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
+* Prioritize eating [Green Algae](https://stardewvalleywiki.com/Green_Algae) (1.15 ratio), then [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (1.92 ratio), then the highest-quality [Chub](https://stardewvalleywiki.com/Chub).
+* Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
 * At the end of the fishing session (e.g. usually at 1:50 AM), fill up your inventory with all of the most expensive fish/items from the chest. (You can also leave the fishing pole in the chest to make even more room if you are on Spring 4 or later.)
@@ -88,7 +88,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### General Mines Strategy
 
 * Craft and place a chest to the right of the elevator on the 0th floor.
-* Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
+* Starting on Spring XEach day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase]() on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you get the copper pickaxe, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.
@@ -331,13 +331,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ## TTD
 
-* track all day skillups for Spring 13 --> 28
-* test to see if it is possible to get an acorn on day 1 from shaking
-* copper trick for early furn
-* from beach foraging, he gets 1290g in total
-
-## Notes for Fishing Route
-
+* track all day skillups
+* fill in Spring X
 * Save 20 Fiber at initial
 * update ratio on wiki with fishing perks angeler
-* is it worth it to plant the rice shoots?

@@ -78,10 +78,10 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
-* Craft and place a Chest next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
+* Craft and place a chest next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
 * Prioritize eating Green Algae (1.15 ratio), then Joja Cola (1.92 ratio), then Chub (2.00 ratio).
 * Prioritize capturing treasure chests over perfect fish. (The rewards can be extremely good.)
-* Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a Treasure Chest.)
+* Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
 * At the end of the fishing session (e.g. usually at 1:50 AM), fill up your inventory with all of the most expensive fish/items from the chest. (You can also leave the fishing pole in the chest to make even more room if you are on Spring 4 or later.)
 

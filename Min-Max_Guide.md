@@ -3,7 +3,7 @@
 * This is a "min-max" guide for a Stardew Valley run created by [Zamiel](https://www.twitch.tv/Zamiell).
 * This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 * We assume some restrictions/rules, which makes this different from other min-max guides out there.
-* Many guides out there are designed for older versions of the game. This guide is designed for 1.4.3. (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
+* Many guides out there are designed for older versions of the game. This guide is designed for version 1.4.4. (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
 * This guide is written by:
   * [BlackSight6](https://old.reddit.com/user/BlackSight6)
   * [Zamiell](https://www.twitch.tv/Zamiell)
@@ -88,9 +88,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### General Mines Strategy
 
 * Craft and place a chest to the right of the elevator on the 0th floor.
-* Create and place a furnace to the left of the elevator on the 0th floor. (At first, you will only have 1, but later on in the run you will have the spare copper to make more.)
 * Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
-* Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
+* Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase]() on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you get the copper pickaxe, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.
   * One alternate strategy would be to intentionally kill all the gray rocks first, because they grant 3 Mining XP (as opposed to the 0 XP from normal rocks). This allows the ability to craft Staircases on the second day of mining (as opposed to only getting the ability on the 3rd day of mining). While this is useful for bypassing infested floors, the strategy will only pay off if you happen to get an infested floor on the 2nd day of mining. Furthermore, since you will be stockpiling the stone, you will get the same total amount of staircase crafts in the long run either way. Thus, I do not believe that this strategy is worth it.

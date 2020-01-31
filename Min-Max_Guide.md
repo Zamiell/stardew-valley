@@ -87,8 +87,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Mines Strategy
 
-* Craft and place a Chest to the right of the elevator on the 0th floor.
-* Create and place 5 Furnaces to the left of the elevator on the 0th floor. (At first, you will only have 1, but you will gradually build up copper to make more.)
+* Craft and place a chest to the right of the elevator on the 0th floor.
+* Create and place 5 furnaces to the left of the elevator on the 0th floor. (At first, you will only have 1, but you will gradually build up copper to make more.)
 * Each day, the goal is to go as deep in the mines as possible (at least, until you get to floor 90). As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are level 2 mining or above, remember to keep the stone on you (so that you can craft a Staircase on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)

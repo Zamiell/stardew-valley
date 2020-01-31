@@ -4,9 +4,9 @@
 * This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 * We assume some restrictions/rules, which makes this different from other min-max guides out there.
 * Many guides out there are designed for older versions of the game. This guide is designed for 1.4.3. (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
-* This guide is based on other people's work:
-  * [BlackSight6's 1.4 Spring Min/Max guide](https://old.reddit.com/r/StardewValley/comments/edcm3m/stardew_14_spring_minmax_guide/)
-  * [Foxy Fern's 1.4 Spring Min/Max guide](https://old.reddit.com/r/StardewValley/comments/etjtdq/patch_14_minmax_detailed_comprehensive_guide/)
+* This guide is written by:
+  * [BlackSight6](https://old.reddit.com/user/BlackSight6)
+  * [Zamiell](https://www.twitch.tv/Zamiell)
 
 <br />
 
@@ -14,6 +14,7 @@
 
 * [Preface](#preface)
   * [Rules](#rules)
+  * [Route Overview / High-Level Goals]()
   * [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)
   * [Energy Recovery Mechanics](#energy-recovery-mechanics)
   * [General Fishing Strategy](#general-fishing-strategy)
@@ -46,6 +47,7 @@ Before we start with the route, let's first go over some high-level things that 
 
 The guide is designed for the kind of player who is using the following self-imposed restrictions:
 
+* Choosing the Community Center route instead of the Joja route.
 * No mods.
 * No using glitches / bugs.
 * No 3rd party cheats.
@@ -53,9 +55,15 @@ The guide is designed for the kind of player who is using the following self-imp
 * No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run or restart all the way back to a new save file.)
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
 
+### Route Overview / High-Level Goals
+
+* This route starts off by doing a ton of fishing, unlocking the Skull Caverns as soon as possible.
+* One the Skull Caverns are opened, you craft and sell Iridium Bars to make a lot of money.
+* With the money, you buy a lot of Starfruit + Deluxe Speed Grow, with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by Quality Sprinklers).
+
 ### Gold per Energy List (GPE)
 
-In general, you should always eat items with the [lowest gold to energy ratio](https://stardewvalleywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the follow simple rule:
+In general, you should always eat items with the [lowest gold to energy ratio](https://stardewvalleywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the following simple rule:
 
 * save everything with a ratio equal to or less than 2 for eating
 * sell everything with a ratio above 2

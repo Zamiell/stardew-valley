@@ -39,9 +39,15 @@
 
 Before we start with the route, let's first go over some high-level things that you need to know over the course of the run.
 
-### Goals
+### Goal
 
-The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to plant a huge Starfruit crop in summer (which is the highest-yielding crop). From there, you can accomplish whatever goals that you want, whether it be to continue to min-max money, or to 100% your save file (e.g. max friendship with every villager, etc.). 
+The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, or to 100% your save file (e.g. max friendship with every villager, etc.). 
+
+### Route Overview
+
+* This route starts off by doing a ton of fishing, unlocking the Skull Caverns as soon as possible.
+* One the Skull Caverns are opened, you craft and sell Iridium Bars to make a lot of money.
+* With the money, you buy a lot of Starfruit + Deluxe Speed Grow, with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by Quality Sprinklers).
 
 ### Rules
 
@@ -71,12 +77,6 @@ The reasons for not allowing the restarting of a day are twofold:
 * Second, it allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
   
 While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge, all of the challenges that I know about are completable by skilled players without resorting to this.
-
-### Route Overview / High-Level Goals
-
-* This route starts off by doing a ton of fishing, unlocking the Skull Caverns as soon as possible.
-* One the Skull Caverns are opened, you craft and sell Iridium Bars to make a lot of money.
-* With the money, you buy a lot of Starfruit + Deluxe Speed Grow, with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by Quality Sprinklers).
 
 ### Gold per Energy List (GPE)
 

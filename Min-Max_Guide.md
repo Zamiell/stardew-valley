@@ -51,15 +51,15 @@ The guide is designed for the kind of player who is using the following self-imp
 
 * Choosing the Community Center path instead of the Joja path.
   * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
+* No using glitches / bugs.
+* No 3rd-party cheats (e.g. Cheat Engine).
 * No mods.
   * Some quality-of-life mods are okay if they provide no actual gameplay advantage. More dicussion on that below.
-* No using glitches / bugs. (Most of these are patched out of the game anyway in the most recent version.)
-* No 3rd-party cheats (e.g. Cheat Engine).
-* No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
-* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
 * No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
+* No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
+* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
 * No editing the save file (or using a mod) to make the game zoom out past the normal "75%" value.
 * No using the screenshot feature in the menu to peek outside of the bounds of what you are normally supposed to see.
 * No animation canceling (e.g. to swing a pickaxe extra fast).

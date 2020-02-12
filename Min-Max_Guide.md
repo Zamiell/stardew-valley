@@ -374,7 +374,7 @@ This prevents the game from rounding the time to the nearest 10 minutes. It's ha
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
-Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
+In this case, the intro refers to the intro cutscene upon first booting the game. Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
 
 #### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
 

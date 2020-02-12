@@ -61,7 +61,7 @@ The guide is designed for the kind of player who is using the following self-imp
 * No using glitches / bugs.
 * No 3rd-party cheats (e.g. Cheat Engine).
 * No mods.
-  * Some quality-of-life mods are okay if they provide no actual gameplay advantage. More dicussion on that below.
+  * Some [quality-of-life mods](#appendix-a-mods) are okay if they provide no actual gameplay advantage.
 * No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)

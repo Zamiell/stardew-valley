@@ -32,7 +32,7 @@
   * [Spring 15](#spring-15)
   * [Spring 16](#spring-16)
   * [Spring 17](#spring-17)
-* [[Appendix A: Mods]](#appendix-a-mods)
+* [Appendix A: Mods](#appendix-a-mods)
 
 <br />
 

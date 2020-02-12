@@ -55,7 +55,7 @@ The guide is designed for the kind of player who is using the following self-imp
   * Some quality-of-life mods are okay if they provide no actual gameplay advantage. More dicussion on that below.
 * No using glitches / bugs. (Most of these are patched out of the game anyway in the most recent version.)
 * No 3rd-party cheats (e.g. Cheat Engine).
-* No using Stardew Predictor (https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
+* No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
 * No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
 * No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.

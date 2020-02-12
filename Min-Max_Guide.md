@@ -340,32 +340,50 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * Buy + plant Kale. (If you plant it today, it will be ready to harvest on the 28th.)
 
+<br />
+
 ## Appendix A: Mods
 
 Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We don't use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods that preserve the vanilla strategies.
 
-* [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150) - This is a compilation of several different features.
-  * *Display an icon that represents the current days luck* - This is not considered cheating since if you place the TV next to your bed, it wastes no in-game time to check the luck of the day.
-  * *Display experience point gains & Display a dynamic experience bar that changes based on your current tool or location* - This is not considered cheating because you can manually track your experience for each skill by keeping a running tally on a piece of paper as you forage things and so forth. You can also see your current level in the skills tab of the menu.
-  * *Display more accurate heart levels* - This is not considered cheating because you can manually track what each person's heart levels are on paper.
-  * *Display more information on item mouse overs, including items that are still needed for bundles* - This is not considered cheating because you can just pause the game and look up the item on the wiki.
-  * *View calendar and quest billboard anywhere* - Viewing the calendar is not considered cheating because you could just pause the game and look up the item on the wiki. However, viewing the billboard anywhere is considered cheating, because you save time from having to walk to Pierre's. Either don't ever click on the billboard in the pause menu or simply turn off the feature in the "UI Info Mod Options" tab of the menu.
-  * *Display icons over animals that need petting* - Probably only considered cheating if you have a ton of animals; most runs only buy one of each animal (which is subsequently trivial to keep track of).
-  * *Display crop type and days until harvest on mouseover* - Not cheating because you can write down what day you plant a crop. In the case of mixed seeds, it is still not cheating because you can go to the wiki and look up what crop it is based on the image tile of the seed.
-  * *Display icon when animal has item yield (milk, wool)* - Could be cheating in the case where you use the notifications to intentionally skip milking a cow, for example. Don't do that. Most runs use [Auto-Grabbers](https://stardewvalleywiki.com/Auto-Grabber), so this quickly becomes a non-issue.
-  * *Sprinkler, scarecrow, beehive and junimo hut ranges* - Not considered cheating because you can just pause the game and count the number of squares that it is supposed to cover.
-  * *Display npc locations on map* - Not considered cheating because you can just go to the villager's page on the wiki and look up their schedule for the day.
-  * *Skip the intro by pressing the Escape key* - A pointless feature since you can skip the intro with a checkbox on the character-selection screen.
-  * *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
-  * *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
-* [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733) - Allows the screen to be centered on the player. Default behavior is customizable and by default it can be toggled on and off by pressing ";". This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negliable.
-* [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518) - This prevents the game from rounding the time to the nearest 10 minutes. It's hard to believe that this simple feature is not in the vanilla game.
-* [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) - Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
-* [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089) - By default, it speeds up a lot of the animation, so it must be customized using the "config.json" file to prevent cheating. All values should be set to 1 with the exception of:
-  * TitleMenuTransitionSpeed - Set this to 20 to make the title screen more functional.
-  * LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
-  * EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
-  * BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
+#### [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150)
+
+This is a compilation of several different features:
+
+* *Display an icon that represents the current days luck* - This is not considered cheating since if you place the TV next to your bed, it wastes no in-game time to check the luck of the day.
+* *Display experience point gains & Display a dynamic experience bar that changes based on your current tool or location* - This is not considered cheating because you can manually track your experience for each skill by keeping a running tally on a piece of paper as you forage things and so forth. You can also see your current level in the skills tab of the menu.
+* *Display more accurate heart levels* - This is not considered cheating because you can manually track what each person's heart levels are on paper.
+* *Display more information on item mouse overs, including items that are still needed for bundles* - This is not considered cheating because you can just pause the game and look up the item on the wiki.
+* *View calendar and quest billboard anywhere* - Viewing the calendar is not considered cheating because you could just pause the game and look up the item on the wiki. However, viewing the billboard anywhere is considered cheating, because you save time from having to walk to Pierre's. Either don't ever click on the billboard in the pause menu or simply turn off the feature in the "UI Info Mod Options" tab of the menu.
+* *Display icons over animals that need petting* - Probably only considered cheating if you have a ton of animals; most runs only buy one of each animal (which is subsequently trivial to keep track of).
+* *Display crop type and days until harvest on mouseover* - Not cheating because you can write down what day you plant a crop. In the case of mixed seeds, it is still not cheating because you can go to the wiki and look up what crop it is based on the image tile of the seed.
+* *Display icon when animal has item yield (milk, wool)* - Could be cheating in the case where you use the notifications to intentionally skip milking a cow, for example. Don't do that. Most runs use [Auto-Grabbers](https://stardewvalleywiki.com/Auto-Grabber), so this quickly becomes a non-issue.
+* *Sprinkler, scarecrow, beehive and junimo hut ranges* - Not considered cheating because you can just pause the game and count the number of squares that it is supposed to cover.
+* *Display npc locations on map* - Not considered cheating because you can just go to the villager's page on the wiki and look up their schedule for the day.
+* *Skip the intro by pressing the Escape key* - A pointless feature since you can skip the intro with a checkbox on the character-selection screen.
+* *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
+* *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
+
+#### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
+
+Allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negliable.
+
+#### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
+
+This prevents the game from rounding the time to the nearest 10 minutes. It's hard to believe that this simple feature is not in the vanilla game.
+
+#### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+
+Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
+
+#### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
+
+By default, this mod speeds up a lot of different animations, so it must be customized using the "config.json" file to prevent cheating. All values should be set to 1 with the exception of:
+
+* TitleMenuTransitionSpeed - Set this to 20 to make the title screen more functional.
+* LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
+* EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
+* BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
 
 ## TTD
 

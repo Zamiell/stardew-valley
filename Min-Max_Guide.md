@@ -50,7 +50,7 @@ Some techniques and strategies are considered to be cheating by some players, an
 The guide is designed for the kind of player who is using the following self-imposed restrictions:
 
 * Choosing the Community Center path instead of the Joja path.
-  * Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective. Some adjustments to the given route will be needed.
+  * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
 * No mods.
   * Some quality-of-life mods are okay if they provide no actual gameplay advantage. More dicussion on that below.
 * No using glitches / bugs. (Most of these are patched out of the game anyway in the most recent version.)

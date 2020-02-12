@@ -152,6 +152,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.
   2) Getting all foragables.
   3) Shaking all Oak trees (for extra acorn drops, which should be saved until summer).
+    * Are we level 1 foraging yet?
   4) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
 * After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
 * At Pierre's:

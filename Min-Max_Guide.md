@@ -348,7 +348,7 @@ Some mods add additional content into the game, which changes the calculus of wh
 
 #### [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150)
 
-This is a compilation of several different features:
+This mod is a compilation of several different features:
 
 * *Display an icon that represents the current days luck* - This is not considered cheating since if you place the TV next to your bed, it wastes no in-game time to check the luck of the day.
 * *Display experience point gains & Display a dynamic experience bar that changes based on your current tool or location* - This is not considered cheating because you can manually track your experience for each skill by keeping a running tally on a piece of paper as you forage things and so forth. In vanilla, you can also see your current level in the skills tab of the menu.

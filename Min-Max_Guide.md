@@ -39,17 +39,37 @@
 
 Before we start with the route, let's first go over some high-level things that you need to know over the course of the run.
 
+### Goals
+
+The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to plant a huge Starfruit crop in summer (which is the highest-yielding crop). From there, you can accomplish whatever goals that you want, whether it be to continue to min-max money, or to 100% your save file (e.g. max friendship with every villager, etc.). 
+
 ### Rules
+
+Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of year 1) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
 
 The guide is designed for the kind of player who is using the following self-imposed restrictions:
 
-* Choosing the Community Center route instead of the Joja route.
+* Choosing the Community Center path instead of the Joja path.
+  * Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective. Some adjustments to the given route will be needed.
 * No mods.
-* No using glitches / bugs.
-* No 3rd party cheats.
-* No using Stardew Predictor (https://mouseypounds.github.io/stardew-predictor/).
-* No restarting a day in the middle of a run. (If a mistake is made, you must continue on with the run or restart all the way back to a new save file.)
+  * Some quality-of-life mods are okay if they provide no actual gameplay advantage. More dicussion on that below.
+* No using glitches / bugs. (Most of these are patched out of the game anyway in the most recent version.)
+* No 3rd-party cheats (e.g. Cheat Engine).
+* No using Stardew Predictor (https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
+* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
+* No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
+  * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
+* No editing the save file (or using a mod) to make the game zoom out past the normal "75%" value.
+* No using the screenshot feature in the menu to peek outside of the bounds of what you are normally supposed to see.
+* No animation canceling (e.g. to swing a pickaxe extra fast).
+
+The reasons for not allowing the restarting of a day are twofold:
+
+* First, if you allow restarting a day as many times as you want, it removes the execution aspect of the challenge. Mistakes are inconsequential: simply restart the day over and over until you execute perfectly.
+* Second, it allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
+  
+Again, while it is certainly possible that someone could be playing a specific challenge that was so difficult that knowing this kind of information before-hand is necessary, 
 
 ### Route Overview / High-Level Goals
 

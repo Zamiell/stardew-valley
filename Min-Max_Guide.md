@@ -229,6 +229,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod. (All you need is around 25 bait or so to last the rest of the day.)
 * Fish until 2 AM. With the Fiberglass Rod, use maximum casts. Pass out at the docks.
+  * Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 3/4
 

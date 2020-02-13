@@ -253,6 +253,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Ship gems + fish. (But save any Chubs for eating and one of each bundle fish.)
 * Water.
 * If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
+* Empty your inventory.
+* Craft a Chest, and take it with you. 
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 6 --> ?

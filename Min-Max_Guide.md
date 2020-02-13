@@ -218,6 +218,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Craft a Chest and take it with you.
 * Empty all inventory in the chest except for the Chest + 1 rock.
 * Go to the Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
+* Check the garbage can next to the Saloon.
+* Check the garbage can next to Lewis' house.
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "Introductions" quest and the "How To Win Friends" quest.
 * Place the chest on the bottom-right hand corner of the pier.

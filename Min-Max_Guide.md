@@ -221,7 +221,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the garbage can next to the Saloon.
 * Check the garbage can next to Lewis' house.
 * Go to the beach and get the Bamboo Pole.
-* Give the rock to Willy and claim the reward for the "Introductions" quest and the "How To Win Friends" quest.
+* Give the rock to Willy and claim the reward for the "How To Win Friends" quest.
 * Place the chest on the bottom-right hand corner of the pier.
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.

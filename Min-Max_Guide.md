@@ -190,6 +190,7 @@ The plan for the day is to meet everybody in the town and save money for tomorro
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
 * Sell all but 20 Fiber (for a Scarecrow later), all sap, all clay, all pinecones, all beach foraging, all extra spring foraging.
   * In other words, keep stone + wood + coal.
+* Go to bed at 2 AM. (We don't want to incur the gold penalty.)
 * At the end of the day, you should get:
   * Foraging 0 --> 1
 

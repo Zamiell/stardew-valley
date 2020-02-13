@@ -166,7 +166,6 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the two garbage cans next to Jodi's house + Haley's house.
 * Meet Leah walking to Pierre's General Store.
 * Meet Marnie outside of Pierre's General Store.
-* Meet Harvey as he exits the clinic at around 12:10 PM.
 * Meet Penny to the left of the graveyard.
 * Go to the beach.
 * Leave any beach foraging items on the ground. (We don't have the inventory space right now and we can just collect them on Spring 2.)

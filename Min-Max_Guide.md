@@ -118,7 +118,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * The best fishing spot for non-rainy days is the mountain lake.
   * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
 * The best fishing spot for rainy days is the forest river.
-  * This is because Catfish sell for 200g. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
+  * This is because Catfish sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
 * Thus, if the guide says to fish at the mountain lake, and it happens to be raining for you, then go to the forest river instead.
 * Furthermore, if the guide says to mine, and it happens to be raining for you, then you might want to disregard mining and go to fish at the forest river. (Because the money from Catfish is really good.)
@@ -254,8 +254,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Water.
 * If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
 * Empty your inventory.
-* Craft a Chest, and take it with you. 
-* Fish at the mountain lake until 2 AM, then pass out.
+* Craft a Chest, and take it with you.
+* Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest two tiles behind you.
+  * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
+* Fish until 2 AM. Before passing out, fill your inventory with any gems, any copper ore, any coal, and the most expensive fish.
 * At the end of the day, you should get:
   * Fishing 6 --> ?
 

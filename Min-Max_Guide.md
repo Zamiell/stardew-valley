@@ -227,7 +227,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
-* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more. (TODO add how much)
+* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more.
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
@@ -431,6 +431,7 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 ## TTD
 
+* add how much bait is needed @ 4:30 PM on Spring 2
 * track all day skillups
 * fill in Spring X
 * Save 20 Fiber at initial

@@ -175,6 +175,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the garbage can next to Lewis' house.
 * Check for foraging items + artifact spots on the beach.
 * Meet Elliott outside of his cabin.
+* If you got an artifact, donate it to the museum and claim the reward.
 * Meet Clint inside of the blacksmith.
 * Meet Emily inside of her house.
 * Meet Maru walking south north-east of George's house.

@@ -265,7 +265,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * Save [Rubies](https://stardewvalleywiki.com/Ruby).
 * It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 * At the end of the day, you should get:
-  * Fishing 6 --> ?
+  * Fishing 6 --> 7
 
 ### Spring 5
 

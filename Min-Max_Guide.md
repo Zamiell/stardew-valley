@@ -191,7 +191,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Linus outside of his tent.
 * Meet Demetrius south-east of their house.
 * Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds elsewhere.)
-* Go back to the farm (through the Backwoods).
+* Go south to the community center.
+* Kill the weeds to the left of the community center.
+* Kill the weeds to the left of the fountain.
+* Go home.
 * Hoe + plant + water Parsnip Seeds + Mixed Seeds.
 * Eat all Spring Onions + extra Leeks + extra Dandelions. (We need to save 1 of each spring foragable for the community center.)
 * Chop wood until around 4-6 energy left.

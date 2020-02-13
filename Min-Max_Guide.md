@@ -164,7 +164,6 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Haley as she walks towards Leah's house.
 * Go to town.
 * Check the two garbage cans next to Jodi's house + Haley's house.
-* Meet Leah walking to Pierre's General Store.
 * Meet Marnie outside of Pierre's General Store.
 * Meet Penny to the left of the graveyard.
 * Go to the beach.

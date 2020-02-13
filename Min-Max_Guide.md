@@ -96,7 +96,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
-* Craft and place a [Chest](https://stardewvalleywiki.com/Chest) next to where you will be fishing. (You will need two chests; one for the mountain lake and one for forest river.)
 * Prioritize eating [Green Algae](https://stardewvalleywiki.com/Green_Algae) (1.15 ratio), then [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (1.92 ratio), then the highest-quality [Chub](https://stardewvalleywiki.com/Chub).
 * Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
@@ -105,7 +104,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Mines Strategy
 
-* Craft and place a chest to the right of the elevator on the 0th floor.
 * Starting on Spring X, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
@@ -217,9 +215,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Water.
 * Craft a Chest and take it with you.
 * Empty all inventory in the chest except for the Chest + 1 rock.
-* Go to the Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
-* Check the garbage can next to the Saloon.
-* Check the garbage can next to Lewis' house.
+* Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest.
 * Place the chest on the bottom-right hand corner of the pier.
@@ -229,33 +225,31 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * The Training Rod will allow more perfect catches; leveling up the fishing skill with perfect catches is more important than getting high-quality fish.
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
-  * Even though we will have less perfect catches than with the Training Rod, the Fiberglass Rod will allow us to gain experience faster because of the bait.
+  * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
-* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more.
+* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more. (TODO add how much)
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
 
 ### Spring 3
 
-[old]
-
 * (It always rains on this day.)
-* Chop wood until 8 AM. (Remember to take your Scythe to clear any grass that gets in the way.)
-* Craft a chest. (Don't place it, keep it in your inventory.)
-* Empty all inventory in the chest except for Bamboo Pole + all fish + the chest.
-* Go to the beach. (Don't collect any beach foraging items until after you sell the fish.)
-* At Willy's shop, sell fish + buy Fiberglass Rod (1,800g) + 120 bait (5 x 120 = 600g).
-  * If you do not have enough gold, then continue to fish outside of the Fish Shop until you have enough.
-  * You only need about 80 bait if you go mining on day 5, but you will need more if you fish on day 5, which is why we get 120 to be safe.
-* Go to the forest river. Place the chest below Leah's house. To make sure that it is in a safe spot, you can reference the following pathing guide: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
-* If you cast downward from Leah's house, you will only get a 3 tile cast, so you must temporarily cast elsewhere. Go to the top-right-hand-corner of the tiny island with a single tree on it. If you angle every cast upward, you will get a 5 tile cast (otherwise you will get a 2 tile cast).
-* Once you get fishing level 4, you can walk back to the chest and cast downwards next to Leah's house. (All casts at this point will be 5 tiles. It is better to have the chest at Leah's because it is a little bit closer to the farm.)
+* Empty all inventory in the chest except for the Fiberglass Rod.
+* If you got a copper ore while fishing yesterday, drop it on the ground and pick it up (to initiate the Clint cutscene tomorrow). You can now skip buying copper ore from Clint later on today.
+* Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
+* Fish until 9 AM.
+* At Willy's shop, sell all fish + beach foraging. Buy bait until you only have 75g left.
+* Go to Clint and buy a copper ore (75g). Drop it on the ground and pick it back up (to initiate the Clint cutscene tomorrow).
+* Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
+  * For reference, see the pathing infographic: https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg
 * Fish until 2 AM, then pass out.
 * At the end of the day, you should get:
-  * Fishing 3 --> 5 (choose Fisher profession)
+  * Fishing 4 --> 5 (choose Fisher profession)
 
 ### Spring 4
+
+[old]
 
 * Water.
 * Chop 50 wood, craft a Chest, and put it in storage. (Remember to take your Scythe before going to chop wood.)

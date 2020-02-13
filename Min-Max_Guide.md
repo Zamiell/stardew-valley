@@ -159,28 +159,40 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Exit south to the forest. (You do not have time to clear out all the grass and such. Focus on getting to the forest as fast as possible.)
 * Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   * Pick up all foragables along the way.
-  * Try to kill as many weeds as possible, but don't go too far out of your way for just 1 weed (since you need to make it to Jas for 11 AM).
-* Meet Jas as she leaves her house around 11 AM.
-* Meet Leah as she walks towards town.
-* Meet Haley as she walks past Sam's house.
-* Meet Vincent + Jodi inside their house.
-* Check the two garbage cans next to Jodi's house + Haley's house. (It does not matter if you are seen by Leah.)
+  * Try to kill as many weeds as possible, but don't go too far out of your way for just 1 weed (since you need to make it to Jas at 11 AM).
+* Meet Jas as she exits her house around 11:20 AM.
+* Meet Haley as she walks towards Leah's house.
+* Go to town.
+* Check the two garbage cans next to Jodi's house + Haley's house.
 * Meet Penny to the left of the graveyard.
+* Meet Marnie at ???.
+* Go to the beach.
+* Leave any beach foraging items on the ground. (We don't have the inventory space right now and we can just collect them on Spring 2.)
+* Meet Elliott outside of his cabin.
+* Check for + hoe artifact spots.
+* Go to town.
+* If you got an artifact, donate it to the museum and claim the reward.
+* Check the garbage cans next to the museum + blacksmith.
+* Meet Clint inside of the blacksmith.
+* Meet Pam + Sam + Shane inside of JojaMart.
+* Clear the weeds north-west of JojaMart.
+* Meet Abigale on the bridge.
+* Meet George inside of their house.
+* Check the garbage can next to Lewis' house.
+* Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
+* Meet Leah + Pierre inside of Pierre's General Store.
 * Check the two garbage cans next to the Saloon + George's house.
+
 * Meet Marnie + Harvey walking to the left of the Medical Clinic.
 * Meet Abigale + Pierre + Caroline inside of their house.
-* Meet George + Evelyn inside of their house.
 * Meet Alex outside of his house.
 * Meet Gus inside of the Saloon.
 * Check the garbage can next to Lewis' house.
 * Check for foraging items + artifact spots on the beach.
-* Meet Elliott outside of his cabin.
-* If you got an artifact, donate it to the museum and claim the reward.
-* Meet Clint inside of the blacksmith.
+
 * Meet Emily inside of her house.
 * Meet Maru walking south north-east of George's house.
-* Meet Pam + Sam + Shane inside of JojaMart.
-* Clear the weeds north-west of JojaMart.
+
 * Clear the weeds by the community center.
 * Go back to the farm.
 * Empty your inventory. Keep the scythe.

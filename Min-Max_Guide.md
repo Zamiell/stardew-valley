@@ -246,7 +246,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
 * Fish until 2 AM, then pass out.
 * At the end of the day, you should get:
-  * Fishing 4 --> 5 (choose Fisher profession)
+  * Fishing 4 --> 6 (choose Fisher profession)
 
 ### Spring 4
 
@@ -256,7 +256,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Chop 50 wood, craft a Chest, and put it in storage. (Remember to take your Scythe before going to chop wood.)
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
-  * Fishing 5 --> 6
+  * Fishing 6 --> ?
 
 ### Spring 5
 

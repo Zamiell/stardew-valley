@@ -231,7 +231,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish until 2 AM. With the Fiberglass Rod, use maximum casts. Pass out at the docks.
   * Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
-  * Fishing 0 --> 3/4
+  * Fishing 0 --> 4
 
 ### Spring 3
 

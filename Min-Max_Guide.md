@@ -146,23 +146,25 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. (We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.)
 
-An alternate strategy for Spring 1 would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of planting around 8-10 mixed seeds on the first day.
+An alternate strategy for Spring 1 would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similiar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
 
-* Don't take the Parsnip Seeds yet. (They will waste an inventory slot.)
-* Clear the area immediately below the house for planting the 15 Parsnip Seeds. (Don't hoe anything yet.)
-* Clear a path to the southern forest.
+* Take the Parsnip Seeds.
+* Immediately chop down trees until foraging level 1. We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees. The route is very tight.)
   * Only chop down Maple and Pine trees, not Oak trees. (We won't get any acorns for felling an Oak tree until Spring 2 and acorns are precious.)
   * For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  * Do not chop wood tiles until you are already at foraging level 1 (as they do not provide any foraging XP).
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
-* At around 9:20 AM, craft a chest, place it next to the house, and empty all inventory except for the scythe.
-* Exit to the forest @ 9:45 AM.
-* Check for [Spring Onions](https://stardewvalleywiki.com/Spring_Onion).
-* Meet Jas as she leaves her room @ 11 AM.
-* Meet Leah as she leaves her house.
+* Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
+* Exit south to the forest. (You do not have time to clear out all the grass and such. Focus on getting to the forest as fast as possible.)
+* Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
+  * Pick up all foragables along the way.
+  * Try to kill as many weeds as possible, but don't go too far out of your way for just 1 weed (since you need to make it to Jas for 11 AM).
+* Meet Jas as she leaves her house around 11 AM.
+* Meet Leah as she walks towards town.
 * Meet Haley as she walks past Sam's house.
 * Meet Vincent + Jodi inside their house.
-* Check the two garbage cans next to Jodi's house + Haley's house. (If you are quick, you will not get seen by Leah.)
+* Check the two garbage cans next to Jodi's house + Haley's house. (It does not matter if you are seen by Leah.)
 * Meet Penny to the left of the graveyard.
 * Check the two garbage cans next to the Saloon + George's house.
 * Meet Alex outside of his house.

@@ -156,7 +156,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * Do not chop wood tiles until you are already at foraging level 1 (as they do not provide any foraging XP).
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 * Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
-* Exit south to the forest. (You do not have time to clear out all the grass and such. Focus on getting to the forest as fast as possible.)
+* Exit south to the forest. (The time should be around 9:20 AM.)
 * Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   * Pick up all foragables along the way.
   * Try to kill as many weeds as possible, but don't go too far out of your way for just 1 weed (since you need to make it to Jas at 11 AM).
@@ -164,8 +164,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Haley as she walks towards Leah's house.
 * Go to town.
 * Check the two garbage cans next to Jodi's house + Haley's house.
+* Meet Marnie south of Pierre's General Store. (She is walking back to her ranch.)
 * Meet Penny to the left of the graveyard.
-* Meet Marnie at ???.
 * Go to the beach.
 * Leave any beach foraging items on the ground. (We don't have the inventory space right now and we can just collect them on Spring 2.)
 * Meet Elliott outside of his cabin.
@@ -177,29 +177,20 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Pam + Sam + Shane inside of JojaMart.
 * Clear the weeds north-west of JojaMart.
 * Meet Abigale on the bridge.
-* Meet George inside of their house.
+* Meet Maru. (She is walking south to the benches.)
 * Check the garbage can next to Lewis' house.
 * Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
 * Meet Leah + Pierre inside of Pierre's General Store.
-* Check the two garbage cans next to the Saloon + George's house.
-
-* Meet Marnie + Harvey walking to the left of the Medical Clinic.
-* Meet Abigale + Pierre + Caroline inside of their house.
-* Meet Alex outside of his house.
-* Meet Gus inside of the Saloon.
-* Check the garbage can next to Lewis' house.
-* Check for foraging items + artifact spots on the beach.
-
-* Meet Emily inside of her house.
-* Meet Maru walking south north-east of George's house.
-
-* Clear the weeds by the community center.
+* Check the garbage can next to George's house.
+* Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4 PM.)
+* Check the garbage can next to the Saloon.
+* Meet Gus + Emily in the Saloon.
 * Go back to the farm.
-* Empty your inventory. Keep the scythe.
-* Clear a path to the Backwoods. Exit to the Backwoods around 6 PM.
+* Empty your inventory. Keep the tools.
+* Clear a path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 * Meet Linus outside of his tent.
-* Meet Demetrius + Robin south-east of their house.
-* Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you can use to kill more weeds elsewhere.)
+* Meet Demetrius south-east of their house.
+* Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds elsewhere.)
 * Go back to the farm (through the Backwoods).
 * Hoe + plant + water Parsnip Seeds + Mixed Seeds.
 * Eat all Spring Onions + extra Leeks + extra Dandelions. (We need to save 1 of each spring foragable for the community center.)

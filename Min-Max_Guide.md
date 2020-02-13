@@ -198,22 +198,26 @@ The plan for the day is to meet everybody in the town and save money for tomorro
 
 * Move the TV next to the bed (so that later on you can immediately check it upon waking up). I also like to delete the carpet so that it does not get in the way, but that is optional.
   * You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
-* Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the Bamboo Pole.)
+* Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 * Water.
-* Chop 50 wood, craft a Chest, and take it with you.
-* Ship:
-  * all but 60 Fiber (for Scarecrows later on)
-  * Clay
-  * Geodes
-* Empty all inventory in the chest (except for the Chest).
-* Go to Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
-* Go to the beach and get the Bamboo Pole, grab foraging items if present.
-* Go to the mountain lake. The optimal fishing spot is casting rightward while touching the fence on the bottom of the map. Place the chest behind you.
-* Fish until 2 AM, then pass out.
+* Craft a Chest and take it with you.
+* Empty all inventory in the chest except for the Chest + 1 rock.
+* Go to the Bus Stop, grab foraging items if present. (Check behind the bus near the top.)
+* Go to the beach and get the Bamboo Pole.
+* Give the rock to Willy and claim the reward for the "Introductions" quest and the "How To Win Friends" quest.
+* Place the chest on the bottom-right hand corner of the pier.
+* Fish facing right from the pier. Use minimum casts.
+  * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
+* At 9 AM, destroy the Bamboo Pole and buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
+* Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
+* Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
+* Fish until 2 AM. With the Fiberglass Rod, use maximum casts. Pass out at the docks.
 * At the end of the day, you should get:
   * Fishing 0 --> 3
 
 ### Spring 3
+
+[old]
 
 * (It always rains on this day.)
 * Chop wood until 8 AM. (Remember to take your Scythe to clear any grass that gets in the way.)

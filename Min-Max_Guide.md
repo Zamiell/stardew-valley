@@ -146,7 +146,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.
 
-An alternate strategy would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of 
+An alternate strategy for Spring 1 would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of planting around 8-10 mixed seeds on the first day.
 
 * Don't take the Parsnip Seeds yet. (They will waste an inventory slot.)
 * Clear the area immediately below the house for planting the 15 Parsnip Seeds. (Don't hoe anything yet.)

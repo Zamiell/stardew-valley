@@ -144,14 +144,17 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 1
 
-The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g. We want to meet everybody so that we can get ????
+The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.
 
-* Chop 50 wood, craft a Chest, place it next to the house. (Don't hoe anything yet.)
+An alternate strategy would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which can result in planting
+
+* Clear the area immediately below the house for planting the 15 Parsnip Seeds. (Don't hoe anything yet.)
+* Clear a path to the southern forest.
   * Only chop down Maple and Pine trees, not Oak trees. (We won't get any acorns for felling an Oak tree until Spring 2 and acorns are precious.)
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
-* Clear the rest of the area below the house.
 * Clear a path to the southern forest.
+* At around 9:20 AM, craft a chest, place it next to the house, and empty all inventory except for the scythe.
 * Exit to the forest @ 9:45 AM.
 * Check for [Spring Onions](https://stardewvalleywiki.com/Spring_Onion).
 * Meet Jas as she leaves her room @ 11 AM.

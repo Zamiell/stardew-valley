@@ -254,7 +254,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
 * Empty your inventory.
 * Craft a Chest, and take it with you.
-* Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest two tiles behind you.
+* Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
 * Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
   * Don't leave your rod in the chest in case it rains.

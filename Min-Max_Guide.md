@@ -244,20 +244,26 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to Clint and buy a copper ore (75g). Drop it on the ground and pick it back up (to initiate the Clint cutscene tomorrow).
 * Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
-* Fish until 2 AM. Before passing out, fill your inventory with any gems, any copper ore, any coal, and the most expensive fish.
+* Fish until 2 AM. Before passing out, fill your inventory with any gems, ore, coal, and the most expensive fish.
 * At the end of the day, you should get:
   * Fishing 4 --> 6 (choose Fisher profession)
 
 ### Spring 4
 
-* Ship gems + fish. (But save any Chubs for eating and one of each bundle fish.)
 * Water.
 * If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
 * Empty your inventory.
 * Craft a Chest, and take it with you.
 * Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest two tiles behind you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
-* Fish until 2 AM. Before passing out, fill your inventory with any gems, any copper ore, any coal, and the most expensive fish.
+* Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
+  * Don't leave your rod in the chest in case it rains.
+* Go home. 
+* Ship gems + fish.
+  * Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
+  * Save one of each bundle fish.
+  * Save [Rubies](https://stardewvalleywiki.com/Ruby).
+* It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 * At the end of the day, you should get:
   * Fishing 6 --> ?
 

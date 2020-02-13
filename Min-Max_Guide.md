@@ -262,7 +262,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Ship gems + fish.
   * Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
   * Save one of each bundle fish.
-  * Save [Rubies](https://stardewvalleywiki.com/Ruby).
+  * Save [Rubies](https://stardewvalleywiki.com/Ruby) and [Diamonds](https://stardewvalleywiki.com/Diamond).
 * It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 * At the end of the day, you should get:
   * Fishing 6 --> 7

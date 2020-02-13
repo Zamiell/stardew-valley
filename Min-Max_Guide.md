@@ -75,7 +75,7 @@ The guide is designed for the kind of player who is using the following self-imp
 The reasons for not allowing the restarting of a day are twofold:
 
 * First, if you allow restarting a day as many times as you want, it removes the execution aspect of the challenge. Mistakes are inconsequential: simply restart the day over and over until you execute perfectly.
-* Second, it allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
+* Second, it allows for unfair knowledge. For examp4le, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
   
 While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge, all of the challenges that I know about are completable by skilled players without resorting to this.
 
@@ -146,11 +146,13 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.
 
-An alternate strategy would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which can result in planting
+An alternate strategy would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of 
 
+* Don't take the Parsnip Seeds yet. (They will waste an inventory slot.)
 * Clear the area immediately below the house for planting the 15 Parsnip Seeds. (Don't hoe anything yet.)
 * Clear a path to the southern forest.
   * Only chop down Maple and Pine trees, not Oak trees. (We won't get any acorns for felling an Oak tree until Spring 2 and acorns are precious.)
+  * For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 * Clear a path to the southern forest.

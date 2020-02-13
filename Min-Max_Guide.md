@@ -155,7 +155,6 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
-* Clear a path to the southern forest.
 * At around 9:20 AM, craft a chest, place it next to the house, and empty all inventory except for the scythe.
 * Exit to the forest @ 9:45 AM.
 * Check for [Spring Onions](https://stardewvalleywiki.com/Spring_Onion).

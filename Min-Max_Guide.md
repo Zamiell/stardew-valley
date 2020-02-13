@@ -197,11 +197,12 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go home.
 * Hoe + plant + water Parsnip Seeds + Mixed Seeds.
 * Eat all Spring Onions + extra Leeks + extra Dandelions. (We need to save 1 of each spring foragable for the community center.)
+  * Don't eat extra Wild Horseradishes, as it is better to sell them.
 * Chop wood until around 4-6 energy left.
 * Kill weeds + grass until around 1:30 AM.
 * Hoe + plant + water any remaining mixed seeds.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-* Sell all sap, all clay, all pinecones, all beach foraging, all extra spring foraging.
+* Sell all sap, all clay + all pinecones + all beach foraging + extra daffodils + extra Wild Horseradishes.
   * In other words, keep stone + wood + coal + fiber + 1 of each spring foragable.
 * Go to bed at 2 AM. (We don't want to incur the gold penalty.)
 * At the end of the day, you should get:

@@ -226,8 +226,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
 * At 9 AM, destroy the Bamboo Pole and buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
+  * The Training Rod will allow more perfect catches; leveling up the fishing skill with perfect catches is more important than getting high-quality fish.
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
+  * Even though we will have less perfect catches than with the Training Rod, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
 * At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more.
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)

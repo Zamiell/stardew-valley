@@ -167,10 +167,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the two garbage cans next to Jodi's house + Haley's house. (It does not matter if you are seen by Leah.)
 * Meet Penny to the left of the graveyard.
 * Check the two garbage cans next to the Saloon + George's house.
-* Meet Alex outside of his house.
-* Meet George + Evelyn inside of their house.
 * Meet Marnie + Harvey walking to the left of the Medical Clinic.
 * Meet Abigale + Pierre + Caroline inside of their house.
+* Meet George + Evelyn inside of their house.
+* Meet Alex outside of his house.
 * Meet Gus inside of the Saloon.
 * Check the garbage can next to Lewis' house.
 * Check for foraging items + artifact spots on the beach.

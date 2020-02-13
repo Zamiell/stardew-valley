@@ -197,14 +197,14 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Kill the weeds to the left of the fountain.
 * Go home. (Get any foragables at the Bus Stop that you missed earlier.)
 * Hoe + plant + water Parsnip Seeds + Mixed Seeds.
-* Eat all Spring Onions + extra Leeks + extra Dandelions. (We need to save 1 of each spring foragable for the community center.)
-  * Don't eat extra Wild Horseradishes, as it is better to sell them.
+* Eat all Spring Onions. (They are near-worthless to sell.)
 * Chop wood until around 4-6 energy left.
 * Kill weeds + grass until around 1:30 AM.
+* Sell all but 20 fiber, all sap, all clay + all pinecones + all beach foraging + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
+  * In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
+  * Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a GPE ratio of under 2. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 * Hoe + plant + water any remaining mixed seeds.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-* Sell all sap, all clay + all pinecones + all beach foraging + extra daffodils + extra Wild Horseradishes.
-  * In other words, keep stone + wood + coal + fiber + 1 of each spring foragable.
 * Go to bed at 2 AM. (We don't want to incur the gold penalty.)
 * At the end of the day, you should get:
   * Foraging 0 --> 1
@@ -227,9 +227,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
 * At 9 AM, destroy the Bamboo Pole and buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
-* Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod. (All you need is around 35 bait or so to last the rest of the day.)
-* Fish until 2 AM. With the Fiberglass Rod, use maximum casts. Pass out at the docks.
-  * Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
+* Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
+* Fish using max casts at the same spot as before.
+* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more.
+* Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
 

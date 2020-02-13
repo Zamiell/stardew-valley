@@ -182,7 +182,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Pam + Sam + Shane inside of JojaMart.
 * Clear the weeds north-west of JojaMart.
 * Clear the weeds by the community center.
-* Go back to the farm.
+* Go back to the farm (through the Backwoods).
 * Empty your inventory. Keep the scythe.
 * Clear a path to the Backwoods. Exit to the Backwoods around 6 PM.
 * Meet Linus outside of his tent.

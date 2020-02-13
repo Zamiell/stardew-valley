@@ -59,7 +59,7 @@ The guide is designed for the kind of player who is using the following self-imp
 * Choosing the Community Center path instead of the Joja path.
   * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
 * No using glitches / bugs.
-* No 3rd-party cheats (e.g. Cheat Engine).
+* No cheats (e.g. Cheat Engine).
 * No mods.
   * Some [quality-of-life mods](#appendix-a-mods) are okay if they provide no actual gameplay advantage.
 * No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.

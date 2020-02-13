@@ -144,29 +144,52 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Spring 1
 
+The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g. We want to meet everybody so that we can get ????
+
 * Chop 50 wood, craft a Chest, place it next to the house. (Don't hoe anything yet.)
-  * Only chop down Maple and Pine trees, not Oak trees. The only reason you should be chopping down an Oak tree is if it is directly blocking where your crops will go. (We will use them to farm as many Acorns as possible for later on in the run.)
+  * Only chop down Maple and Pine trees, not Oak trees. (We won't get any acorns for felling an Oak tree until Spring 2 and acorns are precious.)
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
-* Put everything in the chest except for Axe + Pickaxe + Scythe + Hoe.
-* Head out the north end of your farm and go through the entire map, doing three things:
-  1) Digging worms (artifact spots). Once you have one artifact, you can stop looking. If you get one, immediately donate it to the Museum for 250g.
-  2) Getting all foragables.
-  3) Shaking all Oak trees (for extra acorn drops, which should be saved until summer).
-    * Are we level 1 foraging yet?
-  4) Slashing every weed on the entire map (for the purposes of getting as many mixed seeds as possible). The two most important spots are to the left of the community center and above JoJaMart.
-* After doing the loop around the forest, you should head back into town and make it back to Pierre's before he closes at around 4:30 PM.
-* At Pierre's:
-  * Sell any Wild Horseradish + Daffodil (but save 1 of each for the community center)
-  * Buy 1 Bean Starter (60g)
-  * Buy 1 Cauliflower Seeds (80g)
-  * Buy 1 Potato Seeds (50g)
-  * Buy the maximum number of Parsnip seeds (20g each; should be able to buy around 30)
-* Go home, hoe + plant + water all Parsnips + mixed seeds.
-* Kill all weeds on the farm until 2 AM (for more mixed seeds), then pass out. (Do not go back to the Farmhouse and sleep.)
-  * Time it such that you return to the crops and plant + water all of your renaming mixed seeds before 2 AM.
-  * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging). However, only do this at the end of the night, as the debuffed movement speed will make you kill less overall weeds.
-* Do not ship any items today (since we want to stay at 0 gold).
+* Clear the rest of the area below the house.
+* Clear a path to the southern forest.
+* Exit to the forest @ 9:45 AM.
+* Check for [Spring Onions](https://stardewvalleywiki.com/Spring_Onion).
+* Meet Jas as she leaves her room @ 11 AM.
+* Meet Leah as she leaves her house.
+* Meet Haley as she walks past Sam's house.
+* Meet Vincent + Jodi inside their house.
+* Check the two garbage cans next to Jodi's house + Haley's house. (If you are quick, you will not get seen by Leah.)
+* Meet Penny to the left of the graveyard.
+* Check the two garbage cans next to the Saloon + George's house.
+* Meet Alex outside of his house.
+* Meet George + Evelyn inside of their house.
+* Meet Marnie + Harvey walking to the left of the Medical Clinic.
+* Meet Abigale + Pierre + Caroline inside of their house.
+* Meet Gus inside of the Saloon.
+* Check the garbage can next to Lewis' house.
+* Check for foraging items + artifact spots on the beach.
+* Meet Elliott outside of his cabin.
+* Meet Clint inside of the blacksmith.
+* Meet Emily inside of her house.
+* Meet Maru walking south north-east of George's house.
+* Meet Pam + Sam + Shane inside of JojaMart.
+* Clear the weeds north-west of JojaMart.
+* Clear the weeds by the community center.
+* Go back to the farm.
+* Empty your inventory. Keep the scythe.
+* Clear a path to the Backwoods.
+* Meet Linus outside of his tent.
+* Meet Demetrius + Robin south-east of their house.
+* Meet Sebastian at his doorway. (You will have to idle until he comes out at 6:40 PM.)
+* Go back to the farm.
+* Hoe + plant + water Parsnip Seeds + Mixed Seeds.
+* Eat all Spring Onions + extra Leeks + extra Dandelions. (We need to save 1 of each spring foragable for the community center.)
+* Chop wood until around 4-6 energy left.
+* Kill weeds + grass until around 1:30 AM.
+* Hoe + plant + water any remaining mixed seeds.
+  * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
+* Sell all but 20 Fiber (for a Scarecrow later), all sap, all clay, all pinecones, all beach foraging, all extra spring foraging.
+  * In other words, keep stone + wood + coal.
 * At the end of the day, you should get:
   * Foraging 0 --> 1
 

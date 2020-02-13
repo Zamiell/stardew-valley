@@ -52,7 +52,7 @@ The general goal of this route is to maximize the total amount of money gained b
 
 ### Rules
 
-Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of year 1) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
+Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of the first year) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
 
 The guide is designed for the kind of player who is using the following self-imposed restrictions:
 

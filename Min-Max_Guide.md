@@ -198,7 +198,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Eat all Spring Onions. (They are near-worthless to sell.)
 * Chop wood until around 4-6 energy left.
 * Kill weeds + grass until around 1:30 AM.
-* Sell all but 20 fiber, all sap, all clay + all pinecones + all beach foraging + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
+* Sell all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
   * In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
   * Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a GPE ratio of under 2. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 * Hoe + plant + water any remaining mixed seeds.
@@ -239,7 +239,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * If you got a copper ore while fishing yesterday, drop it on the ground and pick it up (to initiate the Clint cutscene tomorrow). You can now skip buying copper ore from Clint later on today.
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
 * Fish until 9 AM.
-* At Willy's shop, sell all fish + beach foraging. Buy bait until you only have 75g left.
+* At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left.
+  * Remember to keep one of each Crab Pot Bundle item.
 * Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
 * Go to Clint and buy a copper ore (75g). Drop it on the ground and pick it back up (to initiate the Clint cutscene tomorrow).
 * Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.

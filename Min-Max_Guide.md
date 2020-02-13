@@ -250,10 +250,9 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 4
 
-* Ship gems + fish. (But save any Chubs for eating.)
+* Ship gems + fish. (But save any Chubs for eating and one of each bundle fish.)
 * Water.
-* If you don't have 50 wood, chop up to 50 wood. (Remember to take your Scythe while chopping to clear grass.)
-* Craft a Chest, and put it in storage. 
+* If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 6 --> ?
@@ -264,14 +263,14 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Harvest the Parsnips and make a note of how many you harvested.
 * (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)
 * Water any remaining Mixed Seeds.
-* Chop 100 wood (for 2 crafting Scarecrows later on).
 * Clear the farm, make max Basic Fertilizer, hoe + fertilizer around 150-200 squares in preparation for tomorrow.
 * Put all clay + Geodes + fish in the shipping bin.
 * If a very unlucky day:
   * Fish at the mountain lake until 12:30 AM and then go home.
   * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this in order to have the necessary money for Kale. Otherwise, we would be able to fish until 2 AM.)
 * Otherwise:
-  * Retrieve the Pickaxe + Chest + all Parsnips from the chest.
+  * Craft a Chest, and take it with you. 
+  * Retrieve the Pickaxe + all Parsnips from the chest.
   * Go to the mines, place the Chest to the right of the elevator.
   * Get as low as possible.
   * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.

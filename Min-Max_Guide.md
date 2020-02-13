@@ -220,6 +220,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Place the chest on the bottom-right hand corner of the pier.
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
+  * Also see [General Fishing Strategy](#general-fishing-strategy).
 * At 9 AM, destroy the Bamboo Pole and buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches; leveling up the fishing skill with perfect catches is more important than getting high-quality fish.
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
@@ -251,9 +252,10 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 ### Spring 4
 
 * Water.
-* If you don't have 100 wood, chop up to 100 wood. (Remember to take your Scythe while chopping to clear grass.)
+* If you don't have 150 wood, chop up to 150 wood. (Remember to take your Scythe while chopping to clear grass.)
+  * This is because we will need 2 more chests and a scarecrow over the next 2 days.
 * Empty your inventory.
-* Craft a Chest, and take it with you.
+* Craft a Chest and take it with you.
 * Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
 * Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
@@ -269,21 +271,41 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 5
 
+The goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe.
+
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.
-* (Do not claim the reward for the parsnip quest, since we want to stay at 0 gold.)
-* Water any remaining Mixed Seeds.
-* Clear the farm, make max Basic Fertilizer, hoe + fertilizer around 150-200 squares in preparation for tomorrow.
-* Put all clay + Geodes + fish in the shipping bin.
-* If a very unlucky day:
-  * Fish at the mountain lake until 12:30 AM and then go home.
-  * Put all fish in the shipping bin. (Since Willy does not work on Saturdays, we must sell them like this in order to have the necessary money for Kale. Otherwise, we would be able to fish until 2 AM.)
-* Otherwise:
-  * Craft a Chest, and take it with you. 
-  * Retrieve the Pickaxe + all Parsnips from the chest.
-  * Go to the mines, place the Chest to the right of the elevator.
-  * Get as low as possible.
-  * If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
+* Make a note of which mixed seeds you have planted.
+* Claim the reward for the parsnip quest.
+* Don't water any remaining mixed seeds until later on in the day.
+* Craft a chest and take it with you. 
+* Check to see how many iron ore and gold ore you have (from fishing chests, if any).
+* Retrieve the Pickaxe + all gems + all stone + coal + copper + all but 3 parsnips from the chest.
+  * Leave Rubies and Diamonds though since we want to save those for the Skull Caverns.
+  * We need 1 parsnip for the bundle, 1 parsnip to ship, and 1 parsnip for Pam (optional).
+* Go to the mines, place the chest to the right of the elevator.
+* Get as low as possible. (See [General Mines Strategy](#general-mines-strategy).)
+* As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar).
+* Farm copper and keep the furnace going until you have 5 bars. You need to have 5 bars before 2 PM.
+  * If you do not have time for the 5th bar to smelt, then you can pickaxe the furnace and take it with you to the blacksmith. Place the furnace inside, smelt the 5th bar, and wait 20 minutes. As long as you are inside the blacksmith, Clint will continue to sell to you as long as he is still standing at the counter.
+  * If you fail to craft 5 bars by 2 PM, then continue to get as far as you can in the mines and push everything in the route back one day.
+* Bring any gems with you and go to the blacksmith:
+  * Sell gems.
+  * When buying ore, make sure to save at least 3,310g:
+    * 2,000g for the pickaxe upgrade.
+    * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained for mixed seeds.)
+    * 60g for 1 Bean Starter.
+    * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
+    * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).
+  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests).
+  * Buy up to 25 gold ore (accounting for gold ore gained from fishing chests).
+  * Upgrade the pickaxe.
+* Go to Pierre's and buy:
+  * 16 Kale Seeds (1,120g)
+  * 1 Bean Starter (60g)
+  * 1 Cauliflower Seeds (80g)
+  * 1 Potato Seeds (50g)
+* If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
   * (Even though we need as much money as possible on Spring 6, we do not have to leave the mines to because we can sell the gems to Clint tomorrow.)
 * At the end of the day, you should get (assuming a mining day):
   * Farming 0 --> 2

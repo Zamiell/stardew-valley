@@ -357,6 +357,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Buy up to 25 gold ore.
   * Upgrade to the Steel Pickaxe (5,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
+* At the end of the day, you should get:
+  * Fishing 8 --> 9
 
 ### Spring 8
 

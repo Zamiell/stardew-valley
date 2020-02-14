@@ -26,6 +26,7 @@
   * [Spring 5](#spring-5)
   * [Spring 6](#spring-6)
   * [Spring 7](#spring-7)
+  * [Spring 8](#spring-8)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />
@@ -354,6 +355,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the blacksmith:
   * Buy up to 25 gold ore.
   * Upgrade to the Steel Pickaxe (5,000g).
+* Fish at the mountain lake until 2 AM, then pass out.
+
+### Spring 8
+
+* Sell stuff for gold pickaxe. (?)
 * Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 12

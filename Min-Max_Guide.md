@@ -27,7 +27,7 @@
   * [Spring 6](#spring-6)
   * [Spring 7](#spring-7)
   * [Spring 8](#spring-8)
-  * [Spring 8](#spring-9)
+  * [Spring 9](#spring-9)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />

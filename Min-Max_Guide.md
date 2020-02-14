@@ -112,6 +112,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 * If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
 * If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
+* If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
 
 ### Weather Modifications
 
@@ -306,9 +307,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * 1 Bean Starter (60g)
   * 1 Cauliflower Seeds (80g)
   * 1 Potato Seeds (50g)
-* If it is near 2 AM and you know that you cannot reach the next elevator by the end of the night, then farm copper until 2 AM, then pass out.
-  * (Even though we need as much money as possible on Spring 6, we do not have to leave the mines to because we can sell the gems to Clint tomorrow.)
-* At the end of the day, you should get (assuming a mining day):
+* ?
+
+* At the end of the day, you should get:
   * Farming 0 --> 2
   * Mining 0 --> 1
   * Combat 0 --> 1

@@ -279,7 +279,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Claim the reward for the parsnip quest.
 * Don't water any remaining mixed seeds until later on in the day.
 * Craft a chest and take it with you. 
-* Check to see how many iron ore and gold ore you have (from fishing chests, if any).
+* Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 * Retrieve the Pickaxe + all gems + all stone + coal + copper + all but 3 parsnips from the chest.
   * Leave Rubies and Diamonds though since we want to save those for the Skull Caverns.
   * We need 1 parsnip for the bundle, 1 parsnip to ship, and 1 parsnip for Pam (optional).

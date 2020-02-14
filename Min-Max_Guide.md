@@ -388,7 +388,12 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 10
 
-* TODO
+* Water.
+* Empty inventory. Retrieve Fiberglass Rod.
+* Give Vincent a birthday present (optional).
+  * A Daffodil or a gem is a good gift.
+  * You will get there before he wakes up, so fish in the town river until he comes outside.
+* Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 11
 

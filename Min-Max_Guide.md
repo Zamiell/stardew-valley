@@ -399,8 +399,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to Pierre's and buy the backpack upgrade (2,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
-  * Fishing 9 --> 10
-* If you do not get fishing level 10 today, then you will get it after the next day of fishing. This does not change the route at all.
+  * Fishing 9 --> 10 (choose Angler profession)
+* If you do not get fishing level 10 today, then you will get it after the next day of fishing. This does not change the route in any meaningful way.
 
 ### Spring 10
 
@@ -412,8 +412,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * 3300 total XP - 120 XP - 272 XP = 2908 XP needed
   * 2908 XP / 17 = 172 Kale
   * 172 Kale Seeds * 70g = 12,040g
-* Ship enough fish to buy half of the Kale Seeds necessary (6,020g). (We will plant the Kale in two batches.)
+* If you are level 10 fishing, ship enough fish to buy half of the Kale Seeds necessary (6,020g). (We will plant the Kale in two batches.)
   * Two batches is optimal because we don't want to craft more [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) than necessary. This allows for the maximum amount of iron bars to craft Quality Sprinklers on Spring 28.
+* If you are not level 10 fishing, then don't ship any fish right now (because you will miss out on 25% of the gold). Tomorrow, you will have to sell the fish directly to Willy.
 * Empty inventory. Retrieve Fiberglass Rod.
 * If you have less than 100 bait on the rod, also retrieve a few fish.
 * Give Vincent a birthday present (optional).
@@ -426,7 +427,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Harvest the Kale. (This should get to you farming level 2.)
 * Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
-* Leave the farm at 8:00 AM to go to the blacksmith. Retrieve the gold pickaxe.
+* Leave the farm at around 8:00 AM.
+* Go to Willy to sell fish if you did not ship any fish yesterday.
+* Go to the blacksmith. Retrieve the gold pickaxe.
 * Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
 * Go back to the farm and finish hoeing + planting. (Do not water any squares.)
   * You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.

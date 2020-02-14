@@ -119,6 +119,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * The best way to farm copper ore is by doing floor 21 over and over.
   * The best way to farm iron ore is by doing floor 41 over and over.
   * The best way to farm gold ore is by doing floor 81 over and over.
+* When you get to floor 100, don't immediately take the Stardrop. Save it for when you are completely out of energy. (It restores all of your energy in addition to increasing the maximum amount of energy.)
 
 ### Weather Modifications
 
@@ -398,6 +399,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 10
 
 * Water.
+* Grab mushrooms from the cave.
 * Calculate how many additional kale you need to get to farming level 6.
   * 8 XP per Parsnip * 15 Parsnips = 120 XP
   * 17 XP per Kale * 16 Kale = 272 XP
@@ -420,18 +422,23 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
 * Go back to the farm and finish hoeing + planting. (Do not water any squares.)
   * You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
+  * We do not need to water the Kale until Spring 14.
 * Go to the mines and place the furnace. Keep the furnace going with smelting bars.
 * Mine until 2 AM, then pass out.
   * As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 
-### Spring 12-13
+### Spring 12
 
-* Do not bother watering the Kale.
+* Grab mushrooms from the cave.
+* Mine until 2 AM, then pass out.
+
+### Spring 13
+
 * Mine until 2 AM, then pass out.
 
 ### Spring 14
 
-* Do not bother watering the Kale.
+* Grab mushrooms from the cave.
 * Mine until 12 AM.
 * Go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
 * Sell items to get up to 32,500g.
@@ -445,7 +452,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the community center and complete the bundles for these items.
   * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
 * Also complete the 25,000g, the 5,000g, and the 2,500g vault bundles.
-* 
+* Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
+* Empty inventory and go to the mines.
+* You should get to floor 120 today.
+* Once you get to floor 120, go to the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild) and sell all weapons & equipment.
 
 ### Spring 16
 

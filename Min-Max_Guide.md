@@ -135,7 +135,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Also note that it only takes 83 pets in order to maximize the pet's friendship value. Thus, since pet friendship does not decay, you may be able to defer wasting any time petting the pet until spring of year 2. (It is optimal to wait as long as possible to start petting since "spare time" is extremely limited at the beginning of the game.)
 * Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
 * For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
-* Don't read any of your mail unless explicitly told to by the guide.
+* Do not read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
 * Choose Mushrooms over Bats for the Cave. This is for several reasons:
   * The cave restocks faster, granting more total items.
@@ -163,7 +163,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Exit south to the forest. (The time should be around 9:20 AM.)
 * Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   * Pick up all foragables along the way.
-  * Try to kill as many weeds as possible, but don't go too far out of your way for just 1 weed (since you need to make it to Jas at 11 AM).
+  * Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11 AM).
 * Meet Jas as she exits her house around 11:20 AM.
 * Meet Haley as she walks towards Leah's house.
 * Go to town.
@@ -172,7 +172,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Marnie outside of Pierre's General Store.
 * Meet Penny to the left of the graveyard.
 * Go to the beach.
-* Leave any beach foraging items on the ground. (We don't have the inventory space right now and we can just collect them on Spring 2.)
+* Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
 * Meet Elliott outside of his cabin.
 * Check for + hoe artifact spots.
 * Go to town.
@@ -194,7 +194,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Empty your inventory. Keep the tools.
 * Clear a path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 * Meet Linus outside of his tent.
-* Meet Demetrius south-east of his house. (You don't need to talk to Robin because you already met her.)
+* Meet Demetrius south-east of his house. (You do not need to talk to Robin because you already met her.)
 * Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds elsewhere.)
 * Go south to the community center.
 * Kill the weeds to the left of the community center.
@@ -209,7 +209,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 * Hoe + plant + water any remaining mixed seeds.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-* Go to bed at 2 AM. (We don't want to incur the gold penalty.)
+* Go to bed at 2 AM. (We do not want to incur the gold penalty.)
 * At the end of the day, you should get:
   * Foraging 0 --> 1
 
@@ -234,7 +234,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
-* At 4:30 PM, if you don't have enough bait to finish out the day, go to Willy and buy more.
+* At 4:30 PM, if you do not have enough bait to finish out the day, go to Willy and buy more.
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
@@ -259,14 +259,14 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 ### Spring 4
 
 * Water.
-* If you don't have 150 wood, chop up to 150 wood. (Remember to take your Scythe while chopping to clear grass.)
+* If you do not have 150 wood, chop up to 150 wood. (Remember to take your Scythe while chopping to clear grass.)
   * This is because we will need 2 more chests and a scarecrow over the next 2 days.
 * Empty your inventory.
 * Craft a Chest and take it with you.
 * Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
 * Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
-  * Don't leave your rod in the chest in case it rains.
+  * You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.
 * Go home. 
 * Ship gems + fish.
   * Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
@@ -285,7 +285,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest (100g).
-* Don't water any remaining mixed seeds until later on in the day.
+* Do not water any remaining mixed seeds until later on in the day.
 * Craft a chest and take it with you. 
 * Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 * Retrieve the Pickaxe + all gems + all stone + coal + copper + all but 3 parsnips from the chest.
@@ -294,7 +294,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the mines.
 * Place the chest to the left of the elevator.
 * Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
-* As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar). (Don't wait until you get to the next elevator unless you are really close.)
+* As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar). (Do not wait until you get to the next elevator unless you are really close.)
 * Keep the furnace going until you have 5 bars. You need to have 5 bars before 3 PM. Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15).
   * If you do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter.)
   * If you fail to craft 5 bars by 2 PM, then continue to get as far as you can in the mines and push everything in the route back one day.
@@ -346,7 +346,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the mountain lake and fish until 1 AM. Fill your inventory with 5 iron bars + the most expensive items to sell.
 * Go home.
 * Out of your sellable items, ship however much will give you 5,000g for the Steel Pickaxe upgrade + however much gold to buy up to 25 gold ore.
-  * If you don't have enough, sell Chubs. (Remember, sell the lowest-quality ones first.)
+  * If you do not have enough, sell Chubs. (Remember, sell the lowest-quality ones first.)
 * It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 
 ### Spring 7
@@ -438,7 +438,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ## Appendix A: Mods
 
-Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We don't use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods that preserve the vanilla strategies.
+Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We do not use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods that preserve the vanilla strategies.
 
 #### [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150)
 

@@ -415,9 +415,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Ship enough fish to buy half of the Kale Seeds necessary (6,020g). (We will plant the Kale in two batches.)
   * Two batches is optimal because we don't want to craft more [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) than necessary. This allows for the maximum amount of iron bars to craft Quality Sprinklers on Spring 28.
 * Empty inventory. Retrieve Fiberglass Rod.
+* If you have less than 100 bait on the rod, also retrieve a few fish.
 * Give Vincent a birthday present (optional).
   * A [Daffodil](https://stardewvalleywiki.com/Daffodil) or a gem is a good gift.
   * You will get there before he wakes up, so fish in the town river until he comes outside.
+* If you need bait, go to Willy, sell the fish, buy more bait.
 * Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
 
 ### Spring 11

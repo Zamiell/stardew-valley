@@ -289,7 +289,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Leave Rubies and Diamonds though since we want to save those for the Skull Caverns.
   * We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
 * Go to the mines.
-* Place the chest to the right of the elevator.
+* Place the chest to the left of the elevator.
 * Get as low as possible. (See [General Mines Strategy](#general-mines-strategy).)
 * As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar).
 * Farm copper and keep the furnace going until you have 5 bars. You need to have 5 bars before 2 PM.

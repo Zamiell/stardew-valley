@@ -275,7 +275,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.
-* Make a note of which mixed seeds you have planted. (You can tell either by looking at the tile graphic of the seed or by using [a mod]().
+* Make a note of which mixed seeds you have planted. (You can tell either by looking at the tile appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest.
 * Don't water any remaining mixed seeds until later on in the day.
 * Craft a chest and take it with you. 

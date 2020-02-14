@@ -103,7 +103,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Mines Strategy
 
-* Starting on Spring X, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
+* Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you have a copper pickaxe or better, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.
@@ -408,7 +408,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Harvest the Kale. (This should get to you farming level 2.)
 * Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
-* At 8:30 AM, go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
+* Leave the farm at 8:00 AM to go to the blacksmith. Retrieve the gold pickaxe.
+* Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
 * Go back to the farm and finish hoeing + planting.
   * You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
 * Go to the mines. Mine until 2 AM, then pass out.

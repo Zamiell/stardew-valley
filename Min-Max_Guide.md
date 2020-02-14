@@ -176,7 +176,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Elliott outside of his cabin.
 * Check for + hoe artifact spots.
 * Go to town.
-* If you got an artifact, donate it to the museum and claim the reward.
+* If you got an artifact, donate it to the museum and claim the reward (250g).
 * Check the garbage cans next to the museum + blacksmith.
 * Meet Clint inside of the blacksmith.
 * Meet Pam + Sam + Shane inside of JojaMart.
@@ -223,7 +223,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Empty all inventory in the chest except for the Chest + 1 rock.
 * Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
 * Go to the beach and get the Bamboo Pole.
-* Give the rock to Willy and claim the reward for the "How To Win Friends" quest.
+* Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 * Place the chest on the bottom-right hand corner of the pier.
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
@@ -284,7 +284,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Also check the weather every single day so that you can plan ahead for a rainy day. If it will rain, you should not leave your pole + furnace + ore + coal at the mountain lake, since you will want to take it with you to the forest river.
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
-* Claim the reward for the parsnip quest.
+* Claim the reward for the parsnip quest (100g).
 * Don't water any remaining mixed seeds until later on in the day.
 * Craft a chest and take it with you. 
 * Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)

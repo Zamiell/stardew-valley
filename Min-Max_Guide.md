@@ -349,6 +349,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Check the Queen of Sauce for a recipie.
 * Check all the mail (until you get the wizard's letter).
+* Water.
 * Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).
   * An Earth Crystal or a gem is an easy gift.
 * Go to the wizard (to trigger the cutscene).
@@ -362,11 +363,13 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 8
 
+* Water.
 * Out of your sellable items, ship however much will give you 10,000g for the Gold Pickaxe upgrade.
 * Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 9
 
+* Water.
 * Chop wood until around 8 AM.
 * Empty inventory. Retrieve the Fiberglass Rod.
 * Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).

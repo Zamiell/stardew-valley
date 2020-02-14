@@ -313,10 +313,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Buy up to 25 gold ore (accounting for gold ore gained from fishing chests).
   * Upgrade the pickaxe.
 * Go to Pierre's and buy:
-  * 16 Kale Seeds (1,120g)
   * 1 Bean Starter (60g)
-  * 1 Cauliflower Seeds (80g)
-  * 1 Potato Seeds (50g)
+  * 1 Cauliflower Seeds (80g) (not necessary if you have one from a mixed seed)
+  * 1 Potato Seeds (50g) (not necessary if you have one from a mixed seed)
+  * 16 Kale Seeds (1,120g)
+  * With any remaining money, buy additional Kale seeds.
 * Go home.
 * Hoe + plant + water.
 * Retrieve the Fiberglass Rod + furnace + all ore + coal.

@@ -332,6 +332,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 6
 
+[old]
+
 * Claim the reward for any outstanding quests from the journal.
 * Read all of the mail.
 * If you mined on Spring 5, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.

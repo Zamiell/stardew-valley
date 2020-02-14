@@ -28,6 +28,8 @@
   * [Spring 7](#spring-7)
   * [Spring 8](#spring-8)
   * [Spring 9](#spring-9)
+  * [Spring 10](#spring-10)
+  * [Spring 11](#spring-11)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />
@@ -374,6 +376,14 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve the Fiberglass Rod.
 * Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
+
+### Spring 10
+
+* TODO
+
+### Spring 11
+
+* TODO
 
 ### Spring 12
 

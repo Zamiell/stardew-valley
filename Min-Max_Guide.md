@@ -295,7 +295,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Keep the furnace going until you have 5 bars. You need to have 5 bars before 3 PM. Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15).
   * If you do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter.)
   * If you fail to craft 5 bars by 2 PM, then continue to get as far as you can in the mines and push everything in the route back one day.
-* Leave the sword in the chest.
+* Leave the sword + parsnips in the chest.
 * Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
 * Go to the blacksmith:
   * Sell gems.
@@ -320,7 +320,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * With any remaining money, buy additional Kale seeds.
 * Go home.
 * Plant + water.
-* Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal.
+* Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal + Chubs.
 * Go to the mountain lake.
 * Place the furnace next to the chest. Smelt 5 iron bars while you fish.
 * Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.

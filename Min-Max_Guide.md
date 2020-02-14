@@ -378,7 +378,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 8
 
 * Water.
-* Out of your sellable items, ship however much will give you 10,000g for the Gold Pickaxe upgrade.
+* Out of your sellable items, ship however much will give you 12,000g.
+  * This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 9
@@ -387,6 +388,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Chop wood until around 8 AM.
 * Empty inventory. Retrieve the Fiberglass Rod.
 * Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
+* Go to Pierre's and buy the backpack upgrade (2,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
   * Fishing 9 --> 10
@@ -431,6 +433,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Do not bother watering the Kale.
 * Mine until 12 AM.
 * Go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
+* Sell items to get up to 32,500g.
 * It should be 2 AM after this. If not, cut down grass and pass out.
 
 ### Spring 15
@@ -438,6 +441,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Water the crops that are not yet covered by sprinklers.
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
+* Go to the community center and complete the bundles for these items.
+  * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
+* Also complete the 25,000g, the 5,000g, and the 2,500g vault bundles.
+* 
 
 ### Spring 16
 

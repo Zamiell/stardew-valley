@@ -275,7 +275,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 5
 
-The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. Then, we plant some seeds.
+The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is extremely tight.) Then, we plant some seeds. Then, we fish.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Check the weather for tomorrow. If it will rain, note that you cannot leave your furnace at the mountain lake and that you should bring all ore + coal with you back from the mountain lake (so that you can smelt at the river).

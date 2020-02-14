@@ -301,6 +301,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * When buying ore, make sure to save at least 3,310g:
     * 2,000g for the pickaxe upgrade.
     * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained for mixed seeds.)
+      * 8 XP per Parsnip * 15 Parsnips = 120 XP
+      * 380 XP - 120 XP = 260 XP
+      * 260 XP / 17 XP per Kale = 16 Kale
+      * 16 Kale Seeds * 70g = 1,120g
     * 60g for 1 Bean Starter.
     * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
     * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).

@@ -119,6 +119,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Weather Modifications
 
+* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the whether (and you need to know ahead of time so that you can plan ahead).
 * The best fishing spot for non-rainy days is the mountain lake.
   * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
 * The best fishing spot for rainy days is the forest river.
@@ -325,6 +326,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Place the furnace next to the chest. Smelt 5 iron bars while you fish.
 * Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
   * Leave remaining iron ore + gold ore at the mountain lake chest (unless it is going to rain tomorrow).
+  * Make a note of how many gold ore you have.
 * At the end of the day, you should get:
   * Farming 0 --> 1
   * Mining 0 --> 1
@@ -332,43 +334,22 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 6
 
-[old]
-
 * Water.
+* Craft and place a scarecrow.
 * Chop trees until 7:40 AM.
-* Empty inventory
-
-* Claim the reward for any outstanding quests from the journal.
-* Read all of the mail.
-* If you mined on Spring 5, make a furnace and smelt 5 Copper Bars (while doing other tasks). Keep the Copper Bars in your inventory.
-  * Save all remaining copper for more Furnaces.
-* Harvest any mixed seeds and make a note of how many you harvested.
-* Pause the game and:
-  * Calculate how much farming experience you currently have.
-    * Parnips give 8 XP each.
-  * Calculate how many Kale you would need to get farming level 6, which is 3300 total XP.
-    * Kale gives 17 XP each.
-    * e.g. (3300 - current XP) / 17
-    * We need level 6 farming in order to get the Quality Sprinkler recipe. (The route will not work otherwise.)
-  * Calculate how much gold you would need to buy that many Kale Seeds at 70g a seed. (It will be around 173 Kale Seeds for 12,110g.)
-* Start clearing + hoeing + watering enough squares for all your Kale.
-  * It is helpful to use the crop pattern for Quality Sprinklers, even though you have no Quality Sprinklers. That way you can transition easier later on.
-* At 8 AM, go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
+* Empty inventory + retrieve Fiberglass Rod.
+* Go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
   * This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
-* Go to the community center and touch the Golden Scroll square (to start the quest).
-* If you mined on Spring 5, go to Clint's, upgrade the Pickaxe and sell all gems.
-* Go to Pierre's:
-  * Sell low-quality Parsnips until you have enough money for the Kale Seeds.
-  * Buy the Kale Seeds.
-* Go home, fertilize + plant + water.
-* Craft + place 3 Scarecrows.
-* (Don't sell anything to stay at 0 gold.)
-* Mine/fish until 2 AM, then pass out. (Depending on the day's luck.)
-  * If you mine, move the Furnace from the farm to the 0th floor.
-* At the end of the day, you should get:
-  * Foraging 1 --> 2
+* Go into the community center and touch the Golden Scroll square (to start the quest).
+* Go to the mountain lake and fish until 1 AM. Fill your inventory with the most expensive items to sell.
+* Go home.
+* Out of your sellable items, ship however much will give you 5,000g for the Steel Pickaxe upgrade + however much gold to buy up to 25 gold ore.
+  * If you don't have enough, sell Chubs. (Remember, sell the lowest-quality ones first.)
+* It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 
 ### Spring 7-11
+
+[old]
 
 * On Spring 7, check the Queen of Sauce for a recipie.
 * (Don't sell anything to stay at 0 gold.)

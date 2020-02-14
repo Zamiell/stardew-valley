@@ -33,6 +33,7 @@
   * [Spring 12](#spring-12-13)
   * [Spring 14](#spring-14)
   * [Spring 15](#spring-15)
+  * [Spring 16](#spring-16)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />
@@ -448,14 +449,16 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Water the crops that are not yet covered by sprinklers.
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
-* Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
+* Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.
   * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
 * Also complete the 25,000g, the 5,000g, and the 2,500g vault bundles.
 * Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 * Empty inventory and go to the mines.
-* You should get to floor 120 today.
-* Once you get to floor 120, go to the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild) and sell all weapons & equipment.
+* At some point, go to the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild) and sell all weapons & equipment.
+* Once you reach the bottom of the mines, revert to farming ore.
+  * Copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
+* Mine until 2 AM, then pass out.
 
 ### Spring 16
 

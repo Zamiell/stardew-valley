@@ -320,8 +320,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * With any remaining money, buy additional Kale seeds.
 * Go home.
 * Plant + water.
-* Retrieve the Fiberglass Rod + furnace + all ore + coal.
-* Go to the mountain lake and fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
+* Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal.
+* Go to the mountain lake.
+* Place the furnace next to the chest. Smelt 5 iron bars while you fish.
+* Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
+  * Leave remaining iron ore + gold ore at the mountain lake chest (unless it is going to rain tomorrow).
 * At the end of the day, you should get:
   * Farming 0 --> 2
   * Mining 0 --> 1

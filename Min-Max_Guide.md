@@ -367,6 +367,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).
   * An Earth Crystal or a gem is an easy gift.
 * Go to the wizard (to trigger the cutscene).
+* Empty out the contents of the forest river chest (optional).
 * Go to Lewis and give him a birthday present (optional).
 * Go to the blacksmith:
   * Buy up to 25 gold ore.

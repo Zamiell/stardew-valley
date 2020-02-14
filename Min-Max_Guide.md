@@ -27,6 +27,7 @@
   * [Spring 6](#spring-6)
   * [Spring 7](#spring-7)
   * [Spring 8](#spring-8)
+  * [Spring 8](#spring-9)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />
@@ -362,12 +363,16 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Sell stuff for gold pickaxe. (?)
 * Fish at the mountain lake until 2 AM, then pass out.
 
+### Spring 9
+
+* TODO
+
 ### Spring 12
 
 [old]
 
 * Harvest.
-* Ship everything. (We can't sell anything tomorrow at the fair.)
+* Ship everything. (We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).)
 * Mine/fish until 2 AM, then pass out.
 
 ### Spring 13
@@ -377,10 +382,6 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Mine/fish until around 1 PM, then go to the festival. (The latest you can arrive to the town is 2 PM.)
 * Buy max Strawberry Seeds (100g each).
 * Clear the farm until 12 PM (to prepare for planting the Strawberry Seeds on day 16), then sleep.
-
-### Spring 14
-
-* Mine/fish until 2 AM, then pass out.
 
 ### Spring 15
 

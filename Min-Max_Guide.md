@@ -274,6 +274,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. Then, we plant some seeds.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
+* Also, check the weather for tomorrow. If it will rain, note that you cannot leave your furnace at the mountain lake.
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest.

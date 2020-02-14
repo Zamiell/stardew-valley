@@ -141,6 +141,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * The cave restocks faster, granting more total items.
   * On average, mushrooms sell for more than fruit.
   * Common Mushrooms are a good energy food. They have high GPE and you can build up a large stack of them.
+* You will find some [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot) from fishing chests during the first half of spring. While not mentioned explicitly in the route, spending the time to hoe and plant these next to a water supply is worth it because each Rice Shoot grants 7 farming XP. This in turn means that you do not have to purchase as many Kale on Spring 11 and Spring 21.
 
 <br />
 
@@ -389,6 +390,14 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 10
 
 * Water.
+* Calculate how many additional kale you need to get to farming level 6.
+  * 8 XP per Parsnip * 15 Parsnips = 120 XP
+  * 17 XP per Kale * 16 Kale = 272 XP
+  * 3300 total XP - 120 XP - 272 XP = 2908 XP needed
+  * 2908 XP / 17 = 172 Kale
+  * 172 Kale Seeds * 70g = 12,040g
+* Ship enough fish to buy half of the Kale Seeds necessary (6,020g). (We will plant the Kale in two batches.)
+  * Two batches is optimal because we don't want to craft more [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) than necessary. This allows for the maximum amount of iron bars to craft Quality Sprinklers on Spring 28.
 * Empty inventory. Retrieve Fiberglass Rod.
 * Give Vincent a birthday present (optional).
   * A [Daffodil](https://stardewvalleywiki.com/Daffodil) or a gem is a good gift.
@@ -397,7 +406,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 11
 
-* Get pickaxe.
+* Harvest the Kale and make a note of how many you harvested.
+  * This should get to you farming level 2.
+* Set up 
 * Mines
 * TODO
 
@@ -405,9 +416,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 [old]
 
-* Harvest.
-* Ship everything. (We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).)
-* Mine/fish until 2 AM, then pass out.
+* We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).
 
 ### Spring 13
 

@@ -406,56 +406,30 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 11
 
-* Harvest the Kale and make a note of how many you harvested.
-  * This should get to you farming level 2.
-* Set up 
-* Mines
-* TODO
+* Harvest the Kale. (This should get to you farming level 2.)
+* Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
+* At 8:30 AM, go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
+* Go back to the farm and finish hoeing + planting.
+  * You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
+* Go to the mines. Mine until 2 AM, then pass out.
 
-### Spring 12
+### Spring 12-13
 
-[old]
+* Don't bother watering the Kale.
+* 
+
+2) On Spring 11, you buy  (172 / 2) and plant all of them. You water none of them. Then you go to the mines.
+    (Alternatively we could just buy all 172 to avoid making a return trip to Pierre later on.)
+3) On Spring 12-14, you go straight to the mines, dig deeper while smelting copper and iron.
+4) On the night of Spring 14, you craft + place as many Sprinklers as possible.
+5) On Spring 15, 16, and 17, each morning you will have to manually water some crops (the ones that are not covered by Sprinklers yet). Eventually, by around Spring 16 or 17, you will have enough bars crafted such that you don't have to water anymore.
+6) On Spring 21, harvest the Kale, and replant.
 
 * We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).
-
-### Spring 13
-
-* Claim the reward for any outstanding quests from the journal.
-* Check the mail.
-* Mine/fish until around 1 PM, then go to the festival. (The latest you can arrive to the town is 2 PM.)
-* Buy max Strawberry Seeds (100g each).
-* Clear the farm until 12 PM (to prepare for planting the Strawberry Seeds on day 16), then sleep.
-
-### Spring 15
-
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
-* Mine/fish until 12:30 AM, then go home.
-* Ship all extra items to get as much money as possible for the next day.
-
-### Spring 16
-
-* Hoe + plant + water all Stawberry Seeds.
 * Go to Pierre's:
   * Buy the backpack upgrade (1,000g)
-  * Buy max Kale Seeds
-* Go home
-* Hoe + fertilize + plant + water all Kale Seeds.
 * At this point, you should have enough sprinklers to cover all your crops. If not, prioritize placing the sprinklers on the plots that are the farthest away from the pond (to minimize travelling back and forth with the watering can).
-* Doing all of this should take all day.
-
-### Spring 17
-
-* Water (if not full sprinklers).
-* Return to the mines to get any remaining materials needed for sprinklers.
-
-### Spring 20-27
-
-* From this point on you can do pretty much whatever you like for the rest of the season.
-  * If you need extra money, fish at the forest river when it is raining for Catfish.
-
-### Spring 22
-
-* Buy + plant Kale. (If you plant it today, it will be ready to harvest on the 28th.)
 
 <br />
 

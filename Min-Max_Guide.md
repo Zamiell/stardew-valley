@@ -516,5 +516,5 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 ## TTD
 
 * add how much bait is needed @ 4:30 PM on Spring 2
-* add date of getting mushroom cave
+* add date of getting mushroom cave (should be Spring 9)
 * add dates to get mushrooms

@@ -30,6 +30,9 @@
   * [Spring 9](#spring-9)
   * [Spring 10](#spring-10)
   * [Spring 11](#spring-11)
+  * [Spring 12](#spring-12-13)
+  * [Spring 14](#spring-14)
+  * [Spring 15](#spring-15)
 * [Appendix A: Mods](#appendix-a-mods)
 
 <br />
@@ -103,8 +106,8 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Mines Strategy
 
-* Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will easily be able to farm metal later on.)
-* Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
+* Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will be able to easily farm metal later on.)
+* Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest + restock furnaces, if any. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you have a copper pickaxe or better, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.
   * One alternate strategy would be to intentionally kill all the gray rocks first, because they grant 3 mining XP (as opposed to the 0 XP from normal rocks). This allows the ability to craft Staircases on the second day of mining (as opposed to only getting the ability on the 3rd day of mining). While this is useful for bypassing infested floors, the strategy will only pay off if you happen to get an infested floor on the 2nd day of mining. Thus, I do not believe that this strategy is worth it.
@@ -250,12 +253,13 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
 * Fish until 9 AM.
 * At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left.
-  * However, remember to keep one of each [Crab Pot Bundle](https://stardewvalleywiki.com/Bundles#Fish_Tank) item.
+  * However, remember to keep one of each [Crab Pot Bundle](https://stardewvalleywiki.com/Bundles#Crab_Pot_Bundle) item.
 * Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
 * Go to Clint and buy a copper ore (75g). Drop it on the ground and pick it back up (to initiate the Clint cutscene tomorrow).
 * Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
 * Fish until 2 AM. Before passing out, fill your inventory with any gems, ore, coal, and the most expensive fish.
+  * You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
 * At the end of the day, you should get:
   * Fishing 4 --> 6 (choose Fisher profession)
 
@@ -403,7 +407,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Give Vincent a birthday present (optional).
   * A [Daffodil](https://stardewvalleywiki.com/Daffodil) or a gem is a good gift.
   * You will get there before he wakes up, so fish in the town river until he comes outside.
-* Fish at the mountain lake until 2 AM, then pass out.
+* Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
 
 ### Spring 11
 
@@ -411,24 +415,48 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
 * Leave the farm at 8:00 AM to go to the blacksmith. Retrieve the gold pickaxe.
 * Go to Pierre's and buy the previously calculated amount of Kale Seeds. (6,020g)
-* Go back to the farm and finish hoeing + planting.
+* Go back to the farm and finish hoeing + planting. (Do not water any squares.)
   * You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
-* Go to the mines. Mine until 2 AM, then pass out.
+* Go to the mines and place the furnace. Keep the furnace going with smelting bars.
+* Mine until 2 AM, then pass out.
+  * As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 
 ### Spring 12-13
 
-* Don't bother watering the Kale.
-* 
+* Do not bother watering the Kale.
+* Mine until 2 AM, then pass out.
 
-2) On Spring 11, you buy  (172 / 2) and plant all of them. You water none of them. Then you go to the mines.
-    (Alternatively we could just buy all 172 to avoid making a return trip to Pierre later on.)
-3) On Spring 12-14, you go straight to the mines, dig deeper while smelting copper and iron.
-4) On the night of Spring 14, you craft + place as many Sprinklers as possible.
-5) On Spring 15, 16, and 17, each morning you will have to manually water some crops (the ones that are not covered by Sprinklers yet). Eventually, by around Spring 16 or 17, you will have enough bars crafted such that you don't have to water anymore.
-6) On Spring 21, harvest the Kale, and replant.
+### Spring 14
 
-* We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).
+* Do not bother watering the Kale.
+* Mine until 12 AM.
+* Go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
+* It should be 2 AM after this. If not, cut down grass and pass out.
+
+### Spring 15
+
+* Water the crops that are not yet covered by sprinklers.
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
+* Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
+
+### Spring 16
+
+* Water the crops that are not yet covered by sprinklers.
+* Use the bars smelted on the previous day to craft more sprinklers until all the crops are covered.
+* TODO
+
+### Spring 19
+
+* Need to upgrade Axe today.
+* TODO
+
+### Spring 20
+
+* TODO
+* 2 axe and 2 hoe
+* 25, 23, 21, 19th
+* We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).
+
 * Go to Pierre's:
   * Buy the backpack upgrade (1,000g)
 * At this point, you should have enough sprinklers to cover all your crops. If not, prioritize placing the sprinklers on the plots that are the farthest away from the pond (to minimize travelling back and forth with the watering can).
@@ -480,7 +508,6 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 ## TTD
 
-* fill in Spring X
 * add how much bait is needed @ 4:30 PM on Spring 2
-* add date of return to forest river chest
-* add date of return to mines chest
+* add date of getting mushroom cave
+* add dates to get mushrooms

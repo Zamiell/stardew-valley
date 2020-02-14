@@ -362,7 +362,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 8
 
-* Sell stuff for gold pickaxe. (?)
+* Out of your sellable items, ship however much will give you 10,000g for the Gold Pickaxe upgrade.
 * Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 9

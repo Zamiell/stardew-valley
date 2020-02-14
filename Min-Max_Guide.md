@@ -325,7 +325,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the mountain lake.
 * Place the furnace next to the chest. Smelt 5 iron bars while you fish.
 * Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
-  * Leave remaining iron ore + gold ore at the mountain lake chest (unless it is going to rain tomorrow).
+  * Leave remaining iron ore + gold ore at the mountain lake chest. (Unless it is going to rain tomorrow; if so, remember to take the furnace with you.)
   * Make a note of how many gold ore you have.
 * At the end of the day, you should get:
   * Farming 0 --> 1

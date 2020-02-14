@@ -219,8 +219,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
 * Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 * Water.
-* Craft a Chest and take it with you.
-* Empty all inventory in the chest except for the Chest + 1 rock.
+* Craft a chest and take it with you.
+* Empty all inventory in the chest. Retrieve the crafted chest + 1 rock.
 * Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).

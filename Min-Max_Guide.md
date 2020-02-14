@@ -382,6 +382,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve the Fiberglass Rod.
 * Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
+* At the end of the day, you should get:
+  * Fishing 9 --> 10
+* If you do not get fishing level 10 today, then you will get it after the next day of fishing. This does not change the route at all.
 
 ### Spring 10
 

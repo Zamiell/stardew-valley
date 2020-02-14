@@ -469,6 +469,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 16
 
+* Grab mushrooms from the cave.
 * Water the crops that are not yet covered by sprinklers (if any).
 * Use the bars smelted on the previous day to craft more sprinklers (if needed).
 * Mine until 2 AM.
@@ -479,6 +480,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 18
 
+* Grab mushrooms from the cave.
 * TODO
 
 ### Spring 19
@@ -488,6 +490,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 20
 
+* Grab mushrooms from the cave.
 * TODO
 
 <br />

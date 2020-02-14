@@ -440,47 +440,50 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 14
 
 * Grab mushrooms from the cave.
-* Mine until 12 AM.
-* Go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
+* Go to the mines until 12 AM.
+* If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.
+* If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 16, depending on how lucky you are & how well you play.)
+  * Once you have all of the (normal) sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
+* At 12 AM, go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
 * Sell items to get up to 32,500g.
 * It should be 2 AM after this. If not, cut down grass and pass out.
 
 ### Spring 15
 
-* Water the crops that are not yet covered by sprinklers.
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
+* Water the crops that are not yet covered by sprinklers (if any).
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.
   * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
 * Also complete the 25,000g, the 5,000g, and the 2,500g vault bundles.
 * Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 * Empty inventory and go to the mines.
-* At some point, go to the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild) and sell all weapons & equipment.
-* Once you reach the bottom of the mines, revert to farming ore.
-  * Copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
-* Mine until 2 AM, then pass out.
+* If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.
+* Mine until 2 AM, then pass out. If you still need to craft more sprinklers, remember to leave the smelted bars in your inventory.
+* At the end of the day, you will unlock the [Minecarts](https://stardewvalleywiki.com/Minecart).
 
 ### Spring 16
 
-* Water the crops that are not yet covered by sprinklers.
-* Use the bars smelted on the previous day to craft more sprinklers until all the crops are covered.
+* Water the crops that are not yet covered by sprinklers (if any).
+* Use the bars smelted on the previous day to craft more sprinklers (if needed).
+* Mine until 2 AM.
+
+### Spring 17
+
+* TODO
+
+### Spring 18
+
 * TODO
 
 ### Spring 19
 
-* Need to upgrade Axe today.
+* Need to upgrade the axe today. (19 + 21 + 23 + 25)
 * TODO
 
 ### Spring 20
 
 * TODO
-* 2 axe and 2 hoe
-* 25, 23, 21, 19th
-* We can't sell anything tomorrow at the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival).
-
-* Go to Pierre's:
-  * Buy the backpack upgrade (1,000g)
-* At this point, you should have enough sprinklers to cover all your crops. If not, prioritize placing the sprinklers on the plots that are the farthest away from the pond (to minimize travelling back and forth with the watering can).
 
 <br />
 

@@ -194,7 +194,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Empty your inventory. Keep the tools.
 * Clear a path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 * Meet Linus outside of his tent.
-* Meet Demetrius south-east of their house.
+* Meet Demetrius south-east of his house. (You don't need to talk to Robin because you already met her.)
 * Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds elsewhere.)
 * Go south to the community center.
 * Kill the weeds to the left of the community center.

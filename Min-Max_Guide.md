@@ -297,7 +297,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar). (Do not wait until you get to the next elevator unless you are really close.)
 * Keep the furnace going until you have 5 bars. You need to have 5 bars before 3 PM. Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15).
   * If you do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter.)
-  * If you fail to craft 5 bars by 2 PM, then continue to get as far as you can in the mines and push everything in the route back one day.
+  * If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day.
 * Leave the sword + parsnips in the chest.
 * Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
 * Go to the blacksmith:

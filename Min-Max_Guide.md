@@ -206,7 +206,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Kill weeds + grass until around 1:30 AM.
 * Sell all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
   * In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
-  * Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a GPE ratio of under 2. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
+  * Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 * Hoe + plant + water any remaining mixed seeds.
   * Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
 * Go to bed at 2 AM. (We don't want to incur the gold penalty.)

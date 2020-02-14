@@ -298,7 +298,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Keep the furnace going until you have 5 bars. For reference, you must have all 5 bars crafted by no later than 3 PM.
 * Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15 before 3 PM).
 * As soon as you have the 5 bars ready:
-  * Leave the sword + parsnips in the chest.
+  * Leave the sword + parsnips in the chest. (You will not return to this chest until Spring 11.)
   * Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
   * Go to the blacksmith.
 * As an extra tip, if you are running late and do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter.)

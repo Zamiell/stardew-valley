@@ -278,7 +278,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. Then, we plant some seeds.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
-* Also, check the weather for tomorrow. If it will rain, note that you cannot leave your furnace at the mountain lake.
+* Check the weather for tomorrow. If it will rain, note that you cannot leave your furnace at the mountain lake and that you should bring all ore + coal with you back from the mountain lake (so that you can smelt at the river).
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest.
@@ -288,13 +288,15 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Retrieve the Pickaxe + all gems + all stone + coal + copper + all but 3 parsnips from the chest.
   * Leave Rubies and Diamonds though since we want to save those for the Skull Caverns.
   * We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
-* Go to the mines, place the chest to the right of the elevator.
+* Go to the mines.
+* Place the chest to the right of the elevator.
 * Get as low as possible. (See [General Mines Strategy](#general-mines-strategy).)
 * As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar).
 * Farm copper and keep the furnace going until you have 5 bars. You need to have 5 bars before 2 PM.
-  * If you do not have time for the 5th bar to smelt, then you can pickaxe the furnace and take it with you to the blacksmith. Place the furnace inside, smelt the 5th bar, and wait 20 minutes. As long as you are inside the blacksmith, Clint will continue to sell to you as long as he is still standing at the counter.
+  * If you do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 AM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 20 minutes. As long as you are inside the blacksmith, Clint will continue to sell to you until 5 PM (when he leaves the counter to go bang on an anvil).
   * If you fail to craft 5 bars by 2 PM, then continue to get as far as you can in the mines and push everything in the route back one day.
-* Bring any gems with you and go to the blacksmith:
+* Retrieve the furnace + any gems.
+* Go to the blacksmith:
   * Sell gems.
   * When buying ore, make sure to save at least 3,310g:
     * 2,000g for the pickaxe upgrade.
@@ -310,8 +312,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * 1 Bean Starter (60g)
   * 1 Cauliflower Seeds (80g)
   * 1 Potato Seeds (50g)
-* ?
-
+* Go home.
+* Hoe + plant + water.
+* Retrieve the Fiberglass Rod + furnace + all ore + coal.
+* Go to the mountain lake and fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
 * At the end of the day, you should get:
   * Farming 0 --> 2
   * Mining 0 --> 1

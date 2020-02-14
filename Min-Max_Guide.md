@@ -73,9 +73,9 @@ The guide is designed for the kind of player who is using the following self-imp
 The reasons for not allowing the restarting of a day are twofold:
 
 * First, if you allow restarting a day as many times as you want, it removes the execution aspect of the challenge. Mistakes are inconsequential: simply restart the day over and over until you execute perfectly.
-* Second, it allows for unfair knowledge. For examp4le, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
+* Second, it allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. If you allow this, then it follows that you should allow Stardew Predictor, since it is just a shortcut to re-playing the same day a bunch of times and gathering lots of information.
   
-While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge, all of the challenges that I know about are completable by skilled players without resorting to this.
+While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge of the various elements of the game, all of the challenges that I know about are completable by skilled players without having to resort to this.
 
 ### Gold per Energy List (GPE)
 

@@ -241,7 +241,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 3
 
-* (It always rains on this day.)
+* It always rains on Spring 3.
+* From here on out, check the TV every single day to reveal the next day's weather so that you can plan accordingly. (For example, if you are fishing at the mountain lake and you know that it will not rain on the next day, you can safely leave your fishing pole in the chest at the end of the day.)
 * Empty all inventory in the chest except for the Fiberglass Rod.
 * If you got a copper ore while fishing yesterday, drop it on the ground and pick it up (to initiate the Clint cutscene tomorrow). You can now skip buying copper ore from Clint later on today.
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
@@ -278,10 +279,9 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 5
 
-The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
+The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds + fish.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
-* Also check the weather every single day so that you can plan ahead for a rainy day. If it will rain, you should not leave your pole + furnace + ore + coal at the mountain lake, since you will want to take it with you to the forest river.
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest (100g).

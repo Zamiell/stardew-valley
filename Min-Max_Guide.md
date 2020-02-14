@@ -355,7 +355,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 7
 
-* Check the Queen of Sauce for a recipie.
+* Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipie.
 * Check all the mail (until you get the wizard's letter).
 * Water.
 * Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).

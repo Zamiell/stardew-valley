@@ -367,7 +367,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 9
 
-* TODO
+* Chop wood until around 8 AM.
+* Empty inventory. Retrieve the Fiberglass Rod.
+* Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
+* Fish at the mountain lake until 2 AM, then pass out.
 
 ### Spring 12
 

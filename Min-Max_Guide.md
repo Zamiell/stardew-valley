@@ -340,6 +340,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 6
 
 * Water.
+  * If any of our spring bundle crops got eaten by a crow, make a note of it and re-purchase the seed from Pierre when convenient.
 * Craft and place a scarecrow.
 * Chop trees until 7:40 AM.
 * Empty inventory + retrieve Fiberglass Rod.

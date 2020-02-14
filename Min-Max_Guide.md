@@ -397,6 +397,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 11
 
+* Get pickaxe.
+* Mines
 * TODO
 
 ### Spring 12

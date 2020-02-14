@@ -319,7 +319,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * 16 Kale Seeds (1,120g)
   * With any remaining money, buy additional Kale seeds.
 * Go home.
-* Hoe + plant + water.
+* Plant + water.
 * Retrieve the Fiberglass Rod + furnace + all ore + coal.
 * Go to the mountain lake and fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
 * At the end of the day, you should get:

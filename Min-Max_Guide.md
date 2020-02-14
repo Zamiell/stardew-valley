@@ -326,9 +326,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Fish until 2 AM. Before passing out, fill your inventory with the most expensive items.
   * Leave remaining iron ore + gold ore at the mountain lake chest (unless it is going to rain tomorrow).
 * At the end of the day, you should get:
-  * Farming 0 --> 2
+  * Farming 0 --> 1
   * Mining 0 --> 1
-  * Combat 0 --> 1
+  * Fishing 7 --> 8
 
 ### Spring 6
 

@@ -105,11 +105,14 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
+* The best fishing spot for non-rainy days is the mountain lake.
+  * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
+* The best fishing spot for rainy days is the forest river.
+  * This is because Catfish sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Prioritize eating [Green Algae](https://stardewvalleywiki.com/Green_Algae) (1.15 ratio), then [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (1.92 ratio), then the highest-quality [Chub](https://stardewvalleywiki.com/Chub).
 * Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
-* Make sure that you have at least 5 inventory slots open at all times by moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
+* Make sure that you keep 4 or 5 inventory slots free by occasionally moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
-* For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
 ### General Mines Strategy
 
@@ -130,14 +133,25 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### Weather Modifications
 
-* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the whether (and you need to know ahead of time so that you can plan ahead).
-* The best fishing spot for non-rainy days is the mountain lake.
-  * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
-* The best fishing spot for rainy days is the forest river.
-  * This is because Catfish sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
-* Thus, if the guide says to fish at the mountain lake, and it happens to be raining for you, then go to the forest river instead.
-* Furthermore, if the guide says to mine, and it happens to be raining for you, then you might want to disregard mining and go to fish at the forest river. (Because the money from Catfish is really good.)
+* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
+* On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because Catfish sell for so much money that everything else becomes less important.
+* Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
+  * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
+* For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
+
+### General Skull Caverns Strategy
+
+* When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
+* Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eel](https://stardewvalleywiki.com/Desert_Trader). Use one immediately for the speed boost and keep it going for the whole day.
+* Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
+* Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert). Use these to get to the desert on subsequent days.
+* In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
+* The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword).
+* You can craft some bombs for big clusters of rocks/ore, but do not go overboard, as you need to build up some ore for Quality Sprinklers.
+* You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable tham fishing in spring.
+* Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
+* When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
 
 ### Other Notes
 
@@ -481,11 +495,25 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Grab mushrooms from the cave.
 * Water the crops that are not yet covered by sprinklers (if any).
 * Use the bars smelted on the previous day to craft more sprinklers (if needed).
-* Mine until 2 AM. (Remember to use the minecarts to get there faster.)
+* If the Skull Caverns are unlocked, get as far down as you can. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
+* Otherwise, mine until 2 AM. (Remember to use the minecarts to get there faster.)
+
+### Spring 17 and Beyond
+
+* If you have not already gotten to floor 120 of the mines, get that done as soon as possible.
+* Furthermore, if you need more gold to finish the vault, then fish at the mountain lake, and finish the vault as soon as possible.
+  * If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
+* Start to do Skull Cavern runs as soon as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
+* During periods of downtime, you can:
+  * Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
+  * Craft + place Quality Sprinklers, craft + place Scarecrows.
+  * Hoe + plant Parsnips (as a "linger crop" to keep the squares watered on Summer 1).
+  * Farm more ore in the mines (on floor 20/40/80).
 
 ### Spring 19
 
 * Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
+  * Upgrading the axe is optinoal; you can forgo it if you want more money to purchase Starfruit on Spring 28.
 
 ### Spring 25
 

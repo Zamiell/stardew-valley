@@ -437,6 +437,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Go to the mines and place the furnace. Keep the furnace going with smelting bars.
 * Mine until 2 AM, then pass out.
   * As you get more copper, craft + place 3 more furnaces (to have 4 in total).
+* At the end of the day, you should get:
+  * Farming 0 --> 1
 
 ### Spring 12
 

@@ -455,10 +455,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Grab mushrooms from the cave.
 * Go to the mines until 12 AM.
 * If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.
-* If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 16, depending on how lucky you are & how well you play.)
+* If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 18, depending on how well you play, how lucky you are, and whether or not you took days off to fish in the rain.)
   * Once you have all of the (normal) sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
 * At 12 AM, go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
-* Sell items to get up to 32,500g.
+* Ship items to get up to 42,500g.
+  * If you don't have enough, then only get up to 32,500g. Tomorrow, don't buy the 10,000g bundle. (In most runs, you will not have enough.)
 * It should be 2 AM after this. If not, cut down grass and pass out.
 
 ### Spring 15
@@ -468,7 +469,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.
   * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
-* Also complete the 25,000g, the 5,000g, and the 2,500g vault bundles.
+* Also complete the vault bundles.
 * Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 * Empty inventory and go to the mines.
 * If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.
@@ -480,26 +481,16 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Grab mushrooms from the cave.
 * Water the crops that are not yet covered by sprinklers (if any).
 * Use the bars smelted on the previous day to craft more sprinklers (if needed).
-* Mine until 2 AM.
-
-### Spring 17
-
-* TODO
-
-### Spring 18
-
-* Grab mushrooms from the cave.
-* TODO
+* Mine until 2 AM. (Remember to use the minecarts to get there faster.)
 
 ### Spring 19
 
-* Need to upgrade the axe today. (19 + 21 + 23 + 25)
-* TODO
+* Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
 
-### Spring 20
+### Spring 25
 
-* Grab mushrooms from the cave.
-* TODO
+* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
+  * Deluxe-Speed is only sold on Thursdays and you need it by Summer 1.
 
 <br />
 

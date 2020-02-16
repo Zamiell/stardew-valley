@@ -336,7 +336,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Sell gems.
   * When buying ore, make sure to save at least 3,310g:
     * 2,000g for the pickaxe upgrade.
-    * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained for mixed seeds.)
+    * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
       * 8 XP per Parsnip * 15 Parsnips = 120 XP
       * 380 XP - 120 XP = 260 XP
       * 260 XP / 17 XP per Kale = 16 Kale

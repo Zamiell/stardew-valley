@@ -114,6 +114,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you keep 4 or 5 inventory slots free by occasionally moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
+* Be on the lookout for bubbles. If you see them, is generally better to try to cast in them, even if you will not be doing maximum casts. (The increased catch-rate is more important than the slight increase in type of fish & quality of fish.)
 * In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
 
 ### General Mines Strategy
@@ -266,7 +267,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
 * If out of Seaweed and Joja Cola, eat the highest quality Anchovy or Herring.
-* Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
+* When you have enough fish to sell to get up to 1800g, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
 * At 4:30 PM, if you do not have enough bait to finish out the day, go to Willy and buy more.

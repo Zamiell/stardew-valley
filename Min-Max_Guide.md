@@ -259,7 +259,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   * Also see [General Fishing Strategy](#general-fishing-strategy).
-* At 9 AM, destroy the Bamboo Pole and buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
+* At 8:30 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables.
+* Go to Willy's shop. Sell all beach foragables + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
@@ -277,7 +278,6 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Empty all inventory in the chest except for the Fiberglass Rod.
 * If you got a copper ore while fishing yesterday, drop it on the ground and pick it up (to initiate the Clint cutscene tomorrow). You can now skip buying copper ore from Clint later on today.
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
-* Check the rest of the beach for any foragables. (We can sell them directly to Willy.)
 * Fish until 9 AM.
 * At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left.
   * However, remember to keep one of each [Crab Pot Bundle](https://stardewvalleywiki.com/Bundles#Crab_Pot_Bundle) item.

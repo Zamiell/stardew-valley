@@ -277,6 +277,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Empty all inventory in the chest except for the Fiberglass Rod.
 * If you got a copper ore while fishing yesterday, drop it on the ground and pick it up (to initiate the Clint cutscene tomorrow). You can now skip buying copper ore from Clint later on today.
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
+* Check the rest of the beach for any foragables. (We can sell them directly to Willy.)
 * Fish until 9 AM.
 * At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left.
   * However, remember to keep one of each [Crab Pot Bundle](https://stardewvalleywiki.com/Bundles#Crab_Pot_Bundle) item.

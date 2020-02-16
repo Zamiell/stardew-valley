@@ -17,6 +17,7 @@
   * [Energy Recovery Mechanics](#energy-recovery-mechanics)
   * [General Fishing Strategy](#general-fishing-strategy)
   * [General Mines Strategy](#general-mines-strategy)
+  * [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   * [Weather Modifications](#weather-modifications)
   * [Other Notes](#other-notes)
 * [The Route](#the-route)

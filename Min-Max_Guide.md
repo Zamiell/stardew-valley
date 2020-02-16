@@ -133,15 +133,6 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
   * The best way to farm gold ore is by doing floor 81 over and over.
 * When you get to floor 100, don't immediately take the Stardrop. Save it for when you are completely out of energy. (It restores all of your energy in addition to increasing the maximum amount of energy.)
 
-### Weather Modifications
-
-* Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
-* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
-* On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because Catfish sell for so much money that everything else becomes less important.
-* Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
-  * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
-* For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
-
 ### General Skull Caverns Strategy
 
 * When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
@@ -154,6 +145,15 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 * You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable tham fishing in spring.
 * Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
 * When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
+
+### Weather Modifications
+
+* Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
+* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
+* On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because Catfish sell for so much money that everything else becomes less important.
+* Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
+  * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
+* For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
 ### Other Notes
 

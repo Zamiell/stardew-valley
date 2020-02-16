@@ -560,7 +560,7 @@ Allows the screen to be centered on the player. It can be toggled on and off by 
 
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 
-This prevents the game from rounding the time to the nearest 10 minutes. It's hard to believe that this simple feature is not in the vanilla game.
+This prevents the game from rounding the time to the nearest 10 minutes. It's hard to believe that this simple feature is not in the vanilla game. This is not considered cheating because you either use an external clock that shows seconds passing or just count the interval in your head.
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
@@ -577,7 +577,7 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
-This always shows the numerical energy count on screen so that you don't have to constantly mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
+This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
 
 <br />
 

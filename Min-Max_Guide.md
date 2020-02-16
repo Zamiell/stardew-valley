@@ -193,7 +193,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Exit south to the forest. (The time should be around 9:20 AM.)
 * Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   * Pick up all foragables along the way.
-  * Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11 AM).
+  * Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 * Meet Jas as she exits her house around 11:20 AM.
 * Meet Haley as she walks towards Leah's house.
 * Go to town.

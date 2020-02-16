@@ -251,6 +251,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Read all of the mail. (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 * Water.
 * Craft a chest and take it with you.
+  * If you got 0 to 3 Spring Onions on Spring 1 (and did not get any food from garbage cans), then you may not have had enough energy to chop 50 wood on Spring 1. Chop 50 wood now and continue following the route; note that you will be a little bit behind on everything.
 * Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
 * Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each villager is essentially still at 0.)
 * Go to the beach and get the Bamboo Pole.

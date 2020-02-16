@@ -284,6 +284,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the beach for foragables + artifact spots.
 * Fish until 9 AM.
 * At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
+  * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convienent place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
 * Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
 * If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
 * Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.

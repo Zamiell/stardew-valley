@@ -252,7 +252,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Water.
 * Craft a chest and take it with you.
 * Empty all inventory in the chest. Retrieve the crafted chest + 1 rock.
-* Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
+* Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each villager is essentially still at 0.)
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 * Place the chest on the bottom-right hand corner of the pier.

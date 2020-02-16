@@ -10,7 +10,7 @@
 ## Table of Contents
 
 * [Preface](#preface)
-  * [Goal](#goal]
+  * [Goal](#goal)
   * [Route Overview](#route-overview)
   * [Rules](#rules)
   * [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)

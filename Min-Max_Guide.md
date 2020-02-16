@@ -210,7 +210,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the garbage cans next to the museum + blacksmith.
 * Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the right side.)
 * Check the garbage can next to JojaMart.
-* Meet Pam + Sam + Shane inside of JojaMart.
+* Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 * Clear the weeds north-west of JojaMart.
 * Meet Abigale on the bridge.
 * Meet Maru. (She is walking south to the benches.)

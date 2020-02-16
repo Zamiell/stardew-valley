@@ -104,14 +104,15 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
-* The best fishing spot for non-rainy days is the mountain lake.
+* In spring, the best fishing spot for non-rainy days is the mountain lake.
   * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
-* The best fishing spot for rainy days is the forest river.
+* In spring, the best fishing spot for rainy days is the forest river.
   * This is because Catfish sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Prioritize eating [Green Algae](https://stardewvalleywiki.com/Green_Algae) (1.15 ratio), then [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (1.92 ratio), then the highest-quality [Chub](https://stardewvalleywiki.com/Chub).
 * Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you keep 4 or 5 inventory slots free by occasionally moving fish from your inventory into the chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
 * When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
+* In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
 
 ### General Mines Strategy
 

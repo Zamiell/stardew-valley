@@ -220,7 +220,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the garbage can next to the Saloon.
 * Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
 * Check the garbage can next to George's house.
-* Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4 PM.)
+* Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4 PM. If you are fast, you might need to wait here for a few minutes.)
 * Go back to the farm. (Leave all of the foragables at the Bus Stop on the ground for now.)
 * Empty your inventory. Keep the tools.
 * Clear a path to the Backwoods. Exit to the Backwoods around 6:10 PM.

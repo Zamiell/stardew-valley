@@ -576,7 +576,7 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
-This always shows the numerical energy count on screen so that you don't have to constantly mouse over the energy bar in order to see it.
+This always shows the numerical energy count on screen so that you don't have to constantly mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
 
 <br />
 

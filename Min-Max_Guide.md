@@ -251,7 +251,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Read all of the mail. (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 * Water.
 * Craft a chest and take it with you.
-* Empty all inventory in the chest. Retrieve the crafted chest + 1 rock.
+* Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
 * Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each villager is essentially still at 0.)
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
@@ -259,7 +259,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   * Also see [General Fishing Strategy](#general-fishing-strategy).
-* At 8:30 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables.
+* At 8:30 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables + artifact spots.
+  * If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 * Go to Willy's shop. Sell all beach foragables + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)

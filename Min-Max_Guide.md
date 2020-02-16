@@ -567,6 +567,8 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 * EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
 * BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
 
+<br />
+
 ## TTD
 
 * add how much bait is needed @ 4:30 PM on Spring 2

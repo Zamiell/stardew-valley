@@ -571,6 +571,10 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 * EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
 * BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
 
+#### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
+
+This always shows the numerical energy count on screen so that you don't have to constantly mouse over the energy bar in order to see it.
+
 <br />
 
 ## TTD

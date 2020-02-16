@@ -37,7 +37,7 @@
   * [Spring 14](#spring-14)
   * [Spring 15](#spring-15)
   * [Spring 16](#spring-16)
-  * [Spring 17 & Beyond](#spring-17-&-beyond)
+  * [Spring 17 & Beyond](#spring-17--beyond)
   * [Spring 19](#spring-19)
   * [Spring 25](#spring-25)
 * [Appendix A: Mods](#appendix-a-mods)

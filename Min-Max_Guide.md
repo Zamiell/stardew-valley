@@ -248,7 +248,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 * Move the TV next to the bed (so that later on you can immediately check it upon waking up). I also like to delete the carpet so that it does not get in the way, but that is optional.
   * You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
-* Read all of the mail (three letters in total). (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
+* Read all of the mail. (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 * Water.
 * Craft a chest and take it with you.
 * Empty all inventory in the chest. Retrieve the crafted chest + 1 rock.

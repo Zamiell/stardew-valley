@@ -289,7 +289,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
 * Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
-* Fish until 2 AM. Before passing out, fill your inventory with any gems, ore, coal, and the most expensive fish.
+* Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   * You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
 * At the end of the day, you should get:
   * Fishing 4 --> 6 (choose Fisher profession)

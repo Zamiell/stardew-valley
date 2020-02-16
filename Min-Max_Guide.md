@@ -522,7 +522,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 25
 
 * You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
-  * Deluxe-Speed is only sold on Thursdays and you need it by Summer 1.
+  * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
+* You should be aiming to buy around 540 Deluxe Speed-Gro (for a batch of 540 Starfruit). Plan to buy the next batch Speed-Gro batch on Summer 4.
 
 <br />
 

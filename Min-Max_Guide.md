@@ -270,7 +270,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * When you have enough fish to sell to get up to 1800g, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
-* At 4:30 PM, if you do not have enough bait to finish out the day, go to Willy and buy more.
+* At 4:30 PM, if you do not have at least 40 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
@@ -584,6 +584,5 @@ This always shows the numerical energy count on screen so that you don't have to
 
 ## TTD
 
-* add how much bait is needed @ 4:30 PM on Spring 2
 * add date of getting mushroom cave (should be Spring 9)
 * add dates to get mushrooms

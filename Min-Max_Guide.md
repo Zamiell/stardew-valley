@@ -560,7 +560,7 @@ Allows the screen to be centered on the player. It can be toggled on and off by 
 
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 
-This prevents the game from rounding the time to the nearest 10 minutes. It's hard to believe that this simple feature is not in the vanilla game. This is not considered cheating because you either use an external clock that shows seconds passing or just count the interval in your head.
+This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game. This is not considered cheating because you either use an external clock that shows seconds passing or just count the interval in your head.
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 

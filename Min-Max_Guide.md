@@ -10,8 +10,9 @@
 ## Table of Contents
 
 * [Preface](#preface)
+  * [Goal](#goal]
+  * [Route Overview](#route-overview)
   * [Rules](#rules)
-  * [Route Overview / High-Level Goals](#route-overview--high-level-goals)
   * [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)
   * [Energy Recovery Mechanics](#energy-recovery-mechanics)
   * [General Fishing Strategy](#general-fishing-strategy)

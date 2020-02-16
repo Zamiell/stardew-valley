@@ -37,7 +37,7 @@
   * [Spring 14](#spring-14)
   * [Spring 15](#spring-15)
   * [Spring 16](#spring-16)
-  * [Spring 17](#spring-17-and-beyond)
+  * [Spring 17 & Beyond](#spring-17-&-beyond)
   * [Spring 19](#spring-19)
   * [Spring 25](#spring-25)
 * [Appendix A: Mods](#appendix-a-mods)
@@ -502,7 +502,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * If the Skull Caverns are unlocked, get as far down as you can. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
 * Otherwise, mine until 2 AM. (Remember to use the minecarts to get there faster.)
 
-### Spring 17 and Beyond
+### Spring 17 & Beyond
 
 * If you have not already gotten to floor 120 of the mines, get that done as soon as possible.
 * Furthermore, if you need more gold to finish the vault, then fish at the mountain lake, and finish the vault as soon as possible.

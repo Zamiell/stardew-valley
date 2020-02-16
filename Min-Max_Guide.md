@@ -265,6 +265,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to Willy's shop. Sell all beach foragables + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
 * Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
+* If out of Seaweed and Joja Cola, eat the highest quality Anchovy or Herring.
 * Destroy the Training Rod and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy for 1,800g. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.

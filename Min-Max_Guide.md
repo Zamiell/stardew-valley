@@ -279,7 +279,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 * It always rains on Spring 3.
 * From here on out, check the TV every single day to reveal the next day's weather so that you can plan accordingly. (For example, if you are fishing at the mountain lake and you know that it will not rain on the next day, you can safely leave your fishing pole in the chest at the end of the day.)
-* Empty all inventory in the chest except for the Fiberglass Rod. You must exit your house between 6am and 11:30am to trigger the cutscene.
+* Empty all inventory in the chest except for the Fiberglass Rod.
 * Go to the beach. (On the way, check the same 3 garbage cans as yesterday.)
 * Fish until 9 AM.
 * At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left.

@@ -308,7 +308,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 5
 
-The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds + fish.
+The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
 * Harvest the Parsnips and make a note of how many you harvested.

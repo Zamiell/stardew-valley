@@ -199,7 +199,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to town.
 * Check the two garbage cans next to Jodi's house + Haley's house.
 * Meet Emily inside of her house.
-* Meet Marnie outside of Pierre's General Store.
+* Meet Marnie outside of Pierre's General Store. (You have to go behind the counter to talk to him.)
 * Meet Penny to the left of the graveyard.
 * Go to the beach.
 * Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
@@ -218,7 +218,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
 * Meet Leah + Pierre inside of Pierre's General Store.
 * Check the garbage can next to the Saloon.
-* Meet Gus in the Saloon.
+* Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
 * Check the garbage can next to George's house.
 * Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4 PM.)
 * Go back to the farm. (Leave all of the foragables at the Bus Stop on the ground for now.)

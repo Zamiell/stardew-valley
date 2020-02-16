@@ -467,6 +467,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 14
 
+* Check the Queen of Sauce for the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipie.
 * Grab mushrooms from the cave.
 * Go to the mines until 12 AM.
 * If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.

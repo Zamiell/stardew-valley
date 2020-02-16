@@ -259,7 +259,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish facing right from the pier. Use minimum casts.
   * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   * Also see [General Fishing Strategy](#general-fishing-strategy).
-* At 8:30 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables + artifact spots.
+* At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables + artifact spots.
   * If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 * Go to Willy's shop. Sell all beach foragables + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)

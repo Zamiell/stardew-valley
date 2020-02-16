@@ -208,7 +208,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to town.
 * If you got an artifact, donate it to the museum and claim the reward (250g).
 * Check the garbage cans next to the museum + blacksmith.
-* Meet Clint inside of the blacksmith.
+* Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the right side.)
+* Check the garbage can next to JojaMart.
 * Meet Pam + Sam + Shane inside of JojaMart.
 * Clear the weeds north-west of JojaMart.
 * Meet Abigale on the bridge.

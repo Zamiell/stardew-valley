@@ -136,14 +136,75 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 * If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a pet at all, as they get in your way and make you lose time.
 * If you are doing a Grandpa-points-related challenge, then you may need to get the pet for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they (sometimes) sleep in your bed and you can easily pet them when going to bed at the end of the day.
-* Note that it only takes 83 pets in order to maximize the pet's friendship value. Thus, since pet friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible to start petting since "spare time" is extremely limited at the beginning of the game.)
+* Note that it only takes 83 pets in order to maximize the pet's friendship value. Thus, since pet friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 * Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline.)
+
+### Birthdays
+
+* In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the villagers.
+* If you need friendship with villagers to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all villagers by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
+* On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
+* On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
+* Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
+
+#### Lewis - Spring 7
+
+* Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
+](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
+* Thus, you generally would want to give him an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 19 of year 2.
+* In this route, it is convenient to give Lewis a present, since he is on the way to the blacksmith from the wizard.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Lewis, then it is probably not worth it to give him a liked gift.
+
+#### Vincent - Spring 10
+
+* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Vincent a loved gift on Spring 10 of year 1.
+* Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 22 of year 2.
+* In this route, it is somewhat convenient to give Vincent a present, since you can fish outside his house and it only wastes a few hours in total.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Vincent, then it is probably not worth it to give him a liked gift.
+
+#### Haley - Spring 14
+
+* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Haley a loved gift on Spring 14 of year 1.
+* Thus, you would generally want to give her a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 26 of year 2.
+* In this route, it is convenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
+
+#### Pam - Spring 18
+
+* Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
+* The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
+* In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop.
+* If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
+
+#### Shane - Spring 20
+
+* Shane loves [Beer], which can be easily purchased at the Saloon for 400g.
+* The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
+* In this route, it is inconvenient to give Shane a gift, since you have to wait until 9 AM for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.
+
+#### Pierre - Spring 26
+
+* Unless you happen to get extremely lucky in getting a [Fried Calamari](https://stardewvalleywiki.com/Fried_Calamari) from the Saloon garbage can, then you won't be able to give Pierre a loved gift on Spring 26 of year 1.
+* The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
+* In this route, it is inconvenient to give Pierre a gift, since you have to wait until 9 AM for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjuntion with buying Parsnip Seeds (as a "linger" crop).
+
+#### Emily - Spring 27
+
+* Emily loves any gem, so this is the easiest gift.
+* The friendship from a loved gift would be fully depleted on Winter 11 of year 3.
+* In this route, it is inconvenient to give Emily a gift, since you have to wait until 12 PM for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
 
 ### Other Notes
 
 * If your character's gender does not matter to you, then it is optimal to choose a female, as they get 500g in the mail instead of a [Cookie](https://stardewvalleywiki.com/Cookie).
 * Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
-  * It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. (Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing.) Doing this is not considered cheating since it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors.
+  * It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. (Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing.) Doing this is not considered cheating since it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.)
 * For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
 * Do not read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
@@ -379,8 +440,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipie.
 * Check the mail until you get the wizard's letter.
 * Water.
-* Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).
-  * An Earth Crystal or a parsnip is an easy gift.
+* Empty inventory. Retrieve 5 iron bars + a birthday present for Lewis (optional).
+  * An [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip) are good gifts.
 * Go to the wizard (to trigger the cutscene).
   * Note that watching the cutscene does not count as meeting the wizard. If you want to have his name appear in the social tab, you must talk to him after the cutscene. However, this is purely cosmetic and has no actual gameplay advantage, so talking to him is considered a waste of time, especially if you plan on giving him gifts later on.
 * Empty out the contents of the forest river chest (optional).
@@ -428,7 +489,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve Fiberglass Rod.
 * If you have less than 100 bait on the rod, also retrieve a few fish.
 * Give Vincent a birthday present (optional).
-  * A [Daffodil](https://stardewvalleywiki.com/Daffodil) or a gem is a good gift.
+  * A [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal), or a [Parsnip](https://stardewvalleywiki.com/Parsnip) are good gifts.
   * You will get there before he wakes up, so fish in the town river until he comes outside.
 * If you need bait, go to Willy, sell the fish, buy more bait.
 * Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
@@ -607,7 +668,9 @@ This always shows the numerical energy count on screen so that you don't have to
 
 #### [Zoom Level Keybinding](https://www.nexusmods.com/stardewvalley/mods/1621)
 
-This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.) Additionally, it is possible to change the zoom value without any mods via editing the save file directly. Furthermore, even if players do not edit their save file directly, they can still view the entire map via using the screenshot feature in the options tab. Thus, using the mod just makes viewing the map more convenient.
+This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.) 
+
+Additionally, note that it is possible to change the zoom beyond 75% without any mods by editing the value in the save file directly. Furthermore, even if players do not edit their save file directly, they can still view the entire map by using the screenshot feature in the options tab. Thus, using the mod just makes viewing the map more convenient.
 
 <br />
 

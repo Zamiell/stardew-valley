@@ -507,7 +507,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * If you have not already gotten to floor 120 of the mines, get that done as soon as possible.
 * Furthermore, if you need more gold to finish the vault, then fish at the mountain lake, and finish the vault as soon as possible.
   * If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
-* Start to do Skull Cavern runs as soon as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
+* Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
 * During periods of downtime, you can:
   * Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
   * Craft + place Quality Sprinklers, craft + place Scarecrows.
@@ -517,7 +517,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 19
 
 * Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
-  * Upgrading the axe first is ideal.
+  * Upgrade the axe first so that you can use it to start clearing the farm.
 
 ### Spring 23
 
@@ -526,7 +526,6 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 24
 
 * Ship as many items as possible. (We want as much gold for tomorrow as possible.)
-* Make sure you have desert totems for tomorrow as Pam has her checkup and will not be at the bus.
 
 ### Spring 25
 

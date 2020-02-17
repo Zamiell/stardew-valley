@@ -533,7 +533,7 @@ We recommend the following self-imposed restrictions:
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
 * No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
-* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
+* No using [a planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
 * No animation canceling (e.g. to swing a tool extra fast).
 * You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
 

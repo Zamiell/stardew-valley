@@ -151,7 +151,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 ### Weather Modifications
 
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
-* Every single day, you should be checking the TV to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
+* Starting on Spring 4, you should be checking the TV every morning to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
 * On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because Catfish sell for so much money that everything else becomes less important.
 * Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
   * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
@@ -279,7 +279,6 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 ### Spring 3
 
 * It always rains on Spring 3.
-* From here on out, check the TV every single day to reveal the next day's weather so that you can plan accordingly. (For example, if you are fishing at the mountain lake and you know that it will not rain on the next day, you can safely leave your fishing pole in the chest at the end of the day.)
 * Empty all inventory in the chest. Retrieve the Fiberglass Rod + hoe.
 * Check the same 3 garbage cans as yesterday.
 * Check the beach for foragables + artifact spots.
@@ -297,6 +296,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 ### Spring 4
 
+* From here on out, check the TV every single day to reveal the next day's weather so that you can plan accordingly. (For example, if you are fishing at the mountain lake and you know that it will not rain on the next day, you can safely leave your fishing pole in the chest at the end of the day.)
 * Water.
 * If you do not have 150 wood, chop up to 150 wood. (Remember to take your Scythe while chopping to clear grass.)
   * This is because we will need 2 more chests and a scarecrow over the next 2 days.

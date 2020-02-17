@@ -577,7 +577,7 @@ This prevents the game from rounding the time to the nearest 10 minutes. It is h
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
-In this case, the intro refers to the cutscene that appears before you get to the main menu. Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
+In this case, the intro refers to the cutscene that appears before you get to the main menu. Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster.
 
 #### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
 

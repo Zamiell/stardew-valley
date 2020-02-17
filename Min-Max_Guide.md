@@ -566,6 +566,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 2 and Beyond
 
+* Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
+* Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
 * Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Deluxe Speed-Gro + Starfruit Seeds. (If you make enough money, you can even plant more Starfruit on Summer 10 than you did on Summer 1.)
 * Additionally, we are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).
 * Thus, on non-Skull Cavern days, look around the map for summer foragables so that you can craft at least 10-20 [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds). When the Summer Seeds are harvested, re-craft and re-plant as many Summer Seeds as possible (until you get to level 7 foraging).

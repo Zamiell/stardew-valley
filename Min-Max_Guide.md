@@ -570,7 +570,7 @@ This mod is a compilation of several different features:
 
 #### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
 
-Allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negliable.
+This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negliable.
 
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 

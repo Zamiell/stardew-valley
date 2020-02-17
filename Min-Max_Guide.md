@@ -41,7 +41,8 @@
   * [Spring 17 & Beyond](#spring-17--beyond)
   * [Spring 19](#spring-19)
   * [Spring 25](#spring-25)
-* [Appendix A: Mods](#appendix-a-mods)
+* [Appendix A: Mods](#appendix-a-restrictions)
+* [Appendix B: Mods](#appendix-b-mods)
 
 <br />
 
@@ -61,33 +62,7 @@ The general goal of this route is to maximize the total amount of money gained b
 
 ### Rules
 
-Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of the first year) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
-
-The guide is designed for the kind of player who is using the following self-imposed restrictions:
-
-* Choosing the Community Center path instead of the Joja path.
-  * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
-* No using glitches / bugs.
-* No cheats (e.g. Cheat Engine).
-* No mods.
-  * Some [quality-of-life mods](#appendix-a-mods) are okay if they provide no actual gameplay advantage.
-* No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
-* No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
-  * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
-* No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
-* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
-* No using the screenshot feature in the menu to peek outside of the bounds of what you are normally supposed to see.
-* No animation canceling (e.g. to swing a pickaxe extra fast).
-* You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
-
-The reasons for not allowing the restarting of a day are twofold:
-
-* First, if you allow restarting a day as many times as you want, it removes the execution aspect of the game. Mistakes become completely inconsequential: simply restart the day over and over until you execute perfectly. This trivializes the game.
-* Furthermore, consider that when players are forced to improvise on-the-fly after a mistake is made, it promotes interesting gameplay. Players have to quickly think "on their feet", coming up with an alternate plan or an intelligent way to mitigate the mistake.
-* Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. Or, players could wander through the world and map out where every foraging spawn happened to be for that particular day so that they could run directly to all of the spawns.
-* If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it before attempting their real play-through. Most people would probably agree that exploring *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
-
-While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge of the various elements of the game, all of the challenges that I know about are completable by skilled players without having to resort to this.
+The guide is generally designed for players who are playing on the vanilla game (no mods), not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the challenge. For a full list of self-imposed restrictions that we recommend, see [Appendix A]().
 
 ### Gold per Energy List (GPE)
 
@@ -540,7 +515,37 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 <br />
 
-## Appendix A: Mods
+## Appendix A: Recommended Restrictions
+
+Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of the first year) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
+
+The guide is designed for the kind of player who is using the following self-imposed restrictions:
+
+* Choosing the Community Center path instead of the Joja path.
+  * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
+* No using glitches / bugs.
+* No cheats (e.g. Cheat Engine).
+* No mods.
+  * Some [quality-of-life mods](#appendix-a-mods) are okay if they provide no actual gameplay advantage.
+* No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
+* No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
+  * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
+* No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
+* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
+* No using the screenshot feature in the menu to peek outside of the bounds of what you are normally supposed to see.
+* No animation canceling (e.g. to swing a pickaxe extra fast).
+* You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
+
+The reasons for not allowing the restarting of a day are twofold:
+
+* First, if you allow restarting a day as many times as you want, it removes the execution aspect of the game. Mistakes become completely inconsequential: simply restart the day over and over until you execute perfectly. This trivializes the game.
+* Furthermore, consider that when players are forced to improvise on-the-fly after a mistake is made, it promotes interesting gameplay. Players have to quickly think "on their feet", coming up with an alternate plan or an intelligent way to mitigate the mistake.
+* Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. Or, players could wander through the world and map out where every foraging spawn happened to be for that particular day so that they could run directly to all of the spawns.
+* If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it before attempting their real play-through. Most people would probably agree that exploring *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
+
+While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge of the various elements of the game, all of the challenges that I know about are completable by skilled players without having to resort to this.
+
+## Appendix B: Mods
 
 Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We do not use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods out there (that do not interfere with the vanilla strategies).
 

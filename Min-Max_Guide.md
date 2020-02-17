@@ -499,19 +499,21 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Grab mushrooms from the cave.
 * Water the crops that are not yet covered by sprinklers (if any).
 * Use the bars smelted on the previous day to craft more sprinklers (if needed).
-* If the Skull Caverns are unlocked, get as far down as you can. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
-* Otherwise, mine until 2 AM. (Remember to use the minecarts to get there faster.)
+* Mine until 2 AM. (Remember to use the minecarts to get there faster.)
 
 ### Spring 17 & Beyond
 
-* If you have not already gotten to floor 120 of the mines, get that done as soon as possible.
+* If you have not already reached floor 120 in the mines, get that done as soon as possible.
 * Furthermore, if you need more gold to finish the vault, then fish at the mountain lake, and finish the vault as soon as possible.
   * If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
+* Once you have reached floor 120 of the mines, move all of the furnaces from the mines back to your farm.
 * Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
 * During periods of downtime, you can:
   * Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
   * Craft + place Quality Sprinklers, craft + place Scarecrows.
   * Hoe + plant Parsnips (as a "linger crop" to keep the squares watered on Summer 1).
+  * Craft + place extra furnaces until you have around 30. (You will need more than 30 furnaces later on when the yields from Skull Cavern runs increase; you can craft more later.)
+  * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
   * Farm more ore in the mines (on floor 20/40/80).
 
 ### Spring 19
@@ -533,6 +535,19 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
 * You should be aiming to buy around 500-600 Deluxe Speed-Gro, depending on how well your run has been going.
 * Spend the rest of the money on Starfruit Seeds so that you can pass out without penalty.
+
+### Spring 28
+
+* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop). If this is already set up, then you should spend the entire day in the Skull Cavern.
+  * Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
+
+### Summer 1
+
+* Plant all of the Deluxe Speed-Gro + Starfruit Seeds.
+
+### Summer 2 and Beyond
+
+* Do more Skull Cavern runs
 
 <br />
 

@@ -641,7 +641,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 * On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
 * Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
 
-#### Lewis - Spring 7 - ✔ - ❌
+#### Lewis - Spring 7 - <span style="color: green;">✔</span> - ❌
 
 * Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
 ](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.

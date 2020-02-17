@@ -641,7 +641,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 * On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
 * Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
 
-#### Lewis - Spring 7 - <span style="color: green;">✔</span> - ❌
+#### Lewis - Spring 7
 
 * Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
 ](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
@@ -666,7 +666,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 * In this route, it is inconvenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
 * If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
 
-#### Pam - Spring 18
+#### Pam - Spring 18 - ✔
 
 * Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
 * The friendship from a loved gift would be fully depleted on Winter 2 of year 3.

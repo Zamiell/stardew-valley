@@ -131,6 +131,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable tham fishing in spring.
 * Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
 * When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
+* Once you get 3 extra [Prismatic Shards](https://stardewvalleywiki.com/Prismatic_Shard), you will want to turn them in to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) on Thursdays for [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy). Overall, the extra luck should help you get more than 6,000g in Iridium Ore.
 
 ### Weather Modifications
 
@@ -564,7 +565,13 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
   * Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
 
-### Summer 2 and Beyond
+### Summer 2
+
+* Do a Skull Cavern run. (We need 25,000g to upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes).)
+
+### Summer 3
+
+* Smelt Iridium Bars. Later on in the day when they are finished (around 2:30 PM), go to Clint and upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes). (If you need more money beyond just what the Iridium Bars provide, you can sell some gems directly to Clint.)
 
 * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
 * Continue to plant acorns in a corner of the farm to build up an Oak tree forest.

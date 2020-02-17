@@ -641,7 +641,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 * On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
 * Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
 
-#### Lewis - Spring 7
+#### Lewis - Spring 7 - ✔ - ❌
 
 * Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
 ](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
@@ -675,7 +675,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 
 #### Shane - Spring 20
 
-* Shane loves [Beer], which can be easily purchased at the Saloon for 400g.
+* Shane loves [Beer](https://stardewvalleywiki.com/Beer), which can be easily purchased at the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) for 400g.
 * The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
 * In this route, it is inconvenient to give Shane a gift, since you have to wait until 9 AM for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
 * Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.

@@ -23,25 +23,29 @@
   * [Birthdays](#birthdays)
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
-  * [Spring 1](#spring-1)
-  * [Spring 2](#spring-2)
-  * [Spring 3](#spring-3)
-  * [Spring 4](#spring-4)
-  * [Spring 5](#spring-5)
-  * [Spring 6](#spring-6)
-  * [Spring 7](#spring-7)
-  * [Spring 8](#spring-8)
-  * [Spring 9](#spring-9)
-  * [Spring 10](#spring-10)
-  * [Spring 11](#spring-11)
-  * [Spring 12](#spring-12)
-  * [Spring 13](#spring-13)
-  * [Spring 14](#spring-14)
-  * [Spring 15](#spring-15)
-  * [Spring 16](#spring-16)
-  * [Spring 17 & Beyond](#spring-17--beyond)
-  * [Spring 19](#spring-19)
-  * [Spring 25](#spring-25)
+
+| Spring                  | Summer                | Fall | Winter |
+| ----------------------- | --------------------- |
+| [Spring 1](#spring-1)   | [Summer 1](#summer-1) |
+| [Spring 2](#spring-2)   | 
+| [Spring 3](#spring-3)   | 
+| [Spring 4](#spring-4)   | 
+| [Spring 5](#spring-5)   | 
+| [Spring 6](#spring-6)   | 
+| [Spring 7](#spring-7)   | 
+| [Spring 8](#spring-8)   | 
+| [Spring 9](#spring-9)   | 
+| [Spring 10](#spring-10) | 
+| [Spring 11](#spring-11) | 
+| [Spring 12](#spring-12) | 
+| [Spring 13](#spring-13) | 
+| [Spring 14](#spring-14) | 
+| [Spring 15](#spring-15) | 
+| [Spring 16](#spring-16) | 
+| [Spring 17 & Beyond](#spring-17--beyond) | 
+| [Spring 19](#spring-19) | 
+| [Spring 25](#spring-25) | 
+
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)
 * [Appendix C: Birthdays](#appendix-c-birthdays)

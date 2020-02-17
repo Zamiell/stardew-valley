@@ -512,8 +512,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
   * Craft + place Quality Sprinklers, craft + place Scarecrows.
   * Hoe + plant Parsnips (as a "linger crop" to keep the squares watered on Summer 1).
-  * Craft + place extra furnaces until you have around 30. (You will need more than 30 furnaces later on when the yields from Skull Cavern runs increase; you can craft more later.)
-  * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
+  * Craft + place extra furnaces with your spare copper.
+  * Start to plant acorns in a corner of the farm to build up an Oak tree forest.
+    * Eventually, you will use [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) on them.
   * Farm more ore in the mines (on floor 20/40/80).
 
 ### Spring 19
@@ -538,16 +539,25 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 28
 
-* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop). If this is already set up, then you should spend the entire day in the Skull Cavern.
+* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop). You should also have bought as many Starfruit seeds as possible.
   * Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
+* If this is already set up, then you should spend the entire day in the Skull Cavern.
 
 ### Summer 1
 
 * Plant all of the Deluxe Speed-Gro + Starfruit Seeds.
+* Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
+* Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
+  * Eventually, you will use [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) on them.
+* If time is left, look around the map for summer foragables.
 
 ### Summer 2 and Beyond
 
-* Do more Skull Cavern runs
+* Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Deluxe Speed-Gro + Starfruit Seeds.
+* Additionally, we are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).
+* Thus, on non-Skull Cavern days, look around the map for summer foragables so that you can craft at least 10-20 [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds). When the Summer Seeds are harvested, re-craft and re-plant as many Summer Seeds as possible (until you get to level 7 foraging).
+* Additionally, on non-Skull Cavern days, you should also chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
+* As soon as you have 100 Hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs.
 
 <br />
 

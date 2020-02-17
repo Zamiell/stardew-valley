@@ -564,7 +564,6 @@ This mod is a compilation of several different features:
 * *Display icon when animal has item yield (milk, wool)* - Could be cheating in the case where you use the notifications to intentionally skip milking a cow, for example. Don't do that. Most runs use [Auto-Grabbers](https://stardewvalleywiki.com/Auto-Grabber), so this quickly becomes a non-issue.
 * *Sprinkler, scarecrow, beehive and junimo hut ranges* - Not considered cheating because you can just pause the game and count the number of squares that it is supposed to cover.
 * *Display npc locations on map* - Not considered cheating because you can just go to the villager's page on the wiki and look up their schedule for the day.
-* *Skip the intro by pressing the Escape key* - In this case, the intro refers to the cutscene that appears before you get to the main menu.
 * *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
 * *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
 

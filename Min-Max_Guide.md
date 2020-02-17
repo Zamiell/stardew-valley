@@ -382,7 +382,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).
   * An Earth Crystal or a parsnip is an easy gift.
 * Go to the wizard (to trigger the cutscene).
-  * Note that watching the cutscene does not count as meeting the wizard. If you want to have his name appear in the social tab, you must talk to him after the cutscene. However, this is purely cosmetic and has no actual gameplay advantage, so talking to him is considered a waste of time.
+  * Note that watching the cutscene does not count as meeting the wizard. If you want to have his name appear in the social tab, you must talk to him after the cutscene. However, this is purely cosmetic and has no actual gameplay advantage, so talking to him is considered a waste of time, especially if you plan on giving him gifts later on.
 * Empty out the contents of the forest river chest (optional).
 * Go to Lewis and give him a birthday present (optional).
 * Go to the blacksmith:

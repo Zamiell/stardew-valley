@@ -103,6 +103,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 * If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
 * If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
+* If you have a good weapon (e.g. from a fishing treasure chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
 * If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
   * The best way to farm copper ore is by doing floor 21 over and over.
   * The best way to farm iron ore is by doing floor 41 over and over.

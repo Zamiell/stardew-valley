@@ -24,9 +24,9 @@
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
 
-| Spring                  | Summer                | Fall | Winter |
-| ----------------------- | --------------------- |
-| [Spring 1](#spring-1)   | [Summer 1](#summer-1) |
+| Spring                  | Summer                
+| ----------------------- | ---------------------
+| [Spring 1](#spring-1)   | [Summer 1](#summer-1)
 | [Spring 2](#spring-2)   | 
 | [Spring 3](#spring-3)   | 
 | [Spring 4](#spring-4)   | 

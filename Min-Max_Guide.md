@@ -27,7 +27,7 @@
 | Spring                  | Summer                                    | Fall 
 | ----------------------- | ----------------------------------------- | -----
 | [Spring 1](#spring-1)   | [Summer 1](#summer-1)                     | [Fall 1](#fall-1)
-| [Spring 2](#spring-2)   | [Summer 2 & Beyond](#summer-2-and-beyond) | [Fall 10](#fall-10)
+| [Spring 2](#spring-2)   | [Summer 2](#summer-2) | [Fall 10](#fall-10)
 | [Spring 3](#spring-3)   | [Summer 3](#summer-3)                     | [Fall 19](#fall-19)
 | [Spring 4](#spring-4)   | [Summer 4](#summer-4)                     | [Fall 28](#fall-28)
 | [Spring 5](#spring-5)   | [Summer 9](#summer-9)
@@ -132,6 +132,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
 * When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
 * Once you get 3 extra [Prismatic Shards](https://stardewvalleywiki.com/Prismatic_Shard), you will want to turn them in to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) on Thursdays for [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy). Overall, the extra luck should help you get more than 6,000g in Iridium Ore.
+* For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
 
 ### Weather Modifications
 

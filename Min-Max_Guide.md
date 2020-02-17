@@ -548,6 +548,7 @@ We recommend the following self-imposed restrictions:
 * No using [a planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
 * No animation canceling (e.g. to swing a tool extra fast).
 * You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
+* You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding).
 
 The reasons for not allowing the restarting of a day are twofold:
 

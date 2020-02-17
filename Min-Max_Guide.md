@@ -574,8 +574,13 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Additionally, on non-Skull Cavern days, you should also chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
 * As soon as you have 100 hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs. (You need will need 150 hardwood for the second farmhouse upgrade.)
 
+### Summer 3
+
+* Ship enough items such that you will have 25,000g (for an [Iridium Pickaxe](https://stardewvalleywiki.com/Axes)) and enough money for some more [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) (optional; see below).
+
 ### Summer 4
 
+* Go to Clint and upgrade to the Iridium Pickaxe (25,000g).
 * This is the day you will need to buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis if you plan on planting more Starfruit on your second crop than you did on your first crop.
 
 ### Summer 9

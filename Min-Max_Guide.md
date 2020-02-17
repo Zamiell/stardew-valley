@@ -44,6 +44,9 @@
 | [Spring 16](#spring-16) | 
 | [Spring 17 & Beyond](#spring-17--beyond) | 
 | [Spring 19](#spring-19) | 
+| [Spring 21](#spring-21) | 
+| [Spring 23](#spring-23) | 
+| [Spring 24](#spring-24) | 
 | [Spring 25](#spring-25) | 
 
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)

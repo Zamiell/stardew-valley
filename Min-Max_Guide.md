@@ -20,6 +20,7 @@
   * [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   * [Weather Modifications](#weather-modifications)
   * [Pet Mechanics](#pet-mechanics)
+  * [Birthdays](#birthdays)
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
   * [Spring 1](#spring-1)

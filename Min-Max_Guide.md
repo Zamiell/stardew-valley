@@ -43,6 +43,7 @@
   * [Spring 25](#spring-25)
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)
+* [Appendix C: Birthdays](#appendix-b-birthdays)
 
 <br />
 
@@ -143,62 +144,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 * In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the villagers.
 * If you need friendship with villagers to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all villagers by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
-* On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
-* On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
-* Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
-
-#### Lewis - Spring 7
-
-* Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
-](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
-* Thus, you generally would want to give him an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-* The friendship from a liked gift would be fully depleted on Winter 19 of year 2.
-* In this route, it is convenient to give Lewis a present, since he is on the way to the blacksmith from the wizard.
-* If you plan on waiting until the end of year 2 to accumulate friendship with Lewis, then it is probably not worth it to give him a liked gift.
-
-#### Vincent - Spring 10
-
-* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Vincent a loved gift on Spring 10 of year 1.
-* Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-* The friendship from a liked gift would be fully depleted on Winter 22 of year 2.
-* In this route, it is somewhat convenient to give Vincent a present, since you can fish outside his house and it only wastes a few hours in total.
-* If you plan on waiting until the end of year 2 to accumulate friendship with Vincent, then it is probably not worth it to give him a liked gift.
-
-#### Haley - Spring 14
-
-* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Haley a loved gift on Spring 14 of year 1.
-* Thus, you would generally want to give her a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
-* The friendship from a liked gift would be fully depleted on Winter 26 of year 2.
-* In this route, it is convenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
-* If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
-
-#### Pam - Spring 18
-
-* Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
-* The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
-* In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop.
-* If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
-
-#### Shane - Spring 20
-
-* Shane loves [Beer], which can be easily purchased at the Saloon for 400g.
-* The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
-* In this route, it is inconvenient to give Shane a gift, since you have to wait until 9 AM for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
-* Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.
-
-#### Pierre - Spring 26
-
-* Unless you happen to get extremely lucky in getting a [Fried Calamari](https://stardewvalleywiki.com/Fried_Calamari) from the Saloon garbage can, then you won't be able to give Pierre a loved gift on Spring 26 of year 1.
-* The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
-* In this route, it is inconvenient to give Pierre a gift, since you have to wait until 9 AM for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
-* Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjuntion with buying Parsnip Seeds (as a "linger" crop).
-
-#### Emily - Spring 27
-
-* Emily loves any gem, so this is the easiest gift.
-* The friendship from a loved gift would be fully depleted on Winter 11 of year 3.
-* In this route, it is inconvenient to give Emily a gift, since you have to wait until 12 PM for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
-* Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
+* For more in-depth information on each villager, see [Appendix C](#appendix-b-birthdays).
 
 ### Other Notes
 
@@ -671,6 +617,72 @@ This always shows the numerical energy count on screen so that you don't have to
 This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.) 
 
 Additionally, note that it is possible to change the zoom beyond 75% without any mods by editing the value in the save file directly. Furthermore, even if players do not edit their save file directly, they can still view the entire map by using the screenshot feature in the options tab. Thus, using the mod just makes viewing the map more convenient.
+
+<br />
+
+## Appendix C: Birthdays
+
+* On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
+* On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
+* Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
+
+#### Lewis - Spring 7
+
+* Unless you happen to get extremely lucky in getting an [Autumn's Bounty](https://stardewvalleywiki.com/Autumn%27s_Bounty), [Glazed Yams](https://stardewvalleywiki.com/Glazed_Yams), or [Vegetable Medley
+](https://stardewvalleywiki.com/Vegetable_Medley) from the Saloon garbage can, then you won't be able to give Lewis a loved gift on Spring 7 of year 1.
+* Thus, you generally would want to give him an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 19 of year 2.
+* In this route, it is convenient to give Lewis a present, since he is on the way to the blacksmith from the wizard.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Lewis, then it is probably not worth it to give him a liked gift.
+
+#### Vincent - Spring 10
+
+* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Vincent a loved gift on Spring 10 of year 1.
+* Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 22 of year 2.
+* In this route, it is somewhat convenient to give Vincent a present, since you can fish outside his house and it only wastes a few hours in total.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Vincent, then it is probably not worth it to give him a liked gift.
+
+#### Haley - Spring 14
+
+* Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Haley a loved gift on Spring 14 of year 1.
+* Thus, you would generally want to give her a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Winter 26 of year 2.
+* In this route, it is inconvenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
+* If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
+
+#### Pam - Spring 18
+
+* Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
+* The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
+* In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop.
+* If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
+
+#### Shane - Spring 20
+
+* Shane loves [Beer], which can be easily purchased at the Saloon for 400g.
+* The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
+* In this route, it is inconvenient to give Shane a gift, since you have to wait until 9 AM for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.
+
+#### Pierre - Spring 26
+
+* Unless you happen to get extremely lucky in getting a [Fried Calamari](https://stardewvalleywiki.com/Fried_Calamari) from the Saloon garbage can, then you won't be able to give Pierre a loved gift on Spring 26 of year 1.
+* Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), [Dandelion](https://stardewvalleywiki.com/Dandelion), or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
+* The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
+* In this route, it is inconvenient to give Pierre a gift, since you have to wait until 9 AM for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjuntion with buying Parsnip Seeds (as a "linger" crop).
+
+#### Emily - Spring 27
+
+* Emily loves any gem, so this is the easiest gift.
+* The friendship from a loved gift would be fully depleted on Winter 11 of year 3.
+* In this route, it is inconvenient to give Emily a gift, since you have to wait until 12 PM for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
+
+#### Birthdays in Summer and Beyond
+
+* In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
 
 <br />
 

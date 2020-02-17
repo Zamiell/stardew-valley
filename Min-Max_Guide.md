@@ -143,7 +143,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 * If your character's gender does not matter to you, then it is optimal to choose a female, as they get 500g in the mail instead of a [Cookie](https://stardewvalleywiki.com/Cookie).
 * Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
-  * It is also possible to edit the save file or use a mod to zoom out farther than this. Doing this is not considered cheating since it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors.
+  * It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. (Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing.) Doing this is not considered cheating since it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors.
 * For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
 * Do not read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
@@ -592,6 +592,10 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
 This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
+
+#### [Zoom Level Keybinding](https://www.nexusmods.com/stardewvalley/mods/1621)
+
+This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.)
 
 <br />
 

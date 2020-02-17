@@ -58,9 +58,9 @@ The general goal of this route is to maximize the total amount of money gained b
 
 ### Route Overview
 
-* This route starts off by doing a ton of fishing, unlocking the Skull Caverns as soon as possible. One the Skull Caverns are opened, you craft and sell Iridium Bars to make a lot of money.
-  * Routes that involve fishing + Skull Caverns are overall more profitable than the typical naieve strategy of planting Strawberries.
-* With the money, you buy a lot of Starfruit + Deluxe Speed Grow, with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by Quality Sprinklers).
+* This route starts off by doing a ton of fishing, unlocking the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible. One the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
+  * Routes that involve fishing + Skull Caverns are overall more profitable than the typical naieve strategy of planting [Strawberries](https://stardewvalleywiki.com/Strawberry).
+* With the money, you buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed Grow](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules
 

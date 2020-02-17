@@ -222,6 +222,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Maru. (She is walking south to the benches.)
 * Check the garbage can next to Lewis' house.
 * Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
+* Kill the weeds along the left side of the map by Harvey.
 * Meet Leah + Pierre inside of Pierre's General Store. (You have to go behind the counter to talk to Pierre.)
 * Check the garbage can next to the Saloon.
 * Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)

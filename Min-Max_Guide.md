@@ -603,7 +603,7 @@ This always shows the numerical energy count on screen so that you don't have to
 
 #### [Zoom Level Keybinding](https://www.nexusmods.com/stardewvalley/mods/1621)
 
-This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.)
+This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. This is not considered cheating because it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.) Additionally, it is possible to change the zoom value without any mods via editing the value in the save file directly; the mod just makes it more convenient.
 
 <br />
 

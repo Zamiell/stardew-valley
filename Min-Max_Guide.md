@@ -41,7 +41,7 @@
   * [Spring 17 & Beyond](#spring-17--beyond)
   * [Spring 19](#spring-19)
   * [Spring 25](#spring-25)
-* [Appendix A: Mods](#appendix-a-restrictions)
+* [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)
 
 <br />
@@ -62,7 +62,7 @@ The general goal of this route is to maximize the total amount of money gained b
 
 ### Rules
 
-The guide is generally designed for players who are playing on the vanilla game (no mods), not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the challenge as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A]().
+The guide is generally designed for players who are playing on the vanilla game (no mods), not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the challenge as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A](#appendix-a-recommended-restrictions).
 
 ### Gold per Energy List (GPE)
 
@@ -517,16 +517,16 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ## Appendix A: Recommended Restrictions
 
-Some techniques and strategies are considered to be cheating by some players, and not cheating by other players. In general, the best Stardew Valley players are able to complete difficult challenges (e.g. all Grandpa points by the end of the first year) without resorting to any of these borderline strategies. In other words, the game is generally so easy that players should aim to play in a ruleset that makes things as difficult as possible.
+Some techniques and strategies are considered to be cheating by some players and not cheating by other players. In general, the game is so easy that it is possible to complete almost any difficult challenge (e.g. all Grandpa points by the end of the first year) without resorting to any of borderline strategies. Thus, skilled Stardew Valley players should challenge themselves to try and make things as difficult as possible, within reason.
 
-The guide is designed for the kind of player who is using the following self-imposed restrictions:
+We recommend the following self-imposed restrictions:
 
 * Choosing the Community Center path instead of the Joja path.
   * It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
-* No using glitches / bugs.
+* No using glitches / bugs / debug features (e.g. the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets)).
 * No cheats (e.g. Cheat Engine).
 * No mods.
-  * Some [quality-of-life mods](#appendix-a-mods) are okay if they provide no actual gameplay advantage.
+  * Some [quality-of-life mods](#appendix-b-mods) are okay if they provide no actual gameplay advantage.
 * No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
@@ -544,6 +544,8 @@ The reasons for not allowing the restarting of a day are twofold:
 * If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it before attempting their real play-through. Most people would probably agree that exploring *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
 
 While I am sure that there are some arbitrary challenges that are so difficult that they require before-hand knowledge of the various elements of the game, all of the challenges that I know about are completable by skilled players without having to resort to this.
+
+<br />
 
 ## Appendix B: Mods
 

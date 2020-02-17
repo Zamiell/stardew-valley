@@ -95,7 +95,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 ### General Mines Strategy
 
-* Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible metal nodes, do **not** stop to mine any visible gem nodes, etc. (You will be able to easily farm metal later on.)
+* Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible ore nodes, do **not** stop to mine any visible gem nodes, etc. (You will be able to easily farm ore later on.)
 * Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest + restock furnaces, if any. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
 * On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   * When you have a copper pickaxe or better, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.

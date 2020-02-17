@@ -62,7 +62,7 @@ The general goal of this route is to maximize the total amount of money gained b
 
 ### Rules
 
-The guide is generally designed for players who are playing on the vanilla game (no mods), not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the challenge as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A](#appendix-a-recommended-restrictions).
+The guide is generally designed for players who are playing on the vanilla game (no mods), not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the difficulty as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A](#appendix-a-recommended-restrictions).
 
 ### Gold per Energy List (GPE)
 

@@ -11,3 +11,4 @@
   6) Open up the clock by clicking on the bottom right hand corner of the desktop (in Windows, at least).
   7) Exit to the title screen at the exact second.
   8) Create a new game, and it should have the desired seed.
+* Note that some things in the game are not affected by the seed, such as the amount of Spring Onions.

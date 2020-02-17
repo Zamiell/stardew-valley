@@ -522,6 +522,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
   * Upgrade the axe first so that you can use it to start clearing the farm.
 
+### Spring 21
+
+* Check the Queen of Sauce for the [Radish Salad](https://stardewvalleywiki.com/Radish_Salad) recipie.
+
 ### Spring 23
 
 * Now that you have the steel axe, if you get a bad luck day, use it to clear space on your farm and prepare for your sprinklers. This will need to be done on the 27th at the latest, even if it is not a bad luck day.
@@ -534,18 +538,21 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
   * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
-* You should be aiming to buy around 500-600 Deluxe Speed-Gro, depending on how well your run has been going.
-* Spend the rest of the money on Starfruit Seeds so that you can pass out without penalty.
+* Plan out how many Starfruit Seeds that you will be planting on Summer 1. This will depend on how well your run is going. Make sure to account for the money gained from around 3 more Skull Cavern runs. (It won't be 4 because you need to spend at least 1 day preparing the farm.) You should aim for around 500-600; buy that much Deluxe Speed-Gro today.
+* Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 1.)
 
 ### Spring 28
 
-* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop). You should also have bought as many Starfruit seeds as possible.
+* Check the Queen of Sauce for the [Omelet](https://stardewvalleywiki.com/Omelet) recipie.
+* Ship as many items as possible. (We want as much gold for tomorrow as possible.)
+* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop).
   * Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
-* If this is already set up, then you should spend the entire day in the Skull Cavern.
+* If the farm is already set up and good to go, then you should spend the entire day in the Skull Cavern.
 
 ### Summer 1
 
-* Plant all of the Deluxe Speed-Gro + Starfruit Seeds.
+* Scythe + plant all of the Deluxe Speed-Gro + the first batch of Starfruit Seeds that was purchased on Spring 25.
+* At 9 AM, go to the [Oasis](https://stardewvalleywiki.com/Oasis) and purchase the rest of the Starfruit Seeds, then return home and plant them.
 * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
 * Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
   * Eventually, you will use [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) on them.
@@ -557,7 +564,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Additionally, we are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).
 * Thus, on non-Skull Cavern days, look around the map for summer foragables so that you can craft at least 10-20 [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds). When the Summer Seeds are harvested, re-craft and re-plant as many Summer Seeds as possible (until you get to level 7 foraging).
 * Additionally, on non-Skull Cavern days, you should also chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
-* As soon as you have 100 Hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs.
+* As soon as you have 100 hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs. (You need will need 150 hardwood for the second farmhouse upgrade.)
 
 <br />
 

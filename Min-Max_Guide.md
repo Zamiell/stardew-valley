@@ -43,7 +43,7 @@
   * [Spring 25](#spring-25)
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)
-* [Appendix C: Birthdays](#appendix-b-birthdays)
+* [Appendix C: Birthdays](#appendix-c-birthdays)
 
 <br />
 

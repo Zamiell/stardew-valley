@@ -517,13 +517,15 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 24
 
-* Make sure you have desert totems for tomorrow as Pam has her checkup and will not be at the bus. Deposit everything you have been holding onto in to the shipping bin.
+* Ship as many items as possible. (We want as much gold for tomorrow as possible.)
+* Make sure you have desert totems for tomorrow as Pam has her checkup and will not be at the bus.
 
 ### Spring 25
 
 * You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
   * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
 * You should be aiming to buy around 500-600 Deluxe Speed-Gro, depending on how well your run has been going.
+* Spend the rest of the money on Starfruit Seeds so that you can pass out without penalty.
 
 <br />
 

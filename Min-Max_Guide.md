@@ -598,7 +598,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 <br />
 
-## TTD
+## TODO
 
 * add date of getting mushroom cave (should be Spring 9)
 * add dates to get mushrooms

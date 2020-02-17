@@ -76,7 +76,6 @@ The guide is designed for the kind of player who is using the following self-imp
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
 * No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
 * No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
-* No editing the save file (or using a mod) to make the game zoom out past the normal "75%" value.
 * No using the screenshot feature in the menu to peek outside of the bounds of what you are normally supposed to see.
 * No animation canceling (e.g. to swing a pickaxe extra fast).
 * You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).

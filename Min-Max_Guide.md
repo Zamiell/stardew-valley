@@ -264,7 +264,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Check the same 3 garbage cans as yesterday.
 * Check the beach for foragables + artifact spots.
 * Fish until 9 AM.
-* At Willy's shop, sell all fish + any extra beach foraging items. Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
+* At Willy's shop, sell all fish + any extra beach foraging items. (However, save a [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).)
+* Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
   * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convienent place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
 * Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
 * If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
@@ -288,7 +289,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
   * You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.
 * Go home. 
-* Ship gems + fish.
+* Ship all sellable items (gems, fish, etc.).
   * Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
   * Save one of each fish that is used in community center bundles.
   * Save [Rubies](https://stardewvalleywiki.com/Ruby) and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.

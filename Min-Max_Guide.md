@@ -326,7 +326,9 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day.
 * At the blacksmith:
   * Sell gems.
-  * When buying ore, make sure to save at least 3,310g:
+  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests).
+  * Buy as much gold ore as you can afford while saving at least 3,310g up to 25 gold ore including what you have gained from fishing chests.
+  * You need the 3,310g for:
     * 2,000g for the pickaxe upgrade.
     * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
       * 8 XP per Parsnip * 15 Parsnips = 120 XP
@@ -336,8 +338,6 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
     * 60g for 1 Bean Starter.
     * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
     * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).
-  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests).
-  * Buy up to 25 gold ore (accounting for gold ore gained from fishing chests).
   * Upgrade to the Copper Pickaxe (2000g).
 * Go to Pierre's and buy:
   * 1 Bean Starter (60g)
@@ -380,12 +380,12 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Check the mail until you get the wizard's letter.
 * Water.
 * Empty inventory. Retrieve 5 iron bars + a present for Lewis (optional).
-  * An Earth Crystal or a gem is an easy gift.
-* Go to the wizard (to trigger the cutscene).
+  * An Earth Crystal or a parsnip is an easy gift.
+* Go to the wizard (to trigger the cutscene). Note that this scene does not count as meeting wizard. If you want to have his name replace the ??? in your social tab you must talk to him after the cutscene.
 * Empty out the contents of the forest river chest (optional).
 * Go to Lewis and give him a birthday present (optional).
 * Go to the blacksmith:
-  * Buy up to 25 gold ore.
+  * Buy up to 25 gold ore (including what you have fished up).
   * Upgrade to the Steel Pickaxe (5,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
 * At the end of the day, you should get:
@@ -397,6 +397,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Out of your sellable items, ship however much will give you 12,000g.
   * This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
 * Fish at the mountain lake until 2 AM, then pass out.
+* As this is the first day we have not increased a skill since the start of the game, make sure not to exhaust yourself. Waking up with 50% energy tomorrow will be rough, but if you exhaust yourself you will wake up with next to nothing.
 
 ### Spring 9
 
@@ -446,12 +447,12 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Mine until 2 AM, then pass out.
   * As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 * At the end of the day, you should get:
-  * Farming 0 --> 1
+  * Farming 1 --> 2
 
 ### Spring 12
 
 * Grab mushrooms from the cave.
-* Mine until 2 AM, then pass out.
+* Mine until 2 AM, then pass out. As you mine, smelt copper and iron.
 
 ### Spring 13
 
@@ -476,7 +477,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Water the crops that are not yet covered by sprinklers (if any).
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.
-  * Remember to exit out of the Golden Scroll after completing one of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
+  * Remember to exit out of the Golden Scroll after completing two of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
 * Also complete the vault bundles.
 * Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 * Empty inventory and go to the mines.
@@ -507,13 +508,21 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 19
 
 * Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
-  * Upgrading the axe is optinoal; you can forgo it if you want more money to purchase Starfruit on Spring 28.
+  * Upgrading the axe first is ideal.
+
+### Spring 23
+
+* Now that you have the steel axe, if you get a bad luck day, use it to clear space on your farm and prepare for your sprinklers. This will need to be done on the 27th at the latest, even if it is not a bad luck day.
+
+### Spring 24
+
+* Make sure you have desert totems for tomorrow as Pam has her checkup and will not be at the bus. Deposit everything you have been holding onto in to the shipping bin.
 
 ### Spring 25
 
 * You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
   * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
-* You should be aiming to buy around 540 Deluxe Speed-Gro (for a batch of 540 Starfruit). Plan to buy the next batch Speed-Gro batch on Summer 4.
+* You should be aiming to buy around 500-600 Deluxe Speed-Gro, depending on how well your run has been going.
 
 <br />
 
@@ -533,7 +542,7 @@ We recommend the following self-imposed restrictions:
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
 * No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
-* No using [a planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
+* No using a predictor to know beforehand what specific tiles will yield a gold-quality crop.
 * No animation canceling (e.g. to swing a tool extra fast).
 * You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
 
@@ -577,7 +586,7 @@ This prevents the game from rounding the time to the nearest 10 minutes. It is h
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
-In this case, the intro refers to the cutscene that appears before you get to the main menu. Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster.
+In this case, the intro refers to the cutscene that appears before you get to the main menu. Being forced to watch an unskippable intro cutscene every time you want to play the game is inexcusable.
 
 #### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
 

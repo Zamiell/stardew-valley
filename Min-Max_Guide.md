@@ -106,6 +106,7 @@ In general, you should always eat items with the [lowest gold to energy ratio](h
 
 ### General Fishing Strategy
 
+* When the fish is flying towards you at the end of the mini-game, you can hold down the mouse button in order to skip the graphic that displays what fish is caught and immediately re-cast. (This is optimal because time passes when this graphic is showing.)
 * In spring, the best fishing spot for non-rainy days is the mountain lake.
   * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
 * In spring, the best fishing spot for rainy days is the forest river.

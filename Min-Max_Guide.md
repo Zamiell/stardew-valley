@@ -33,13 +33,13 @@
 | [Spring 5](#spring-5)   | [Summer 5 & Beyond](#summer-5--beyond)
 | [Spring 6](#spring-6)   | [Summer 10](#summer-10)
 | [Spring 7](#spring-7)   | [Summer 11](#summer-11)
-| [Spring 8](#spring-8)   | [Summer 13-21](#summer-13-21)
+| [Spring 8](#spring-8)   | [Summer 13 & Beyond](#summer-13--beyond)
 | [Spring 9](#spring-9)   | [Summer 19](#summer-19)
-| [Spring 10](#spring-10) | [Summer 24](#summer-24)
-| [Spring 11](#spring-11) | [Summer 25](#summer-25)
-| [Spring 12](#spring-12) | [Summer 27](#summer-27)
-| [Spring 13](#spring-13) | [Summer 28](#summer-28)
-| [Spring 14](#spring-14) | 
+| [Spring 10](#spring-10) | [Summer 20](#summer-20)
+| [Spring 11](#spring-11) | [Summer 27](#summer-27)
+| [Spring 12](#spring-12) | [Summer 28](#summer-28)
+| [Spring 13](#spring-13) |
+| [Spring 14](#spring-14) |
 | [Spring 15](#spring-15) |
 | [Spring 16](#spring-16) |
 | [Spring 17 & Beyond](#spring-17--beyond) |
@@ -639,10 +639,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Unfortunately, the benefit from Agriculturist will not affect the crops that were planted today.
   * We will re-spec to Artisan later on before selling any of the Starfruit Wine.
 
-### Summer 13-21
+### Summer 13 & Beyond
 
-* At some point in this time span, buy and plant any other summer crops that you need for bundles/quests/presents/whatever.
-  * The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which will take 10 days with the Agriculturist profession. With Deluxe Speed-Gro, you can speed this up to 7 days. So you can defer planting to Spring 21 at the latest.
+* At some point on or after Spring 13, buy and plant any other summer crops that you need for bundles/quests/presents/whatever.
+* The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which will take 10 days with the Agriculturist profession. With Deluxe Speed-Gro, you can speed this up to 7 days. So you can defer planting extra summer crops to Spring 21 at the latest.
 
 ### Summer 19
 

@@ -669,12 +669,12 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Nothing notable on this day. Can do a Skull Cavern run, etc. We need to wait for the wheat to finish growing.
 * Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant and harvest as many [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds) as possible during fall.
 
-### Fall 2 & Beyond
+### Fall 2
 
 * Harvest the wheat and replant [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your whole farm.
   * Pumpkins are better than [Cranberries](https://stardewvalleywiki.com/Cranberries) because we will not have enough kegs to support all of the cranberries.
-* You can do this on either Fall 2, Fall 3, or Fall 4, depending on the current luck of the day and your personal preference. (Planting on Fall 4 will result in a harvest on Fall 28.)
 * Similar to Starfruit, you should harvest + replant in order to get three batches of [Pumpkins](https://stardewvalleywiki.com/Pumpkin) in fall.
+* You can respec at (?)
 
 ### Winter 1 & Beyond
 

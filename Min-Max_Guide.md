@@ -162,6 +162,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
   * It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. (Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing.) Doing this is not considered cheating since it puts players who are playing on 1080p monitors on equal footing with players playing on 4K monitors. (On 4K monitors, you are able to see around half the farm while standing at your door.)
 * For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
+* Save all [Acorns](https://stardewvalleywiki.com/Acorn) for summer. (We will use them to make an [Oak Tree](https://stardewvalleywiki.com/Oak_Tree) forest.)
 * Do not read any of your mail unless explicitly told to by the guide.
   * This is because at many points in the run, you need to stay at 0 gold for the purposes of staying out late. Since some letters contain gold, you want to only check the mail at specific points.
 * Choose Mushrooms over Bats for the Cave. This is for several reasons:
@@ -183,7 +184,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 * Take the Parsnip Seeds.
 * Immediately chop down trees until foraging level 1. We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees. The route is very tight.)
-  * Only chop down Maple and Pine trees, not Oak trees. (We won't get any acorns for felling an Oak tree until Spring 2 and acorns are precious.)
+  * Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
   * For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   * Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   * Do not chop wood tiles until you are already at foraging level 1 (as they don't provide any foraging XP).
@@ -522,7 +523,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Craft + place Quality Sprinklers, craft + place Scarecrows.
   * Hoe + plant Parsnips (as a "linger crop" to keep the squares watered on Summer 1).
   * Craft + place extra furnaces with your spare copper.
-  * Start to plant acorns in a corner of the farm to build up an Oak tree forest.
+  * Start to plant acorns in a corner of the farm to build up an Oak Tree forest.
     * Eventually, you will use [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) on them.
   * Farm more ore in the mines (on floor 20/40/80).
 
@@ -545,7 +546,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 25
 
-* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
+* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis) today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
   * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
 * Plan out how many Starfruit Seeds that you will be planting on Summer 1. This will depend on how well your run is going. Make sure to account for the money gained from around 3 more Skull Cavern runs. (It won't be 4 because you need to spend at least 1 day preparing the farm.) You should aim for around 500-600; buy that much Deluxe Speed-Gro today.
 * Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 1.)
@@ -573,23 +574,17 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Summer 3
 
 * Smelt Iridium Bars. Later on in the day when they are finished (around 2:30 PM), go to Clint and upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes). (If you need more money beyond just what the Iridium Bars provide, you can sell some gems directly to Clint.)
+* Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) scattered around your farm that you did not cut down.
+* Continue to plant [Acorns](https://stardewvalleywiki.com/Acorn) in a corner of the farm to build up an [Oak Tree](https://stardewvalleywiki.com/Oak_Tree) forest.
+* We are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).
+* Thus, on days when you are not in the Skull Cavern (like today), you should:
+  * Look around the map for summer foragables so that you can craft at least 10-20 [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds). When the Summer Seeds are harvested, re-craft and re-plant as many Summer Seeds as possible (until you get to level 7 foraging).
+  * Chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
+  * As soon as you have 100 hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs. (You need will need 150 hardwood for the second farmhouse upgrade.)
 
-* Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
-* Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
-* Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Starfruit Seeds. (If you make enough money, you can even plant more Starfruit on Summer 10 than you did on Summer 1.)
-* Additionally, we are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).
-* Thus, on non-Skull Cavern days, look around the map for summer foragables so that you can craft at least 10-20 [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds). When the Summer Seeds are harvested, re-craft and re-plant as many Summer Seeds as possible (until you get to level 7 foraging).
-* Additionally, on non-Skull Cavern days, you should also chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
-* As soon as you have 100 hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs. (You need will need 150 hardwood for the second farmhouse upgrade.)
+### Summer 4 & Beyond
 
-### Summer 3
-
-* Ship enough items such that you will have 25,000g (for an [Iridium Pickaxe](https://stardewvalleywiki.com/Axes)) and enough money for some more [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) (optional; see below).
-
-### Summer 4
-
-* Go to Clint and upgrade to the Iridium Pickaxe (25,000g).
-* This is the day you will need to buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the Oasis if you plan on planting more Starfruit on your second crop than you did on your first crop.
+* Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Starfruit Seeds.
 
 ### Summer 9
 
@@ -597,27 +592,38 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 10
 
-* Harvest the Starfruit and replant. (The Speed Gro will stay on the tiles, so you should not have to re-apply any. The exception is if you are planting more Starfruit on your second crop than you did on your first crop; then you need to apply it to the additional tiles.)
-* Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many oak trees as possible and building as many kegs as possible. (Buy the necessary wood from Robin if you are short.)
+* Harvest the Starfruit and replant. (The Speed Gro will stay on the tiles, so you should not have to re-apply any.)
+* Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin if you are short.)
 * To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
 
 ### Summer 11
 
 * Go to the Skull Caverns so that we can get some money for Spring 12.
-* Return home early from so that you can smelt some Iridium Bars before going to bed.
 
 ### Summer 12
 
-* When the Iridium Bars are finished smelting, sell them to Clint.
+* When the Iridium Bars are finished smelting (at around 2:30 PM), sell them directly to Clint.
 * You should have enough money to go to Pierre's and buy any other summer crops that you need for bundles/quests/presents/whatever. The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which take 13 days. Thus, if you hoe + plant them today, you do not have to bother watering them, and they will be ready by Summer 28.
 
 ### Summer 19
 
 * Harvest the Starfruit and replant.
 
+### Summer 24
+
+* Ship enough items so that you can buy enough [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) tomorrow to cover your whole field.
+
+### Summer 25
+
+* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis) today (so that you can have 3 crops of [Pumpkins](https://stardewvalleywiki.com/Pumpkin)).
+
+### Summer 27
+
+* Ship enough items so that you can buy enough [Pepper Seeds](https://stardewvalleywiki.com/Pepper_Seeds) tomorrow to cover your field. (Pepper Seeds are 40g each.)
+
 ### Summer 28
 
-* Harvest the Starfruit and replant [Pepper Seeds](https://stardewvalleywiki.com/Pepper_Seeds) or [Radish Seeds](https://stardewvalleywiki.com/Radish_Seeds) as a "linger" crop for fall.
+* Harvest the Starfruit and replant [Pepper Seeds](https://stardewvalleywiki.com/Pepper_Seeds) as a "linger" crop for fall.
 
 ### Fall 1
 

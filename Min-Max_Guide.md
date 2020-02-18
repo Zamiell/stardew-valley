@@ -48,6 +48,8 @@
 | [Spring 23](#spring-23) | 
 | [Spring 24](#spring-24) | 
 | [Spring 25](#spring-25) | 
+| [Spring 27](#spring-27) | 
+| [Spring 28](#spring-28) | 
 
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)
@@ -128,7 +130,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 * Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals and whatnot.
 * In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
-* The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is better than the Galaxy Sword (when utilizing the spam click strategy).
+* The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the spam click strategy).
 * You can craft some bombs for big clusters of rocks/ore, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
 * You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable tham fishing in spring.
 * Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
@@ -519,25 +521,41 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)
 * During periods of downtime, you can:
   * Start to clear debris on the farm where your Quality Sprinklers + Starfruit crop will go.
-  * Craft + place Quality Sprinklers, craft + place Scarecrows.
-  * Hoe + plant Parsnips (as a "linger crop" to keep the squares watered on Summer 1).
+  * Craft + place flooring where the Quality Sprinklers will go.
+  * Craft + place Scarecrows.
   * Craft + place extra furnaces with your spare copper.
   * Start to plant acorns in a corner of the farm to build up an Oak Tree forest.
-    * Eventually, you will use [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) on them.
   * Farm more ore in the mines (on floor 20/40/80).
+
+### Spring 18
+
+* Ship enough items to get:
+  * 2000g for the [Copper Axe](https://stardewvalleywiki.com/Axes) upgrade.
+  * However much gold is needed to buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) (70g each).
 
 ### Spring 19
 
-* Starting today, you need to start upgrading your tools. The axe needs to be upgraded twice and the hoe needs to be upgraded twice. Thus, you should have both tools finished by Spring 25. (19 --> 21 --> 23 --> 25)
-  * Upgrade the axe first so that you can use it to start clearing the farm.
+* At 9 AM, go to Clint and upgrade to the [Copper Axe](https://stardewvalleywiki.com/Axes) (2000g).
+* Go to Pierre and buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds)
+
+### Spring 20
+
+* Harvest the first batch of Kale and plant the second crop.
+* Ship enough items to get 5000g for the [Steel Axe](https://stardewvalleywiki.com/Axes) upgrade.
 
 ### Spring 21
 
 * Check the Queen of Sauce for the [Radish Salad](https://stardewvalleywiki.com/Radish_Salad) recipie.
+* At 9 AM, go to Clint, retrieve the [Copper Axe](https://stardewvalleywiki.com/Axes), and upgrade to the [Steel Axe](https://stardewvalleywiki.com/Axes) (5,000g).
+
+### Spring 22
+
+* Ship enough items to get 2000g for the [Copper Hoe](https://stardewvalleywiki.com/Hoes) upgrade.
 
 ### Spring 23
 
-* Now that you have the steel axe, if you get a bad luck day, use it to clear space on your farm and prepare for your sprinklers. This will need to be done on the 27th at the latest, even if it is not a bad luck day.
+* At 9 AM, go to Clint, retrieve the [Steel Axe](https://stardewvalleywiki.com/Axes), and upgrade to the [Copper Hoe](https://stardewvalleywiki.com/Hoes) (2,000g).
+* Now that you have the [Steel Axe](https://stardewvalleywiki.com/Axes), if you get a bad luck day, use it to clear space on your farm and prepare for your sprinklers. This will need to be done on the 27th at the latest, even if it is not a bad luck day.
 
 ### Spring 24
 
@@ -545,18 +563,25 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 25
 
-* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis) today (so that you can have 3 crops of [Starfruit](https://stardewvalleywiki.com/Starfruit)).
-  * Deluxe Speed-Gro is only sold on Thursdays and you need it by Summer 1.
-* Plan out how many Starfruit Seeds that you will be planting on Summer 1. This will depend on how well your run is going. Make sure to account for the money gained from around 3 more Skull Cavern runs. (It won't be 4 because you need to spend at least 1 day preparing the farm.) You should aim for around 500-600; buy that much Deluxe Speed-Gro today.
+* At 9 AM, go to Clint, retrieve the [Copper Hoe](https://stardewvalleywiki.com/Hoes), and upgrade to the [Steel Hoe](https://stardewvalleywiki.com/Hoes) (5,000g).
+* Plan out how many Starfruit Seeds that you will be planting on Summer 1. This will depend on how well your run is going. Make sure to account for the money gained from around 3 more Skull Cavern runs. (It won't be 4 because you need to spend at least 1 day preparing the farm.) You should aim for around 500-600.
+* Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase. (We need the Deluxe Speed-Gro so that we can get 3 Starfruit harvests instead of 2.)
+  * The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 1.
 * Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 1.)
+
+### Spring 27
+
+* Harvest the second batch of Kale. (This should get you to farming level 6.)
+* At 9 AM, go to Clint and retrieve the [Steel Hoe](https://stardewvalleywiki.com/Hoes).
 
 ### Spring 28
 
 * Check the Queen of Sauce for the [Omelet](https://stardewvalleywiki.com/Omelet) recipie.
 * Ship as many items as possible. (We want as much gold for tomorrow as possible.)
-* At this point, you should have all of your Quality Sprinklers set up with Parsnip Seeds planted (as a "linger" crop).
+* Craft + place Quality Sprinklers.
+* Plant Parsnip Seeds (as a "linger" crop) if you haven't already done so earlier on in the season.
   * Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
-* If the farm is already set up and good to go, then you should spend the entire day in the Skull Cavern.
+* If you finish before noon, then you can spend the rest of the day in the Skull Cavern.
 
 ### Summer 1
 

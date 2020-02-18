@@ -739,7 +739,7 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 ## Appendix C: Birthdays
 
 * On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
-* On a birthday, and giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
+* On a birthday, giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
 * Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
 
 #### Lewis - Spring 7

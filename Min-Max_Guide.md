@@ -24,22 +24,22 @@
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
 
-| Spring                  | Summer                                 | Fall                | Winter
-| ----------------------- | -------------------------------------- | ------------------- | ---------------------
-| [Spring 1](#spring-1)   | [Summer 1](#summer-1)                  | [Fall 1](#fall-1)   | [Winter 1](#winter-1)
-| [Spring 2](#spring-2)   | [Summer 2](#summer-2)                  | [Fall 10](#fall-10)
-| [Spring 3](#spring-3)   | [Summer 3](#summer-3)                  | [Fall 19](#fall-19)
-| [Spring 4](#spring-4)   | [Summer 4](#summer-4)                  | [Fall 28](#fall-28)
+| Spring                  | Summer                                 | Fall                               | Winter
+| ----------------------- | -------------------------------------- | ---------------------------------- | ---------------------
+| [Spring 1](#spring-1)   | [Summer 1](#summer-1)                  | [Fall 1](#fall-1)                  | [Winter 1 & Beyond](#winter-1--beyond)
+| [Spring 2](#spring-2)   | [Summer 2](#summer-2)                  | [Fall 2 & Beyond](#fall-2--beyond)
+| [Spring 3](#spring-3)   | [Summer 3](#summer-3)
+| [Spring 4](#spring-4)   | [Summer 4](#summer-4)
 | [Spring 5](#spring-5)   | [Summer 5 & Beyond](#summer-5--beyond)
-| [Spring 6](#spring-6)   | [Summer 9](#summer-9)
-| [Spring 7](#spring-7)   | [Summer 10](#summer-10)
-| [Spring 8](#spring-8)   | [Summer 11](#summer-11)
-| [Spring 9](#spring-9)   | [Summer 12](#summer-12)
-| [Spring 10](#spring-10) | [Summer 19](#summer-19)
-| [Spring 11](#spring-11) | [Summer 24](#summer-24)
-| [Spring 12](#spring-12) | [Summer 25](#summer-25)
-| [Spring 13](#spring-13) | [Summer 27](#summer-27)
-| [Spring 14](#spring-14) | [Summer 28](#summer-28)
+| [Spring 6](#spring-6)   | [Summer 10](#summer-10)
+| [Spring 7](#spring-7)   | [Summer 11](#summer-11)
+| [Spring 8](#spring-8)   | [Summer 12](#summer-12)
+| [Spring 9](#spring-9)   | [Summer 19](#summer-19)
+| [Spring 10](#spring-10) | [Summer 24](#summer-24)
+| [Spring 11](#spring-11) | [Summer 25](#summer-25)
+| [Spring 12](#spring-12) | [Summer 27](#summer-27)
+| [Spring 13](#spring-13) | [Summer 28](#summer-28)
+| [Spring 14](#spring-14) | 
 | [Spring 15](#spring-15) |
 | [Spring 16](#spring-16) |
 | [Spring 17 & Beyond](#spring-17--beyond) |
@@ -593,7 +593,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 1
 
-* [Nothing notable on this day. Can do a Skull Cavern run, etc. Don't scythe any of the Parsnips since we do not need to plant any Starfruit Seeds until tomorrow.]
+* Nothing notable on this day. Can do a Skull Cavern run, etc. Don't scythe any of the Parsnips since we do not need to plant any Starfruit Seeds until tomorrow. (This is because the Agriculturist profession will affect the third batch of Starfruit.)
 
 ### Summer 2
 
@@ -624,70 +624,65 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Starfruit Seeds.
 
-### Summer 9
+### Summer 10
 
 * Ship as many items as possible. (We want as much gold for tomorrow as possible.)
 
-### Summer 10
-
-* Harvest the Starfruit and replant. (The Speed Gro will stay on the tiles, so you should not have to re-apply any.)
-* Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin if you are short.)
-* To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
-* At the end of the day, you should get farming level 10. Choose the Agriculturist profession. (We will re-spec to Artisan later on.)
-
 ### Summer 11
 
-* Go to the Skull Caverns so that we can get some money for Spring 12.
+* Harvest the Starfruit.
+* At 9 AM, go to the Oasis and buy the second batch of Starfruit Seeds.
+* Plant the Starfruit Seeds. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
+* Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin when you run out.)
+* To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
+* At the end of the day, you should get farming level 10. Choose the Agriculturist profession.
+  * Unfortunately, the benefit from Agriculturist will not affect the crops that were planted today.
+  * We will re-spec to Artisan later on before selling any of the Starfruit Wine.
 
-### Summer 12
+### Summer 13-21
 
-* When the Iridium Bars are finished smelting (at around 2:30 PM), sell them directly to Clint.
-* You should have enough money to go to Pierre's and buy any other summer crops that you need for bundles/quests/presents/whatever. The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which take 13 days. Thus, if you hoe + plant them today, you do not have to bother watering them, and they will be ready by Summer 28.
+* At some point in this time span, buy and plant any other summer crops that you need for bundles/quests/presents/whatever.
+  * The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which will take 10 days with the Agriculturist profession. With Deluxe Speed-Gro, you can speed this up to 7 days. So you can defer planting to Spring 21 at the latest.
 
 ### Summer 19
 
-* Harvest the Starfruit and replant.
+* Ship enough items for the third batch of Starfruit.
 
-### Summer 24
+### Summer 20
 
-* Ship enough items so that you can buy enough [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) tomorrow to cover your whole field.
-
-### Summer 25
-
-* You must buy [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis) today (so that you can have 3 crops of [Pumpkins](https://stardewvalleywiki.com/Pumpkin)).
+* Harvest the Starfruit.
+* At 9 AM, go to the Oasis and buy the second batch of Starfruit Seeds.
+* Plant the Starfruit Seeds. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
 
 ### Summer 27
 
-* Ship enough items so that you can buy enough [Pepper Seeds](https://stardewvalleywiki.com/Pepper_Seeds) tomorrow to cover your field. (Pepper Seeds are 40g each.)
+* Ship enough items to purchase enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm tomorrow (5g each).
 
 ### Summer 28
 
-* Harvest the Starfruit and replant [Pepper Seeds](https://stardewvalleywiki.com/Pepper_Seeds) as a "linger" crop for fall.
+* Harvest the Starfruit.
+* At 9 AM, go to Pierre's and buy enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm.
+* Plant the Wheat Seeds.
 
 ### Fall 1
 
-* For the majority of your field, plant [Pumpkins](https://stardewvalleywiki.com/Pumpkin) with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro). (Pumpkins have the same growth time as Starfruit, so you will get harvests on the 10th and the 19th.)
+* Nothing notable on this day. Can do a Skull Cavern run, etc. We need to wait for the wheat to finish growing.
+* Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant and harvest as many [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds) as possible during fall.
+
+### Fall 2 & Beyond
+
+* Harvest the wheat and replant [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your whole farm.
   * Pumpkins are better than [Cranberries](https://stardewvalleywiki.com/Cranberries) because we will not have enough kegs to support all of the cranberries.
-* If you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, plan to plant and harvest as many [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds) as possible during fall.
+* You can do this on either Fall 2, Fall 3, or Fall 4, depending on the current luck of the day and your personal preference. (Planting on Fall 4 will result in a harvest on Fall 28.)
+* Similar to Starfruit, you should harvest + replant in order to get three batches of [Pumpkins](https://stardewvalleywiki.com/Pumpkin) in fall.
 
-### Fall 10
-
-* Harvest the Pumpkins and replant.
-
-### Fall 19
-
-* Harvest the Pumpkins and replant.
-
-### Fall 28
-
-* Harvest the Pumpkins.
-
-### Winter 1
+### Winter 1 & Beyond
 
 * In winter, your primary source of income outside of the Skull Caverns will be [Winter Seeds](https://stardewvalleywiki.com/Winter_Seeds):
   * First, finish the [Winter Foraging Bundle](https://stardewvalleywiki.com/Bundles#Winter_Foraging_Bundle) to get 30 seeds.
   * Plant those with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) (as it will make them grow in 5 days instead of 7.
   * After each harvest, craft and plant more Winter Seeds (with Deluxe Speed-Gro), until your entire field is covered.
+* Another good way to make money is to craft [Garden Pots](https://stardewvalleywiki.com/Garden_Pot) in order to grow more Starfruit. (They will have to be manually watered every day.)
 
 <br />
 

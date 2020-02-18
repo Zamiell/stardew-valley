@@ -397,12 +397,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Check the Queen of Sauce for the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipie.
 * Check the mail until you get the wizard's letter.
 * Water.
-* Empty inventory. Retrieve 5 iron bars + a birthday present for Lewis (optional).
-  * An [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip) are good gifts.
+* Empty inventory. Retrieve 5 iron bars.
 * Go to the wizard (to trigger the cutscene).
   * Note that watching the cutscene does not count as meeting the wizard. If you want to have his name appear in the social tab, you must talk to him after the cutscene. However, this is purely cosmetic and has no actual gameplay advantage, so talking to him is considered a waste of time, especially if you plan on giving him gifts later on.
 * Empty out the contents of the forest river chest (optional).
-* Go to Lewis and give him a birthday present (optional).
 * Go to the blacksmith:
   * Buy up to 25 gold ore (including what you have fished up).
   * Upgrade to the Steel Pickaxe (5,000g).
@@ -444,11 +442,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Two batches is optimal because we don't want to craft more [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) than necessary. This allows for the maximum amount of iron bars to craft Quality Sprinklers on Spring 28.
 * If you are not level 10 fishing, then don't ship any fish right now (because you will miss out on 25% of the gold). Tomorrow, you will have to sell the fish directly to Willy.
 * Empty inventory. Retrieve Fiberglass Rod.
-* If you have less than 100 bait on the rod, also retrieve a few fish.
-* Give Vincent a birthday present (optional).
-  * A [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal), or a [Parsnip](https://stardewvalleywiki.com/Parsnip) are good gifts.
-  * You will get there before he wakes up, so fish in the town river until he comes outside.
-* If you need bait, go to Willy, sell the fish, buy more bait.
+* If you have less than 100 bait on the rod, also retrieve a few fish. Fish in the mountain lake for a few hours while you wait for 9 AM. Then, go to Willy, sell the fish, and buy more bait.
 * Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
 
 ### Spring 11

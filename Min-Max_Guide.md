@@ -39,17 +39,21 @@
 | [Spring 11](#spring-11) | [Summer 25](#summer-25)
 | [Spring 12](#spring-12) | [Summer 27](#summer-27)
 | [Spring 13](#spring-13) | [Summer 28](#summer-28)
-| [Spring 14](#spring-14) | 
-| [Spring 15](#spring-15) | 
-| [Spring 16](#spring-16) | 
-| [Spring 17 & Beyond](#spring-17--beyond) | 
-| [Spring 19](#spring-19) | 
-| [Spring 21](#spring-21) | 
-| [Spring 23](#spring-23) | 
-| [Spring 24](#spring-24) | 
-| [Spring 25](#spring-25) | 
-| [Spring 27](#spring-27) | 
-| [Spring 28](#spring-28) | 
+| [Spring 14](#spring-14) |
+| [Spring 15](#spring-15) |
+| [Spring 16](#spring-16) |
+| [Spring 17 & Beyond](#spring-17--beyond) |
+| [Spring 18](#spring-18) |
+| [Spring 19](#spring-19) |
+| [Spring 20](#spring-20) |
+| [Spring 21](#spring-21) |
+| [Spring 22](#spring-22) |
+| [Spring 23](#spring-23) |
+| [Spring 24](#spring-24) |
+| [Spring 25](#spring-25) |
+| [Spring 26](#spring-26) |
+| [Spring 27](#spring-27) |
+| [Spring 28](#spring-28) |
 
 * [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 * [Appendix B: Mods](#appendix-b-mods)

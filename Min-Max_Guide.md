@@ -29,17 +29,17 @@
 | [Spring 1](#spring-1)   | [Summer 1](#summer-1)                  | [Fall 1](#fall-1)   | [Winter 1](#winter-1)
 | [Spring 2](#spring-2)   | [Summer 2](#summer-2)                  | [Fall 10](#fall-10)
 | [Spring 3](#spring-3)   | [Summer 3](#summer-3)                  | [Fall 19](#fall-19)
-| [Spring 4](#spring-4)   | [Summer 4 & Beyond](#summer-4--beyond) | [Fall 28](#fall-28)
-| [Spring 5](#spring-5)   | [Summer 9](#summer-9)
-| [Spring 6](#spring-6)   | [Summer 10](#summer-10)
-| [Spring 7](#spring-7)   | [Summer 11](#summer-11)
-| [Spring 8](#spring-8)   | [Summer 12](#summer-12)
-| [Spring 9](#spring-9)   | [Summer 19](#summer-19)
-| [Spring 10](#spring-10) | [Summer 24](#summer-24)
-| [Spring 11](#spring-11) | [Summer 25](#summer-25)
-| [Spring 12](#spring-12) | [Summer 27](#summer-27)
-| [Spring 13](#spring-13) | [Summer 28](#summer-28)
-| [Spring 14](#spring-14) |
+| [Spring 4](#spring-4)   | [Summer 4](#summer-4)                  | [Fall 28](#fall-28)
+| [Spring 5](#spring-5)   | [Summer 5 & Beyond](#summer-5--beyond)
+| [Spring 6](#spring-6)   | [Summer 9](#summer-9)
+| [Spring 7](#spring-7)   | [Summer 10](#summer-10)
+| [Spring 8](#spring-8)   | [Summer 11](#summer-11)
+| [Spring 9](#spring-9)   | [Summer 12](#summer-12)
+| [Spring 10](#spring-10) | [Summer 19](#summer-19)
+| [Spring 11](#spring-11) | [Summer 24](#summer-24)
+| [Spring 12](#spring-12) | [Summer 25](#summer-25)
+| [Spring 13](#spring-13) | [Summer 27](#summer-27)
+| [Spring 14](#spring-14) | [Summer 28](#summer-28)
 | [Spring 15](#spring-15) |
 | [Spring 16](#spring-16) |
 | [Spring 17 & Beyond](#spring-17--beyond) |
@@ -567,11 +567,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 25
 
+* Plan out how many Starfruit Seeds that you will be planting on Summer 2. This will depend on how well your run is going. Make sure to account for the future revenue from Skull Cavern runs between now and Summer 2. Note that you will need around two full days to clear and prepare the farm. (You may have already spent one day clearing if you got an unlucky day between Spring 23 and now.) You should aim for around 500 to 600 Starfruit Seeds.
 * At 9 AM, go to Clint, retrieve the [Copper Hoe](https://stardewvalleywiki.com/Hoes), and upgrade to the [Steel Hoe](https://stardewvalleywiki.com/Hoes) (5,000g).
-* Plan out how many Starfruit Seeds that you will be planting on Summer 1. This will depend on how well your run is going. Make sure to account for the money gained from around 3 more Skull Cavern runs. (It won't be 4 because you need to spend at least 1 day preparing the farm.) You should aim for around 500-600.
-* Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase. (We need the Deluxe Speed-Gro so that we can get 3 Starfruit harvests instead of 2.)
-  * The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 1.
-* Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 1.)
+* Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase.
+  * The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 2.
+* Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 2.)
 
 ### Spring 26
 
@@ -589,9 +589,13 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Craft + place Quality Sprinklers.
 * Plant Parsnip Seeds (as a "linger" crop) if you haven't already done so earlier on in the season.
   * Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
-* If you finish before noon, then you can spend the rest of the day in the Skull Cavern.
+* If you finish before around noon, then you can spend the rest of the day in the Skull Cavern.
 
 ### Summer 1
+
+* [Nothing notable on this day. Can do a Skull Cavern run, etc. Don't scythe any of the Parsnips since we do not need to plant any Starfruit Seeds until tomorrow.]
+
+### Summer 2
 
 * Scythe + plant all of the Deluxe Speed-Gro + the first batch of Starfruit Seeds that was purchased on Spring 25.
 * At 9 AM, go to the [Oasis](https://stardewvalleywiki.com/Oasis) and purchase the rest of the Starfruit Seeds, then return home and plant them.
@@ -600,11 +604,11 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
   * Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
 
-### Summer 2
+### Summer 3
 
 * Do a Skull Cavern run. (We need 25,000g to upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes).)
 
-### Summer 3
+### Summer 4
 
 * Smelt Iridium Bars. Later on in the day when they are finished (around 2:30 PM), go to Clint and upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes). (If you need more money beyond just what the Iridium Bars provide, you can sell some gems directly to Clint.)
 * Craft + place around 10-20 [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod).
@@ -616,7 +620,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * Chop down the 5 stumps in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to get both foraging XP and [Hardwood](https://stardewvalleywiki.com/Hardwood). (You will need 100 Hardwood for the [Stable](https://stardewvalleywiki.com/Stable).)
   * As soon as you have 100 hardwood, you should purchase the Stable from Robin, which will make you waste less time on subsequent Secret Woods runs. (You need will need 150 hardwood for the second farmhouse upgrade.)
 
-### Summer 4 & Beyond
+### Summer 5 & Beyond
 
 * Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Starfruit Seeds.
 

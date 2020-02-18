@@ -648,6 +648,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Winter 1
 
 * In winter, your primary source of income will be [Winter Seeds](https://stardewvalleywiki.com/Winter_Seeds). After each harvest, craft more Winter Seeds, until your entire field is covered.
+  * Use [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro), as it will make them grow in 5 days instead of 7.
 
 <br />
 

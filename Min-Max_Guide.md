@@ -573,6 +573,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 1.
 * Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 1.)
 
+### Spring 26
+
+* [Nothing notable on this day.]
+
 ### Spring 27
 
 * Harvest the second batch of Kale. (This should get you to farming level 6.)
@@ -625,6 +629,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Harvest the Starfruit and replant. (The Speed Gro will stay on the tiles, so you should not have to re-apply any.)
 * Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin if you are short.)
 * To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
+* At the end of the day, you should get farming level 10. Choose the Agriculturist profession. (We will re-spec to Artisan later on.)
 
 ### Summer 11
 

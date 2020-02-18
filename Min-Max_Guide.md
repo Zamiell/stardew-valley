@@ -24,9 +24,9 @@
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
 
-| Spring                  | Summer                                 | Fall 
-| ----------------------- | -------------------------------------- | -----
-| [Spring 1](#spring-1)   | [Summer 1](#summer-1)                  | [Fall 1](#fall-1)
+| Spring                  | Summer                                 | Fall                | Winter
+| ----------------------- | -------------------------------------- | ------------------- | ---------------------
+| [Spring 1](#spring-1)   | [Summer 1](#summer-1)                  | [Fall 1](#fall-1)   | [Winter 1](#winter-1)
 | [Spring 2](#spring-2)   | [Summer 2](#summer-2)                  | [Fall 10](#fall-10)
 | [Spring 3](#spring-3)   | [Summer 3](#summer-3)                  | [Fall 19](#fall-19)
 | [Spring 4](#spring-4)   | [Summer 4 & Beyond](#summer-4--beyond) | [Fall 28](#fall-28)
@@ -35,10 +35,10 @@
 | [Spring 7](#spring-7)   | [Summer 11](#summer-11)
 | [Spring 8](#spring-8)   | [Summer 12](#summer-12)
 | [Spring 9](#spring-9)   | [Summer 19](#summer-19)
-| [Spring 10](#spring-10) | [Summer 29](#summer-28)
-| [Spring 11](#spring-11) | 
-| [Spring 12](#spring-12) | 
-| [Spring 13](#spring-13) | 
+| [Spring 10](#spring-10) | [Summer 24](#summer-24)
+| [Spring 11](#spring-11) | [Summer 25](#summer-25)
+| [Spring 12](#spring-12) | [Summer 27](#summer-27)
+| [Spring 13](#spring-13) | [Summer 28](#summer-28)
 | [Spring 14](#spring-14) | 
 | [Spring 15](#spring-15) | 
 | [Spring 16](#spring-16) | 
@@ -642,6 +642,10 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Fall 28
 
 * Harvest the Pumpkins.
+
+### Winter 1
+
+* In winter, your primary source of income will be [Winter Seeds](https://stardewvalleywiki.com/Winter_Seeds). After each harvest, craft more Winter Seeds, until your entire field is covered.
 
 <br />
 

@@ -121,6 +121,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
 * If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
 * If you have a good weapon (e.g. from a fishing treasure chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
+* You should pause at the beginning of every floor to avoid wasting time to the fade animation. (The in-game time continues to pass when the screen is fading in, but the game will not accept movement inputs.)
 * If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
   * The best way to farm copper ore is by doing floor 21 over and over.
   * The best way to farm iron ore is by doing floor 41 over and over.
@@ -143,6 +144,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * This is worth it because overall, the extra +4 luck should help you get more than 6,000g in Iridium Ore.
   * The worse the daily luck is, the more beneficial Magic Rock Candy is. On the worst possible luck (skull) days, you probably don't want to go to the Skull Cavern at all and instead take care of other miscellaenous tasks. Thus, it is optimal to save and use the Magic Rock Candies on slightly unluckly (bat) days.
   * It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
+* The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
 * For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
 
 ### Weather Modifications

@@ -575,7 +575,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 26
 
-* [Nothing notable on this day.]
+* Nothing notable on this day.
 
 ### Spring 27
 

@@ -61,13 +61,15 @@ Before we start with the route, let's first go over some high-level things that 
 
 ### Goal
 
-The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, or to 100% your save file (e.g. max friendship with every villager, etc.).
+The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, get max friendship with every villager, etc.
+
+In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 
 ### Route Overview
 
 * This route starts off by doing a ton of fishing, unlocking the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible. One the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
   * Routes that involve fishing + Skull Caverns are overall more profitable than the typical naieve strategy of planting [Strawberries](https://stardewvalleywiki.com/Strawberry).
-* With the money, you buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed Grow](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during Summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
+* With the money, you buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed Grow](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules
 

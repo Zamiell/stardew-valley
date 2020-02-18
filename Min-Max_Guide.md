@@ -564,6 +564,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Scythe + plant all of the Deluxe Speed-Gro + the first batch of Starfruit Seeds that was purchased on Spring 25.
 * At 9 AM, go to the [Oasis](https://stardewvalleywiki.com/Oasis) and purchase the rest of the Starfruit Seeds, then return home and plant them.
 * This will take the majority of the day. If you have any time left:
+  * Craft + place around 10-20 [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod).
   * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the Oak trees scattered around your farm that you did not cut down.
   * Continue to plant acorns in a corner of the farm to build up an Oak tree forest.
 
@@ -574,6 +575,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Summer 3
 
 * Smelt Iridium Bars. Later on in the day when they are finished (around 2:30 PM), go to Clint and upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes). (If you need more money beyond just what the Iridium Bars provide, you can sell some gems directly to Clint.)
+* Craft + place around 10-20 [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod).
 * Craft + place [Tappers](https://stardewvalleywiki.com/Tapper) on the [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) scattered around your farm that you did not cut down.
 * Continue to plant [Acorns](https://stardewvalleywiki.com/Acorn) in a corner of the farm to build up an [Oak Tree](https://stardewvalleywiki.com/Oak_Tree) forest.
 * We are going to need as much [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) as possible for [Kegs](https://stardewvalleywiki.com/Keg). [Tree Fertilzier](https://stardewvalleywiki.com/Tree_Fertilizer) is extremely handy for growing our Oak tree forest very quickly, but we need level 7 foraging to craft it. The best way to level up foraging skill without actually wasting much in-game time is to craft and harvest [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) (as opposed to chopping down trees or walking the relatively long distance to the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) to chop down stumps).

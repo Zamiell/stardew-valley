@@ -271,14 +271,14 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 * Place the chest on the bottom-right hand corner of the pier.
-* Fish facing right from the pier. Use minimum casts.
-  * This gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
-  * Also see [General Fishing Strategy](#general-fishing-strategy).
+* Fish facing right from the pier. Use maximum casts.
 * At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragables + artifact spots.
   * If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 * Go to Willy's shop. Sell all beach foragables + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   * The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
-* Fish until you have enough fish to sell to get up to 1,800g. (Continue using minimum casts.)
+* With the Training Rod, use minimum casts. Fish until you have enough fish to sell to get up to 1,800g.
+  * Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
+  * Also see [General Fishing Strategy](#general-fishing-strategy).
 * If out of Seaweed and Joja Cola, eat the highest quality Anchovy or Herring.
 * When you have enough fish to sell to get up to 1800g, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.

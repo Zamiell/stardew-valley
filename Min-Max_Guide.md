@@ -370,7 +370,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
     * 60g for 1 Bean Starter.
     * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
     * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).
-  * Upgrade to the Copper Pickaxe (2000g).
+  * Upgrade to the Copper Pickaxe (2,000g).
 * Go to Pierre's and buy:
   * 1 Bean Starter (60g)
   * 1 Cauliflower Seeds (80g) (not necessary if you have one from a mixed seed)
@@ -548,7 +548,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 20
 
 * Harvest the first batch of Kale and plant the second crop.
-* Ship enough items to get 5000g for the [Steel Axe](https://stardewvalleywiki.com/Axes) upgrade.
+* Ship enough items to get 5,000g for the [Steel Axe](https://stardewvalleywiki.com/Axes) upgrade.
 
 ### Spring 21
 

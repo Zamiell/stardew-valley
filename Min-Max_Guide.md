@@ -537,12 +537,12 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 18
 
 * Ship enough items to get:
-  * 2000g for the [Copper Axe](https://stardewvalleywiki.com/Axes) upgrade.
+  * 2,000g for the [Copper Axe](https://stardewvalleywiki.com/Axes) upgrade.
   * However much gold is needed to buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) (70g each).
 
 ### Spring 19
 
-* At 9 AM, go to Clint and upgrade to the [Copper Axe](https://stardewvalleywiki.com/Axes) (2000g).
+* At 9 AM, go to Clint and upgrade to the [Copper Axe](https://stardewvalleywiki.com/Axes) (2,000g).
 * Go to Pierre and buy the second batch of [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds)
 
 ### Spring 20
@@ -557,7 +557,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 22
 
-* Ship enough items to get 2000g for the [Copper Hoe](https://stardewvalleywiki.com/Hoes) upgrade.
+* Ship enough items to get 2,000g for the [Copper Hoe](https://stardewvalleywiki.com/Hoes) upgrade.
 
 ### Spring 23
 

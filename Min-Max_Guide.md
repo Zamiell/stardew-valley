@@ -505,6 +505,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 15
 
 * Salmonberries start spawning today, but do not venture too far out of your way to harvest them. (They are not worth a lot of extra time for the little energy that they return.)
+  * Use the same pause strategy for Salmonberry bushes that you do for garbage cans.
 * Water the crops that are not yet covered by sprinklers (if any).
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.

@@ -510,7 +510,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Empty inventory. Retrieve 4 [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) items + 4 [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) items + 3 [Blacksmith's Bundle](https://stardewvalleywiki.com/Bundles#Blacksmiths_Bundle) items + 4 [Geologist's Bundle](https://stardewvalleywiki.com/Bundles#Geologists_Bundle) items + 2 [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle) items.
 * Go to the community center and complete the bundles for these items.
   * Remember to exit out of the Golden Scroll after completing two of the Boiler Room bundles in order to prevent getting trapped in the bugged cutscene.
-* Also complete the vault bundles.
+* Also complete the vault bundles, if you have enough money (42,500g).
 * Go home and place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and stick a diamond in it.
 * Empty inventory and go to the mines.
 * If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to decend in the mines.
@@ -527,7 +527,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 17 & Beyond
 
 * If you have not already reached floor 120 in the mines, get that done as soon as possible.
-* Furthermore, if you need more gold to finish the vault, then fish at the mountain lake, and finish the vault as soon as possible.
+* Furthermore, if you need more gold to finish the vault (42,500g), then fish at the mountain lake, and finish the vault as soon as possible.
   * If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
 * Once you have reached floor 120 of the mines, move all of the furnaces from the mines back to your farm.
 * Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-cavern-strategy).)

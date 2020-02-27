@@ -424,6 +424,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 8
 
+* If you get the cave cutscene, choose mushrooms. (See [Other Notes](#other-notes).)
 * Water.
 * Out of your sellable items, ship however much will give you 12,000g.
   * This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
@@ -842,5 +843,4 @@ Additionally, note that it is possible to change the zoom beyond 75% without any
 
 ## TODO
 
-* add date of getting mushroom cave (should be Spring 9)
 * add dates to get mushrooms

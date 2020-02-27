@@ -428,6 +428,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Water.
 * Out of your sellable items, ship however much will give you 12,000g.
   * This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
+  * If you do not have enough, then you will need to return home before the end of the day and ship the fish you catch during the day to make up the difference.
 * Fish at the mountain lake until 2 AM, then pass out.
 * As this is the first day we have not increased a skill since the start of the game, make sure not to exhaust yourself. (We need to wake up with 50% energy instead of 0% energy.)
 

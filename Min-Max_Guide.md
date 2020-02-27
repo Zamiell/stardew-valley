@@ -377,6 +377,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
   * 1 Potato Seeds (50g) (not necessary if you have one from a mixed seed)
   * 16 Kale Seeds (1,120g)
   * With any remaining money, buy additional Kale seeds.
+* If you do not get to Pierre's in time before he closes, this does not change the route in any meaningful way. Simply buy and plant the seeds tomorrow.
 * Go home.
 * Plant + water.
 * Retrieve the Fiberglass Rod + furnace + iron ore + gold ore + coal + Chubs.

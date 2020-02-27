@@ -211,6 +211,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Meet Haley as she walks towards Leah's house.
 * Go to town.
 * Check the two garbage cans next to Jodi's house + Haley's house.
+  * It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
 * Meet Emily inside of her house.
 * Meet Penny to the left of the graveyard.
 * Meet Marnie outside of Pierre's General Store.

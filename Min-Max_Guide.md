@@ -212,8 +212,8 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Go to town.
 * Check the two garbage cans next to Jodi's house + Haley's house.
 * Meet Emily inside of her house.
-* Meet Marnie outside of Pierre's General Store.
 * Meet Penny to the left of the graveyard.
+* Meet Marnie outside of Pierre's General Store.
 * Go to the beach.
 * Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
 * Meet Elliott outside of his cabin.

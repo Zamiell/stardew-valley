@@ -615,7 +615,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 3
 
-* Do a Skull Cavern run. (We need 25,000g to upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes).)
+* Do a Skull Cavern run. (We need enough money to buy 25,000g to upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Axes).)
 
 ### Summer 4
 
@@ -633,16 +633,18 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Do more Skull Cavern runs. We need to build up as much money as possible for the second batch of Starfruit Seeds.
 
+### Summer 9
+
+* Ship enough items to buy the second batch of Starfruit Seeds.
+
 ### Summer 10
 
-* Ship as many items as possible. (We want as much gold for tomorrow as possible.)
+* Buy the second batch of Starfruit Seeds. (We have to buy them today because the Oasis is closed tomorrow for the Luau.)
 
 ### Summer 11
 
-* Harvest the Starfruit.
-* At 9 AM, go to the Oasis and buy the second batch of Starfruit Seeds.
-* Plant the Starfruit Seeds. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
-* Do not sell any of the Starfruit - all of it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin when you run out.)
+* Harvest + replant. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
+* Do not sell any Starfruit - it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin when you run out.)
 * To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
 * At the end of the day, you should get farming level 10. Choose the Agriculturist profession.
   * Unfortunately, the benefit from Agriculturist will not affect the crops that were planted today.

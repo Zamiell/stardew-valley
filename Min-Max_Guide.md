@@ -288,14 +288,14 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.
 * At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
-* Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
+* Fish until 2 AM. Before passing out, leave the Fiberglass Rod + all of the fish in the chest. (We will sell them to Willy tomorrow.)
 * At the end of the day, you should get:
   * Fishing 0 --> 4
 
 ### Spring 3
 
 * It always rains on Spring 3.
-* Empty all inventory in the chest. Retrieve the Fiberglass Rod + hoe.
+* Empty all inventory in the chest. Retrieve the hoe (and the Fiberglass Rod if you did not leave it in the beach chest).
 * Check the same 3 garbage cans as yesterday.
 * Check the beach for foragables + artifact spots.
 * Fish until 9 AM.

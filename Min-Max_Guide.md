@@ -295,17 +295,20 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 ### Spring 3
 
 * It always rains on Spring 3.
-* Empty all inventory in the chest. Retrieve the Fiberglass Rod + hoe.
-* Fish below Leah's house until around 8:30 AM. (Does not have to be an exact time.)
-* Check the same 3 garbage cans as yesterday.
-* Check the beach for foragables + artifact spots.
-* Fish until 9 AM.
-* At Willy's shop, sell all fish + any extra beach foraging items. (However, save a [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).)
-* Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
-  * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convienent place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
-* Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
-* If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
-* Go to the forest river. The best spot to fish is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
+* Empty all inventory in the chest. Retrieve the Fiberglass Rod.
+* If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish.
+* Otherwise:
+  * Retrieve the hoe from the chest.
+  * Fish below Leah's house until 8:30 AM or you run out of bait, whichever comes first.
+  * Check the garbage can below Jodi's house and Emily's house.
+  * Check the beach for foragables + artifact spots.
+  * At Willy's shop, sell all fish + any extra beach foraging items. (However, you can save a [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle) if you want.)
+  * Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
+    * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convienent place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
+  * Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
+  * If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
+  * Go to the forest river.
+* The best spot to fish at the forest river is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   * For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
 * Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   * You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).

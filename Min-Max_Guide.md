@@ -365,8 +365,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day.
 * At the blacksmith:
   * Sell gems.
-  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests).
-  * Buy as much gold ore as you can afford while saving at least 3,310g up to 25 gold ore including what you have gained from fishing chests.
+  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests) (5 * 150g = 750g).
+  * Buy as much gold ore as you can afford while saving at least 3,310g up to 25 gold ore including what you have gained from fishing chests. (5 * 400g = 2,000g)
   * You need the 3,310g for:
     * 2,000g for the pickaxe upgrade.
     * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)

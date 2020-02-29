@@ -182,8 +182,11 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * The cave restocks faster, granting more total items.
   * On average, mushrooms sell for more than fruit.
   * Common Mushrooms are a good energy food. They have high GPE and you can build up a large stack of them.
-* You will find some [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot) from fishing chests during the first half of spring. While not mentioned explicitly in the route, all Rice Shoots should be planted next to water no later than Spring 21.
+* You will find some [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot) from fishing chests and and [Grubs](https://stardewvalleywiki.com/Grub) during the first half of spring. While not mentioned explicitly in the route, all Rice Shoots should be planted next to water no later than Spring 21.
   * Spending the time to hoe and plant them is worth it because each Rice Shoot grants 7 farming XP. This in turn allows you to save gold & time via buying less Kale on Spring 11 and Spring 21.
+* Once you have the minecarts unlocked:
+  * It takes 33 in-game minutes to run from the farmhouse through the backwoods to the Carpenter's Shop.
+  * It takes 34 in-game minutes to run to the Bus Stop, take the minecart to the mines, and run through the mountain to the Carpenter's Shop.
 
 <br />
 

@@ -563,6 +563,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Spring 22
 
 * Ship enough items to get 2,000g for the [Copper Hoe](https://stardewvalleywiki.com/Hoes) upgrade.
+* If your run goals include shipping everything by the end of year 1, you must buy and plant a [Tulip Bulb](https://stardewvalleywiki.com/Tulip_Bulb) (20g) and [Jazz Seeds](https://stardewvalleywiki.com/Jazz_Seeds) (30g) today for it to be ready on Spring 28.
 
 ### Spring 23
 

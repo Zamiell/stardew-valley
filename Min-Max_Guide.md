@@ -296,7 +296,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 
 * It always rains on Spring 3.
 * Empty all inventory in the chest. Retrieve the Fiberglass Rod.
-* If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish.
+* If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish. Remember to divert from the guide and buy more bait from Willy tomorrow before going to the mountain lake.
 * Otherwise:
   * Retrieve the hoe from the chest.
   * Fish below Leah's house until 8:30 AM or you run out of bait, whichever comes first.

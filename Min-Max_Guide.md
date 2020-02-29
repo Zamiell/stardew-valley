@@ -186,7 +186,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * Spending the time to hoe and plant them is worth it because each Rice Shoot grants 7 farming XP. This in turn allows you to save gold & time via buying less Kale on Spring 11 and Spring 21.
 * Once you have the minecarts unlocked:
   * It takes 33 in-game minutes to run from the farmhouse through the backwoods to the Carpenter's Shop.
-  * It takes 34 in-game minutes to run to the Bus Stop, take the minecart to the mines, and run through the mountain to the Carpenter's Shop.
+  * It takes 34 in-game minutes to run from the farmhouse to the Bus Stop, take the minecart to the mines, and run through the mountain to the Carpenter's Shop.
 
 <br />
 

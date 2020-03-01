@@ -187,6 +187,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * Once you have the minecarts unlocked:
   * It takes 33 in-game minutes to run from the farmhouse through the backwoods to the Carpenter's Shop.
   * It takes 34 in-game minutes to run from the farmhouse to the Bus Stop, take the minecart to the mines, and run through the mountain to the Carpenter's Shop.
+* It takes 45 minutes to run from the forest river fishing spot to the [Fish Shop](https://stardewvalleywiki.com/Fish_Shop).
 
 <br />
 

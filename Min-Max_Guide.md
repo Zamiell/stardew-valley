@@ -577,6 +577,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * At 9 AM, go to Clint, retrieve the [Steel Axe](https://stardewvalleywiki.com/Axes), and upgrade to the [Copper Hoe](https://stardewvalleywiki.com/Hoes) (2,000g).
 * Now that you have the [Steel Axe](https://stardewvalleywiki.com/Axes), if you get a bad luck day, use it to clear space on your farm and prepare for your sprinklers. This will need to be done on the 27th at the latest, even if it is not a bad luck day.
+  * However, you **must** get level 10 mining first before taking any days off because you need the Blacksmith profession before Spring 25.
   * Remember, you also need to set up Scarecrows and Parsnip Seeds (as a linger crop).
 
 ### Spring 24

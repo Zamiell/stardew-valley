@@ -585,7 +585,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Spring 25
 
-* Plan out how many Starfruit Seeds that you will be planting on Summer 2. This will depend on how well your run is going. Make sure to account for the future revenue from Skull Cavern runs between now and Summer 2. Note that you will need around two full days to clear and prepare the farm. (You may have already spent one day clearing if you got an unlucky day between Spring 23 and now.) You should aim for around 500 to 600 Starfruit Seeds.
+* Plan out how many [Starfruit Seeds](https://stardewvalleywiki.com/Starfruit_Seeds) (400g each) that you will be planting on Summer 2. This will depend on how well your run is going. Make sure to account for the future revenue from Skull Cavern runs between now and Summer 2. Note that you will need around two full days to clear and prepare the farm. (You may have already spent one day clearing if you got an unlucky day between Spring 23 and now.) You should aim for around 500 to 600 Starfruit Seeds.
 * At 9 AM, go to Clint, retrieve the [Copper Hoe](https://stardewvalleywiki.com/Hoes), and upgrade to the [Steel Hoe](https://stardewvalleywiki.com/Hoes) (5,000g).
 * Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase.
   * The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 2.

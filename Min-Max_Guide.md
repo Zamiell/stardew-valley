@@ -31,14 +31,14 @@
 | [Spring 3](#spring-3)   | [Summer 3](#summer-3)
 | [Spring 4](#spring-4)   | [Summer 4](#summer-4)
 | [Spring 5](#spring-5)   | [Summer 5 & Beyond](#summer-5--beyond)
-| [Spring 6](#spring-6)   | [Summer 10](#summer-10)
-| [Spring 7](#spring-7)   | [Summer 11](#summer-11)
-| [Spring 8](#spring-8)   | [Summer 13 & Beyond](#summer-13--beyond)
-| [Spring 9](#spring-9)   | [Summer 19](#summer-19)
-| [Spring 10](#spring-10) | [Summer 20](#summer-20)
-| [Spring 11](#spring-11) | [Summer 27](#summer-27)
-| [Spring 12](#spring-12) | [Summer 28](#summer-28)
-| [Spring 13](#spring-13) |
+| [Spring 6](#spring-6)   | [Summer 9](#summer-9)
+| [Spring 7](#spring-7)   | [Summer 10](#summer-10)
+| [Spring 8](#spring-8)   | [Summer 11](#summer-11)
+| [Spring 9](#spring-9)   | [Summer 13 & Beyond](#summer-13--beyond)
+| [Spring 10](#spring-10) | [Summer 19](#summer-19)
+| [Spring 11](#spring-11) | [Summer 20](#summer-20)
+| [Spring 12](#spring-12) | [Summer 27](#summer-27)
+| [Spring 13](#spring-13) | [Summer 28](#summer-28)
 | [Spring 14](#spring-14) |
 | [Spring 15](#spring-15) |
 | [Spring 16](#spring-16) |

@@ -671,9 +671,17 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 20
 
-* Harvest the Starfruit.
-* At 9 AM, go to the Oasis and buy the second batch of Starfruit Seeds.
-* Plant the Starfruit Seeds. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
+* Harvest the [Starfruit](https://stardewvalleywiki.com/Starfruit).
+* At 9 AM, go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy the second batch of [Starfruit Seeds](https://stardewvalleywiki.com/Starfruit_Seeds).
+* Plant the Starfruit Seeds. (The [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) will stay on the tiles, so you should not have to re-apply any.)
+
+### Summer 24
+
+* Ship enough items to buy more [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro). (You will be covering your whole farm with [Pumpkins](https://stardewvalleywiki.com/Pumpkin), so you will need additional Speed-Gro beyond what will carry-over from the Starfruit squares.)
+
+### Summer 25
+
+* Buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis).
 
 ### Summer 27
 

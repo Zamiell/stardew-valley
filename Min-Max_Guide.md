@@ -871,6 +871,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 <br />
 
-## TODO
+## TODO / Notes
 
-* add dates to get mushrooms
+* In my playthrough, I had 638 bait after selling all my fish on Spring 3.
+* Add the dates to get the mushrooms.

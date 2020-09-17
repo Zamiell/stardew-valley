@@ -743,7 +743,7 @@ The reasons for not allowing the restarting of a day are twofold:
 * Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. Or, players could wander through the world and map out where every foraging spawn happened to be for that particular day so that they could run directly to all of the spawns.
 * If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it and in order to get the best luck. Most people would probably agree that re-playing *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
 
-The reasons for allowing a mod to zoom the game are three-fold:
+The reasons for allowing a mod to zoom the game are threefold:
 
 * First, players with 4K monitors can see much farther than players on 1080p monitors. It would be silly to force players to have to buy a 4K monitor in order to get a competitive advantage at Stardew Valley, so allowing arbitrary zooming puts everybody on a level-playing field.
 * Second, it is possible to set the zoom level to be a value less than 75% by manually editing the value in your save file by using a text editor. Thus, it is possible to achieve the arbitrary zoom-levels that a mod provides while still playing completely modless. The only difference is that by having zoom hotkeys, you can easily zoom in and out without having to squint at the screen, which is a huge quality of life improvement.

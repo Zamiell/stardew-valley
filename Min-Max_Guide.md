@@ -284,7 +284,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * With the Training Rod, use minimum casts. Fish until you have enough fish to sell to get up to 1,800g.
   * Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   * Also see [General Fishing Strategy](#general-fishing-strategy).
-* If out of Seaweed and Joja Cola, eat the highest quality Anchovy or Herring.
+* If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).
 * When you have enough fish to sell to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 * Fish using max casts at the same spot as before.

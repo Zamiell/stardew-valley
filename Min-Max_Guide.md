@@ -727,14 +727,14 @@ We recommend the following self-imposed restrictions:
 * No cheats (e.g. Cheat Engine).
 * No mods.
   * Some [quality-of-life mods](#appendix-b-mods) are okay if they provide no actual gameplay advantage.
-* No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file.
+* No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file. (See below for the reasoning.)
 * No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   * Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
 * No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
 * No using [a planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
 * No animation canceling (e.g. to swing a tool extra fast).
 * You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
-* You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding).
+* You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding). (See below for the reasoning.)
 
 The reasons for not allowing the restarting of a day are twofold:
 
@@ -742,6 +742,13 @@ The reasons for not allowing the restarting of a day are twofold:
 * Furthermore, consider that when players are forced to improvise on-the-fly after a mistake is made, it promotes interesting gameplay. Players have to quickly think "on their feet", coming up with an alternate plan or an intelligent way to mitigate the mistake.
 * Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. Or, players could wander through the world and map out where every foraging spawn happened to be for that particular day so that they could run directly to all of the spawns.
 * If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it and in order to get the best luck. Most people would probably agree that re-playing *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
+
+The reasons for allowing a mod to zoom the game are three-fold:
+
+* First, players with 4K monitors can see much farther than players on 1080p monitors. It would be silly to force players to have to buy a 4K monitor in order to get a competitive advantage at Stardew Valley, so allowing arbitrary zooming puts everybody on a level-playing field.
+* Second, it is possible to set the zoom level to be a value less than 75% by manually editing the value in your save file by using a text editor. Thus, it is possible to achieve the arbitrary zoom-levels that a mod provides while still playing completely modless. The only difference is that by having zoom hotkeys, you can easily zoom in and out without having to squint at the screen, which is a huge quality of life improvement.
+* Third, even if you consider manually editing a save file to be cheating, it is still possible to see the entire area *without* changing the zoom level by taking a screenshot from the in-game options menu. By pausing the game and opening the resulting PNG file, players can see the entire area that they are in without having to actually walk there.
+* Even with these three things in mind, one could argue that a skilled Stardew Player should arbitrarily restrict themselves to playing in a "normal" zoom level and to not ever use the in-game screenshot feature. This is a reasonable restriction to take on, but the resulting gameplay that this restriction causes does not end up being more fun - having to walk out of your way to explore an area does not really add any meaningful decision-making to the game.
 
 <br />
 

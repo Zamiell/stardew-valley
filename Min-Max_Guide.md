@@ -841,6 +841,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 * Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
 * The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
+* You can enter Pam's trailer to give her a gift at 9 AM.
 * In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop.
 * If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
 

@@ -833,6 +833,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Haley a loved gift on Spring 14 of year 1.
 * Thus, you would generally want to give her a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
 * The friendship from a liked gift would be fully depleted on Winter 26 of year 2.
+* Haley leaves her home at 11 AM to go to the fountain.
 * In this route, it is inconvenient to give Haley a present, since you would have to leave the mines, meet her at the fountain, and then head back to the mines.
 * If you plan on waiting until the end of year 2 to accumulate friendship with Haley, then it is probably not worth it to give her a liked gift.
 

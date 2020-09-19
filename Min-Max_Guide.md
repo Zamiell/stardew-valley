@@ -789,11 +789,13 @@ In this case, the intro refers to the cutscene that appears before you get to th
 
 By default, this mod speeds up a lot of different animations, so it must be customized using the "config.json" file to prevent cheating. All values should be set to 1 with the exception of:
 
-* BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
 * EatAndDrinkSpeed - Set this to 2 (or higher) to speed up the rate of the eating animation. This is not considered cheating because the game is paused when the animation is occurring.
-* LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
+* HarvestSpeed - Set this to 2 (or higher) to speed up pulling up massive amounts of crops. This is not considered cheating because the game is paused when the animation is occurring.
+* MountOrDismountSpeed - Set this to 2 (or higher) to speed up getting on and off the horse. This is not considered cheating because the game is paused when the animation is occurring.
+* BreakGeodeSpeed - Set this to 20 to make geodes break open instantly. This is not considered cheating because the game is paused when the animation is occurring.
 * PamBusSpeed - Set this to 20 to make the bus travel to the desert instantly. This is not considered cheating because the game is paused when you are riding on the bus.
 * TitleMenuTransitionSpeed - Set this to 20 to make the title screen more functional.
+* LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
 
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 

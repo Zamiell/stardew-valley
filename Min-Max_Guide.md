@@ -869,6 +869,14 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * In this route, it is inconvenient to give Emily a gift, since you have to wait until 12 PM for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
 * Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
 
+#### Jas - Summer 4
+
+* Jas loves [Fairy Rose](https://stardewvalleywiki.com/Fairy_Rose), [Pink Cake](https://stardewvalleywiki.com/Pink_Cake), and [Plum Pudding](https://stardewvalleywiki.com/Plum_Pudding).
+* If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Caverns.
+* Jas leaves her bedroom at 9 AM.
+* In this route, it is inconvenient to give Jas gift, since you have to wait until 9 AM for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Jas, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
+
 #### Birthdays in Summer and Beyond
 
 * In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).

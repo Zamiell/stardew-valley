@@ -827,6 +827,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * Unless you happen to get extremely lucky in getting a [Pink Cake](https://stardewvalleywiki.com/Pink_Cake) from the Saloon garbage can, then you won't be able to give Vincent a loved gift on Spring 10 of year 1.
 * Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), an [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal) or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
 * The friendship from a liked gift would be fully depleted on Winter 22 of year 2.
+* Vincent comes out of his room at 9 AM.
 * In this route, it is somewhat convenient to give Vincent a present, since you can fish outside his house and it only wastes a few hours in total.
 * If you plan on waiting until the end of year 2 to accumulate friendship with Vincent, then it is probably not worth it to give him a liked gift.
 
@@ -844,14 +845,15 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * Pam loves [Parsnips](https://stardewvalleywiki.com/Parsnip), so this is the easiest gift.
 * The friendship from a loved gift would be fully depleted on Winter 2 of year 3.
 * You can enter Pam's trailer to give her a gift at 9 AM.
-* In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop.
+* In this route, it is convenient to give Pam a gift, since you will pass by her while running through the Bus Stop (if you have already fixed the bus).
 * If you care about friendship with Pam, then it is probably worth it to give her a Parsnip.
 
 #### Shane - Spring 20
 
 * Shane loves [Beer](https://stardewvalleywiki.com/Beer), which can be easily purchased at the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) for 400g.
 * The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
-* In this route, it is inconvenient to give Shane a gift, since you have to wait until 9 AM for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
+* Shane comes out of his room at 9 AM.
+* In this route, it is inconvenient to give Shane a gift, since you have to wait for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
 * Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.
 
 #### Pierre - Spring 26
@@ -859,23 +861,25 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * Unless you happen to get extremely lucky in getting a [Fried Calamari](https://stardewvalleywiki.com/Fried_Calamari) from the Saloon garbage can, then you won't be able to give Pierre a loved gift on Spring 26 of year 1.
 * Thus, you would generally want to give him a [Daffodil](https://stardewvalleywiki.com/Daffodil), [Dandelion](https://stardewvalleywiki.com/Dandelion), or a [Parsnip](https://stardewvalleywiki.com/Parsnip).
 * The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
-* In this route, it is inconvenient to give Pierre a gift, since you have to wait until 9 AM for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
+* Pierre's store opens at 9 AM.
+* In this route, it is inconvenient to give Pierre a gift, since you have to wait until for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
 * Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjuntion with buying Parsnip Seeds (as a "linger" crop).
 
 #### Emily - Spring 27
 
 * Emily loves any gem, so this is the easiest gift.
 * The friendship from a loved gift would be fully depleted on Winter 11 of year 3.
-* In this route, it is inconvenient to give Emily a gift, since you have to wait until 12 PM for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
+* Emily comes out of her room at 12 PM.
+* In this route, it is inconvenient to give Emily a gift, since you have to wait for her to come out of her room, and you are typically warping to the Skull Cavern at 6 AM.
 * Even if you care about friendship with Emily, it is probably not worth it to waste 6 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 27th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give her a present if you have to head into town for some reason.
 
 #### Jas - Summer 4
 
 * Jas loves [Fairy Rose](https://stardewvalleywiki.com/Fairy_Rose), [Pink Cake](https://stardewvalleywiki.com/Pink_Cake), and [Plum Pudding](https://stardewvalleywiki.com/Plum_Pudding).
 * If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Caverns.
-* Jas leaves her bedroom at 9 AM.
-* In this route, it is inconvenient to give Jas gift, since you have to wait until 9 AM for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
-* Even if you care about friendship with Jas, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
+* Jas leaves her bedroom at 11:05 AM.
+* In this route, it is inconvenient to give Jas gift, since you have to wait for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
+* Even if you care about friendship with Jas, it is probably not worth it to waste 5 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
 
 #### Birthdays in Summer and Beyond
 

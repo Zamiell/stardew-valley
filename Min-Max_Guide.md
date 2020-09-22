@@ -145,6 +145,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * The worse the daily luck is, the more beneficial Magic Rock Candy is. On the worst possible luck (skull) days, you probably don't want to go to the Skull Cavern at all and instead take care of other miscellaenous tasks. Thus, it is optimal to save and use the Magic Rock Candies on slightly unluckly days (e.g. bat on the TV).
   * It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
 * The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
+* On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
 * For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
 
 ### Weather Modifications

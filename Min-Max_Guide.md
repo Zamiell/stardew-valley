@@ -804,6 +804,10 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
 
+#### [No Defend With Sword](https://github.com/DiscipleOfEris/NoDefendWithSword)
+
+This prevents the usage of defending with a sword. This is helpful because accidental usage of defend is a common mistake.
+
 #### [Remember Faced Direction](https://www.nexusmods.com/stardewvalley/mods/6946)
 
 This fixes the bug where the game removes your faced direction after performing an action (like eating).

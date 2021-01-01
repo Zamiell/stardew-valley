@@ -778,17 +778,15 @@ This mod is a compilation of several different features:
 * *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
 * *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
 
+(UI Info Suite is the most important mod that we recommend. The mods below here are listed in alphabetical order.)
+
 #### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
 
 This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negliable.
 
-#### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
+#### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
-This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game.
-
-#### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
-
-In this case, the intro refers to the cutscene that appears before you get to the main menu. Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster
+This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
 
 #### [Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
 
@@ -802,9 +800,21 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 * TitleMenuTransitionSpeed - Set this to 20 to make the title screen more functional.
 * LoadGameBlinkSpeed - Set this to 20 to make the title screen more functional.
 
-#### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
+#### [Highlighted Jars](https://www.nexusmods.com/stardewvalley/mods/6833)
 
-This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
+This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
+
+#### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
+
+This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game.
+
+#### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+
+This removes the intro cutscene (e.g. the cutscene that appears before you get to the main menu, not the one that plays at the beginning of a new save file). Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster.
+
+### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
+
+This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
 
 #### [Zoom Level Keybinding](https://www.nexusmods.com/stardewvalley/mods/1621)
 

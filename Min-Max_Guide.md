@@ -804,6 +804,10 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
 
+#### [Remember Faced Direction](https://www.nexusmods.com/stardewvalley/mods/6946)
+
+This fixes the bug where the game removes your faced direction after performing an action (like eating).
+
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 
 This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game.

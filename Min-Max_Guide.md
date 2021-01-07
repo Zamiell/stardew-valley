@@ -171,11 +171,11 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
 * For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
-### Pet Mechanics
+### Dog/Cat Mechanics
 
-* If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a pet at all, as they get in your way and make you lose time.
-* If you are doing a Grandpa-points-related challenge, then you may need to get the pet for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they (sometimes) sleep in your bed and you can easily pet them when going to bed at the end of the day.
-* Note that it only takes 83 pets (+12 per pet) in order to maximize the pet's friendship value. Thus, since pet friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
+* If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a dog/cat at all, as they get in your way and make you lose time.
+* If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they (sometimes) sleep in your bed and you can easily pet them when going to bed at the end of the day.
+* Note that it only takes 83 pets (+12 per pet) in order to maximize the friendship value of the dog/cat. Thus, since dog/cat friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 * Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline. Filling the bowl gives +6 points.)
 
 ### Birthdays

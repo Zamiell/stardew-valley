@@ -309,6 +309,8 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 
 ### Spring 3
 
+The main goal for this day is to catch as many [Catfish](https://stardewvalleywiki.com/Catfish) as possible. (This is also the goal for almost any rainy day in Spring, really.)
+
 * It always rains on Spring 3.
 * Empty all inventory in the chest. Retrieve the Fiberglass Rod.
 * If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish. Remember to divert from the guide and buy more bait from Willy tomorrow before going to the mountain lake.

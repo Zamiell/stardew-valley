@@ -366,7 +366,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Craft a chest and take it with you. 
 * Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 * Retrieve the pickaxe + gems + stone + coal + copper + all but 3 parsnips from the chest.
-  * Leave Rubies and Diamonds though since we want to save those for the Skull Caverns.
+  * Leave Jade, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
   * We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
 * Go to the mines.
 * Place the chest to the left of the elevator.

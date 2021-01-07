@@ -382,19 +382,20 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day. (This is not as bad of a mistake as you would think, since you will need to do a lot of fishing for extra money anyway.)
 * At the blacksmith:
   * Sell gems.
-  * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests) (25 * 150g = 3750g).
-  * Buy as much gold ore as you can afford while saving at least 3,310g up to 25 gold ore including what you have gained from fishing chests. (5 * 400g = 2,000g)
-  * You need the 3,310g for:
-    * 2,000g for the pickaxe upgrade.
-    * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
-      * 8 XP per Parsnip * 15 Parsnips = 120 XP
-      * 380 XP - 120 XP = 260 XP
-      * 260 XP / 17 XP per Kale = 16 Kale
-      * 16 Kale Seeds * 70g = 1,120g
-    * 60g for 1 Bean Starter.
-    * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
-    * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).
-  * Upgrade to the Copper Pickaxe (2,000g).
+  * Make sure you save at least 3,310g, and then with the remaining money:
+    * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests) (25 * 150g = 3750g).
+    * Buy up to 25 gold ore (accounting for gold ore gained from fishing chests) (25 * 400g = 10,000g). (You almost certainly won't have enough money to buy all of the gold ore at this point, and that's ok.)
+* For reference, you need the 3,310g for:
+  * 2,000g for the pickaxe upgrade.
+  * 1,120g for 16 Kale Seeds to get farming level 2 (380 total XP). (You can buy less Kale seeds if you account for the experience gained from mixed seeds & [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot).)
+    * 8 XP per Parsnip * 15 Parsnips = 120 XP
+    * 380 XP - 120 XP = 260 XP
+    * 260 XP / 17 XP per Kale = 16 Kale
+    * 16 Kale Seeds * 70g = 1,120g
+  * 60g for 1 Bean Starter.
+  * 80g for 1 Cauliflower Seeds (not necessary if you have one from a mixed seed).
+  * 50g for 1 Potato Seeds (not necessary if you have one from a mixed seed).
+* Upgrade to the Copper Pickaxe (2,000g).
 * Go to Pierre's and buy:
   * 1 Bean Starter (60g)
   * 1 Cauliflower Seeds (80g) (not necessary if you have one from a mixed seed)

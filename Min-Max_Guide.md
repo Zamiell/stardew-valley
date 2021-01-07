@@ -68,7 +68,7 @@ Before we start with the route, let's first go over some high-level things that 
 
 ### Goal
 
-The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, get max friendship with every villager, etc.
+The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, get max friendship with every NPC, etc.
 
 In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 
@@ -179,9 +179,9 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 ### Birthdays
 
-* In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the villagers.
-* If you need friendship with villagers to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all villagers by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
-* For more in-depth information on each villager, see [Appendix C](#appendix-b-birthdays).
+* In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the NPCs.
+* If you need friendship with NPCs to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all NPCs by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
+* For more in-depth information on each NPC, see [Appendix C](#appendix-b-birthdays).
 
 ### Other Notes
 
@@ -211,7 +211,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. (We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.)
 
-An alternate strategy for Spring 1 would be to ignore all of the villagers and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similiar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
+An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similiar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
 
 * Take the Parsnip Seeds.
 * Immediately chop down trees until foraging level 1. We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees. The route is very tight.)
@@ -286,7 +286,7 @@ An alternate strategy for Spring 1 would be to ignore all of the villagers and f
 * Craft a chest and take it with you.
   * If you got 0 to 3 Spring Onions on Spring 1 (and did not get any food from garbage cans), then you may not have had enough energy to chop 50 wood on Spring 1. Chop 50 wood now and continue following the route; note that you will be a little bit behind on everything.
 * Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
-* Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each villager is essentially still at 0.)
+* Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each NPC is essentially still at 0.)
 * Go to the beach and get the Bamboo Pole.
 * Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 * Place the chest on the bottom-right hand corner of the pier.
@@ -783,7 +783,7 @@ This mod is a compilation of several different features:
 * *Display crop type and days until harvest on mouseover* - Not cheating because you can write down what day you plant a crop. In the case of mixed seeds, it is still not cheating because you can go to the wiki and look up what crop it is based on the image tile of the seed.
 * *Display icon when animal has item yield (milk, wool)* - Could be cheating in the case where you use the notifications to intentionally skip milking a cow, for example. Don't do that. Most runs use [Auto-Grabbers](https://stardewvalleywiki.com/Auto-Grabber), so this quickly becomes a non-issue.
 * *Sprinkler, scarecrow, beehive and junimo hut ranges* - Not considered cheating because you can just pause the game and count the number of squares that it is supposed to cover.
-* *Display npc locations on map* - Not considered cheating because you can just go to the villager's page on the wiki and look up their schedule for the day.
+* *Display npc locations on map* - Not considered cheating because you can just go to the NPC's page on the wiki and look up their schedule for the day.
 * *Display an icon for Queen of Sauce when she is airing a recipe you don't already know* - Not considered cheating because the show airs on predictable days and it wastes no in-game time to check the TV.
 * *Display an icon when Clint is upgrading one of your tools. Icon will tell you how long until the tool is finished and shows you which tool you are upgrading.* - Not considered cheating because you can just write down when you give a tool to Clint.
 
@@ -843,7 +843,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 * On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
 * On a birthday, giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
-* Thus, depending on how soon you need the friendship, for most villagers it will probably be worth it to skip birthday presents, at least in the spring of year 1.
+* Thus, depending on how soon you need the friendship, for most NPCs it will probably be worth it to skip birthday presents, at least in the spring of year 1.
 
 #### Lewis - Spring 7
 
@@ -886,7 +886,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * The friendship from a loved gift would be fully depleted on Winter 4 of year 3.
 * Shane comes out of his room at 9 AM.
 * In this route, it is inconvenient to give Shane a gift, since you have to wait for him to come out of his room, and you are typically warping to the Skull Cavern at 6 AM.
-* Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest villagers to max out later on.
+* Even if you care about friendship with Shane, it is probably not worth it to waste 3 potential hours at the Skull Cavern. Especially since Shane is one of the easiest NPCs to max out later on.
 
 #### Pierre - Spring 26
 

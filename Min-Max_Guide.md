@@ -20,7 +20,7 @@
   * [General Mines Strategy](#general-mines-strategy)
   * [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   * [Weather Modifications](#weather-modifications)
-  * [Pet Mechanics](#pet-mechanics)
+  * [Dog/Cat Mechanics](#dogcat-mechanics)
   * [Birthdays](#birthdays)
   * [Other Notes](#other-notes)
 * [The Route](#the-route)

@@ -346,7 +346,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 * Ship all sellable items (gems, fish, etc.).
   * Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
   * Save one of each fish that is used in community center bundles.
-  * Save [Rubies](https://stardewvalleywiki.com/Ruby) and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.
+  * Save [Jade](https://stardewvalleywiki.com/Jade), [Rubies](https://stardewvalleywiki.com/Ruby), and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.
 * It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 * At the end of the day, you should get:
   * Fishing 6 --> 7

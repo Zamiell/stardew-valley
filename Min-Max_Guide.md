@@ -132,7 +132,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 ### General Skull Caverns Strategy
 
 * When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
-* Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases].
+* Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase).
 * Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Desert_Trader). Use one immediately for the speed boost and keep it going for the whole day.
 * Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 * Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals and whatnot.

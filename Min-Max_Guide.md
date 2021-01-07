@@ -358,7 +358,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
 
 * From here on out, check the TV every single day to reveal the current day's luck.
-* Choose to either take the pet or decline it. (See [Pet Mechanics](#pet-mechanics).)
+* Choose to either take the pet or decline it. (See [Dog/Cat Mechanics](#dogcat-mechanics).)
 * Harvest the Parsnips and make a note of how many you harvested.
 * Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 * Claim the reward for the parsnip quest (100g).

@@ -728,11 +728,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Winter 1 & Beyond
 
-* In winter, your primary source of income outside of the Skull Caverns will be [Winter Seeds](https://stardewvalleywiki.com/Winter_Seeds):
-  * First, finish the [Winter Foraging Bundle](https://stardewvalleywiki.com/Bundles#Winter_Foraging_Bundle) to get 30 seeds.
-  * Plant those with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) (as it will make them grow in 5 days instead of 7.
-  * After each harvest, craft and plant more Winter Seeds (with Deluxe Speed-Gro), until your entire field is covered.
-* Another good way to make money is to craft [Garden Pots](https://stardewvalleywiki.com/Garden_Pot) in order to grow more Starfruit. (They will have to be manually watered every day.)
+* Some items for the Community Center are only available in Winter, so now is your chance to complete any remaining bundles. You want to complete the Community Center as **fast as possible** in order to unlock [Ginger Island](https://stardewvalleywiki.com/Ginger_Island) & the island farm.
+  * Once you have access to the island farm, you can start to mass-plant Starfruit again, which will be your primary source of income.
 
 <br />
 

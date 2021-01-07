@@ -829,7 +829,7 @@ This prevents the game from rounding the time to the nearest 10 minutes. It is h
 
 This removes the intro cutscene (e.g. the cutscene that appears before you get to the main menu, not the one that plays at the beginning of a new save file). Even though you can press escape to skip this cutscene, it is helpful to just completely remove it so that you can get into the game that much faster.
 
-### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
+#### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
 
 This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
 

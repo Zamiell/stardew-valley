@@ -152,6 +152,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * You get the long spiral floor. (This is the worst floor.)
   * You get the long vertical floor. (This is the 2nd worst floor.)
   * You hit a big dead end with no rocks left to kill in the immediate area.
+* Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bombable.
 * For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
 
 ### Jade Farming (for Skull Cavern)

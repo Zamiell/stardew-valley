@@ -155,11 +155,15 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bombable.
 * For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
 
-### Jade Farming (for Skull Cavern)
+### Diamond & Jade Farming (for Skull Cavern)
 
-* In order to optimize Skull Cavern farming, you need a crapton of Jade.
-* [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft [Crystalariums](https://stardewvalleywiki.com/Crystalarium).
-* Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit and doing tool upgrades. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
+* Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Coffee](https://stardewvalleywiki.com/Coffee) / 
+[Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) buff activated.
+* In Summer, you can use extra money to buy [Coffee](https://stardewvalleywiki.com/Coffee) from the Saloon (and then craft it into Triple Shot Espresso using the level 2 house for convienence purposes). However, early on, you won't have any extra money, so you will need to rely on trading Diamonds to the Desert Trader.
+* For this reason, it is helpful to put Diamonds into the first 1-2 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
+* Ultimately though, in order to optimize Skull Cavern farming, you need a crapton of Jade, so Jade should be put in any subsequent Crystalariums.
+* [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft more Crystalariums.
+* Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit, getting tool upgrades, and buying buildings from Robin. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
 * In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm.
 
 ### Weather Modifications

@@ -103,7 +103,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * In spring, the best fishing spot for non-rainy days is the mountain lake.
   * Not only does it have the highest best gold per hour ratio, it also has the easiest difficulty fish. Perfect catches are the best way to level up the fishing skill.
 * In spring, the best fishing spot for rainy days is the forest river.
-  * This is because Catfish sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
+  * This is because [Catfish](https://stardewvalleywiki.com/Catfish) sell for a lot of gold. They are difficult to catch with low fishing skill, but you should still be able to catch around 50% of them.
 * Prioritize eating [Green Algae](https://stardewvalleywiki.com/Green_Algae) (1.15 GPE), then [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (1.92 GPE), then the highest-quality [Chub](https://stardewvalleywiki.com/Chub).
 * Prioritize capturing fishing chests over perfect fish. (The rewards can be extremely good.)
 * Make sure that you keep 4 or 5 inventory slots free by occasionally moving fish from your inventory into your nearby chest. (This is because you can catch 1 new fish + get up to 4 items from a fishing chest.)
@@ -166,7 +166,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 
 * Rain will occur randomly on different days, depending on the RNG seed of your particular save file.
 * Starting on Spring 4, you should be checking the TV every morning to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
-* On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because Catfish sell for so much money that everything else becomes less important.
+* On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because [Catfish](https://stardewvalleywiki.com/Catfish) sell for so much money that everything else becomes less important.
 * Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
   * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
 * For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).

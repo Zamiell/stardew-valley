@@ -132,8 +132,9 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 ### General Skull Caverns Strategy
 
 * When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
-* Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eel](https://stardewvalleywiki.com/Desert_Trader). Use one immediately for the speed boost and keep it going for the whole day.
-* Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
+* Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases].
+* Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Desert_Trader). Use one immediately for the speed boost and keep it going for the whole day.
+* Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 * Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals and whatnot.
 * In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
 * The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the spam click strategy).
@@ -147,11 +148,18 @@ In general, you should always eat items with the [lowest gold per energy ratio](
   * It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
 * The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
 * On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
-* Craft and use a staircase when:
+* Use a staircase when:
   * You get the long spiral floor. (This is the worst floor.)
   * You get the long vertical floor. (This is the 2nd worst floor.)
   * You hit a big dead end with no rocks left to kill in the immediate area.
 * For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
+
+### Jade Farming (for Skull Cavern)
+
+* In order to optimize Skull Cavern farming, you need a crapton of Jade.
+* [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft [Crystalariums](https://stardewvalleywiki.com/Crystalarium).
+* Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit and doing tool upgrades. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
+* In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm.
 
 ### Weather Modifications
 

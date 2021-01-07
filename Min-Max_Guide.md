@@ -383,7 +383,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * At the blacksmith:
   * Sell gems.
   * Make sure you save at least 3,310g, and then with the remaining money:
-    * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests) (25 * 150g = 3750g).
+    * Buy up to 25 iron ore (accounting for iron ore gained from fishing chests) (25 * 150g = 3,750g).
     * Buy up to 25 gold ore (accounting for gold ore gained from fishing chests) (25 * 400g = 10,000g). (You almost certainly won't have enough money to buy all of the gold ore at this point, and that's ok.)
 * For reference, you need the 3,310g for:
   * 2,000g for the pickaxe upgrade.

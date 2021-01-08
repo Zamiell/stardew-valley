@@ -68,7 +68,7 @@ Before we start with the route, let's first go over some high-level things that 
 
 ### Goal
 
-The general goal of this route is to maximize the total amount of money gained by the end of the first season. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, get max friendship with every NPC, etc.
+The general goal of this route is to maximize the total amount of money gained by the end of the first summer. This leaves you in a good position to accomplish whatever goals that you want, whether it be to continue to min-max money, get max friendship with every NPC, etc.
 
 In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 

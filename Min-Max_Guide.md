@@ -21,7 +21,7 @@
   * [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   * [Weather Modifications](#weather-modifications)
   * [Dog/Cat Mechanics](#dogcat-mechanics)
-  * [Birthdays](#birthdays)
+  * [NPC Friendship & Birthdays](#npc-friendship--birthdays)
   * [Other Notes](#other-notes)
 * [The Route](#the-route)
 

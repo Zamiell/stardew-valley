@@ -309,6 +309,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 * If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).
 * When you have enough fish to sell to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   * Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
+  * The amount of bait you can buy at this point will depend on how well your run is going, but it can be anywhere between 500 to 700.
 * Fish using max casts at the same spot as before.
 * At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
 * Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
@@ -936,7 +937,3 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 * In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
 
 <br />
-
-## TODO / Notes
-
-* In my last playthrough, I had 638 bait after selling all my fish on Spring 3.

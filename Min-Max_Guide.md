@@ -175,7 +175,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 * Starting on Spring 4, you should be checking the TV every morning to see what the weather will be on the next day. This is because you will need to change the route on the fly depending on the weather. (And you need to know ahead of time in order to shuffle chest contents & furnaces.)
 * On a rainy day, you should disregard everything that the guide says and spend as much as possible fishing at the forest river. This is because [Catfish](https://stardewvalleywiki.com/Catfish) sell for so much money that everything else becomes less important.
 * Getting money is important because the main goal of the route is to finish the vault as soon as possible (42,500g).
-  * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish.
+  * If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish. (The exception is if you want to buy the 2nd upgraded backpack.)
 * For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
 ### Dog/Cat Mechanics

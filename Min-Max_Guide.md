@@ -89,6 +89,8 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * save everything with a ratio equal to or less than 2 for eating
 * sell everything with a ratio above 2
 
+Eventually, you will stop worrying about this and will only eat from a large stack of [Salads](https://stardewvalleywiki.com/Salad) (at sometime around mid-summer).
+
 ### Energy Recovery Mechanics
 
 * On the day after a player has gained one or more skill level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.

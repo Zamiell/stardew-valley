@@ -76,7 +76,7 @@ In that vein, the route is very detailed in spring, but starts to get less detai
 
 * This route starts off by doing a ton of fishing, unlocking the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible. One the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
   * Routes that involve fishing + Skull Caverns is leaps and bounds more profitable than the typical naieve strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
-* With the money, you buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed Grow](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
+* With the money, you buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules
 

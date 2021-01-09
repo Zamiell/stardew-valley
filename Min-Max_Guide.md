@@ -680,6 +680,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 * Harvest + replant. (The Deluxe Speed-Gro will stay on the tiles, so you should not have to re-apply any.)
 * Do not sell any Starfruit - it should be going into kegs, even the gold-quality ones. At this point you should be tapping as many [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as possible and building as many [Kegs](https://stardewvalleywiki.com/Keg) as possible. (Buy the necessary wood from Robin when you run out.)
+  * Don't sell any wine until you have respecced from Agriculturist to Artisan using the [Statue of Uncertainty](https://stardewvalleywiki.com/Statue_of_Uncertainty).
 * To start with, you can fill your house with kegs. Later on, it is convenient to buy several [Big Sheds](https://stardewvalleywiki.com/Shed) and place them near the house. Alternatively, once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you can cover it with flooring and use it to stockpile kegs.
 * At the end of the day, you should get farming level 10. Choose the Agriculturist profession.
   * Unfortunately, the benefit from Agriculturist will not affect the crops that were planted today.
@@ -728,7 +729,16 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 * Harvest the wheat and replant [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your whole farm.
   * Pumpkins are better than [Cranberries](https://stardewvalleywiki.com/Cranberries) because we will not have enough kegs to support all of the cranberries.
 * Similar to Starfruit, you should harvest + replant in order to get three batches of [Pumpkins](https://stardewvalleywiki.com/Pumpkin) in fall.
-* You can respec at (?)
+
+### Fall 9
+
+* Use the Statue of Uncertainty to respec from Agriculturist to Artisan.
+
+### Fall 10
+
+* You can finally sell your Starfruit Wine now.
+* The first batch of Pumpkins are ready on this day.
+* Buy more seeds and replant. (You can get 3 total harvests, just like Starfruit.)
 
 ### Winter 1 & Beyond
 

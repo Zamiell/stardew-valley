@@ -89,7 +89,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 * save everything with a ratio equal to or less than 2 for eating
 * sell everything with a ratio above 2
 
-Eventually, you will stop worrying about this and will only eat from a large stack of [Salads](https://stardewvalleywiki.com/Salad) (at sometime around mid-summer).
+Eventually, you will stop worrying about this and will only eat from a large stack of [Salads](https://stardewvalleywiki.com/Salad). (This will be around the time you start to get some revenue from the Skull Cavern.)
 
 ### Energy Recovery Mechanics
 

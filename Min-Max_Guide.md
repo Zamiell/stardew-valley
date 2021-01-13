@@ -190,7 +190,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 * In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the NPCs.
 * If you need friendship with NPCs to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all NPCs by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
   * Note that in order to get [Spring Onion Mastery](https://stardewcommunitywiki.com/Spring_Onion_Mastery), you need to have 8 hearts with both Jas and Vincent, as well as trigger the cutscene in spring. Thus, if you need to get Spring Onion Mastery by the end of year 2, then you cannot defer friendship with Jas and Vincent until summer of year 2; you must instead start befriending them in winter of year 1.
-* For more in-depth information on the birthdays for each NPC, see [Appendix C](#appendix-b-birthdays).
+* For more in-depth information on the birthdays for each NPC, see [Appendix C](#appendix-c-birthdays).
 
 ### Other Notes
 

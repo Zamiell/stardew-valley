@@ -1,8 +1,8 @@
 ## Fishing Cast Distance Data
 
-* This data was gathered with [a mod that shows the tiles away that a cast is](https://github.com/Zamiell/stardew-valley/blob/master/BobblerDistance.cs).
-* All data below assumes a perfect cast. However, in every circumstance that I have tested, getting a near-perfect cast is identical.
-* The farthest you can get is 5 tiles away from land.
+- This data was gathered with [a mod that shows the tiles away that a cast is](https://github.com/Zamiell/stardew-valley/blob/master/BobblerDistance.cs).
+- All data below assumes a perfect cast. However, in every circumstance that I have tested, getting a near-perfect cast is identical.
+- The farthest you can get is 5 tiles away from land.
 
 | Fishing Level | Area          | Tiles Away | Specific Casting Location
 | ------------- | ------------- | ---------- | -------------------------

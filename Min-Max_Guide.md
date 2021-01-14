@@ -113,6 +113,17 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 * Be on the lookout for bubbles. If you see them, is generally better to try to cast in them, even if you will not be doing maximum casts. (The increased catch-rate is more important than the slight increase in type of fish & quality of fish.)
 * In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
 
+### Hammers
+
+* Hammers are much better damage than swords and daggers. This means the Infinity Hammer is the best weapon in the game.
+* Since hammers have a long cooldown, you might also want to compliment them with a sword, but this means using two inventory slots for weapons.
+* To maximize the damage that a hammer pound does, perform the following steps:
+  * Enter the menu.
+  * Hold left click
+  * Press "e" to exit the menu.
+  * Right click and hit "c" simultaneously while still holding left click.
+* This is referred to as the "club spam" strategy.
+
 ### General Mines Strategy
 
 * Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible ore nodes, do **not** stop to mine any visible gem nodes, etc. (You will be able to easily farm ore later on.)
@@ -122,7 +133,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 * If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 * If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 * If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
-* If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage by right clicking and then spam left clicking. (This is referred to as the "club spam" strategy.) For this reason, it usually always better to use a club over a sword or dagger.
+* If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage. See the [Hammers](#hammers) section above.
 * If you have a good weapon (e.g. from a fishing treasure chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
 * You should pause at the beginning of every floor to avoid wasting time to the fade animation. (The in-game time continues to pass when the screen is fading in, but the game will not accept movement inputs.)
 * If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
@@ -139,7 +150,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 * Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 * Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
 * In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
-* The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the spam click strategy).
+* The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the [spam click strategy](#hammers)).
 * You can craft some bombs for big clusters of rocks/ore, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
 * You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable tham fishing in spring.
 * Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.

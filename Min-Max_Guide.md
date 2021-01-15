@@ -2,7 +2,7 @@
 
 - This is a "min-max" guide for a Stardew Valley run created by [BlackSight6](https://old.reddit.com/user/BlackSight6) & [Zamiel](https://www.twitch.tv/Zamiell).
 - This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
-- We assume some restrictions/rules, which makes this different from other min-max guides out there.
+- We assume some restrictions/rules, which makes this different from other min-max guides out there (or min-max streamers like TheHaboo).
 - Many guides out there are designed for older versions of the game. This guide is designed for [version 1.4.5](https://stardewvalleywiki.com/Version_History). (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
   - Note that as of December 2020, the latest version of the game is version 1.5. However, around 98% of the new content only applies once the [Community Center](https://stardewvalleywiki.com/Bundles) is restored. Thus, based on our current knowledge, everything in this guide should still apply.
 

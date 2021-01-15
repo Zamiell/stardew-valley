@@ -89,7 +89,7 @@ In general, you should always eat items with the [lowest gold per energy ratio](
 - save everything with a ratio equal to or less than 2 for eating
 - sell everything with a ratio above 2
 
-Eventually, you will stop worrying about this and will only eat from a large stack of [Salads](https://stardewvalleywiki.com/Salad). (This will be around the time you start to get some revenue from the Skull Cavern.)
+Eventually, you will stop worrying about this and will only eat from a large stack of [Cheese](https://stardewvalleywiki.com/Cheese) and/or [Salad](https://stardewvalleywiki.com/Salad). (This will be around the time you run out of Iridium quality Chubs after starting to do the Skull Cavern a lot.)
 
 ### Energy Recovery Mechanics
 
@@ -145,13 +145,14 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 ### General Skull Caverns Strategy
 
 - When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
-- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase).
-- Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Desert_Trader). Use one immediately for the speed boost and keep it going for the whole day.
+- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase) (only on Sunday).
+- Trade all [Emeralds](https://stardewvalleywiki.com/Emerald) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Cheese](https://stardewvalleywiki.com/Cheese) (only on Friday). Cheese is almost the exact same GPE as Salad, but it is helpful to have because going out of your way to the Saloon can be a huge waste of time.
+- Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Spicy_Eel). Use one immediately for the speed boost and keep it going for the whole day.
 - Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 - Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
 - In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
 - The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the [spam click strategy](#hammers)).
-- It is more efficient to craft [Explosive Ammo](https://stardewcommunitywiki.com/Explosive_Ammo) rather than [Bombs]. (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
+- It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs]. (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
 - You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
 - When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
@@ -200,7 +201,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 - In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the NPCs.
 - If you need friendship with NPCs to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all NPCs by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
-  - Note that in order to get [Spring Onion Mastery](https://stardewcommunitywiki.com/Spring_Onion_Mastery), you need to have 8 hearts with both Jas and Vincent, as well as trigger the cutscene in spring. Thus, if you need to get Spring Onion Mastery by the end of year 2, then you cannot defer friendship with Jas and Vincent until summer of year 2; you must instead start befriending them in winter of year 1.
+  - Note that in order to get [Spring Onion Mastery](https://stardewvalleywiki.com/Spring_Onion_Mastery), you need to have 8 hearts with both Jas and Vincent, as well as trigger the cutscene in spring. Thus, if you need to get Spring Onion Mastery by the end of year 2, then you cannot defer friendship with Jas and Vincent until summer of year 2; you must instead start befriending them in winter of year 1.
 - For more in-depth information on the birthdays for each NPC, see [Appendix C](#appendix-c-birthdays).
 
 ### Other Notes
@@ -368,7 +369,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - Ship all sellable items (gems, fish, etc.).
   - Save any [Chubs](https://stardewvalleywiki.com/Chub) for eating.
   - Save one of each fish that is used in community center bundles.
-  - Save [Jade](https://stardewvalleywiki.com/Jade), [Rubies](https://stardewvalleywiki.com/Ruby), and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.
+  - Save [Jade](https://stardewvalleywiki.com/Jade), [Emeralds](https://stardewvalleywiki.com/Emerald), [Rubies](https://stardewvalleywiki.com/Ruby), and [Diamonds](https://stardewvalleywiki.com/Diamond) for the Skull Cavern later on.
 - It should be 2 AM immediately after selling. If not, cut down grass and pass out.
 - At the end of the day, you should get:
   - Fishing 6 --> 7
@@ -386,7 +387,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 - Craft a chest and take it with you. 
 - Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 - Retrieve the pickaxe + gems + stone + coal + copper + all but 3 parsnips from the chest.
-  - Leave Jade, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
+  - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
   - We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
 - Go to the mines.
 - Place the chest to the left of the elevator.

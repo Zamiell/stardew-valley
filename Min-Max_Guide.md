@@ -299,6 +299,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
 - Go home at 2 AM. (We do not want to incur the gold penalty.)
 - Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time.)
+  - Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.
 - Move the TV next to the door (so that you can immediately check it upon waking up).
 - At the end of the day, you should get:
   - Foraging 0 --> 1

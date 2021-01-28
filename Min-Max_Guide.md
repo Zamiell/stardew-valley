@@ -113,16 +113,22 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Be on the lookout for bubbles. If you see them, is generally better to try to cast in them, even if you will not be doing maximum casts. (The increased catch-rate is more important than the slight increase in type of fish & quality of fish.)
 - In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
 
-### Hammers
+### Weapons
 
-- Hammers are much better damage than swords and daggers. This means the Infinity Hammer is the best weapon in the game.
-- Since hammers have a long cool-down, you might also want to compliment them with a sword, but this means using two inventory slots for weapons.
-- To maximize the damage that a hammer pound does, perform the following steps:
-  - Enter the menu.
-  - Hold left click
-  - Press "e" to exit the menu.
-  - Right click and hit "c" simultaneously while still holding left click.
-- This is referred to as the "club spam" strategy.
+### Weapon Progression
+
+- When you start doing the mines, you will likely be using the [Rusty Sword](https://stardewcommunitywiki.com/Rusty_Sword). The exception is if you got a [Neptune's Glaive](https://stardewcommunitywiki.com/Neptune%27s_Glaive) or a [Broken Trident](https://stardewcommunitywiki.com/Broken_Trident) from a fishing chest (during the massive amount of fishing that you will do from Spring 2 to Spring 11).
+- After that, you will simply use the weapons found in the mines treasure chests. The exception is if you get a lucky weapon drop from a champion enemy. (You can tell champion slimes apart from normal slimes because of the gold star, but other champions are indistinguishable.)
+- Your first trip into the Skull Cavern will use the [Obsidian Edge](https://stardewcommunitywiki.com/Obsidian_Edge) from the chest on floor 90. Hopefully, your first trip will get you at least one [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard), which you will then use to get the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword) for your second and subsequent Skull Cavern runs.
+- Once you have the Galaxy Sword, this is all you will need, since swords are considered better than hammers and daggers (with some caveats; see below).
+- Ultimately, you will want to upgrade the Galaxy Sword into the Infinity Sword with 3x Ruby upgrades, but that is an end-game task that is outside of the scope of this guide.
+
+#### Hammers & The Hammer Exploit
+
+- There exists a bug in the game where if you press the "Use Tool" button while slamming a hammer, it will deal extra damage to surrounding enemies.
+- The optimal way to exploit this bug is to alternate between pressing left-click and the c button as fast as possible whilst the hammer is in the slamming animation.
+- Using this bug allows hammers to deal rediculous amounts of damage, which is why some people will claim that the [Galaxy Hammer](https://stardewcommunitywiki.com/Galaxy_Hammer) or the [Dwarf Hammer](https://stardewcommunitywiki.com/Dwarf_Hammer) are "better" than the Galaxy Sword.
+- However, utilizing this bug make combat too easy, and the authors of this guide recommend that you challenge yourself to not use any bugs or glitches in the game.
 
 ### General Mines Strategy
 
@@ -134,7 +140,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 - If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
 - If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage. See the [Hammers](#hammers) section above.
-- If you have a good weapon (e.g. from a fishing treasure chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
+- If you have a good weapon (e.g. from a fishing chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
 - You should pause at the beginning of every floor to avoid wasting time to the fade animation. (The in-game time continues to pass when the screen is fading in, but the game will not accept movement inputs.)
 - If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
   - The best way to farm copper ore is by doing floor 21 over and over.
@@ -151,7 +157,6 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 - Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
 - In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
-- The initial goal will be to get a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) for the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword). Once you get this, your subsequent runs will be able to go much deeper. Alternatively, you can find [The Slammer](https://stardewvalleywiki.com/The_Slammer) from floors 40+, which is about the same as the Galaxy Sword (when utilizing the [spam click strategy](#hammers)).
 - It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs]. (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
 - You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
@@ -783,8 +788,11 @@ We recommend the following self-imposed restrictions:
 - No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
 - No using [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
 - No using [a spreadsheet planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
+- No using the [hammer spam bug]() to deal massive amounts of damage to enemies.
 - No animation canceling (e.g. to swing a tool extra fast).
 - No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
+- No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).
+- No using RNG manipulation to count steps and change the luck of the subsequent day.
 - You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
 - You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding). (See below for the reasoning.)
 

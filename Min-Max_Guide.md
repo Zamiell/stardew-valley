@@ -301,8 +301,6 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 
 ### Spring 2
 
-
-  - You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
 - Read all of the mail. (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 - Water.
 - Craft a chest and take it with you.

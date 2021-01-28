@@ -193,7 +193,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 ### Dog/Cat Mechanics
 
 - If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a dog/cat at all, as they get in your way and make you lose time.
-- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they (sometimes) sleep in your bed and you can easily pet them when going to bed at the end of the day.
+- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they get in your way less.
 - Note that it only takes 83 pets (+12 per pet) in order to maximize the friendship value of the dog/cat. Thus, since dog/cat friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 - Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline. Filling the bowl gives +6 points.)
 
@@ -293,13 +293,15 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
   - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 - Hoe + plant + water any remaining mixed seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-- Go to bed at 2 AM. (We do not want to incur the gold penalty.)
+- Go home at 2 AM. (We do not want to incur the gold penalty.)
+- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time.)
+- Move the TV next to the door (so that you can immediately check it upon waking up).
 - At the end of the day, you should get:
   - Foraging 0 --> 1
 
 ### Spring 2
 
-- Move the TV next to the bed (so that later on you can immediately check it upon waking up). I also like to delete the carpet so that it does not get in the way, but that is optional.
+
   - You need to do this on Spring 1 or Spring 2, because you will have a full inventory on subsequent days.
 - Read all of the mail. (We need to read Willy's letter in order to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).)
 - Water.

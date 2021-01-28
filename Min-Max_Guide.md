@@ -123,7 +123,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Once you have the Galaxy Sword, this is all you will need, since swords are considered better than hammers and daggers (with some caveats; see below).
 - Ultimately, you will want to upgrade the Galaxy Sword into the Infinity Sword with 3x Ruby upgrades, but that is an end-game task that is outside of the scope of this guide.
 
-#### Hammers & The Hammer Exploit
+#### Hammers & The Hammer Spam Bug
 
 - There exists a bug in the game where if you press the "Use Tool" button while slamming a hammer, it will deal extra damage to surrounding enemies.
 - The optimal way to exploit this bug is to alternate between pressing left-click and the c button as fast as possible whilst the hammer is in the slamming animation.
@@ -139,7 +139,6 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 - If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 - If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
-- If you get lucky enough to randomly get a club weapon drop, you can use it to deal massive amounts of damage. See the [Hammers](#hammers) section above.
 - If you have a good weapon (e.g. from a fishing chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
 - You should pause at the beginning of every floor to avoid wasting time to the fade animation. (The in-game time continues to pass when the screen is fading in, but the game will not accept movement inputs.)
 - If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
@@ -788,7 +787,7 @@ We recommend the following self-imposed restrictions:
 - No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
 - No using [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
 - No using [a spreadsheet planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
-- No using the [hammer spam bug]() to deal massive amounts of damage to enemies.
+- No using the [hammer spam bug](#hammers--the-hammer-spam-bug) to deal massive amounts of damage to enemies.
 - No animation canceling (e.g. to swing a tool extra fast).
 - No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
 - No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).

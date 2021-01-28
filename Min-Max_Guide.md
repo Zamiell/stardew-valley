@@ -115,7 +115,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Weapons
 
-### Weapon Progression
+#### Weapon Progression
 
 - When you start doing the mines, you will likely be using the [Rusty Sword](https://stardewcommunitywiki.com/Rusty_Sword). The exception is if you got a [Neptune's Glaive](https://stardewcommunitywiki.com/Neptune%27s_Glaive) or a [Broken Trident](https://stardewcommunitywiki.com/Broken_Trident) from a fishing chest (during the massive amount of fishing that you will do from Spring 2 to Spring 11).
 - After that, you will simply use the weapons found in the mines treasure chests. The exception is if you get a lucky weapon drop from a champion enemy. (You can tell champion slimes apart from normal slimes because of the gold star, but other champions are indistinguishable.)

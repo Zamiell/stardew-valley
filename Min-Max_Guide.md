@@ -139,7 +139,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
 - If the floor is small and you can see that there are 3 or less total enemies, kill all the the enemies first. This will increase your chance of spawning a staircase from a rock by 4%.
 - If there are 4 or more enemies on the floor, avoid all the enemies (if possible) and **only** mine rocks. The exception is if it is a "somewhat annoyed" or "very displeased" luck day; the 4% chance increase can help a lot in this case.
-- If you have a good weapon (e.g. from a fishing chest or a club drop from a slime), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
+- If you have a good weapon (e.g. from a fishing chest or a monster drop), the above advice about ignoring enemies may not apply. Kill all the enemies on the floor if they are close and it will be fast.
 - You should pause at the beginning of every floor to avoid wasting time to the fade animation. (The in-game time continues to pass when the screen is fading in, but the game will not accept movement inputs.)
 - If you plan to pass out at the mines and you know that you know that you cannot reach the next elevator by 2 AM, then give up and farm copper/iron/gold until 2 AM (depending on what you need).
   - The best way to farm copper ore is by doing floor 21 over and over.

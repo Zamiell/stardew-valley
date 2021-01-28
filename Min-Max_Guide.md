@@ -777,7 +777,7 @@ Some techniques and strategies are considered to be cheating by some players and
 We recommend the following self-imposed restrictions:
 
 - Choosing the Community Center path instead of the Joja path.
-  - It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective (e.g. pure min-max of money). Some adjustments to the given route will be needed.
+  - It is generally more interesting and more difficult to choose the Community Center. Feel free to use the Joja path if you are doing a challenge run in which the Joja path is optimal for the given objective. (For example, choosing the Joja path allows access to Ginger Island in Year 1 Spring, which is optimal for the pure min-max of gold.) If you do this, some adjustments to the given route will be needed.
 - No using glitches / bugs / debug features (e.g. the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets)).
 - No cheats (e.g. Cheat Engine).
 - No mods.

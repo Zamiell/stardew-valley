@@ -789,6 +789,7 @@ We recommend the following self-imposed restrictions:
 - No using [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
 - No using [a spreadsheet planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
 - No using the [hammer spam bug](#hammers--the-hammer-spam-bug) to deal massive amounts of damage to enemies.
+- No buying from NPCs when you are not supposed to (e.g. buying from Robin on Tuesdays when she paths next to the shop counter).
 - No animation canceling (e.g. to swing a tool extra fast).
 - No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
 - No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).

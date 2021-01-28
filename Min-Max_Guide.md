@@ -772,7 +772,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ## Appendix A: Recommended Restrictions
 
-Some techniques and strategies are considered to be cheating by some players and not cheating by other players. In general, the game is so easy that it is possible to complete almost any difficult challenge (e.g. all Grandpa points by the end of the first year) without resorting to using borderline strategies. Thus, skilled Stardew Valley players should challenge themselves to try and make things as difficult as possible, within reason.
+Some techniques and strategies are considered to be cheating by some players and not cheating by other players. In general, the game is easy enough such that it is possible to complete difficult challenges (like all Grandpa points by the end of the first year) without resorting to using any borderline strategies. Thus, skilled Stardew Valley players should challenge themselves to try and make things as difficult as possible, within reason.
 
 We recommend the following self-imposed restrictions:
 

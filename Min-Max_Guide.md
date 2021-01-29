@@ -148,7 +148,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - There exists a bug in the game where if you press the "Use Tool" button while slamming a hammer, it will deal extra damage to surrounding enemies.
 - The optimal way to exploit this bug is to alternate between pressing left-click and the c button as fast as possible while the hammer is in the slamming animation.
 - Using this bug allows hammers to deal rediculous amounts of damage, which is why some people will claim that the [Galaxy Hammer](https://stardewcommunitywiki.com/Galaxy_Hammer) or the [Dwarf Hammer](https://stardewcommunitywiki.com/Dwarf_Hammer) are "better" than the Galaxy Sword.
-- However, utilizing this bug make combat too easy, and the authors of this guide recommend that you challenge yourself to not use any bugs or glitches in the game.
+- However, utilizing this bug makes combat too easy, and the authors of this guide recommend that you challenge yourself to not use any bugs or glitches in the game.
 
 ### General Mines Strategy
 

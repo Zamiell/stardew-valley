@@ -17,6 +17,8 @@
   - [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)
   - [Energy Recovery Mechanics](#energy-recovery-mechanics)
   - [General Fishing Strategy](#general-fishing-strategy)
+  - [Fishing Data for the Mountain Lake](#fishing-data-for-the-mountain-lake)
+  - [Weapons](#weapons)
   - [General Mines Strategy](#general-mines-strategy)
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   - [Weather Modifications](#weather-modifications)

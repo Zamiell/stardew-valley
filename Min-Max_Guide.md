@@ -113,6 +113,24 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Be on the lookout for bubbles. If you see them, is generally better to try to cast in them, even if you will not be doing maximum casts. (The increased catch-rate is more important than the slight increase in type of fish & quality of fish.)
 - In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
 
+### Fishing Data for the Mountain Lake
+
+- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
+- For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
+
+| Fish            | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
+| --------------- | ----------- | --------------- | -------------------------------- | -------------
+| Largemouth Bass | 20.13%      | 24.33%          | 300g                             | 72.99g
+| Carp            | 22.25%      | 26.89%          | 90g                              | 24.20g
+| Bullhead        | 18.10%      | 21.88%          | 225g                             | 49.23g
+| Chub            | 22.25%      | 26.89%          | 150g                             | 40.34g
+| *Total*         | 82.73%      | 100.00%         | 765g                             | 186.76g
+
+(From the spreadsheet, the chances for fish only add to 82.73%, because of Green Algae and trash. The adjusted chance makes it so that all percentages add up to 100%.)
+
+- If the average gold per fish is 186.76g, and you catch 3.32 fish per hour, then the average gold per hour fishing at the lake is **620.04g**.
+- Furthermore, you would also want to add an arbitrary constant F to this value, to account for the bonus value of gems & miscellaneous items received from fishing chests.
+
 ### Weapons
 
 #### Weapon Progression

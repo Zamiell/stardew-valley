@@ -120,13 +120,13 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
 
-| Fish            | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
-| --------------- | ----------- | --------------- | -------------------------------- | -------------
-| Largemouth Bass | 20.13%      | 24.33%          | 300g                             | 72.99g
-| Carp            | 22.25%      | 26.89%          | 90g                              | 24.20g
-| Bullhead        | 18.10%      | 21.88%          | 225g                             | 49.23g
-| Chub            | 22.25%      | 26.89%          | 150g                             | 40.34g
-| *Total*         | 82.73%      | 100.00%         | 765g                             | 186.76g
+| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
+| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
+| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%      | 24.33%          | 300g                             | 72.99g
+| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%      | 26.89%          | 90g                              | 24.20g
+| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%      | 21.88%          | 225g                             | 49.23g
+| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%      | 26.89%          | 150g                             | 40.34g
+| *Total*                                                             | 82.73%      | 100.00%         | n/a                              | 186.76g
 
 (From the spreadsheet, the chances for fish only add to 82.73%, because of Green Algae and trash. The adjusted chance makes it so that all percentages add up to 100%.)
 

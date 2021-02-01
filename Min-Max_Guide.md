@@ -5,6 +5,8 @@
 - We assume some restrictions/rules, which makes this different from other min-max guides out there (or min-max streamers like TheHaboo).
 - Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.4](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
 
+<br />
+
 ## Older Guides
 
 This guide is the synthesis of other guides that have come before. Guides are listed from newest to oldest.

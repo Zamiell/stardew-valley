@@ -2,7 +2,7 @@
 
 - This is a "min-max" guide for a Stardew Valley run created by [BlackSight6](https://old.reddit.com/user/BlackSight6) & [Zamiel](https://www.twitch.tv/Zamiell).
 - This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
-- We assume some restrictions/rules, which makes this different from other min-max guides out there (or min-max streamers like TheHaboo).
+- We assume some [restrictions/rules](#appendix-a-recommended-restrictions), which makes this different from other min-max guides out there (or min-max streamers like [TheHaboo](https://www.twitch.tv/thehaboo)).
 - Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.4](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
 
 <br />

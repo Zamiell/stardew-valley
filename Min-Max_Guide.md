@@ -905,7 +905,7 @@ This removes the intro cutscene (e.g. the cutscene that appears before you get t
 
 This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
 
-#### [Zoom Level Keybinding](https://www.nexusmods.com/stardewvalley/mods/1621)
+#### [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363)
 
 This allows you to zoom in and out by using hotkeys. It also allows you to zoom out farther than the normal 75% maximum value. See the justification in [the previous section](#appendix-a-recommended-restrictions) as to why this is not considered cheating.
 

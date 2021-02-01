@@ -97,7 +97,7 @@ In that vein, the route is very detailed in spring, but starts to get less detai
 
 ### Rules
 
-The guide is generally designed for players who are playing on the latest version of the vanilla game (no mods), are not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), are not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the difficulty as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A](#appendix-a-recommended-restrictions).
+The guide is generally designed for players who are playing on the latest version of the vanilla game (no mods), are not using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), are not using the [item spawning cheat](https://www.ign.com/wikis/stardew-valley/Cheats_and_Secrets), are not allowed to reset a day after a mistake is made, and so forth. Of course, you are welcome to play the game in any way you see fit, but the authors challenge you to try to do a run that uses as little grey-area strategies as possible in order to increase the difficulty as much as possible. For a full list of self-imposed restrictions that we recommend, see [Appendix A](#appendix-a-recommended-restrictions).
 
 ### Gold per Energy List (GPE)
 
@@ -806,8 +806,7 @@ We recommend the following self-imposed restrictions:
 - No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file. (See below for the reasoning.)
 - No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   - Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
-- No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/) or similar methods to derive information from your save file.
-- No using [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
+- No using [Stardew Predictor](https://mouseypounds.github.io/stardew-predictor/), [BlaDe's Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614), or similar methods to derive information from your save file.
 - No using [a spreadsheet planner](https://docs.google.com/spreadsheets/d/1laZf_oXoCQ6msYP4v_OQz40rduHjIo99txJMh9eTsYg/edit) to know beforehand what specific tiles will yield a gold-quality crop.
 - No using the [hammer spam bug](#hammers--the-hammer-spam-bug) to deal massive amounts of damage to enemies.
 - No buying from NPCs when you are not supposed to (e.g. buying from Robin on Tuesdays when she paths next to the shop counter).

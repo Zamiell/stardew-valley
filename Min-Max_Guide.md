@@ -13,6 +13,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
 
 | Date                | Guide | Author
 | ------------------- | ----- | ------
+| December 31st, 2019 | [Min/Max Guide Part 1 NO MODS OR GLITCHES! | 213k+ Gold First Day of Summer](https://www.youtube.com/watch?v=aF9ZQtqgvKY) | [Foxy Fern](https://www.youtube.com/channel/UCWTKoEsRhIiQCGyCAiVbIZQ)
 | February 11th, 2019 | [Min-maxing Spring Year 1: Meta-Analysis and Run-Through](https://old.reddit.com/r/StardewValley/comments/apjizs/minmaxing_spring_year_1_metaanalysis_and/) | [maestoso_con_entropy](https://old.reddit.com/user/maestoso_con_entropy)
 | November 6th, 2018  | [Just Another Spring Min/Max Guide](https://www.reddit.com/r/StardewValley/comments/9urmnl/just_another_spring_minmax_guide/) | [BlackSight6](https://www.reddit.com/user/BlackSight6) a.k.a. [RedTouch8](https://www.youtube.com/channel/UCQLTFrXkjttUevJjTf7M2mA) a.k.a Jeremy#0136
 | August 29th, 2018   | [Stardew minmax - 315,000g~ first Spring [GLITCHLESS]](https://www.reddit.com/r/StardewValley/comments/9bcnhi/stardew_minmax_315000g_first_spring_glitchless/) | [Xianji](https://www.reddit.com/user/Xianji)

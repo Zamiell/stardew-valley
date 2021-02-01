@@ -117,11 +117,11 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Fishing - Average Gold per Hour for the Mountain Lake
 
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot for Spring).
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
   - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing bars that appear over X in-game hours.
 - In the following tables, the base chances for fish do not add up to add to 100% because of Green Algae and trash. Thus, we adjust them so that all percentages add up to 100%.)
-- Finally, we should mention that you should also add an arbitrary constant F to the average gold per fish, to account for the bonus value of gems & miscellaneous items received from fishing chests.
 
 #### 6 AM to 7 PM (13 hours)
 
@@ -149,13 +149,24 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 #### Combined
 
 - For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
-- If for some reason you want a weighted average:
+- If for some reason you need a weighted average:
 
 | Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------ | --------------------- | ----- | --------------------- | ----------------------
 | 6 AM to 7 PM | 620.04g               | 13    | 65%                   | 403.03g
 | 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
 | *Total*      | n/a                   | 20    | 100%                  | 577.55g
+
+#### Caveats
+
+- Fishing Chests
+  - The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
+  - However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
+  - Thus, we should account for a bonus, F, to account for the value of items received from fishing chests.
+- Eating
+  - Typically, just eating the Green Algae will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
+  - Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
+- Note that F is probably greater than E.
 
 ### Weapons
 

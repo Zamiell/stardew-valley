@@ -824,7 +824,7 @@ The reasons for not allowing the restarting of a day are twofold:
 - Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there.
 - If resetting a day is allowed, then it follows that for players to correctly min-max, they would be need to play each day multiple times. This would be so that they can "explore" the possibilities of the day (or use a luck predictor), try out different strategies, and then pick one and execute it until they are satistifed.
 - Re-playing *every single day* in this fashion is extremely tedious and is probably not in the spirit of what the game is supposed to be.
-- Allowing the resetting of a day will allow for "perfect" runs that are much better on average than runs that don't allow resetting. But at the end of a challenge run, you can be much, much more satisfied with a run where you played solidly from start to finish (rather than a "challenge" run where you simply reset the day whenever you made a mistake).
+- Allowing the resetting of a day will allow for "near-perfect" runs. But at the end of a challenge run, you can be much, much more satisfied with a run where you played solidly from start to finish (as opposed to a "challenge" run where you simply reset the day whenever you made a mistake).
 
 The reasons for allowing a mod to zoom the game are threefold:
 

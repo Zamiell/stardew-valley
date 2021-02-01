@@ -3,8 +3,7 @@
 - This is a "min-max" guide for a Stardew Valley run created by [BlackSight6](https://old.reddit.com/user/BlackSight6) & [Zamiel](https://www.twitch.tv/Zamiell).
 - This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 - We assume some restrictions/rules, which makes this different from other min-max guides out there (or min-max streamers like TheHaboo).
-- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.4.5](https://stardewvalleywiki.com/Version_History). (In this version, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
-  - Note that as of December 2020, the latest version of the game is version 1.5. However, around 98% of the new content only applies once the [Community Center](https://stardewvalleywiki.com/Bundles) is restored. Thus, based on our current knowledge, everything in this guide should still apply.
+- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.4](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
 - This guide is the synthesis of other guides that have come before (listed from newest to oldest):
   - [Min-maxing Spring Year 1: Meta-Analysis and Run-Through](https://old.reddit.com/r/StardewValley/comments/apjizs/minmaxing_spring_year_1_metaanalysis_and/) by [maestoso_con_entropy](https://old.reddit.com/user/maestoso_con_entropy) (February 11th, 2019)
   - [Just Another Spring Min/Max Guide](https://www.reddit.com/r/StardewValley/comments/9urmnl/just_another_spring_minmax_guide/) by [BlackSight6](https://www.reddit.com/user/BlackSight6) (November 6th, 2018)

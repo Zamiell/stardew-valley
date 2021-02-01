@@ -17,7 +17,6 @@
   - [Gold per Energy List (GPE)](#gold-per-energy-list-gpe)
   - [Energy Recovery Mechanics](#energy-recovery-mechanics)
   - [General Fishing Strategy](#general-fishing-strategy)
-  - [Fishing - Average Gold per Hour for the Mountain Lake](#fishing---average-gold-per-hour-for-the-mountain-lake)
   - [Weapons](#weapons)
   - [General Mines Strategy](#general-mines-strategy)
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
@@ -60,7 +59,8 @@
 
 - [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 - [Appendix B: Mods](#appendix-b-mods)
-- [Appendix C: Birthdays](#appendix-c-birthdays)
+- [Appendix C: Average Gold per Hour for Fishing at the Mountain Lake](#appendix-c-average-gold-per-hour-for-fishing-at-the-mountain-lake)
+- [Appendix D: Birthdays](#appendix-d-birthdays)
 
 <br />
 
@@ -114,59 +114,6 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - When casting at 7 energy or below, you will correctly drop into the appropriate amount of negative energy, even though the energy meter will appear to be at 0. For example, when casting at 2 energy, you will go to -6 energy. And then, after eating a Green Algae to restore 13 energy, you will go back to positive 7 energy. Thus, it is mostly irrelevant whether or not you accidentally slip past 0 energy while fishing (at least as long as you get a level up before the next day to remove the exhaustion).
 - Be on the lookout for bubbles. If you see them, is generally better to try to cast in them, even if you will not be doing maximum casts. (The increased catch-rate is more important than the slight increase in type of fish & quality of fish.)
 - In summer, the most profitable spot to fish is at the ocean, regardless of the weather.
-
-### Fishing - Average Gold per Hour for the Mountain Lake
-
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring).
-- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
-- For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
-  - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing bars that appear over X in-game hours.
-- In the following tables, the base chances for fish do not add up to add to 100% because of Green Algae and trash. Thus, we adjust them so that all percentages add up to 100%.)
-
-#### 6 AM to 7 PM (13 hours)
-
-| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
-| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%      | 24.33%          | 300g                             | 72.99g
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%      | 26.89%          | 90g                              | 24.20g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%      | 21.88%          | 225g                             | 49.23g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%      | 26.89%          | 150g                             | 40.34g
-| *Total*                                                             | 82.73%      | 100.00%         | n/a                              | 186.76g
-
-- Average gold per hour: **620.04g**
-
-#### 7 PM to 2 PM (7 hours)
-
-| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 27.59%      | 35.63%          | 90g                              | 32.07g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 22.26%      | 28.74%          | 225g                             | 64.67g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 27.59%      | 35.63%          | 150g                             | 53.45g
-| *Total*                                                             | 77.44%      | 100.00%         | n/a                              | 150.19g
-
-- Average gold per hour: **498.63g**
-
-#### Combined
-
-- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
-- If for some reason you need a weighted average:
-
-| Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
-| ------------ | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 7 PM | 620.04g               | 13    | 65%                   | 403.03g
-| 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
-| *Total*      | n/a                   | 20    | 100%                  | 577.55g
-
-#### Caveats
-
-- Fishing Chests
-  - The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
-  - However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
-  - Thus, we should account for a bonus, F, to account for the value of items received from fishing chests.
-- Eating
-  - Typically, just eating the Green Algae will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
-  - Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
-- Note that F is probably greater than E.
 
 ### Weapons
 
@@ -941,7 +888,62 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 <br />
 
-## Appendix C: Birthdays
+## Appendix C: Average Gold per Hour for Fishing at the Mountain Lake
+
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring).
+- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
+- For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
+  - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing bars that appear over X in-game hours.
+- In the following tables, the base chances for fish do not add up to add to 100% because of Green Algae and trash. Thus, we adjust them so that all percentages add up to 100%.)
+
+#### 6 AM to 7 PM (13 hours)
+
+| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
+| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
+| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%      | 24.33%          | 300g                             | 72.99g
+| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%      | 26.89%          | 90g                              | 24.20g
+| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%      | 21.88%          | 225g                             | 49.23g
+| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%      | 26.89%          | 150g                             | 40.34g
+| *Total*                                                             | 82.73%      | 100.00%         | n/a                              | 186.76g
+
+- Average gold per hour: **620.04g**
+
+#### 7 PM to 2 PM (7 hours)
+
+| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
+| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
+| [Carp](https://stardewcommunitywiki.com/Carp)                       | 27.59%      | 35.63%          | 90g                              | 32.07g
+| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 22.26%      | 28.74%          | 225g                             | 64.67g
+| [Chub](https://stardewcommunitywiki.com/Chub)                       | 27.59%      | 35.63%          | 150g                             | 53.45g
+| *Total*                                                             | 77.44%      | 100.00%         | n/a                              | 150.19g
+
+- Average gold per hour: **498.63g**
+
+#### Combined
+
+- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
+- If for some reason you need a weighted average:
+
+| Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
+| ------------ | --------------------- | ----- | --------------------- | ----------------------
+| 6 AM to 7 PM | 620.04g               | 13    | 65%                   | 403.03g
+| 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
+| *Total*      | n/a                   | 20    | 100%                  | 577.55g
+
+#### Caveats
+
+- Fishing Chests
+  - The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
+  - However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
+  - Thus, we should account for a bonus, F, to account for the value of items received from fishing chests.
+- Eating
+  - Typically, just eating the Green Algae will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
+  - Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
+- Note that F is probably greater than E.
+
+<br />
+
+## Appendix D: Birthdays
 
 - On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
 - On a birthday, giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).
@@ -1018,5 +1020,3 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 #### Birthdays in Summer and Beyond
 
 - In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
-
-<br />

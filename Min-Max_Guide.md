@@ -820,10 +820,12 @@ We recommend the following self-imposed restrictions:
 
 The reasons for not allowing the restarting of a day are twofold:
 
-- First, if you allow restarting a day as many times as you want, it removes the execution aspect of the game. Mistakes become completely inconsequential: simply restart the day over and over until you execute perfectly. This trivializes the game.
+- First, if you allow restarting a day as many times as you want, mistakes become inconsequential: simply restart the day over and over until you get a perfect day. This essentially removes the execution aspect of the game. It also minimizes the planning aspect of the game.
 - Furthermore, consider that when players are forced to improvise on-the-fly after a mistake is made, it promotes interesting gameplay. Players have to quickly think "on their feet", coming up with an alternate plan or an intelligent way to mitigate the mistake.
-- Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there. Or, players could wander through the world and map out where every foraging spawn happened to be for that particular day so that they could run directly to all of the spawns.
-- If resetting a day is allowed, then it follows that for players to correctly min-max, they would be required to play each day multiple times in order to fully "explore" it and in order to get the best luck. Most people would probably agree that re-playing *every single day* in this fashion would be extremely tedious and is probably not in the spirit of what the game is supposed to be.
+- Second, resetting a day allows for unfair knowledge. For example, players can check what the Traveling Cart has, and then reset the day if it does not sell anything useful, "regaining" all of the time that it took to walk down there.
+- If resetting a day is allowed, then it follows that for players to correctly min-max, they would be need to play each day multiple times. This would be so that they can "explore" the possibilities of the day (or use a luck predictor), try out different strategies, and then pick one and execute it until they are satistifed.
+- Re-playing *every single day* in this fashion is extremely tedious and is probably not in the spirit of what the game is supposed to be.
+- Allowing the resetting of a day will allow for "perfect" runs that are much better on average than runs that don't allow resetting. But at the end of a challenge run, you can be much, much more satisfied with a run where you played solidly from start to finish (rather than a "challenge" run where you simply reset the day whenever you made a mistake).
 
 The reasons for allowing a mod to zoom the game are threefold:
 

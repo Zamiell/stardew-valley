@@ -117,7 +117,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Fishing - Average Gold per Hour for the Mountain Lake
 
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot for Spring).
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring).
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
   - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing bars that appear over X in-game hours.

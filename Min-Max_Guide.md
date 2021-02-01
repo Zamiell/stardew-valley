@@ -11,10 +11,9 @@
 | February 11th, 2019 | [Min-maxing Spring Year 1: Meta-Analysis and Run-Through](https://old.reddit.com/r/StardewValley/comments/apjizs/minmaxing_spring_year_1_metaanalysis_and/) | [maestoso_con_entropy](https://old.reddit.com/user/maestoso_con_entropy)
 | November 6th, 2018  | [Just Another Spring Min/Max Guide](https://www.reddit.com/r/StardewValley/comments/9urmnl/just_another_spring_minmax_guide/) | [BlackSight6](https://www.reddit.com/user/BlackSight6)
 | August 29th, 2018   | [Stardew minmax - 315,000g~ first Spring [GLITCHLESS]](https://www.reddit.com/r/StardewValley/comments/9bcnhi/stardew_minmax_315000g_first_spring_glitchless/) | [Xianji](https://www.reddit.com/user/Xianji)
-
-  - [Finally Completed Year 1 Spring, min/max run](https://www.reddit.com/r/StardewValley/comments/91b4vb/finally_completed_year_1_spring_minmax_run/) by [Beetin](https://www.reddit.com/user/Beetin) (July 23rd, 2019)
-  - [Min/Maxing guide - Days 6-10 Spring](https://www.reddit.com/r/StardewValley/comments/91b4vb/finally_completed_year_1_spring_minmax_run/) by [Beetin](https://www.reddit.com/user/Beetin) (July 8th, 2019)
-  - [Min/Max Spring, the first 5 days](https://www.reddit.com/r/StardewValley/comments/7h1o3k/minmax_spring_the_first_5_days/) by [Beetin](https://www.reddit.com/user/Beetin) (December 2th, 2017)
+| July 23rd, 2018     | [Finally Completed Year 1 Spring, min/max run](https://www.reddit.com/r/StardewValley/comments/91b4vb/finally_completed_year_1_spring_minmax_run/) | [Beetin](https://www.reddit.com/user/Beetin)
+| July 8th, 2018      | [Min/Maxing guide - Days 6-10 Spring](https://www.reddit.com/r/StardewValley/comments/91b4vb/finally_completed_year_1_spring_minmax_run/) | [Beetin](https://www.reddit.com/user/Beetin)
+| December 2th, 2017  |  [Min/Max Spring, the first 5 days](https://www.reddit.com/r/StardewValley/comments/7h1o3k/minmax_spring_the_first_5_days/) | [Beetin](https://www.reddit.com/user/Beetin)
 
 <br />
 

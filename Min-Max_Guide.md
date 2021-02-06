@@ -815,6 +815,7 @@ We recommend the following self-imposed restrictions:
 - No buying from NPCs when you are not supposed to (e.g. buying from Robin on Tuesdays when she paths next to the shop counter).
 - No animation canceling (e.g. to swing a tool extra fast).
 - No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
+- No using RNG manipulation to guarantee [Ancient Seeds from a Seed Maker](https://www.youtube.com/watch?v=i38oWhqN59k).
 - No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).
 - No using RNG manipulation to count steps and change the luck of the subsequent day.
 - You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).

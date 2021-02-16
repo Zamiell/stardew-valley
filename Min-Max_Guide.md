@@ -854,7 +854,7 @@ The reasons for allowing a mod to zoom the game are threefold:
 
 Some mods add additional content into the game, which changes the calculus of what the optimal thing to do on each day is. We do not use any of these mods and prefer to min-max the vanilla game. With that said, we recommend that everyone use some of the excellent quality-of-life mods out there (that do not interfere with the vanilla strategies).
 
-#### [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150)
+#### [UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2/)
 
 This mod is a compilation of several different features:
 

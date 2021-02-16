@@ -982,7 +982,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 In some challenge runs, getting to Ginger Island in winter is fine, since you are busy with other activities all throughout Fall. However, in other challenge runs, it might be beneficial to invest time into getting there earlier than that (e.g. a min-max run only concerned with maximizing gold earned in which it is explicitly against the rules to use the Joja path).
 
-Even with our recommended restrictions, it is possible to complete the Community Center by Fall 11. The 3 items needed are the Snow Yam, Crocus, and the Nautilus Shell.
+Even with our recommended restrictions, it is possible to complete the Community Center by Fall 16, which gets you to the island 13 days faster. The 3 items needed are the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell).
 
 For the Snow Yam and the Crocus:
 - Complete the Greenhouse by Fall 10 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).

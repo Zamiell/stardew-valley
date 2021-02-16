@@ -97,7 +97,7 @@ In that vein, the route is very detailed in spring, but starts to get less detai
 - We upgrade the pickaxe to gold as soon as possible.
 - Then we unlock the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
 - One the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
-  - Routes that involve fishing + Skull Caverns is leaps and bounds more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
+  - Routes that involve fishing + Skull Caverns are leaps and bounds more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
 - With the revenue from the Iridium Bars, we buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules

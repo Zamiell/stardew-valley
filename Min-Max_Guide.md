@@ -37,7 +37,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   - [Weather Modifications](#weather-modifications)
   - [Dog/Cat Mechanics](#dogcat-mechanics) <!-- cspell:disable-line -->
-  - [Ginger Island](#community-center)
+  - [Ginger Island](#ginger-island)
   - [NPC Friendship & Birthdays](#npc-friendship--birthdays)
   - [Other Notes](#other-notes)
 - [The Route](#the-route)

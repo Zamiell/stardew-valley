@@ -94,7 +94,7 @@ In that vein, the route is very detailed in spring, but starts to get less detai
 ### Route Overview
 
 - This route starts off by doing a ton of fishing.
-- We upgrades the pickaxe to gold as soon as possible.
+- We upgrade the pickaxe to gold as soon as possible.
 - Then we unlocking the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
 - One the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
   - Routes that involve fishing + Skull Caverns is leaps and bounds more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.

@@ -37,6 +37,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   - [Weather Modifications](#weather-modifications)
   - [Dog/Cat Mechanics](#dogcat-mechanics) <!-- cspell:disable-line -->
+  - [Ginger Island](#community-center)
   - [NPC Friendship & Birthdays](#npc-friendship--birthdays)
   - [Other Notes](#other-notes)
 - [The Route](#the-route)
@@ -75,7 +76,8 @@ This guide is the synthesis of other guides that have come before. Guides are li
 - [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 - [Appendix B: Mods](#appendix-b-mods)
 - [Appendix C: Average Gold per Hour for Fishing at the Mountain Lake](#appendix-c-average-gold-per-hour-for-fishing-at-the-mountain-lake)
-- [Appendix D: Birthdays](#appendix-d-birthdays)
+- [Appendix D: Early Community Center](#appendix-d-early-community-center)
+- [Appendix E: Birthdays](#appendix-e-birthdays)
 
 <br />
 
@@ -220,6 +222,14 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they get in your way less.
 - Note that it only takes 83 pets (+12 per pet) in order to maximize the friendship value of the dog/cat. Thus, since dog/cat friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 - Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline. Filling the bowl gives +6 points.)
+
+### Ginger Island
+
+Completing the Community Center unlocks [Ginger Island](https://stardewcommunitywiki.com/Ginger_Island), which contains various end-game content. For most challenge runs, you will probably want to get access to Ginger Island as soon as possible, whether that be for the crop profits from the [Island Farm](https://stardewcommunitywiki.com/Ginger_Island#The_Farm), or for easier access to artifacts such as the [Prehistoric Scapula](https://stardewcommunitywiki.com/Prehistoric_Scapula), or for the weapon upgrades, etc.
+
+In a typical min-max run, by Winter 1 you will have completed most of the bundles, with just the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell) remaining. Depending on your foraging luck, you can get them anywhere between Winter 1 and Winter 7. After completing the CC, you can unlock the boat on the subsequent day.
+
+For certain challenge runs, you might want to gain access to Ginger Island before Winter. See [Appendix D](#appendix-d-early-community-center) for how to do this.
 
 ### NPC Friendship & Birthdays
 
@@ -785,7 +795,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Winter 1 & Beyond
 
-- Some items for the Community Center are only available in Winter, so now is your chance to complete any remaining bundles. You want to complete the Community Center as **fast as possible** in order to unlock [Ginger Island](https://stardewvalleywiki.com/Ginger_Island) & the island farm.
+- Now is your chance to complete any remaining Community Center bundles. You want to complete the Community Center as **fast as possible** in order to unlock [Ginger Island](https://stardewvalleywiki.com/Ginger_Island) & the island farm.
   - Once you have access to the island farm, you can start to mass-plant Starfruit again, which will be your primary source of income.
 
 <br />
@@ -806,6 +816,7 @@ We recommend the following self-imposed restrictions:
 - No cheats (e.g. Cheat Engine).
 - No mods.
   - Some [quality-of-life mods](#appendix-b-mods) are okay if they provide no actual gameplay advantage.
+- No playing on a set seed. The seed must be randomly generated.
 - No restarting a day in the middle of a run. If a mistake is made, you must continue on with the run or restart all the way back to a new save file. (See below for the reasoning.)
 - No restarting the first day over and over to guarantee an artifact / multiple Spring Onions / etc.
   - Since you are allowed to reset from day N to day 1, it follows that you should be allowed to reset from day 1 to day 1. But if you want, you can force yourself to keep playing a suboptimal day 1 as an additional challenge. (An optimal day 1 is probably not necessary for most runs.)
@@ -967,7 +978,26 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 <br />
 
-## Appendix D: Birthdays
+## Appendix D: Early Community Center
+
+In some challenge runs, getting to Ginger Island in winter is fine, since you are busy with other activities all throughout Fall. However, in other challenge runs, it might be beneficial to invest time into getting there earlier than that (e.g. a min-max run only concerned with maximizing gold earned in which it is explicitly against the rules to use the Joja path).
+
+Even with our recommended restrictions, it is possible to complete the Community Center by Fall 11. The 3 items needed are the Snow Yam, Crocus, and the Nautilus Shell.
+
+For the Snow Yam and the Crocus:
+- Complete the Greenhouse by Fall 10 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).
+- Put [Winter Roots](https://stardewcommunitywiki.com/Winter_Root) in a [Seed Maker](https://stardewcommunitywiki.com/Seed_Maker) to get [Winter Seeds](https://stardewcommunitywiki.com/Winter_Seeds). (Winter Roots drop from blue slimes on levels 41-79 of the Mines.)
+- Plant the Winter Seeds in the Greenhouse on Fall 11.
+
+For the Nautilus Shell:
+- You can get randomly them from the Traveling Cart. If you check the Traveling Cart every day from Spring 5 onwards, you are likely to find one in the first year.
+  - Note that in this ruleset, we consider using Stardew Predictor to be cheating, so you must actually walk to the Traveling Cart on every Friday and Sunday.
+- You can also get them as a rare drop from [Fish Pond](https://stardewcommunitywiki.com/Fish_Pond) with Crab Pot fish, but for the purposes of min-maxing, we can safely ignore this method.
+- You can also get them as a random present from Demetrius, but for the purposes of min-maxing, we can safely ignore this method.
+
+<br />
+
+## Appendix E: Birthdays
 
 - On a birthday, giving a liked gift gets 360 friendship. This is equal to 8 normal liked gifts or 4.5 normal loved gifts. 360 friendship will decay after 1.6 years (at -2 per day).
 - On a birthday, giving a loved gift gets 640 friendship. This is equal to 8 normal loved gifts. 640 friendship will decay after 2.9 years (at -2 per day).

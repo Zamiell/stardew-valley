@@ -973,7 +973,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
   - However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
   - Thus, we should account for a bonus, F, to account for the value of items received from fishing chests.
 - Eating
-  - Typically, just eating the Green Algae will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
+  - Typically, just eating the Green Algae & Joja Cola will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
   - Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
 - Note that F is probably greater than E.
 

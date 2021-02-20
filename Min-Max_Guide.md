@@ -13,6 +13,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
 
 | Date                | Guide | Author
 | ------------------- | ----- | ------
+| April 30th, 2020    | [Seawolf's 40 Mil Y1 Guide](https://docs.google.com/document/d/1ehta0YtKpOWyztyhKh0epxFhSjA665Sd48ZkEWSAj3Q/edit#) | [TheHaboo](https://www.twitch.tv/thehaboo) & Seawolf
 | December 31st, 2019 | [Min/Max Guide Part 1 NO MODS OR GLITCHES! 213k+ Gold First Day of Summer](https://www.youtube.com/watch?v=aF9ZQtqgvKY) | [Foxy Fern](https://www.youtube.com/channel/UCWTKoEsRhIiQCGyCAiVbIZQ)
 | February 11th, 2019 | [Min-maxing Spring Year 1: Meta-Analysis and Run-Through](https://old.reddit.com/r/StardewValley/comments/apjizs/minmaxing_spring_year_1_metaanalysis_and/) | [maestoso_con_entropy](https://old.reddit.com/user/maestoso_con_entropy)
 | November 6th, 2018  | [Just Another Spring Min/Max Guide](https://www.reddit.com/r/StardewValley/comments/9urmnl/just_another_spring_minmax_guide/) | [BlackSight6](https://www.reddit.com/user/BlackSight6) a.k.a. [RedTouch8](https://www.youtube.com/channel/UCQLTFrXkjttUevJjTf7M2mA) a.k.a Jeremy#0136

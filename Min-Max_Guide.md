@@ -776,7 +776,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Fall 1
 
 - Nothing notable on this day. Can do a Skull Cavern run, etc. We need to wait for the wheat to finish growing.
-- Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant and harvest as many [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds) as possible during fall.
+- Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant a huge forest using spare [Maple Seeds](https://stardewvalleywiki.com/Maple_Seed) and [Pine Cones](https://stardewvalleywiki.com/Pine_Cone), and then chop it all down. (This is more efficient than harvesting [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds).)
 
 ### Fall 2
 
@@ -786,13 +786,14 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Fall 9
 
-- Use the Statue of Uncertainty to re-specialized from Agriculturist to Artisan.
+- You can finally sell your Starfruit Wine now.
+- Use the Statue of Uncertainty to re-specialize from Agriculturist to Artisan.
+- Buy more seeds for tomorrow. (We need to buy the seeds today because Pierre's will be closed on Wednesday.)
 
 ### Fall 10
 
-- You can finally sell your Starfruit Wine now.
 - The first batch of Pumpkins are ready on this day.
-- Buy more seeds and replant. (You can get 3 total harvests, just like Starfruit.)
+- Replant. (We can get 3 total harvests of Pumpkins, just like Starfruit.)
 
 ### Winter 1 & Beyond
 

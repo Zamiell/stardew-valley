@@ -806,7 +806,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 Some techniques and strategies are considered to be "cheating", but it differs from player to player.
 
-For example, players like [TheHaboo](https://www.twitch.tv/thehaboo) take the stance that using a specially crafted filename to get extra items is "cheating", but that exploiting a bug in the game to deal massive amounts of damage with a hammer is "not cheating". Haboo also takes the stance that manipulating RNG to get Desert Totems from the Casino is "cheating", but that manipulating RNG to sell clay is "not cheating".
+For example, players like [TheHaboo](https://www.twitch.tv/thehaboo) take the stance that using a specially crafted filename to get extra items is "not allowed", but that exploiting a bug in the game to deal massive amounts of damage with a hammer is "allowed". Haboo also takes the stance that manipulating RNG to get Desert Totems from the Casino is "not allowed", but that manipulating RNG to sell clay is "allowed".
 
 Players are free to use whatever strategies that they want, but for the purposes of this guide, we want to be consistent - we assume that you are not using any bugs, exploits, or any "borderline" strategies at all. Even when restricting yourself to play in the most vanilla-way possible, it is still possible to complete a bunch of different challenges (like getting almost all Grandpa points by the end of the first year). We challenge other Stardew players to try to make things as difficult as possible, within reason.
 

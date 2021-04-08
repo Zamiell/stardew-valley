@@ -565,6 +565,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 - Grab mushrooms from the cave.
 - Mine until 2 AM, then pass out. As you mine, smelt copper and iron.
+- When you get mining level 5, choose the Miner profession.
 
 ### Spring 13
 

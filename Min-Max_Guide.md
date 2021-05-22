@@ -739,8 +739,8 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Summer 13 & Beyond
 
 - Summer 13 is guaranteed to be a stormy day.
-- At some point on or after Spring 13, buy and plant any other summer crops that you need for bundles/quests/presents/whatever.
-- The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which will take 10 days with the Agriculturist profession. With Deluxe Speed-Gro, you can speed this up to 7 days. So you can defer planting extra summer crops to Spring 21 at the latest.
+- At some point on or after Summer 13, buy and plant any other summer crops that you need for bundles/quests/presents/whatever.
+- The longest crops to grow are [Melons](https://stardewvalleywiki.com/Melon) and [Blueberries](https://stardewvalleywiki.com/Blueberry), which will take 10 days with the Agriculturist profession. With Deluxe Speed-Gro, you can speed this up to 7 days. So you can defer planting extra summer crops to Summer 21 at the latest.
 
 ### Summer 19
 

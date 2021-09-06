@@ -759,6 +759,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 ### Summer 25
 
 - Buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis).
+- Sometime between now and Summer 28, hoe and place all the quality sprinklers and additional Deluxe Speed-Gro. The wheat will not be ready on Fall 2 if the soil is not watered on the Summer 28.
 
 ### Summer 26
 
@@ -766,7 +767,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 ### Summer 27
 
-- Ship enough items to purchase enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm tomorrow (5g each).
+- Ship enough items to purchase enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm tomorrow (10g each).
 
 ### Summer 28
 
@@ -778,6 +779,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 
 - Nothing notable on this day. Can do a Skull Cavern run, etc. We need to wait for the wheat to finish growing.
 - Note that if you are trying to complete the [Museum](https://stardewvalleywiki.com/Museum), then it is extremely helpful to have level 10 foraging and the Tracker profession before Winter 1 (so that you can see the [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) easier). If you do not yet have level 10 foraging, you might want to plant a huge forest using spare [Maple Seeds](https://stardewvalleywiki.com/Maple_Seed) and [Pine Cones](https://stardewvalleywiki.com/Pine_Cone), and then chop it all down. (This is more efficient than harvesting [Fall Seeds](https://stardewvalleywiki.com/Fall_Seeds).)
+- Ship enough items to purchase the [Pumpkin Seeds](https://stardewvalleywiki.com/Pumpkin_Seeds) to cover your farm (100g each).
 
 ### Fall 2
 

@@ -665,6 +665,7 @@ The main goal for this day is to make 5 copper bars as soon as possible and then
 - At 9 AM, go to Clint, retrieve the [Copper Hoe](https://stardewvalleywiki.com/Hoes), and upgrade to the [Steel Hoe](https://stardewvalleywiki.com/Hoes) (5,000g).
 - Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase.
   - The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 2.
+  - You must use a [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert) to access the Desert today as [Pam](https://stardewvalleywiki.com/Pam) will go to the clinic for an appointment instead of driving the bus so be sure to keep/purchase one on an earlier day.
 - Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 2.)
 
 ### Spring 26

@@ -328,6 +328,8 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
   - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 - Hoe + plant + water any remaining mixed seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
+  - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
+  - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for 2 days but this is very unlikely and doesn't change the route.
 - Go home at 2 AM. (We do not want to incur the gold penalty.)
 - Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time.)
   - Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.
@@ -988,12 +990,15 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 In some challenge runs, getting to Ginger Island in winter is fine, since you are busy with other activities all throughout Fall. However, in other challenge runs, it might be beneficial to invest time into getting there earlier than that (e.g. a min-max run only concerned with maximizing gold earned in which it is explicitly against the rules to use the Joja path).
 
-Even with our recommended restrictions, it is possible to complete the Community Center by Fall 16, which gets you to the island 13 days faster. The 3 items needed are the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell).
+Even with our recommended restrictions, it is possible to complete the Community Center by Fall 14, which gets you to the island 14 days faster (the boat will be unlocked on Fall 16 but will be delayed by a day because of the Stardew Valley Fair). 
+
+The 3 items needed are the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell).
 
 For the Snow Yam and the Crocus:
-- Complete the Greenhouse by Fall 10 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).
+- Complete the Greenhouse by Fall 9 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).
 - Put [Winter Roots](https://stardewcommunitywiki.com/Winter_Root) in a [Seed Maker](https://stardewcommunitywiki.com/Seed_Maker) to get [Winter Seeds](https://stardewcommunitywiki.com/Winter_Seeds). (Winter Roots drop from blue slimes on levels 41-79 of the Mines.)
-- Plant the Winter Seeds in the Greenhouse on Fall 11.
+ - Alternatively if you have spare Spring Seeds you can trade 2 to the Desert Trader for Winter Seeds on Saturdays.
+- Plant the Winter Seeds in the Greenhouse on Fall 10.
 
 For the Nautilus Shell:
 - You can get randomly them from the Traveling Cart. If you check the Traveling Cart every day from Spring 5 onwards, you are likely to find one in the first year.

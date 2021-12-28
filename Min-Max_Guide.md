@@ -79,6 +79,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
 - [Appendix C: Average Gold per Hour for Fishing at the Mountain Lake](#appendix-c-average-gold-per-hour-for-fishing-at-the-mountain-lake)
 - [Appendix D: Early Community Center](#appendix-d-early-community-center)
 - [Appendix E: Birthdays](#appendix-e-birthdays)
+- [Appendix F: Miscellaneous](#appendix-f-miscellaneous)
 
 <br />
 
@@ -1085,3 +1086,9 @@ For the Nautilus Shell:
 #### Birthdays in Summer and Beyond
 
 - In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
+
+<br />
+
+## Appendix F: Miscellaneous
+
+- You consume around 3.5 bait per hour while fishing.

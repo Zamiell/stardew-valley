@@ -79,7 +79,8 @@ This guide is the synthesis of other guides that have come before. Guides are li
 - [Appendix C: Average Gold per Hour for Fishing at the Mountain Lake](#appendix-c-average-gold-per-hour-for-fishing-at-the-mountain-lake)
 - [Appendix D: Early Community Center](#appendix-d-early-community-center)
 - [Appendix E: Birthdays](#appendix-e-birthdays)
-- [Appendix F: Miscellaneous](#appendix-f-miscellaneous)
+- [Appendix F: Elevator Void Farming](#appendix-f-elevator-void-farming)
+- [Appendix G: Miscellaneous](#appendix-g-miscellaneous)
 
 <br />
 
@@ -1089,6 +1090,22 @@ For the Nautilus Shell:
 
 <br />
 
-## Appendix F: Miscellaneous
+## Appendix F: Elevator Void Farming
+
+In the route above, fishing at the mountain pond is used to gather the money for the Vault. However, in 2020, a new strategy was discovered that allows for a faster rate of gold accumulation by farming [Void Essence](https://stardewvalleywiki.com/Void_Essence) in [The Mines](https://stardewvalleywiki.com/The_Mines).
+
+- First, you kill 10 slimes to unlock the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild).
+- Second, you kill [Dust Sprites](https://stardewvalleywiki.com/Dust_Sprite) over and over on floor 55 of the mines, until you get the notification that you have completed the Adventurer's Guild quest (500 dust sprites in total). This allows access to the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring). It is possible to do this in a single day with the following strategy:
+  - Use the elevator to go between floor 0 and floor 55 until you see at least 4 or more Dust Sprites, then kill them.
+  - Pause during the fade in so that no in-game time passes while you are resetting the floors.
+  - Sometimes, Diamonds gem nodes will appear. It is worth it to spend the time to farm them.
+  - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
+- Third, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
+  - Look for enemies that are near the entrance. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more.
+- In addition to getting you more money, this also gets you level 8 combat sooner, which allows you to craft Explosive Ammo and speeds up the first couple Skull Cavern runs.
+
+<br />
+
+## Appendix G: Miscellaneous
 
 - You consume around 3.5 bait per hour while fishing.

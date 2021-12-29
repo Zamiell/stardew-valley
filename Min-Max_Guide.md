@@ -1092,7 +1092,7 @@ For the Nautilus Shell:
 
 ## Appendix F: Elevator Void Farming
 
-In the route above, fishing at the mountain pond is used to gather the money for the Vault. However, in 2020, a new strategy was discovered that allows for a faster rate of gold accumulation by farming [Void Essence](https://stardewvalleywiki.com/Void_Essence) in [The Mines](https://stardewvalleywiki.com/The_Mines). This strategy is contingent upon whether or not you think pausing the game during the fade animation is a glitch. The ruleset recommended in this guide does allow this strategy, but we could understand someone considering it to be a glitch and therefore illegal.
+In the route above, fishing at the mountain pond is used to gather the money for the Vault. However, in 2020, a new strategy was discovered that allows for a faster rate of gold accumulation by farming [Void Essence](https://stardewvalleywiki.com/Void_Essence) in [The Mines](https://stardewvalleywiki.com/The_Mines). This strategy is contingent upon whether or not you think that the ability to pause the game during the fade animation is a glitch. The ruleset recommended in this guide does allow this strategy, but we could understand someone considering it to be a glitch and therefore illegal.
 
 ### Step 1 - Get the Burglar's Ring
 

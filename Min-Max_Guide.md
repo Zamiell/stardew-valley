@@ -1094,19 +1094,22 @@ For the Nautilus Shell:
 
 In the route above, fishing at the mountain pond is used to gather the money for the Vault. However, in 2020, a new strategy was discovered that allows for a faster rate of gold accumulation by farming [Void Essence](https://stardewvalleywiki.com/Void_Essence) in [The Mines](https://stardewvalleywiki.com/The_Mines).
 
-- First, you kill 10 slimes to unlock the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild).
-- Second, you kill [Dust Sprites](https://stardewvalleywiki.com/Dust_Sprite) over and over on floor 55 of the mines, until you get the notification that you have completed the Adventurer's Guild quest (500 dust sprites in total). This allows access to the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring). It is possible to do this in a single day with the following strategy:
-  - Use the elevator to go between floor 0 and floor 55 until you see at least 4 or more Dust Sprites, then kill them.
+- First, alternate between floor 0, floor 5, and floor 55 of The Mines:
   - Pause during the fade in so that no in-game time passes while you are resetting the floors.
-  - Sometimes, Diamonds gem nodes will appear. It is worth it to spend the time to farm them.
+  - Kill [Green Slimes](https://stardewvalleywiki.com/Slimes) on floor 5. The goal is to kill 10 slimes to unlock the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild). Only kill slimes if they are near the elevator as to not waste too much time.
+  - Kill [Dust Sprites](https://stardewvalleywiki.com/Dust_Sprite) on floor 55. The goal is to complete the Adventurer's Guild quest (500 dust sprites in total).
+  - Once you have killed 10 slimes, only alternate between floor 0 and floor 55.
+- Second, kill Dust Sprites until you complete the quest and get the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring). The point of this is to increase the Void Essence yields. It is possible to kill 500 Dust Sprites in a single day with the following strategy:
+  - Use the elevator to go between floor 0 and floor 55 until you see at least 4 or more Dust Sprites that are relatively close to the elevator, then kill them.
+  - Sometimes, Diamond Nodes will appear. It is worth it to spend the time to mine them.
+  - Sometimes, purple Gem Nodes will appear. It is only worth it to mine them if they are close to the ladder. (Gem Nodes can randomly drop diamonds, but most of the time they will drop less-expensive gems.)
   - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
-- Third, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
-  - Look for enemies that are near the entrance. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more. Aim for either a diamond or 2 void enemies killed per 15 minutes.
-  - Similar to Dust Sprite farming, it is worth the time to farm Diamond gem nodes (or Mystic Stone nodes).
-  - If a Gem Node is very close to the elevator, it is worth the time to mine it in case it drops a diamond.
+- Third, once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
+  - Look for enemies that are near the elevator. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more. Aim for either a diamond or 2 void enemies killed per around 15-20 minutes. (It is possible to get 2 void enemies killed per 10 minutes, but only with double speed buffs from food, which we don't have access to yet in this ruleset.)
+  - Similar to before, it is worth the time to farm Diamond Nodes and Mystic Stone Nodes.
   - Optionally, you can use a slingshot with stone as ammo to kill [Squid Kids](https://stardewvalleywiki.com/Squid_Kid) for 15 XP each. (They only have 1 HP, so they will die to anything.) This allows to a faster rate of combat experience gain.
-  - [Metal Heads](https://stardewvalleywiki.com/Metal_Head) only give 6 XP each, so they are not generally worth it to kill. (You do not need to farm Solar Essence, because by the time you have level 9 combat, you will probably already have enough 100 Solar Essence for two Iridium Rings.)
-- In addition to getting you more money, this also gets you level 8 combat sooner, which allows you to craft Explosive Ammo and speeds up the first couple Skull Cavern runs.
+  - [Metal Heads](https://stardewvalleywiki.com/Metal_Head) only give 6 XP each, so they are not generally worth it to kill. (Furthermore, you do not need to farm Solar Essence, because by the time you have level 9 combat, you will probably already have enough 100 Solar Essence at that point for two Iridium Rings.)
+- In addition to getting you more money, Elevator Void Farming also gets you level 8 combat sooner. This allows you to craft Explosive Ammo, speeding up the first couple Skull Cavern runs.
 
 <br />
 

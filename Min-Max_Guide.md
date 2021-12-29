@@ -1109,7 +1109,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
 
 ### Step 2 - Farm Shadow Brutes and Shadow Shaman
 
-Once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, and 105:
+Once you have the Burglar's Ring, you can kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, and 105:
 
 - Look for Shadow Brutes and Shadow Shaman that are near the elevator. If there is only one brute/shaman and it is around 6 or more steps away, that is not good enough; keep resetting the floors until you get either a closer one or a group of two or more.
 - Aim for either a diamond or 2 void enemies killed per around 15-20 minutes.

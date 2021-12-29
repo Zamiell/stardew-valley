@@ -953,7 +953,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 - Average gold per hour: **620.04g**
 
-#### 7 PM to 2 PM (7 hours)
+#### 7 PM to 2 AM (7 hours)
 
 | Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
 | ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------

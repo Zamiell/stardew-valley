@@ -1101,7 +1101,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Sometimes, Diamonds gem nodes will appear. It is worth it to spend the time to farm them.
   - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
 - Third, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
-  - Look for enemies that are near the entrance. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more. Aim for either a diamond or 2 void enemies killed per 10 minutes.
+  - Look for enemies that are near the entrance. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more. Aim for either a diamond or 2 void enemies killed per 15 minutes.
   - Similar to Dust Sprite farming, it is worth the time to farm Diamond gem nodes.
   - Optionally, you can use a slingshot with stone as ammo to kill [Squid Kids](https://stardewvalleywiki.com/Squid_Kid) for 15 XP each. (They only have 1 HP, so they will die to anything.) This allows to a faster rate of combat experience gain.
   - [Metal Heads](https://stardewvalleywiki.com/Metal_Head) only give 6 XP each, so they are not generally worth it to kill. (You do not need to farm Solar Essence, because by the time you have level 9 combat, you will probably already have enough 100 Solar Essence for two Iridium Rings.)

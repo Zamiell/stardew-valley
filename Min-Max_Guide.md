@@ -1104,7 +1104,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Sometimes, Diamond Nodes will appear. It is worth it to spend the time to mine them.
   - Sometimes, purple Gem Nodes will appear. It is only worth it to mine them if they are close to the ladder. (Gem Nodes can randomly drop diamonds, but most of the time they will drop less-expensive gems.)
   - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
-- Third, once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
+- Third, once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, and 105:
   - Look for Shadow Brutes and Shadow Shaman that are near the elevator. If there is only one brute/shaman and it is around 6 or more steps away, that is not good enough; keep resetting the floors until you get either a closer one or a group of two or more. Aim for either a diamond or 2 void enemies killed per around 15-20 minutes.
     - It is possible to get 2 void enemies killed per 10 minutes, but this is with double speed buffs from food, which we don't have access to yet in this ruleset.
     - Additionally, in this ruleset, using the hammer slam exploit is banned, but if you were using it, then you would want to skip all instances of single enemies in favor of only slamming groups of two and three.

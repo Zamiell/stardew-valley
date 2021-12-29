@@ -1108,4 +1108,4 @@ In the route above, fishing at the mountain pond is used to gather the money for
 
 ## Appendix G: Miscellaneous
 
-- You consume around 3.5 bait per hour while fishing.
+- You use up around 3.5 bait per hour while fishing.

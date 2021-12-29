@@ -1111,6 +1111,8 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - [Metal Heads](https://stardewvalleywiki.com/Metal_Head) only give 6 XP each, so they are not generally worth it to kill. (Furthermore, you do not need to farm Solar Essence, because by the time you have level 9 combat, you will probably already have enough 100 Solar Essence at that point for two Iridium Rings.)
 - In addition to getting you more money, Elevator Void Farming also gets you level 8 combat sooner. This allows you to craft Explosive Ammo, speeding up the first couple Skull Cavern runs.
 
+While fishing for gold at the mountain lake for days on end is considered to be pretty boring, elevator void farming takes this to another level. Not only is it heavily monotonous, the amount of out-of-game time required to finish a single day gets exponentially longer, becuase 95-99% of your time is spent looking at a pause screen. So there is a big trade off here between being optimal and maintaining your sanity.
+
 <br />
 
 ## Appendix G: Miscellaneous

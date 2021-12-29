@@ -416,7 +416,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 
 ### Spring 5
 
-The main goal for this day is to make 5 copper bars as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
+The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.com/Copper_Bar) as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
 
 - From here on out, check the TV every single day to reveal the current day's luck.
 - Choose to either take the pet or decline it. (See [Dog/Cat Mechanics](#dogcat-mechanics).) <!-- cspell:disable-line -->

@@ -1103,7 +1103,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Use the elevator to go between floor 0 and floor 55 until you see at least 4 or more Dust Sprites that are relatively close to the elevator, then kill them.
   - Sometimes, Diamond Nodes will appear. It is worth it to spend the time to mine them.
   - Sometimes, purple Gem Nodes will appear. It is only worth it to mine them if they are very close to the elevator. (Gem Nodes can randomly drop diamonds, but most of the time they will drop less-expensive gems.)
-  - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
+  - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as they can drop useful equipment. Even if the equipment is not useful, the drops can sell for a good amount of gold (to the Adventurer's Guild).
 - Third, once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, and 105:
   - Look for Shadow Brutes and Shadow Shaman that are near the elevator. If there is only one brute/shaman and it is around 6 or more steps away, that is not good enough; keep resetting the floors until you get either a closer one or a group of two or more. Aim for either a diamond or 2 void enemies killed per around 15-20 minutes.
   - Similar to before, it is worth the time to farm Diamond Nodes and Mystic Stone Nodes.

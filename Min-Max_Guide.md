@@ -1106,12 +1106,15 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
 - Third, once you have the Burglar's Ring, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, and 105:
   - Look for Shadow Brutes and Shadow Shaman that are near the elevator. If there is only one brute/shaman and it is around 6 or more steps away, that is not good enough; keep resetting the floors until you get either a closer one or a group of two or more. Aim for either a diamond or 2 void enemies killed per around 15-20 minutes.
-    - It is possible to get 2 void enemies killed per 10 minutes, but this is with double speed buffs from food, which we don't have access to yet in this ruleset.
-    - Additionally, in this ruleset, using the hammer slam exploit is banned, but if you were using it, then you would want to skip all instances of single enemies in favor of only slamming groups of two and three.
   - Similar to before, it is worth the time to farm Diamond Nodes and Mystic Stone Nodes.
   - Optionally, you can use a slingshot with stone as ammo to kill [Squid Kids](https://stardewvalleywiki.com/Squid_Kid) for 15 XP each. (They only have 1 HP, so they will die to anything.) This allows to a faster rate of combat experience gain.
   - [Metal Heads](https://stardewvalleywiki.com/Metal_Head) only give 6 XP each, so they are not generally worth it to kill. (Furthermore, you do not need to farm Solar Essence, because by the time you have level 9 combat, you will probably already have enough 100 Solar Essence at that point for two Iridium Rings.)
 - In addition to getting you more money, Elevator Void Farming also gets you level 8 combat sooner. This allows you to craft Explosive Ammo, speeding up the first couple Skull Cavern runs.
+
+The average gold per hour for elevator void farming is slightly higher than fishing at the mountain pond, but depends on how many diamonds you get. The average gold per hour can be greatly increased with:
+
+1. Coffee and Spicy Eels for a double movement speed buff. However, you won't typically have access to those items at this point in the game while using our restrictive ruleset. (For example, if you had a surplus of money from clay RNG manipulation, then you could buy as many Coffee as you needed, but this is banned in our ruleset.)
+2. Being lucky enough to get a [The Slammer](https://stardewvalleywiki.com/The_Slammer) from either a remixed Mines Treasure Chest or as a random drop from a champion enemy, and then abusing the hammer slam exploit to kill big groups of enemies as once. In this ruleset, using the hammer slam exploit is banned, but if you were using it, then you could optimize the elevator farming even further by being more picky and only going for void enemies in groups of two and three.
 
 While fishing for gold at the mountain lake for days on end is considered to be pretty boring, elevator void farming takes this to another level. Not only is it heavily monotonous, the amount of out-of-game time required to finish a single day gets exponentially longer, becuase 95-99% of your time is spent looking at a pause screen. So there is a big trade off here between being optimal and maintaining your sanity.
 

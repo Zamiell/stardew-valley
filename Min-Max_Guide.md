@@ -1099,7 +1099,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Kill [Green Slimes](https://stardewvalleywiki.com/Slimes) on floor 5. The goal is to kill 10 slimes to unlock the [Adventurer's Guild](https://stardewvalleywiki.com/Adventurer%27s_Guild). Only kill slimes if they are near the elevator as to not waste too much time.
   - Kill [Dust Sprites](https://stardewvalleywiki.com/Dust_Sprite) on floor 55. The goal is to complete the Adventurer's Guild quest (500 dust sprites in total).
   - Once you have killed 10 slimes, only alternate between floor 0 and floor 55.
-- Second, kill Dust Sprites until you complete the quest and get the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring). The point of this is to increase the Void Essence yields. It is possible to kill 500 Dust Sprites in a single day with the following strategy:
+- Second, kill Dust Sprites until you complete the quest and get the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring). The point of this is to increase the Void Essence drop rate. It is possible to kill 500 Dust Sprites in a single day with the following strategy:
   - Use the elevator to go between floor 0 and floor 55 until you see at least 4 or more Dust Sprites that are relatively close to the elevator, then kill them.
   - Sometimes, Diamond Nodes will appear. It is worth it to spend the time to mine them.
   - Sometimes, purple Gem Nodes will appear. It is only worth it to mine them if they are close to the ladder. (Gem Nodes can randomly drop diamonds, but most of the time they will drop less-expensive gems.)

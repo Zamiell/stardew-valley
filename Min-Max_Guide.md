@@ -1102,6 +1102,7 @@ In the route above, fishing at the mountain pond is used to gather the money for
   - Sometimes, champion slimes will spawn (i.e. slimes with a star). It is worth it to spend the time to kill them, as the drops can sell for a good amount of cash.
 - Third, you kill [Shadow Brutes](https://stardewvalleywiki.com/Shadow_Brute) and [Shadow Shaman](https://stardewvalleywiki.com/Shadow_Shaman) over and over on floors 85, 95, 105:
   - Look for enemies that are near the entrance. Only one brute or only one shaman is not good enough; keep resetting the floors until you get two or more.
+  - Sometimes, Diamonds gem nodes will appear. It is worth it to spend the time to farm them.
 - In addition to getting you more money, this also gets you level 8 combat sooner, which allows you to craft Explosive Ammo and speeds up the first couple Skull Cavern runs.
 
 <br />

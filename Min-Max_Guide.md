@@ -1129,7 +1129,8 @@ The average gold per hour for elevator void farming is slightly higher than fish
 Note that the average gold per hour can be greatly increased with:
 
 1. Coffee and Spicy Eels for a double movement speed buff. However, you won't typically have access to those items at this point in the game while using our restrictive ruleset. (For example, if you had a surplus of money from clay RNG manipulation, then you could buy as many Coffee as you needed, but this is banned in our ruleset.)
-2. Being lucky enough to get a [The Slammer](https://stardewvalleywiki.com/The_Slammer) from either a remixed Mines Treasure Chest or as a random drop from a champion enemy, and then abusing the hammer slam exploit to kill big groups of enemies as once. In this ruleset, using the hammer slam exploit is banned, but if you were using it, then you could optimize the elevator farming even further by being more picky and only going for void enemies in groups of two and three.
+2. Being lucky enough to get a [The Slammer](https://stardewvalleywiki.com/The_Slammer) from either a remixed Mines Treasure Chest or as a random drop from a champion enemy, and then abusing the hammer slam exploit to kill big groups of enemies as once. In our ruleset, using the hammer slam exploit is banned, but if you were using it, then you could optimize the elevator farming even further by being more picky and only going for void enemies in groups of two and three.
+3. Animation canceling weapon swings to deal damage faster. In our ruleset, animation canceling is banned.
 
 <br />
 

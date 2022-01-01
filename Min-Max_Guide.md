@@ -977,8 +977,6 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
 | *Total*      | n/a                   | 20    | 100%                  | 577.55g
 
-<br />
-
 ### Forest River
 
 TBC

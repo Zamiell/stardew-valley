@@ -76,7 +76,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
 
 - [Appendix A: Recommended Restrictions](#appendix-a-recommended-restrictions)
 - [Appendix B: Mods](#appendix-b-mods)
-- [Appendix C: Average Gold per Hour for Fishing at the Mountain Lake](#appendix-c-average-gold-per-hour-for-fishing-at-the-mountain-lake)
+- [Appendix C: Average Gold per Hour for Fishing](#appendix-c-average-gold-per-hour-for-fishing)
 - [Appendix D: Early Community Center](#appendix-d-early-community-center)
 - [Appendix E: Birthdays](#appendix-e-birthdays)
 - [Appendix F: Elevator Void Farming](#appendix-f-elevator-void-farming)
@@ -239,7 +239,7 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 - In a min-max run concerned only with gold accumulation, then it is optimal to ignore all of the NPCs.
 - If you need friendship with NPCs to meet the conditions for your run goal, then it is generally optimal to defer giving gifts for as long as possible. For example, if the goal is the run is to have maximum friendship with all NPCs by the end of year 2, then you would want to defer giving any gifts until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
   - Note that in order to get [Spring Onion Mastery](https://stardewvalleywiki.com/Spring_Onion_Mastery), you need to have 8 hearts with both Jas and Vincent, as well as trigger the cutscene in spring. Thus, if you need to get Spring Onion Mastery by the end of year 2, then you cannot defer friendship with Jas and Vincent until summer of year 2; you must instead start befriending them in winter of year 1.
-- For more in-depth information on the birthdays for each NPC, see [Appendix C](#appendix-c-birthdays).
+- For more in-depth information on the birthdays for each NPC, see [Appendix E](#appendix-e-birthdays).
 
 ### Other Notes
 
@@ -933,13 +933,15 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 <br />
 
-## Appendix C: Average Gold per Hour for Fishing at the Mountain Lake
+## Appendix C: Average Gold per Hour for Fishing
 
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring).
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring during sunny weather) or while fishing at the forest river (the best spot in Spring during rainy weather).
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
   - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing mini-games that are entered over X in-game hours.
 - In the following tables, the base chances for fish do not add up to add to 100% because of Green Algae and trash. Thus, we adjust them so that all percentages add up to 100%.)
+
+### Mountain Lake
 
 #### 6 AM to 7 PM (13 hours)
 
@@ -975,16 +977,25 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
 | *Total*      | n/a                   | 20    | 100%                  | 577.55g
 
-#### Caveats
+<br />
 
-- Fishing Chests
-  - The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
-  - However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
-  - Thus, we should account for a bonus, F, to account for the value of items received from fishing chests.
-- Eating
-  - Typically, just eating the Green Algae & Joja Cola will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
-  - Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
-- Note that F is probably greater than E.
+### Forest River
+
+TBC
+
+### Caveats
+
+#### Fishing Chests
+
+- The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
+- However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
+- Thus, we should account for a bonus, C, to account for the value of items received from fishing chests.
+
+#### Eating
+
+- Typically, just eating the Green Algae & Joja Cola will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
+- Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
+- Note that C is greater than E.
 
 <br />
 

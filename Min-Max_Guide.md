@@ -935,36 +935,41 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 ## Appendix C: Average Gold per Hour for Fishing
 
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing at the mountain lake (the best spot in Spring during sunny weather) or while fishing at the forest river (the best spot in Spring during rainy weather).
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
-- For the mountain lake, you can catch, on average, 3.32 fish per hour (assuming that you use [Bait](https://stardewcommunitywiki.com/Bait_(item))).
-  - This was discovered empircally by watching VODs at 10x speed and counting the number of fishing mini-games that are entered over X in-game hours.
-- In the following tables, the base chances for fish do not add up to add to 100% because of Green Algae and trash. Thus, we adjust them so that all percentages add up to 100%.)
+- The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
+- Using Bait is a 0.5x multiplier.
+- There are 7000 milliseconds per 10 in-game minutes.
+- Thus, assuming we are using Bait, have fishing level 10, and are not using a spinner, the average fish catch rate is 6725 milliseconds, which works out to be 6.25 catches per in-game hour.
 
 ### Mountain Lake
 
 #### 6 AM to 7 PM (13 hours)
 
-| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
-| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%      | 24.33%          | 300g                             | 72.99g
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%      | 26.89%          | 90g                              | 24.20g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%      | 21.88%          | 225g                             | 49.23g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%      | 26.89%          | 150g                             | 40.34g
-| *Total*                                                             | 82.73%      | 100.00%         | n/a                              | 186.76g
+| Fish                                                                | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| ------------------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%  | 300g                             | 60.39g
+| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%  | 90g                              | 20.03g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae)            | 16.17%  | 0g (assuming eating)             | 0g
+| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%  | 225g                             | 40.73g
+| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%  | 150g                             | 33.38g
+| Random Trash                                                        | 1.10%   | 0g (assuming deleting)           | 0g
+| *Total*                                                             | 100.00% | n/a                              | 154.53g
 
-- Average gold per hour: **620.04g**
+- Average gold per hour: **965.81g**
 
 #### 7 PM to 2 AM (7 hours)
 
-| Fish                                                                | Base Chance | Adjusted Chance | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ----------- | --------------- | -------------------------------- | -------------
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 27.59%      | 35.63%          | 90g                              | 32.07g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 22.26%      | 28.74%          | 225g                             | 64.67g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 27.59%      | 35.63%          | 150g                             | 53.45g
-| *Total*                                                             | 77.44%      | 100.00%         | n/a                              | 150.19g
+| Fish                                                                | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| ------------------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Carp](https://stardewcommunitywiki.com/Carp)                       | 27.59%  | 90g                              | 24.83g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae)            | 19.80%  | 0g (assuming eating)             | 0g
+| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 22.26%  | 225g                             | 50.09g
+| [Chub](https://stardewcommunitywiki.com/Chub)                       | 27.59%  | 150g                             | 41.39g
+| Random Trash                                                        | 2.76%   | 0g (assuming deleting)           | 0g
+| *Total*                                                             | 100.00% | n/a                              | 116.31g
 
-- Average gold per hour: **498.63g**
+- Average gold per hour: **726.94g**
 
 #### Combined
 
@@ -973,13 +978,76 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 | Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------ | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 7 PM | 620.04g               | 13    | 65%                   | 403.03g
-| 7 PM to 2 PM | 498.63g               | 7     | 35%                   | 174.52g
-| *Total*      | n/a                   | 20    | 100%                  | 577.55g
+| 6 AM to 7 PM | 965.81g               | 13    | 65%                   | 627.78g
+| 7 PM to 2 PM | 726.94g               | 7     | 35%                   | 254.43g
+| *Total*      | n/a                   | 20    | 100%                  | 882.21g
 
-### Forest River
+### Forest River (While Raining)
 
-TBC
+#### 6 AM to 9 AM (3 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Catfish](https://stardewvalleywiki.com/Catfish)         | 32.00%  | 450g (assuming Gold Quality)     | 144.00g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 25.25%  | 0g (assuming eating)             | 0g
+| [Chub](https://stardewcommunitywiki.com/Chub)            | 35.75%  | 150g                             | 50.63g
+| Random Trash                                             | 7.00%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 194.63g
+
+- Average gold per hour: **1216.44g**
+
+#### 9 AM to 6 PM (9 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Catfish](https://stardewvalleywiki.com/Catfish)         | 25.47%  | 450g (assuming Gold Quality)     | 114.62g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 20.28%  | 0g (assuming eating)             | 0g
+| [Shad](https://stardewvalleywiki.com/Shad)               | 22.80%  | 180g                             | 41.04g
+| [Chub](https://stardewcommunitywiki.com/Chub)            | 28.30%  | 150g                             | 42.45g
+| Random Trash                                             | 3.15%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 198.11g
+
+- Average gold per hour: **1238.19g**
+
+#### 6 PM to 12 AM (6 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Catfish](https://stardewvalleywiki.com/Catfish)         | 20.13%  | 450g (assuming Gold Quality)     | 90.59g
+| [Bream](https://stardewvalleywiki.com/Bream)             | 22.25%  | 135g                             | 30.04g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 16.17%  | 0g (assuming eating)             | 0g
+| [Shad](https://stardewvalleywiki.com/Shad)               | 18.10%  | 180g                             | 32.58g
+| [Chub](https://stardewcommunitywiki.com/Chub)            | 22.25%  | 150g                             | 33.38g
+| Random Trash                                             | 1.10%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 186.59g
+
+- Average gold per hour: **1166.19g**
+
+#### 12 AM to 2 AM (2 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Bream](https://stardewvalleywiki.com/Bream)             | 27.59%  | 135g                             | 37.25g
+| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 19.80%  | 0g (assuming eating)             | 0g
+| [Shad](https://stardewvalleywiki.com/Shad)               | 22.26%  | 180g                             | 40.07g
+| [Chub](https://stardewcommunitywiki.com/Chub)            | 27.59%  | 150g                             | 41.39g
+| Random Trash                                             | 2.76%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 118.71g
+
+- Average gold per hour: **741.94g**
+
+#### Combined
+
+- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
+- If for some reason you need a weighted average:
+
+| Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
+| ------------- | --------------------- | ----- | --------------------- | ----------------------
+| 6 AM to 9 AM  | 1216.44g              | 3     | 15%                   | 182.47g
+| 9 AM to 6 PM  | 1238.19g              | 9     | 45%                   | 557.186g
+| 6 PM to 12 AM | 1166.19g              | 6     | 30%                   | 349.88g
+| 12 AM to 2 AM | 741.94g               | 2     | 10%                   | 74.19g
+| *Total*       | n/a                   | 20    | 100%                  | 1163.73g
 
 ### Caveats
 

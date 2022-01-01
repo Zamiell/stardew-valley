@@ -938,9 +938,11 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
 - In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
-- Using Bait is a 0.5x multiplier.
-- There are 7000 milliseconds per 10 in-game minutes.
-- Thus, assuming we are using Bait, have fishing level 10, and are not using a spinner, the average fish catch rate is 6725 milliseconds, which works out to be 6.25 catches per in-game hour.
+- Thus, the average milliseconds per catch at fishing level 10 without using any tackle is 13450.
+- Using Bait is a 0.5x multiplier, which makes the average 6725.
+- We apply a penalty of 250 milliseconds to account for human reaction time post-nibble, making the total 6975.
+- There are 7000 milliseconds per 10 in-game minutes, which is 42000 milliseconds per in-game hour.
+- Thus, the average catch rate is 6.02 per in-game hour.
 
 ### Mountain Lake
 
@@ -956,7 +958,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | Random Trash                                                        | 1.10%   | 0g (assuming deleting)           | 0g
 | *Total*                                                             | 100.00% | n/a                              | 154.53g
 
-- Average gold per hour: **965.81g**
+- Average gold per hour: **930.27g**
 
 #### 7 PM to 2 AM (7 hours)
 
@@ -969,7 +971,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | Random Trash                                                        | 2.76%   | 0g (assuming deleting)           | 0g
 | *Total*                                                             | 100.00% | n/a                              | 116.31g
 
-- Average gold per hour: **726.94g**
+- Average gold per hour: **700.19g**
 
 #### Combined
 
@@ -978,9 +980,9 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 | Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------ | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 7 PM | 965.81g               | 13    | 65%                   | 627.78g
-| 7 PM to 2 PM | 726.94g               | 7     | 35%                   | 254.43g
-| *Total*      | n/a                   | 20    | 100%                  | 882.21g
+| 6 AM to 7 PM | 930.27g               | 13    | 65%                   | 604.68g
+| 7 PM to 2 PM | 700.19g               | 7     | 35%                   | 245.07g
+| *Total*      | n/a                   | 20    | 100%                  | 849.75g
 
 ### Forest River (While Raining)
 
@@ -994,7 +996,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | Random Trash                                             | 7.00%   | 0g (assuming deleting)           | 0g
 | *Total*                                                  | 100.00% | n/a                              | 194.63g
 
-- Average gold per hour: **1216.44g**
+- Average gold per hour: **1171.67g**
 
 #### 9 AM to 6 PM (9 hours)
 
@@ -1007,7 +1009,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | Random Trash                                             | 3.15%   | 0g (assuming deleting)           | 0g
 | *Total*                                                  | 100.00% | n/a                              | 198.11g
 
-- Average gold per hour: **1238.19g**
+- Average gold per hour: **1192.62g**
 
 #### 6 PM to 12 AM (6 hours)
 
@@ -1021,7 +1023,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 | Random Trash                                             | 1.10%   | 0g (assuming deleting)           | 0g
 | *Total*                                                  | 100.00% | n/a                              | 186.59g
 
-- Average gold per hour: **1166.19g**
+- Average gold per hour: **1123.27g**
 
 #### 12 AM to 2 AM (2 hours)
 
@@ -1043,11 +1045,15 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 | Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------- | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 9 AM  | 1216.44g              | 3     | 15%                   | 182.47g
-| 9 AM to 6 PM  | 1238.19g              | 9     | 45%                   | 557.186g
-| 6 PM to 12 AM | 1166.19g              | 6     | 30%                   | 349.88g
-| 12 AM to 2 AM | 741.94g               | 2     | 10%                   | 74.19g
-| *Total*       | n/a                   | 20    | 100%                  | 1163.73g
+| 6 AM to 9 AM  | 1171.67g              | 3     | 15%                   | 175.75g
+| 9 AM to 6 PM  | 1192.62g              | 9     | 45%                   | 536.68g
+| 6 PM to 12 AM | 1123.27g              | 6     | 30%                   | 336.98g
+| 12 AM to 2 AM | 714.63g               | 2     | 10%                   | 71.46g
+| *Total*       | n/a                   | 20    | 100%                  | 1120.87g
+
+### Comparison
+
+The ratio between sunny lake and rainy river is 1 to 1.32.
 
 ### Caveats
 

@@ -963,6 +963,9 @@ W: CAST=435 ms, CATCH=1113 ms
 - Thus, the average catch rate is:
   - 4.86 per in-game hour for the mountain lake.
   - 4.64 per in-game hour for the forest river.
+- When buying [Bait](https://stardewvalleywiki.com/Bait_(item)) for 5g each, the amount of money needed is:
+  - 24.3g per in-game hour for the mountain lake.
+  - 23.2g per in-game hour for the forest river.
 
 ### Mountain Lake
 
@@ -979,6 +982,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                             | 100.00% | n/a                              | 154.53g
 
 - Average gold per hour: **751.02g**
+- Average gold per hour accounting for buying Bait: **726.72g**
 
 #### 7 PM to 2 AM (7 hours)
 
@@ -992,6 +996,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                             | 100.00% | n/a                              | 116.31g
 
 - Average gold per hour: **565.27g**
+- Average gold per hour accounting for buying Bait: **540.97g**
 
 #### Combined
 
@@ -1000,9 +1005,9 @@ W: CAST=435 ms, CATCH=1113 ms
 
 | Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------ | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 7 PM | 751.02g               | 13    | 65%                   | 488.16g
-| 7 PM to 2 PM | 565.27g               | 7     | 35%                   | 197.84g
-| *Total*      | n/a                   | 20    | 100%                  | 686.00g
+| 6 AM to 7 PM | 726.72g               | 13    | 65%                   | 472.37g
+| 7 PM to 2 PM | 540.97g               | 7     | 35%                   | 189.34g
+| *Total*      | n/a                   | 20    | 100%                  | 661.71g
 
 ### Forest River (While Raining)
 
@@ -1017,6 +1022,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                  | 100.00% | n/a                              | 194.63g
 
 - Average gold per hour: **903.08g**
+- Average gold per hour accounting for buying Bait: **879.88g**
 
 #### 9 AM to 6 PM (9 hours)
 
@@ -1030,6 +1036,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                  | 100.00% | n/a                              | 198.11g
 
 - Average gold per hour: **919.23g**
+- Average gold per hour accounting for buying Bait: **896.03g**
 
 #### 6 PM to 12 AM (6 hours)
 
@@ -1044,6 +1051,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                  | 100.00% | n/a                              | 186.59g
 
 - Average gold per hour: **865.78g**
+- Average gold per hour accounting for buying Bait: **842.58g**
 
 #### 12 AM to 2 AM (2 hours)
 
@@ -1057,6 +1065,7 @@ W: CAST=435 ms, CATCH=1113 ms
 | *Total*                                                  | 100.00% | n/a                              | 118.71g
 
 - Average gold per hour: **550.81g**
+- Average gold per hour accounting for buying Bait: **527.61g**
 
 #### Combined
 
@@ -1065,15 +1074,15 @@ W: CAST=435 ms, CATCH=1113 ms
 
 | Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
 | ------------- | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 9 AM  | 903.08g               | 3     | 15%                   | 135.46g
-| 9 AM to 6 PM  | 919.23g               | 9     | 45%                   | 413.65g
-| 6 PM to 12 AM | 865.78g               | 6     | 30%                   | 259.73g
-| 12 AM to 2 AM | 550.81g               | 2     | 10%                   | 55.08g
-| *Total*       | n/a                   | 20    | 100%                  | 863.92g
+| 6 AM to 9 AM  | 879.88g               | 3     | 15%                   | 131.98g
+| 9 AM to 6 PM  | 896.03g               | 9     | 45%                   | 403.21g
+| 6 PM to 12 AM | 842.58g               | 6     | 30%                   | 252.77g
+| 12 AM to 2 AM | 527.61g               | 2     | 10%                   | 52.76g
+| *Total*       | n/a                   | 20    | 100%                  | 840.72g
 
 ### Comparison
 
-The ratio between sunny lake and rainy river is 1 to 1.26.
+The ratio between sunny lake and rainy river is 1 to 1.27.
 
 ### Caveats
 

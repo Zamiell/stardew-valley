@@ -1323,8 +1323,8 @@ Note that the average gold per hour can be greatly increased with:
 
 ## Appendix G: Miscellaneous
 
-Fishing Notes:
-- Tested fishing on Spring Rain @ Forest River
+### Testing Fishing on Spring Rain @ Forest River
+
 - Started at 6:40am
 - Ended at 2am
 - 19.33 hours
@@ -1335,3 +1335,14 @@ Fishing Notes:
 - Cost of bait: 390g
 - Total money, accounting for bait: 16,273
 - 841.85g / hour
+
+### From Ocean Fishing Spot to Mountain Lake Fishing Spot
+
+- To get from the ocean fishing spot to the mountain lake fishing spot, it takes 1.13 hours.
+- Mountain Lake Combined   - 661.71g
+- Ocean Combined - 532.81g
+- Difference - 128.9g
+- Total lost by travelling - 602.08g (1.13 hours * 532.81g)
+- Hours of fishing to make up the difference - 4.67 hours
+- Leave at 9am ish after buying Training Rod, get there by 10:30am ish
+- Fish from 10:30am to 2am --> 15.5 hours

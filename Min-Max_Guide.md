@@ -1084,6 +1084,81 @@ W: CAST=435 ms, CATCH=1113 ms
 
 The ratio between sunny lake and rainy river is 1 to 1.27.
 
+### Ocean
+
+#### 6 AM to 11 AM (5 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 12.45%  | 90g                              | 11.21g
+| [Sardine](https://stardewvalleywiki.com/Sardine)         | 27.19%  | 120g                             | 32.63g
+| [Herring](https://stardewvalleywiki.com/Herring)         | 19.15%  | 90g                              | 17.24g
+| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 14.03%  | 0g (assuming eating)             | 0g
+| [Halibut](https://stardewvalleywiki.com/Halibut)         | 17.38%  | 240g                             | 41.71g
+| [Flounder](https://stardewvalleywiki.com/Flounder)       | 9.42%   | 300g                             | 28.26g
+| Random Trash                                             | 0.38%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 131.05g
+
+- Average gold per hour: **636.90g**
+- Average gold per hour accounting for buying Bait: **612.60g**
+
+#### 11 AM to 7 PM (8 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 14.80%  | 90g                              | 13.32g
+| [Sardine](https://stardewvalleywiki.com/Sardine)         | 33.36%  | 120g                             | 40.03g
+| [Herring](https://stardewvalleywiki.com/Herring)         | 23.04%  | 90g                              | 20.74g
+| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 16.73%  | 0g (assuming eating)             | 0g
+| [Flounder](https://stardewvalleywiki.com/Flounder)       | 11.15%  | 300g                             | 33.45g
+| Random Trash                                             | 0.94%   | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 107.54g
+
+- Average gold per hour: **522.64g**
+- Average gold per hour accounting for buying Bait: **498.34g**
+
+#### 7 PM to 8 PM (1 hour)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 16.59%  | 90g                              | 14.93g
+| [Herring](https://stardewvalleywiki.com/Herring)         | 26.13%  | 90g                              | 23.52g
+| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 18.79%  | 0g (assuming eating)             | 0g
+| [Halibut](https://stardewvalleywiki.com/Halibut)         | 23.55%  | 240g                             | 56.52g
+| [Flounder](https://stardewvalleywiki.com/Flounder)       | 12.44%  | 300g                             | 37.32g
+| Random Trash                                             | 2.5%    | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 132.29g
+
+- Average gold per hour: **642.93g**
+- Average gold per hour accounting for buying Bait: **618.63g**
+
+#### 8 PM to 2 AM (6 hours)
+
+| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
+| -------------------------------------------------------- | ------- | -------------------------------- | -------------
+| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 18.66%  | 90g                              | 16.79g
+| [Herring](https://stardewvalleywiki.com/Herring)         | 29.66%  | 90g                              | 26.69g
+| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 21.18%  | 0g (assuming eating)             | 0g
+| [Halibut](https://stardewvalleywiki.com/Halibut)         | 26.66%  | 240g                             | 63.98g
+| Random Trash                                             | 2.5%    | 0g (assuming deleting)           | 0g
+| *Total*                                                  | 100.00% | n/a                              | 107.46g
+
+- Average gold per hour: **522.26g**
+- Average gold per hour accounting for buying Bait: **497.96g**
+
+#### Combined
+
+- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
+- If for some reason you need a weighted average:
+
+| Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
+| ------------- | --------------------- | ----- | --------------------- | ----------------------
+| 6 AM to 11 AM | 612.60g               | 5     | 25%                   | 153.15g
+| 11 AM to 7 PM | 498.34g               | 8     | 40%                   | 199.34g
+| 7 PM to 8 PM  | 618.63g               | 1     | 5%                    | 30.93g
+| 8 PM to 2 AM  | 497.96g               | 6     | 30%                   | 149.39g
+| *Total*       | n/a                   | 20    | 100%                  | 532.81g
+
 ### Caveats
 
 #### Fishing Chests

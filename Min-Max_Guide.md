@@ -1248,4 +1248,15 @@ Note that the average gold per hour can be greatly increased with:
 
 ## Appendix G: Miscellaneous
 
-- You use up around 3.5 bait per hour while fishing.
+Fishing Notes:
+- Tested fishing on Spring Rain @ Forest River
+- Started at 6:40am
+- Ended at 2am
+- 19.33 hours
+- Used 78 bait
+- 4.04 bait per hour
+- Total money: 675+10800+270+2520+448+1800+150=16,663
+- 862.03g / hour
+- Cost of bait: 390g
+- Total money, accounting for bait: 16,273
+- 841.85g / hour

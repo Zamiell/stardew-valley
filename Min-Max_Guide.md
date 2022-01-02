@@ -998,7 +998,7 @@ W: CAST=435 ms, CATCH=1113 ms
 - Average gold per hour: **565.27g**
 - Average gold per hour accounting for buying Bait: **540.97g**
 
-#### Combined
+#### Mountain Lake Combined
 
 - For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
 - If for some reason you need a weighted average:
@@ -1067,7 +1067,7 @@ W: CAST=435 ms, CATCH=1113 ms
 - Average gold per hour: **550.81g**
 - Average gold per hour accounting for buying Bait: **527.61g**
 
-#### Combined
+#### Forest River Combined
 
 - For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
 - If for some reason you need a weighted average:
@@ -1146,7 +1146,7 @@ The ratio between sunny lake and rainy river is 1 to 1.27.
 - Average gold per hour: **522.26g**
 - Average gold per hour accounting for buying Bait: **497.96g**
 
-#### Combined
+#### Ocean Combined
 
 - For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
 - If for some reason you need a weighted average:

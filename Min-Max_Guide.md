@@ -307,6 +307,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
 - Kill the weeds along the left side of the map by Harvey.
 - Meet Leah + Pierre inside of Pierre's General Store. (You have to go behind the counter to talk to Pierre.)
+- Buy one Green Bean Starter for the Community Center Spring Crops Bundle.
 - Check the garbage can next to the Saloon.
 - Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
 - Check the garbage can next to George's house.
@@ -321,7 +322,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Kill the weeds to the left of the community center.
 - Kill the weeds to the left of the fountain.
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
-- Hoe + plant + water Parsnip Seeds + Mixed Seeds.
+- Hoe + plant + water Parsnip Seeds + Green Bean Starter + Mixed Seeds.
 - Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:30 AM.

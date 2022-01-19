@@ -324,6 +324,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Kill the weeds to the left of the fountain.
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
+  - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random crops from Mixed Seeds allows you to skip buying seeds for the Spring Crops bundle later on.)
 - Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:30 AM.

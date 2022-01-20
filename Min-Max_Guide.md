@@ -288,7 +288,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
-- Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
+- Meet Penny sitting under the tree to the left of the graveyard. She leaves for home at 12:30 PM.
 - Meet Marnie walking from Pierre's General Store south. She arrives at Emily's door at about 12:30 PM.
 - Go to the beach.
 - Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
@@ -304,7 +304,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Meet Abigail on the bridge.
 - Meet Maru. (She is walking south from home past the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
-- Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (north of Jodi's house).
+- Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the left side of the map by Harvey.
 - Meet Leah + Pierre inside of Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.

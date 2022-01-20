@@ -279,7 +279,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Head west past the Traveling Cart area, south to the Abandoned House, east to the Spring Onion area, and north to Marnie's Ranch.
+- Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 - Meet Jas as she walks from her house to her swing starting at 11:20 AM.

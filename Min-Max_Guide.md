@@ -285,7 +285,7 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Meet Jas as she walks from her house to her swing starting at 11:20 AM.
 - Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
 - Go to town.
-- Check the two garbage cans next to Jodi's house + Haley's house and clear weeds west of .
+- Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
 - Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.

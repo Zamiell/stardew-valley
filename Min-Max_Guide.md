@@ -1349,3 +1349,22 @@ Note that the average gold per hour can be greatly increased with:
 - Hours of fishing to make up the difference - 4.67 hours
 - Leave at 9am ish after buying Training Rod, get there by 10:30am ish
 - Fish from 10:30am to 2am --> 15.5 hours
+
+Tom's test notes
+Pre-game:
+
+1. Note: No mods. I happen at the moment to be on (testing) a Steam Windows PC that won't run anything but the compatibility beta.
+
+2. I wonder if the Tea Sapling strategy changes this optimization at all (500 gp for 2 Wild Seeds, 5 Wood, and 5 Fiber = 2500 for a Daffodil, Dandelion, Leek, Wild Horseradish, 5 Wood, and 5 Fiber).
+
+Spring 1
+-This is a bit aggressive for me, a non-gamer. But I think I can do it with the screenshot tool. I am restarting once.
+-Level 1 requires topping 8 1/3 trees (9 or 8 + misc).+
+-In the forest, be a bit ahead and save some weeds for the end in case you have extra time.
+-Clear the weeds at Haley's and Emily's house.
+-It's not clear what to do when my backpack fills. Keep wood or keep stone? Keep trash? What to do with goodies from the trash? Adjust route?
+-It mostly worked for me except when I got to town a bit early for Maru. Some more clock times on the "Meet ___" would be helpful. For example, I was lost when I didn't see Maru. Was I early? Was I late? Next time I do this (maybe immediately), I will make notes (without the RunningLate mod).
+  -6:55+ Sebastian
+  -12:50 Marnie at Emily's door. I am behind.
+  
+

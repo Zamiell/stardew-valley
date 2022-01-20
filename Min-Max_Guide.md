@@ -118,7 +118,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Energy Recovery Mechanics
 
-- On the day after a player has gained one or more sA level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.
+- On the day after a player has gained one or more skill level increases, they will always start with full energy, even if they passed out on the previous day. They will also still start with full energy even if they were below 0 energy and had the "exhausted" icon showing above the energy bar.
   - Note that with this route, players will gain one or more skill level increases on every single day until Spring 12.
 - When a player passes out at 2 AM, 10% of their gold is taken (maxing out at 1000g). However, if the player has no gold in their inventory, they will incur no penalty. Or, if they have a very small amount of gold, the resulting gold loss will be completely trivial (e.g. losing 5g with a bank of 50g).
 - When a player falls asleep at midnight or earlier, they will regenerate 100% of their energy. When a player falls asleep after 12 AM, they will regenerate a variable percentage of energy depending on how late it was. For example, at 1 AM, they will regenerate 75% of their energy, and at 2 AM, they will regenerate 50% of their energy.
@@ -272,7 +272,7 @@ The plan for the day is to meet everybody in the town and save money for tomorro
 An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
 
 - Take the Parsnip Seeds.
-- Immediately top 9 (8 1/3 for) trees until foraging level 1 and consequently clear minimal weeds starting along your path south out of your farm and ending near your house. We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees. The route is very tight.)
+- Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that any weeds you clear are helpful for that. The route is very tight.)
   - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
   - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)

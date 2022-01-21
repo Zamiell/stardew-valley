@@ -304,7 +304,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds north-west of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking south from home past the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
+- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the left side of the map by Harvey.

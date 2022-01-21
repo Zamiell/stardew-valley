@@ -317,7 +317,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes.)
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
-- Clear weeds (and top trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
+- Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
 - Meet Demetrius south-east of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)

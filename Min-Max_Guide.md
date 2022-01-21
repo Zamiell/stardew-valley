@@ -271,8 +271,10 @@ The plan for the day is to meet everybody in the town and save money for tomorro
 
 An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
 
+Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
+
 - Take the Parsnip Seeds.
-- Immediately chop down trees until foraging level 1. We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions and such. (Focus on **only** chopping down trees. The route is very tight.)
+- Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
   - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
   - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
@@ -282,17 +284,17 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
-- Meet Jas as she exits her house around 11:20 AM.
-- Meet Haley as she walks towards Leah's house.
+- Meet Jas as she walks from her house to her swing around 11:20 AM.
+- Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
 - Go to town.
-- Check the two garbage cans next to Jodi's house + Haley's house.
+- Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
-- Meet Emily inside of her house.
-- Meet Penny to the left of the graveyard.
-- Meet Marnie outside of Pierre's General Store.
+- Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
+- Meet Penny sitting under the tree to the left of the graveyard. She leaves for home at 12:30 PM.
+- Meet Marnie walking from Pierre's General Store south. She arrives at Emily's door at about 12:30 PM.
 - Go to the beach.
 - Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott outside of his cabin.
+- Meet Elliott standing below his cabin.
 - Check for + hoe artifact spots.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
@@ -302,9 +304,9 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds north-west of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking south to the benches.)
+- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
-- Meet Evelyn + Caroline + Jodi + Vincent + Harvey west of Lewis' house.
+- Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the left side of the map by Harvey.
 - Meet Leah + Pierre inside of Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
@@ -312,32 +314,31 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 - Check the garbage can next to the Saloon.
 - Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
 - Check the garbage can next to George's house.
-- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4 PM. If you are fast, you might need to wait here for a few minutes.)
+- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes.)
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
-- Clear a path to the Backwoods. Exit to the Backwoods around 6:10 PM.
+- Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
 - Meet Demetrius south-east of his house. (You do not need to talk to Robin because you already met her.)
-- Meet Sebastian as he leaves his house. (If you got here before 7 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds elsewhere.)
+- Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
 - Go south to the community center.
 - Kill the weeds to the left of the community center.
 - Kill the weeds to the left of the fountain.
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
-  - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random crops from Mixed Seeds allows you to skip buying seeds for the Spring Crops bundle later on.)
+  - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
 - Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:30 AM.
-- Sell all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
+- Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds).
+- Ship all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
   - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
   - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
-- Hoe + plant + water any remaining mixed seeds.
+- Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
   - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for 2 days but this is very unlikely and doesn't change the route.
-- Go home at 2 AM. (We do not want to incur the gold penalty.)
-- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time.)
-  - Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.
+- Be inside your house a few minutes before 2:00 AM. (We do not want to incur the gold penalty.)
+- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time. Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.)
 - Move the TV next to the door (so that you can immediately check it upon waking up).
 - At the end of the day, you should get:
   - Foraging 0 --> 1

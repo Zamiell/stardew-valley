@@ -405,7 +405,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - This is because we will need 2 more chests and a scarecrow over the next 2 days.
 - Craft a Chest and take it with you.
 - Empty your inventory. Retrieve the Fiberglass Rod + crafted chest.
-- Go to the mountain lake. The best spot to fish is casting eastwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
+- Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
   - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
 - Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
   - You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.

@@ -354,7 +354,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.
-- Fish facing east from the pier. Use maximum casts.
+- Fish facing right from the pier. Use maximum casts.
 - At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragable items + artifact spots.
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.

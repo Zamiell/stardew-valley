@@ -299,7 +299,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
-- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the east side.)
+- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the right side.)
 - Check the garbage can next to JojaMart.
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds north-west of JojaMart.

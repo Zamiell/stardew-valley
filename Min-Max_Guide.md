@@ -284,7 +284,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
-- Meet Jas as she walks from her house to her swing starting at 11:20 AM.
+- Meet Jas as she walks from her house to her swing around 11:20 AM.
 - Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.

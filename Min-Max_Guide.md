@@ -294,7 +294,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Marnie walking from Pierre's General Store south. She arrives at Emily's door at about 12:30 PM.
 - Go to the beach.
 - Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott standing south of his cabin near the fire ring.
+- Meet Elliott standing below his cabin.
 - Check for + hoe artifact spots.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).

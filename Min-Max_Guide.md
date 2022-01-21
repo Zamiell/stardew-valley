@@ -390,7 +390,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
-- The best spot to fish at the forest river is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the east of you.
+- The best spot to fish at the forest river is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
 - Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).

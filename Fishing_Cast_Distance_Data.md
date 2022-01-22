@@ -19,7 +19,7 @@
 | Level 4-10    | Mountain Lake | 5          | All spots
 | Level 0       | Forest River  | ?          | [untested]
 | Level 1-3     | Forest River  | 3          | Downward from below Leah's Cottage
-| Level 1-3     | Forest River  | 3          | Upward from most places south of the river
+| Level 1-3     | Forest River  | 3          | Upward from most places downward of the river
 | Level 1-3     | Forest River  | 2          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it
 | Level 1-3     | Forest River  | 5          | Rightward from the top-right-hand-corner of the tiny island with a single tree on it angled upward
 | Level 1-3     | Forest River  | 5          | Leftward above the Abandoned House

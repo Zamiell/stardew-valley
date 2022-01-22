@@ -280,7 +280,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
-- Exit south to the forest. (The time should be around 9:20 AM.)
+- Exit down to the forest. (The time should be around 9:20 AM.)
 - Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
@@ -291,7 +291,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
 - Meet Penny sitting under the tree to the left of the graveyard. She leaves for home at 12:30 PM.
-- Meet Marnie walking from Pierre's General Store south. She arrives at Emily's door at about 12:30 PM.
+- Meet Marnie walking down from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
 - Go to the beach.
 - Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
 - Meet Elliott standing below his cabin.
@@ -302,9 +302,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the right side.)
 - Check the garbage can next to JojaMart.
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
-- Clear the weeds north-west of JojaMart.
+- Clear the weeds above/behind JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
+- Meet Maru. (She is walking down towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the left side of the map by Harvey.
@@ -319,9 +319,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Empty your inventory. Keep the tools.
 - Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
-- Meet Demetrius south-east of his house. (You do not need to talk to Robin because you already met her.)
+- Meet Demetrius down and to the right of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
-- Go south to the community center.
+- Go down to the community center.
 - Kill the weeds to the left of the community center.
 - Kill the weeds to the left of the fountain.
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
@@ -949,20 +949,20 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 ```
 Level 0 (>99% cast)
-N: CAST=643 ms, CATCH=920 ms
-S: CAST=778 ms, CATCH=1039 ms
-E: CAST=370 ms, CATCH=976 ms
-W: CAST=370 ms, CATCH=820 ms
+Up: CAST=643 ms, CATCH=920 ms
+Down: CAST=778 ms, CATCH=1039 ms
+Right: CAST=370 ms, CATCH=976 ms
+Left: CAST=370 ms, CATCH=820 ms
 
 Level 4 (>99% cast)
-N: CAST=715 ms, CATCH=800 ms
-S: CAST=969 ms, CATCH=1106 ms
-E: CAST=435 ms, CATCH=1230 ms
-W: CAST=435 ms, CATCH=1113 ms
+Up: CAST=715 ms, CATCH=800 ms
+Down: CAST=969 ms, CATCH=1106 ms
+Right: CAST=435 ms, CATCH=1230 ms
+Left: CAST=435 ms, CATCH=1113 ms
 ```
 
-- When fishing at the mountain lake, it is optimal to cast east, resulting in a total casting penalty of 1665 milliseconds. This is added to 6975 milliseconds, resulting in 8640 milliseconds.
-- When fishing at the forest river, it is optimal to cast south, resulting in a total penalty of 2075 milliseconds. This is added to 6975 milliseconds, resulting in 9050 milliseconds.
+- When fishing at the mountain lake, it is optimal to cast to the right, resulting in a total casting penalty of 1665 milliseconds. This is added to 6975 milliseconds, resulting in 8640 milliseconds.
+- When fishing at the forest river, it is optimal to cast down, resulting in a total penalty of 2075 milliseconds. This is added to 6975 milliseconds, resulting in 9050 milliseconds.
 - There are 7000 milliseconds per 10 in-game minutes, which is 42000 milliseconds per in-game hour.
 - Thus, the average catch rate is:
   - 4.86 per in-game hour for the mountain lake.

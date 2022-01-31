@@ -563,7 +563,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Go back to the farm and finish hoeing + planting. (Do not water any squares.)
   - You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
   - We do not need to water the Kale until Spring 14.
-- Go to the mines with Kale and furnace. Place the furnace. Keep the furnace going with smelting bars.
+- Go to the mines with Kale and the furnace. Place the furnace. Keep the furnace going with smelting bars.
 - Mine until 2 AM, then pass out.
   - As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 - At the end of the day, you should get:

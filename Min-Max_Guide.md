@@ -367,7 +367,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Fish using max casts at the same spot as before.
 - At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
 - Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
-- At the end of the day, you should get:
+- At the end of the day, you should hopefully get:
   - Fishing 0 --> 4
 - If you only get to fishing level 3, that is okay. We want to get fishing as high as possible to make it a bit easier to catch Catfish on Spring 3, but you will still be able to catch around 50% of them regardless of whether you are fishing level 3 or fishing level 4.
 

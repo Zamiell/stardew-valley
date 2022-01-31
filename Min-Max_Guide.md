@@ -87,7 +87,6 @@ This guide is the synthesis of other guides that have come before. Guides are li
 ## Preface
 
 Before we start with the route, let's first go over some high-level things that you need to know over the course of the run.
-
 ### Goal
 
 The general goal of this route is to maximize the total amount of money gained by the end of the first summer. (Depending on how well you do, you can probably make up to 5 million.) This leaves you in a good position to accomplish whatever other goals that you want, whether it be to continue to min-max money, get max friendship with every NPC, etc.
@@ -269,7 +268,7 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. (We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.)
 
-An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
+An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. This would only be competitive if you killed 100 weeds more and still managed to collect all available forage and any first artifact that might be present.
 
 Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
 

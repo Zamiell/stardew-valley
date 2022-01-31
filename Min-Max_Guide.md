@@ -157,7 +157,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 ### General Mines Strategy
 
 - Starting on Spring 11, the goal is to go as deep in the mines as possible. As soon as you discover the staircase on a floor, immediately enter it. Do **not** go out of your way to explore the rest of the floor, do **not** kill any additional enemies, do **not** stop to mine any visible ore nodes, do **not** stop to mine any visible gem nodes, etc. (You will be able to easily farm ore later on.)
-- Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest + restock furnaces, if any. If you are at level 2 mining or above, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
+- Every time you get to a new elevator floor, return to the 0th floor and empty your inventory in the chest + restock furnaces, if any. If you are at level 2 mining or higher, remember to keep the stone on you (so that you can craft a [Staircase](https://stardewvalleywiki.com/Staircase) on an infested floor).
 - On the early floors, skip over mining the gray rocks in favor of the other color rocks. (This is because it takes two hits to destroy a gray rock and one hit to destroy the other ones.)
   - When you have a copper pickaxe or better, this strategy no longer applies, as gray rocks will be destroyed in 1 hit.
 - If the floor is small, search it for an existing staircase before starting to kill enemies or mine rocks. (Do not bother to do this if the floor is medium/large, as it will be a huge waste of time.)
@@ -279,8 +279,8 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to chop the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
-- Exit down to the forest. (The time should be around 9:20 AM.)
-- Head left past the Traveling Cart area, down to the Abandoned House, right to the Spring Onion area, and up to Marnie's Ranch.
+- Exit south to the forest. (The time should be around 9:20 AM.)
+- Head west past the Traveling Cart area, south to the Abandoned House, east to the Spring Onion area, and north to Marnie's Ranch.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 - Meet Jas as she walks from her house to her swing around 11:20 AM.
@@ -289,24 +289,24 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
-- Meet Penny sitting under the tree to the left of the graveyard. She leaves for home at 12:30 PM.
-- Meet Marnie walking down from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
+- Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
+- Meet Marnie walking south from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
 - Go to the beach.
 - Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott standing below his cabin.
+- Meet Elliott standing south of his cabin near the fire ring.
 - Check for + hoe artifact spots.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
-- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go to the right side.)
+- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
 - Check the garbage can next to JojaMart.
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
-- Clear the weeds above/behind JojaMart.
+- Clear the weeds behind/north of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking down towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
+- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
-- Kill the weeds along the left side of the map by Harvey.
+- Kill the weeds along the west side of the map by Harvey.
 - Meet Leah + Pierre inside of Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
@@ -318,11 +318,11 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Empty your inventory. Keep the tools.
 - Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
-- Meet Demetrius down and to the right of his house. (You do not need to talk to Robin because you already met her.)
+- Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
-- Go down to the community center.
-- Kill the weeds to the left of the community center.
-- Kill the weeds to the left of the fountain.
+- Go south to the community center.
+- Kill the weeds to the west of the community center.
+- Kill the weeds to the west of the fountain.
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
@@ -353,7 +353,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.
-- Fish facing right from the pier. Use maximum casts.
+- Fish facing east from the pier. Use maximum casts.
 - At 8:40 AM, store all but your hoe and check the rest of the beach for any foragable items + artifact spots.
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
@@ -380,8 +380,8 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 - If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish. Remember to divert from the guide and buy more bait from Willy tomorrow before going to the mountain lake.
 - Otherwise:
   - Retrieve the hoe from the chest.
-  - Fish below Leah's house until 8:30 AM or you run out of bait, whichever comes first.
-  - Check the garbage can below Jodi's house and Emily's house.
+  - Fish south of Leah's house until 8:30 AM or you run out of bait, whichever comes first.
+  - Check the garbage cans south of Jodi's house and Emily's house.
   - Check the beach for foragable items + artifact spots.
   - At Willy's shop, sell all fish + any extra beach foraging items. (However, you can save a [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle) if you want.)
   - Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
@@ -390,7 +390,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
-- The best spot to fish at the forest river is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
+- The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.
   - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
 - Fish until 2 AM. Before passing out, fill your inventory with the rod + hoe + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
@@ -405,7 +405,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - This is because we will need 2 more chests and a scarecrow over the next 2 days.
 - Craft a Chest and take it with you.
 - Empty your inventory. Retrieve the Fiberglass Rod + crafted chest.
-- Go to the mountain lake. The best spot to fish is casting rightwards while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
+- Go to the mountain lake. The best spot to fish is casting east while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
   - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
 - Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
   - You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.
@@ -961,8 +961,8 @@ Right: CAST=435 ms, CATCH=1230 ms
 Left: CAST=435 ms, CATCH=1113 ms
 ```
 
-- When fishing at the mountain lake, it is optimal to cast to the right, resulting in a total casting penalty of 1665 milliseconds. This is added to 6975 milliseconds, resulting in 8640 milliseconds.
-- When fishing at the forest river, it is optimal to cast down, resulting in a total penalty of 2075 milliseconds. This is added to 6975 milliseconds, resulting in 9050 milliseconds.
+- When fishing at the mountain lake, it is optimal to cast to the east, resulting in a total casting penalty of 1665 milliseconds. This is added to 6975 milliseconds, resulting in 8640 milliseconds.
+- When fishing at the forest river, it is optimal to cast south, resulting in a total penalty of 2075 milliseconds. This is added to 6975 milliseconds, resulting in 9050 milliseconds.
 - There are 7000 milliseconds per 10 in-game minutes, which is 42000 milliseconds per in-game hour.
 - Thus, the average catch rate is:
   - 4.86 per in-game hour for the mountain lake.

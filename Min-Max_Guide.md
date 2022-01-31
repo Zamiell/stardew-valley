@@ -268,7 +268,7 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. (We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.)
 
-An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. This would only be competitive if you killed 100 weeds more and still managed to collect all available forage and any first artifact that might be present.
+An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. Since Fiber sells for 1g each and it is a 50% drop rate, this would only be competitive if you killed an extra 200 **and** you still collected all the foragables/artifacts on the map.
 
 Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
 

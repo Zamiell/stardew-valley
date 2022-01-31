@@ -548,12 +548,12 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - If you are not level 10 fishing, then don't ship any fish right now (because you will miss out on 25% of the gold). Tomorrow, you will have to sell the fish directly to Willy.
 - Empty inventory. Retrieve Fiberglass Rod.
 - If you have less than 100 bait on the rod, also retrieve a few fish. Fish in the mountain lake for a few hours while you wait for 9 AM. Then, go to Willy, sell the fish, and buy more bait.
-- Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace with you (because we will take it to the mines tomorrow).
+- Fish at the mountain lake until 2 AM, then pass out. Remember to take your furnace home with you (because we will take it to the mines tomorrow).
 
 ### Spring 11
 
 - Harvest the Kale. (This should get to you farming level 2.)
-- Start hoeing squares in a sprinkler-pattern. (Do not water any squares.)
+- Start hoeing squares in a pattern for basic sprinklers. (Do not water any squares.)
 - Leave the farm at around 8:00 AM.
 - Go to Willy to sell fish if you did not ship any fish yesterday.
 - Go to the blacksmith. Retrieve the gold pickaxe.
@@ -561,7 +561,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Go back to the farm and finish hoeing + planting. (Do not water any squares.)
   - You can optionally craft and place [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark where the future sprinklers will go.
   - We do not need to water the Kale until Spring 14.
-- Go to the mines and place the furnace. Keep the furnace going with smelting bars.
+- Go to the mines with Kale and furnace. Place the furnace. Keep the furnace going with smelting bars.
 - Mine until 2 AM, then pass out.
   - As you get more copper, craft + place 3 more furnaces (to have 4 in total).
 - At the end of the day, you should get:
@@ -583,9 +583,9 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Check the Queen of Sauce for the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipe.
 - Grab mushrooms from the cave.
 - Go to the mines until 12 AM.
-- If you do not have enough ore for the rest of the sprinklers that you need, then farm ore on floor 21/41 before continuing to descend in the mines.
+- If you do not have enough ore for the rest of the basic sprinklers that you need, then farm ore on floor 21/41 before continuing to descend in the mines.
 - If you reach the bottom of the mines, revert to farming more ore. (You can reach floor 120 anywhere between Spring 14 through Spring 18, depending on how well you play, how lucky you are, and whether or not you took days off to fish in the rain.)
-  - Once you have all of the (normal) sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
+  - Once you have all of the basic sprinklers made, copper ore is only needed for tool upgrades. Lots of iron ore and gold ore will be needed for Quality Sprinklers.
 - At 12 AM, go home and craft + place as many sprinklers as possible. (If you do not have enough sprinklers to cover all of the crops, that is okay.)
 - Ship items to get up to 42,500g.
   - If you don't have enough, then only get up to 32,500g. Tomorrow, don't buy the 10,000g bundle. (In most runs, you will not have enough.)
@@ -616,7 +616,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 ### Spring 17 & Beyond
 
 - If you have not already reached floor 120 in the mines, get that done as soon as possible.
-- Furthermore, if you need more gold to finish the vault (42,500g), then fish at the mountain lake, and finish the vault as soon as possible.
+- Furthermore, if you need more money to finish the vault (42,500g), then fish at the mountain lake, and finish the vault as soon as possible.
   - If you still need to do both of these things, then you should time it such that you finish both of them on the same day. (Because the bus will not be repaired until the next day.)
 - Once you have reached floor 120 of the mines, move all of the furnaces from the mines back to your farm.
 - Start to do Skull Cavern runs as soon as possible and as often as possible. (See [General Skull Cavern Strategy](#general-skull-caverns-strategy).)

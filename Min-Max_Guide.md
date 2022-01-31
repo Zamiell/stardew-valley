@@ -281,7 +281,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Head west past the Traveling Cart area, south to the Abandoned House, east to the Spring Onion area, and north to Marnie's Ranch.
+- Check the entire map for forage to plan your route. Head generally clockwise: south first toward the Spring Onion area and ending up coming east from Traveling Cart area where you will meet Jas.
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 - Meet Jas as she walks from her house to her swing around 11:20 AM.
@@ -331,7 +331,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds).
 - Ship all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
-  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
+  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable. If you will be much short of 1200 gp tomorrow without all the spring forageables, ship them too.
   - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).

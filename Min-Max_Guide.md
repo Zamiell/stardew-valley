@@ -354,7 +354,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.
 - Fish facing right from the pier. Use maximum casts.
-- At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragable items + artifact spots.
+- At 8:40 AM, store all but your hoe and check the rest of the beach for any foragable items + artifact spots.
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   - The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
@@ -367,8 +367,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Fish using max casts at the same spot as before.
 - At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
 - Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
-- At the end of the day, you should get:
-  - Fishing 0 --> 4
+- At the end of the day, ideally you will get Fishing 0 --> 4. If not, you may still do okay with Catfish tomorrow.
 
 ### Spring 3
 
@@ -384,16 +383,16 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Check the beach for foragable items + artifact spots.
   - At Willy's shop, sell all fish + any extra beach foraging items. (However, you can save a [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle) if you want.)
   - Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
-    * The amount of bait you can buy at this point will depend on how well your run is going, but it can be anywhere between 500 to 700. However, no matter how much you buy, it will be guaranteed to be used up by the end of Spring.
+    * The amount of bait you can buy at this point will depend on how well your run is going, but it can be anywhere between 400 to 700. However, no matter how much you buy, it will be guaranteed to be used up by the end of Spring.
     * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convenient place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
   - Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
 - The best spot to fish at the forest river is casting downwards 6 tiles to the left of Leah's door. Place the chest one tile above and to the right of you.
   - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
-- Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
+- Fish until 2 AM. Before passing out, fill your inventory with the rod + hoe + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
-- At the end of the day, you should get:
+- At the end of the day, you hopefully should get:
   - Fishing 4 --> 6 (choose Fisher profession)
 
 ### Spring 4

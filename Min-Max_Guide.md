@@ -179,7 +179,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Spicy_Eel). Use one immediately for the speed boost and keep it going for the whole day.
 - Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day.
 - Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
-- In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
+- In general, ignore all enemies and focus on mining rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
 - It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs]. (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
 - You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
@@ -189,11 +189,11 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - The worse the daily luck is, the more beneficial Magic Rock Candy is. On the worst possible luck (skull) days, you probably don't want to go to the Skull Cavern at all and instead take care of other miscellaneous tasks. Thus, it is optimal to save and use the Magic Rock Candies on slightly unlucky days (e.g. bat on the TV).
   - It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
 - The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
-- On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
+- On mini-floors with a chest, you should mine every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
 - Use a staircase when:
   - You get the long spiral floor. (This is the worst floor.)
   - You get the long vertical floor. (This is the 2nd worst floor.)
-  - You hit a big dead end with no rocks left to kill in the immediate area.
+  - You hit a big dead end with no rocks left to mine in the immediate area.
 - Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bomb-able.
 - If you are lucky enough to get a [Lucky Ring](https://stardewvalleywiki.com/Lucky_Ring) to drop, then you will want to use that (instead of e.g. two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band)).
 - For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).

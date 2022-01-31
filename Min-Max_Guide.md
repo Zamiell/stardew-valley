@@ -331,7 +331,8 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds).
 - Ship all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
-  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable. If you will be much short of 1200 gp tomorrow without all the spring forageables, ship them too.
+  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
+    - If you are not lucky enough with getting money/foragables so far, it is probably better to not keep 1 of each spring foragable. Ship them so that you can buy the Iridium Rod faster on Spring 2, and worry about the Community Center quest later on.
   - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).

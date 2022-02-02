@@ -319,7 +319,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - At 4:40, Penny reaches the bench with Maru. We can meet them there if we haven't already met them.
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
-- Clear weeds (and chop trees only if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
+- We should have some spare time now to clear more weeds (and chop trees only if you are short of 50 wood) generally along the path toward the Backwoods. Exit to the Backwoods around 6:10 PM, no earlier.
 - Meet Linus outside of his tent.
 - Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)

@@ -354,7 +354,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Craft a chest and take it with you.
   - If you got 0 to 3 Spring Onions on Spring 1 (and did not get any food from garbage cans), then you may not have had enough energy to chop 50 wood on Spring 1. Chop 50 wood now and continue following the route; note that you will be a little bit behind on everything.
 - Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
-- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each NPC is essentially still at 0.) This is the last time we will make it a point to check garbage cans; from here on, only do it if it's convenient.
+- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
+  - If you are seen by a villager, it does not matter, since you friendship with each NPC is still at 0 points.)
+  - This is the last time that you should devitate from your path in any way to check a garbage can, since they are a huge waste of time. From this point on, only check garbage if doing so would waste no additional time.
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.

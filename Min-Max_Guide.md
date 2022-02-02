@@ -292,7 +292,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
-- Meet Marnie walking west home from Pierre's General Store. She arrives at Emily's door at 12:50 PM, so be outside before then.
+- Meet Marnie walking home from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
 - Hoe any needed first artifact, but leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
 - Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 P.M.

@@ -943,7 +943,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 ## Appendix C: Average Gold per Hour for Fishing
 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
-- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
+- In general, the chances to catch each fish can be found in [BlaDe's fishing spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
 - Thus, the average milliseconds per catch at fishing level 10 without using any tackle is 13450.
 - Using Bait is a 0.5x multiplier, which makes the average 6725.

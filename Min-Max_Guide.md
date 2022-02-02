@@ -285,7 +285,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie at 12:50 PM).
+  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie by 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule. (For reference, it would be good to meet Marnie approaching Emily's door at 12:50 PM.)
 - Go to town.

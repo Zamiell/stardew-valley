@@ -333,10 +333,10 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water all of the Mixed Seeds before 2 AM and passing out.)
 - Head back to your house and ship everything except:
-  - stone
-  - wood
-  - coal
-  - 20 fiber
+  - Stone
+  - Wood
+  - Coal
+  - 20 Fiber
 - Note that:
   - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later on, because we need as much money as possible for tomororw.
   - Normally, we eat Leeks, Dandelions, and food from the garbage cans instead of selling them, since they have a low GPE. However, today as an exception to the rule, since we need money very badly.

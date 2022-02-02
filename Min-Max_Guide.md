@@ -289,8 +289,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Jas as she walks from her house to her swing around 11:20 AM.
 - Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
 - Go to town.
-- Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
+- Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
+  - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
 - Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
 - Meet Marnie walking south from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
@@ -353,7 +354,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Craft a chest and take it with you.
   - If you got 0 to 3 Spring Onions on Spring 1 (and did not get any food from garbage cans), then you may not have had enough energy to chop 50 wood on Spring 1. Chop 50 wood now and continue following the route; note that you will be a little bit behind on everything.
 - Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
-- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each NPC is essentially still at 0.)
+- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
+  - If you are seen by a villager, it does not matter, since you friendship with each NPC is still at 0 points.)
+  - This is the last time that you should devitate from your path in any way to check a garbage can, since they are a huge waste of time. From this point on, only check garbage if doing so would waste no additional time.
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the bottom-right hand corner of the pier.

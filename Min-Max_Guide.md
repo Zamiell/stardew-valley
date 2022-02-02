@@ -285,20 +285,18 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
-- Meet Jas as she walks from her house to her swing around 11:20 AM.
-- Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
+  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie at 11:50 AM).
+- Meet Jas as she walks from her house to her swing between 11:20 AM and 12:00 noon.
+- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
-- Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
-- Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
-- Meet Marnie walking south from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
+- Meet Emily inside of her house after she reaches her living room at 12:20 PM. Or meet her later at the Saloon; she arrives there at 4:10.
+- Meet Marnie walking west home from Pierre's General Store. She arrives at Emily's door at 12:50 PM, so be outside before then.
 - Go to the beach.
-- Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott standing south of his cabin near the fire ring.
-- Check for + hoe artifact spots.
+- Hoe any needed first artifact, but leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
+- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 P.M.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
@@ -307,7 +305,8 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds behind/north of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
+- Meet Penny in her trailer or later on the benches with Maru after 4:40 P.M.
+- Meet Maru walking south or after 4:40 P.M. at the benches with Penny. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
@@ -315,12 +314,13 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
 - Check the garbage can next to the Saloon.
-- Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
+- Meet Gus in the Saloon. (You have to go behind the counter to talk to him.) 
+- If you left Emily and/or Penny until now, meet Emily after 4:00 in or outside the Saloon and Penny after 4:20 near the Saloon.
 - Check the garbage can next to George's house.
-- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes.)
+- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes. If you are late, you killed more weeds in the Forest instead of on your farm.)
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
-- Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
+- Clear weeds (and chop trees only if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
 - Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
@@ -330,13 +330,19 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
-- Eat all Spring Onions. (They are near-worthless to sell.)
+- Count your money for tomorrow. Tomorrow we want to buy a Fiberglass Rod and some bait for 1900gp-2000gp as soon as we reach fishing level 2 with the Training Rod (16 to 32 fish at a total sell value of 500gp to 1000 gp) or no later than 4:30 P.M. This will require starting out with about 1200 gp. Plan accordingly:
+  - If your money looks fine, eat all Spring Onions and save for the Spring Forage bundle if you want.
+  - Otherwise, plan to ship those. We will worry about the Community Center quest later on.
+  - Normally, we would save Leeks, Dandelions, Spring Onions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds).
-- Ship all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
-  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
-    - If you are not lucky enough with getting money/foragables so far, it is probably better to not keep 1 of each spring foragable. Ship them so that you can buy the Iridium Rod faster on Spring 2, and worry about the Community Center quest later on.
-  - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
+- Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds; earlier if you have more).
+- Ship everything except 
+  - stone
+  - wood
+  - coal
+  - 20 fiber
+  - [Field Snack](https://stardewvalleywiki.com/Field_Snack)
+  - spring foragable you can afford to keep
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.

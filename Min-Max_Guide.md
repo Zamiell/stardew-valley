@@ -294,8 +294,8 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
 - Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
-- Hoe any needed first artifact, but leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 P.M.
+- Hoe any artifact spots for the first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
+- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.

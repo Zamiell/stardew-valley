@@ -319,7 +319,6 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - Clear weeds on the farm until around 6:00 PM.
-  - If you are short of 50 wood, you can also spend extra energy on chopping wood.
 - Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
 - Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)

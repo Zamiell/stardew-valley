@@ -945,38 +945,12 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 
 ## Appendix C: Average Gold per Hour for Fishing
 
-- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
-- In general, the chances to catch each fish can be found in [BlaDe's fishing spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
-- The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
-- Thus, the average milliseconds per catch at fishing level 10 without using any tackle is 13450.
-- Using Bait is a 0.5x multiplier, which makes the average 6725.
-- We apply a penalty of 250 milliseconds to account for human reaction time post-nibble, making the total 6975.
-- The following data shows the amount of milliseconds in the casting and catching animations:
-
-```
-Level 0 (>99% cast)
-Up: CAST=643 ms, CATCH=920 ms
-Down: CAST=778 ms, CATCH=1039 ms
-Right: CAST=370 ms, CATCH=976 ms
-Left: CAST=370 ms, CATCH=820 ms
-
-Level 4 (>99% cast)
-Up: CAST=715 ms, CATCH=800 ms
-Down: CAST=969 ms, CATCH=1106 ms
-Right: CAST=435 ms, CATCH=1230 ms
-Left: CAST=435 ms, CATCH=1113 ms
-```
-
-- When fishing at the mountain lake, it is optimal to cast to the east, resulting in a total casting penalty of 1665 milliseconds. This is added to 6975 milliseconds, resulting in 8640 milliseconds.
-- When fishing at the forest river, it is optimal to cast south, resulting in a total penalty of 2075 milliseconds. This is added to 6975 milliseconds, resulting in 9050 milliseconds.
-- There are 7000 milliseconds per 10 in-game minutes, which is 42000 milliseconds per in-game hour.
-- Thus, the average catch rate is:
-  - 4.86 per in-game hour for the mountain lake.
-  - 4.64 per in-game hour for the forest river.
-- When buying [Bait](https://stardewvalleywiki.com/Bait_(item)) for 5g each, the amount of money needed is:
-  - 24.3g per in-game hour for the mountain lake.
-  - 23.2g per in-game hour for the forest river.
-
+- For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing.
+- The values for various fishing spots are located in my [fishing spreadsheet](https://docs.google.com/spreadsheets/d/1Zv0VCgFyJRlh1kVyvogYZviaqCexrDYhp7GNEQxozBM/edit).
+- Most importantly, in Spring:
+  - The best spot to fish in sunny weather is the mountain lake, at X average gold per hour.
+  - The best spot to fish in rainy weather is the forest river, at X average gold per hour.
+ 
 ### Mountain Lake
 
 #### 6 AM to 7 PM (13 hours)

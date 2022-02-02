@@ -94,7 +94,7 @@ The general goal of this route is to maximize the total amount of money gained b
 
 In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 
-In order to maximize money, this route entirely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the Skull Caverns). All of that stuff can wait until much later on in the run when you have a huge economy going.
+In order to maximize money, this route completely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the Skull Caverns). All of that stuff can wait until much later on in the run when you have a huge economy going.
 
 ### Route Overview
 

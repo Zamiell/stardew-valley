@@ -312,10 +312,10 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
 - It should now be close to 4:00 PM and we can meet everybody else near the Saloon:
-  - At 4:00, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
-  - At 4:00, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
-  - At 4:20, Penny passes Lewis's fence and Alex leaves his house.
-  - At 4:40, Penny reaches the bench with Maru. You can meet them there if we have not already met them.
+  - At 4:00 PM, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
+  - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
+  - At 4:20 PM, Penny passes Lewis's fence and Alex leaves his house.
+  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we have not already met them.
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - We should have some spare time now to clear more weeds (and chop trees only if you are short of 50 wood) generally along the path toward the Backwoods. Exit to the Backwoods around 6:10 PM, no earlier.

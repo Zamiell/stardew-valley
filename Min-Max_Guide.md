@@ -292,7 +292,6 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
-- Meet Emily inside of her house after she reaches her living room at 12:20 PM. Or meet her later at the Saloon; she arrives there at 4:10.
 - Meet Marnie walking west home from Pierre's General Store. She arrives at Emily's door at 12:50 PM, so be outside before then.
 - Go to the beach.
 - Hoe any needed first artifact, but leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
@@ -305,8 +304,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds behind/north of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Penny in her trailer or later on the benches with Maru after 4:40 P.M.
-- Meet Maru walking south or after 4:40 P.M. at the benches with Penny. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.
+- If you see Maru walking south and she is close, talk to her now. Otherwise, meet Maru when she is sitting on the bench later on. (She arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
@@ -314,7 +312,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
 - Check the garbage can next to the Saloon.
-- Meet Gus in the Saloon. (You have to go behind the counter to talk to him.) 
+- Meet Gus and Emily in the Saloon. (You have to go behind the counter to talk to Gus.) 
 - If you left Emily and/or Penny until now, meet Emily after 4:00 in or outside the Saloon and Penny after 4:20 near the Saloon.
 - Check the garbage can next to George's house.
 - Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes. If you are late, you killed more weeds in the Forest instead of on your farm.)

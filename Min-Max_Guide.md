@@ -285,13 +285,14 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie at 11:50 AM).
-- Meet Jas as she walks from her house to her swing between 11:20 AM and 12:00 noon.
-- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
+  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie at 12:50 PM).
+- Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
+- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule. (For reference, you will have to go out of your way to meet Marnie if you leave Emily's house before 12:50 PM.)
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
+- Meet Emily in her living room after 12:20 or wait to meet her at the Saloon later.
 - Meet Marnie walking home from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
 - Hoe any needed first artifact, but leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)

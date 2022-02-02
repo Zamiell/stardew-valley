@@ -329,19 +329,17 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
-- Count your money for tomorrow. Tomorrow we want to buy a Fiberglass Rod and some bait for 1900gp to 2000gp as soon as we reach fishing level 2 with the Training Rod (16 to 32 fish at a total sell value of 500 gp to 1000 gp) or no later than 4:30 P.M. This will require starting out with about 1200 gp. Plan accordingly:
-  - If your money looks fine, eat all Spring Onions and save for the Spring Forage bundle if you want.
-  - Otherwise, plan to ship those. We will worry about the Community Center quest later on.
-  - Normally, we would save Leeks, Dandelions, Spring Onions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
+- Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds; earlier if you have more).
-- Ship everything except 
+- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water them before 2 AM and passing out.)
+- Head back to your house and ship everything except:
   - stone
   - wood
   - coal
   - 20 fiber
-  - [Field Snacks](https://stardewvalleywiki.com/Field_Snack)
-  - spring foragables you can afford to keep
+- Note that:
+  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later on, because we need as much money as possible for tomororw.
+  - Normally, we eat Leeks, Dandelions, and food from the garbage cans instead of selling them, since they have a low GPE. However, today as an exception to the rule, since we need money very badly.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.

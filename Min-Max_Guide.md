@@ -287,7 +287,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie at 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
-- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule. (For reference, you will have to go out of your way to meet Marnie if you leave Emily's house before 12:50 PM.)
+- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule. (For reference, it would be good to meet Marnie approaching Emily's door at 12:50 PM.)
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
@@ -312,11 +312,11 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Leah + Pierre inside of Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
-- Check the garbage can next to the Saloon.
-- Meet Gus and Emily in the Saloon. (You have to go behind the counter to talk to Gus.) 
-- If you left Emily and/or Penny until now, meet Emily after 4:00 in or outside the Saloon and Penny after 4:20 near the Saloon.
-- Check the garbage can next to George's house.
-- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes. If you are late, you killed more weeds in the Forest instead of on your farm.)
+-It should now be close to 4:00 PM and we can meet everybody else near the Saloon.
+  - At 4:00, Alex finishes his workout and leaves his room. We can check their garbage and meet George and Alex inside their house. (If you are fast, you might need to wait here for a few minutes. If you are slow, you probably killed more weeds in the Forest instead of later on your farm.)
+  - At 4:00, Emily arrives at the Saloon. We can check their garbage and meet Gus and Emily inside the Saloon. (You have to go behind the counter to talk to Gus.)
+  - At 4:20, Penny passes Lewis's fence and Alex leaves his house.
+  - At 4:40, Penny reaches the bench with Maru. We can meet them there if we haven't already met them.
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - Clear weeds (and chop trees only if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
@@ -329,7 +329,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
-- Count your money for tomorrow. Tomorrow we want to buy a Fiberglass Rod and some bait for 1900gp-2000gp as soon as we reach fishing level 2 with the Training Rod (16 to 32 fish at a total sell value of 500gp to 1000 gp) or no later than 4:30 P.M. This will require starting out with about 1200 gp. Plan accordingly:
+- Count your money for tomorrow. Tomorrow we want to buy a Fiberglass Rod and some bait for 1900gp to 2000gp as soon as we reach fishing level 2 with the Training Rod (16 to 32 fish at a total sell value of 500 gp to 1000 gp) or no later than 4:30 P.M. This will require starting out with about 1200 gp. Plan accordingly:
   - If your money looks fine, eat all Spring Onions and save for the Spring Forage bundle if you want.
   - Otherwise, plan to ship those. We will worry about the Community Center quest later on.
   - Normally, we would save Leeks, Dandelions, Spring Onions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
@@ -340,8 +340,8 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - wood
   - coal
   - 20 fiber
-  - [Field Snack](https://stardewvalleywiki.com/Field_Snack)
-  - spring foragable you can afford to keep
+  - [Field Snacks](https://stardewvalleywiki.com/Field_Snack)
+  - spring foragables you can afford to keep
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.

@@ -951,8 +951,8 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing.
 - The values for various fishing spots are located in my [fishing spreadsheet](https://docs.google.com/spreadsheets/d/1Zv0VCgFyJRlh1kVyvogYZviaqCexrDYhp7GNEQxozBM/edit).
 - Most importantly, in Spring:
-  - The best spot to fish in sunny weather is the mountain lake, which results in X average gold per hour.
-  - The best spot to fish in rainy weather is the forest river, which results in X average gold per hour.
+  - The best spot to fish in sunny weather is the mountain lake, which results in 661.79 average gold per hour.
+  - The best spot to fish in rainy weather is the forest river, which results in 842.94 average gold per hour.
 - The ratio between sunny lake and rainy river is 1 to 1.27.
 
 <br />

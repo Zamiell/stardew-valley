@@ -447,7 +447,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
 - As soon as you have 25 copper ore and 25 stone, return to the 0th floor, craft + place a [Furnace](https://stardewvalleywiki.com/Furnace), make a [Copper Bar](https://stardewvalleywiki.com/Copper_Bar). (Do not wait until you get to the next elevator unless you are really close.)
 - Keep the furnace going until you have 5 bars. For reference, you must have all 5 bars crafted by no later than 3 PM.
-- Once you get to floor 10, farm floor 10 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15 before 3 PM).
+- Once you get to floor 10, farm floor 11 over and over for copper ore while you wait for the remaining bars to smelt (because you likely will not have time to get to floor 15 before 3 PM).
 - As soon as you have the 5 bars ready:
   - Leave the sword + parsnips in the chest. (You will not return to this chest until Spring 11.)
   - Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
@@ -519,7 +519,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Go to the blacksmith:
   - Buy up to 25 gold ore (including what you have fished up).
   - Upgrade to the Steel Pickaxe (5,000g).
-- Fish at the mountain lake until 2 AM, then pass out.
+- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish. You should be able to smelt 2-3 bars, with one more in the furnace when you pass out. 
 - At the end of the day, you should get:
   - Fishing 8 --> 9
 
@@ -530,7 +530,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Out of your sellable items, ship however much will give you 12,000g.
   - This is for the Gold Pickaxe upgrade (10,000g) + the backpack upgrade (2,000g).
   - If you do not have enough, then you will need to return home before the end of the day and ship the fish you catch during the day to make up the difference.
-- Fish at the mountain lake until 2 AM, then pass out.
+- Fish at the mountain lake until 2 AM, then pass out. Smelt gold bars while you fish, until you have 5 total. Make sure you have these bars in your inventory when you pass out.
 - As this is the first day we have not increased a skill since the start of the game, make sure not to exhaust yourself. (We need to wake up with 50% energy instead of 0% energy.)
 
 ### Spring 9

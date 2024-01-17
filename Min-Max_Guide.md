@@ -275,16 +275,19 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 
 Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
 
-- Take the Parsnip Seeds.
+- Take the Parsnip Seeds
+- Set your UI Scale and Zoom Level to 75% 
 - Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
-  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
+  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
   - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
-  - Do not chop the stumps; only chop a tree until it falls, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  - Do not chop the stumps; only chop a tree until it falls limiting to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.) If you lose count, check your skills for foraging level 1 in the menu.
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
+- If you chose the four corners or mountain farm, take a screenshot and look at your quarry. Take note of whether there are any copper nodes, geodes and any worms. In particular, additional copper reduces RNG in the mines on day 5. If there is significant upside in terms of the quarry in terms of potential artifacts, ore and geode gems, take the time now to quickly mine these and hurry your time in the forest after. Then accordingly, later visit the museum and process geodes with Clint.
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
+  - Eat all of your spring onions now to free up the inventory space and restore your energy for later
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie by 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
@@ -329,7 +332,6 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
-- Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water all of the Mixed Seeds before 2 AM and passing out.)
 - Head back to your house and ship everything except:

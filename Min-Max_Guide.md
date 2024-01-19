@@ -275,32 +275,32 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 
 Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
 
-- Take the Parsnip Seeds
-- Set your UI Scale and Zoom Level to 75% 
-- Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
-  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2 and acorns are precious.)
+- Take the Parsnip Seeds.
+- Set your UI Scale and Zoom Level to 75%.
+- Immediately chop down nine trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
+  - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2, and acorns are precious.)
   - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
-  - Do not chop the stumps; only chop a tree until it falls limiting to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.) If you lose count, check your skills for foraging level 1 in the menu.
-  - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
+  - Do not chop the stumps; only chop a tree until it falls, limiting it to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.) If you lose count, check your skills for foraging level 1 in the menu.
+  - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This approach prevents in-game time from passing, but the tree-falling animation will still be complete. Additionally, the player will automatically collect all of the wood while the game is still paused. (You should use this strategy when chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
-- If you chose the four corners or mountain farm, take a screenshot and look at your quarry. Take note of whether there are any copper nodes, geodes and any worms. In particular, additional copper reduces RNG in the mines on day 5. If there is significant upside in terms of the quarry in terms of potential artifacts, ore and geode gems, take the time now to quickly mine these and hurry your time in the forest after. Then accordingly, later visit the museum and process geodes with Clint.
+- If you chose the four corners or mountain farm, take a screenshot and look at your quarry. Take note of whether there are any copper nodes, geodes, and worms. In particular, additional copper reduces RNG in the mines on day 5. If there is a significant upside in the quarry regarding potential artifacts, ore, and geode gems, take the time now to mine these quickly and hurry your time in the forest afterward. Then, accordingly, later visit the museum and process geodes with Clint.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
-  - Pick up all foragable items along the way.
+- Use a screenshot and Zoom to check the Cindersap Forest for forages to plan your route. 
+  - Pick up all forgeable items along the way.
   - Eat all of your spring onions now to free up the inventory space and restore your energy for later
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie by 12:50 PM).
+  - Kill as many weeds as possible, but do not go too far for just one weed (since you need to make it to Marnie by 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
-  - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
-  - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
+  - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking when they can drop an item, and it flies in the opposite direction. (This is similar to the strategy where pausing when a tree is falling down is optimal.)
+  - Checking garbage cans is a massive waste of time, so the route only does this on the first two days.
 - Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
-- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
+- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them in Spring 2.)
 - Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
-- If you got an artifact, donate it to the museum and claim the reward (250g).
+- Donate it to the museum and claim the reward (250g) if you have an artifact.
 - Check the garbage cans next to the museum + blacksmith.
 - Meet Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
 - Check the garbage can next to JojaMart.
@@ -311,44 +311,44 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
-- Meet Leah + Pierre inside of Pierre's General Store.
+- Meet Leah + Pierre inside Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
-  - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
-- It should now be close to 4:00 PM and we can meet everybody else near the Saloon:
+  - You will buy Spring Crops on Spring 5 or 6, so wait to buy from Pierre today.
+- It should now be close to 4:00 PM, and we can meet everybody else near the Saloon:
   - At 4:00 PM, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
   - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
-  - At 4:20 PM, Penny passes Lewis's fence and Alex leaves his house.
-  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we have not already met them.
-- Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
+  - At 4:20 PM, Penny passes Lewis's fence, and Alex leaves his house.
+  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we still need to meet them.
+- Go back to the farm. (Leave all forgeable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - Clear weeds on the farm until around 6:00 PM.
 - Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
-- Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
-- Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
+- Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you have already met her.)
+- Meet Sebastian as he leaves his house. (If you arrive before 7:00 PM, you must idle until he leaves his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
 - Go south to the community center.
 - Kill the weeds to the west of the community center.
 - Kill the weeds to the west of the fountain.
-- Go home. (Get any foragable items at the Bus Stop that you missed earlier.)
+- Go home. (Get any foragable items at the Bus Stop you missed earlier.)
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
-  - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
+  - Crows can eat one or more crops every day by planting additional crops beyond the 15 initial Parsnip Seeds. However, planting the Mixed Seeds makes this worth the extra value. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water all of the Mixed Seeds before 2 AM and passing out.)
+- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe, plant, and water all the Mixed Seeds before 2 AM and pass out.)
 - Head back to your house and ship everything except:
   - Stone
   - Wood
   - Coal
   - 20 Fiber
 - Note that:
-  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later on, because we need as much money as possible for tomororw.
-  - Normally, we eat Leeks, Dandelions, and food from the garbage cans instead of selling them, since they have a low GPE. However, today as an exception to the rule, since we need money very badly.
+  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later because we need as much money as possible tomorrow.
+  - Normally, we eat Leeks, Dandelions, and food from garbage cans instead of selling them since they have a low GPA. However, today is an exception since we need money badly.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
-  - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
-  - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for 2 days but this is very unlikely and doesn't change the route.
+  - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki), you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
+  - This adds a bit of time pressure to clearing the mine due to the lack of Minecarts you'd otherwise have for two days, but this is very unlikely and doesn't change the route.
 - Be inside your house a few minutes before 2:00 AM. (We do not want to incur the gold penalty.)
-- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time. Alternatively, you can just remove it from the house for now and stick it in a chest for safe-keeping.)
-- Move the TV next to the door (so that you can immediately check it upon waking up).
+- Destroy the bed. (This is to force you to spawn immediately next to the door at the beginning of every day, which saves time. Alternatively, you can remove it from the house and stick it in a chest for safe-keeping.)
+- Move the TV next to the door (so you can immediately check it upon waking up).
 - At the end of the day, you should get:
   - Foraging 0 --> 1
 

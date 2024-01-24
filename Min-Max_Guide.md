@@ -297,7 +297,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Checking garbage cans is a massive waste of time, so the route only does this on the first two days.
 - Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
-- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them in Spring 2.)
+- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them on Spring 2.)
 - Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
@@ -341,7 +341,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - 20 Fiber
 - Note that:
   - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later because we need as much money as possible tomorrow.
-  - Normally, we eat Leeks, Dandelions, and food from garbage cans instead of selling them since they have a low GPA. However, today is an exception since we need money badly.
+  - Normally, we eat Leeks, Dandelions, and food from garbage cans instead of selling them since they have a low GPE. However, today is an exception since we need money badly.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki), you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.

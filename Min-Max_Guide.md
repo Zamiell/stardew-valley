@@ -279,10 +279,10 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Take the Parsnip Seeds.
 - Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
   - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2, and acorns are precious.)
-- For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
+  - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
   - Do not chop the stumps; only chop a tree until it falls, limiting to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
-- If you lose tree count, check the skills tab for a foraging level increase. This will also be useful tomorrow while fishing.
+  - If you lose tree count, check the skills tab for a foraging level increase. This will also be useful tomorrow while fishing.
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and zoom to check the Cindersap Forest for forages to plan your route. 

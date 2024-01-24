@@ -371,7 +371,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   - The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
-- With the Training Rod, use minimum casts. Fish until you have enough fish to sell to get up to 1,800g.
+- With the Training Rod, use minimum casts directly south outside Willy's door. Fish until you have enough fish to sell to get up to 1,800g.
   - Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   - Also see [General Fishing Strategy](#general-fishing-strategy).
 - If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).

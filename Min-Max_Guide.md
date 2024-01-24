@@ -319,7 +319,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
   - At 4:20 PM, Penny passes Lewis's fence, and Alex leaves his house.
   - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we still need to meet them.
-  - Check your quest journal to confirm that you register meeting 24 people of the maximum 27 at the end of the day.
+  - Check your quest journal to confirm that you register meeting 24 people of the maximum 27 for today.
 - Go back to the farm. (Leave all forgeable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
 - Clear weeds on the farm until around 6:00 PM.

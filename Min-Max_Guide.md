@@ -275,17 +275,17 @@ An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus 
 
 Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
 
+- Adjust UI Scale for pause visibility and Zoom Level for map visibility via the in-game options or see the discussion around zoom in the [appendix](#appendix-a-recommended-restrictions).
 - Take the Parsnip Seeds.
-- Set your UI Scale and Zoom Level to 75%.
-- Immediately chop down nine trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
+- Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
   - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2, and acorns are precious.)
-  - For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
-  - Do not chop the stumps; only chop a tree until it falls, limiting it to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.) If you lose count, check your skills for foraging level 1 in the menu.
-  - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This approach prevents in-game time from passing, but the tree-falling animation will still be complete. Additionally, the player will automatically collect all of the wood while the game is still paused. (You should use this strategy when chopping trees and not bothering to kill the stumps.)
+- For the same reason, do not axe/hoe any seeds in the ground until Spring 2, or they will be destroyed.
+  - Do not chop the stumps; only chop a tree until it falls, limiting to 10 strikes, then move on to the next one. (It yields more wood and more foraging XP to do it this way.)
+  - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
+- If you lose tree count, check the skills tab for a foraging level increase. This will also be useful tomorrow while fishing.
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
-- If you chose the four corners or mountain farm, take a screenshot and look at your quarry. Take note of whether there are any copper nodes, geodes, and worms. In particular, additional copper reduces RNG in the mines on day 5. If there is a significant upside in the quarry regarding potential artifacts, ore, and geode gems, take the time now to mine these quickly and hurry your time in the forest afterward. Then, accordingly, later visit the museum and process geodes with Clint.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Use a screenshot and Zoom to check the Cindersap Forest for forages to plan your route. 
+- Use a screenshot and zoom to check the Cindersap Forest for forages to plan your route. 
   - Pick up all forgeable items along the way.
   - Eat all of your spring onions now to free up the inventory space and restore your energy for later
   - Kill as many weeds as possible, but do not go too far for just one weed (since you need to make it to Marnie by 12:50 PM).
@@ -300,7 +300,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them in Spring 2.)
 - Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
-- Donate it to the museum and claim the reward (250g) if you have an artifact.
+- If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
 - Meet Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
 - Check the garbage can next to JojaMart.

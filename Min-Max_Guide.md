@@ -333,7 +333,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Hoe + plant + water Parsnip Seeds + Mixed Seeds.
   - Crows can eat one or more crops every day by planting additional crops beyond the 15 initial Parsnip Seeds. However, planting the Mixed Seeds makes this worth the extra value. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe, plant, and water all the Mixed Seeds before 2 AM and pass out.)
+- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe, plant, and water all the Mixed Seeds before 2 AM.)
 - Head back to your house and ship everything except:
   - Stone
   - Wood

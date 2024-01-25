@@ -286,7 +286,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all forgeable items along the way.
-  - Eat all of your spring onions now to free up the inventory space and restore your energy for later.
+  - If it would not waste the energy gain, you can immediately eat the Spring Onions upon pickup to free up the inventory space.
   - Kill as many weeds as possible, but do not go too far for just one weed (since you need to make it to Marnie by 12:50 PM).
 - Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
 - Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.

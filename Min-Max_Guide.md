@@ -246,8 +246,8 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 ### Other Notes
 
 - If your character's gender does not matter to you, then it is optimal to choose a female, as they get 500g in the mail instead of a [Cookie](https://stardewvalleywiki.com/Cookie).
-- Always set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
-  - It is also possible to edit the zoom value directly inside the save file in order to zoom out farther than 75%. Or, you can use [a mod](#appendix-b-mods) to accomplish the same thing. Doing this is [not considered cheating](#appendix-a-recommended-restrictions).
+- If you are playing without mods, set the game options to zoom out as far as possible (e.g. 75%). This makes you waste less time while foraging & mining.
+  - However, it is recommended to play with the [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363) mod so that you do not have to deal with this vanilla restriction. Counterintuitively, doing this is [not considered cheating](#appendix-a-recommended-restrictions).
 - For reference, it is possible to get up to 22 Spring Onions on Spring 1. (It is not required to get any Spring Onions on Spring 1, but it certainly helps.)
 - Save all [Acorns](https://stardewvalleywiki.com/Acorn) for summer. (We will use them to make an [Oak Tree](https://stardewvalleywiki.com/Oak_Tree) forest.)
 - Do not read any of your mail unless explicitly told to by the guide.
@@ -272,10 +272,9 @@ For certain challenge runs, you might want to gain access to Ginger Island befor
 The plan for the day is to meet everybody in the town and save money for tomorrow so that we can buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) for 1,800g as soon as possible. (We want to meet everybody so that we can complete the "Introductions" quest in order to unlock the "How to Win Friends" for an extra 100g on Spring 2.)
 
 An alternate strategy for Spring 1 would be to ignore all of the NPCs and focus on killing every weed on the map + every weed on the farm, which has the advantage of getting a few more mixed seeds planted on the first day. However, in the "meet everybody" route, you still kill plenty of weeds, making the overall number of mixed seeds very similar. Thus, the marginal number of mixed seeds gathered in the alternate route is not worth more than the early 100g.
+ 
+Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset (since it is unintended by the developer).
 
-Another alternative is to exploit RNG to farm clay, but this is illegal in our ruleset.
-
-- Adjust UI Scale for pause visibility and Zoom Level for map visibility via the in-game options or see the discussion around zoom in the [appendix](#appendix-a-recommended-restrictions).
 - Take the Parsnip Seeds.
 - Immediately chop down 9 trees until foraging level 1 (8 1/3 trees needed). We want to get level 1 before we leave to go foraging so that we have a chance to get silver-quality Spring Onions. (Focus on **only** chopping down trees, and begin in the direction of your path to the forest so that some of the weeds you clear are helpful for that.)
   - Only chop down [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree), not the egg-shaped [Oak Trees](https://stardewvalleywiki.com/Oak_Tree). (We won't get any [Acorns](https://stardewvalleywiki.com/Acorn) for felling an Oak Tree until Spring 2, and acorns are precious.)

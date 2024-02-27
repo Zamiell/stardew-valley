@@ -444,6 +444,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Retrieve the pickaxe + gems + stone + coal + copper + all but 3 parsnips from the chest.
   - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
   - We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
+  - You may leave one coal behind to craft a Scarecrow tomorrow.
 - Go to the mines.
 - Place the chest to the left of the elevator.
 - Make your way to floor 10. (See [General Mines Strategy](#general-mines-strategy).)
@@ -453,6 +454,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - As soon as you have the 5 bars ready:
   - Leave the sword + parsnips in the chest. (You will not return to this chest until Spring 11.)
   - Retrieve the furnace + any gems + miscellaneous. Make sure you leave 4 slots open in your inventory.
+  - If you did not leave a coal behind on the farm, take one with you to craft a Scarecrow tomorrow.
   - Go to the blacksmith.
 - As an extra tip, if you are running late and do not have time for the 5th bar to smelt, then you can still get to the blacksmith by 4 PM, place the furnace inside in blacksmith, smelt the 5th bar, and wait 30 minutes. As long as you are inside the building, Clint will continue to sell to you until 7:10 PM. (Even when Clint moves away from the counter and goes to the anvil, you are still able to interact with the counter. However, this is considered a bug, so if you want to avoid cheating, you would have to purchase what you need from Clint before he actually moves away from the counter.)
 - If you fail to craft the bars in time or fail to reach the blacksmith before he closes, then fish for the remainder of the day. For the rest of the route, push everything back one day. (This is not as bad of a mistake as you would think, since you will need to do a lot of fishing for extra money anyway.)

@@ -935,7 +935,11 @@ This fixes the bug where the game removes your faced direction after performing 
 
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 
-This prevents the game from rounding the time to the nearest 10 minutes. It is hard to believe that this simple feature is not in the vanilla game.
+This prevents the game from rounding the time to the nearest 10 minutes. (It is hard to believe that this simple feature is not in the vanilla game!)
+
+#### [Shipping Bin Summary](https://www.nexusmods.com/stardewvalley/mods/18992)
+
+This allows you to put things and take them out of the shipping bin like it was a chest. Importantly, it also shows a running tally of the amount of gold you will recieve the next day. This is extremely useful because at several points in a min-max run, you will have to ship exactly a certain amount of gold, and this mod obviates the need for writing everything down with pencil and paper. Presumably, the vanilla shipping bin does not function like this because it would allow for additional unlimited temporary storage. Thus, in order to prevent cheating, you should never temporarily store items in the shipping bin with this mod.
 
 #### [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 

@@ -592,7 +592,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 ### Spring 13
 
 - Mine until 2 AM, then pass out.
-- (There is nothing that we need from the Egg Festival, so going there would be a waste of time. One exception would be if you are doing a challenge to ship every item by the end of year 1; in that case you would need one or two [Strawberry Seeds](https://stardewvalleywiki.com/Strawberry_Seeds).)
+- (There is nothing that we need from the [Egg Festival](https://stardewvalleywiki.com/Egg_Festival), so going there would be a waste of time. One exception would be if you are doing a challenge to ship every item by the end of year 1; in that case you would need one or two [Strawberry Seeds](https://stardewvalleywiki.com/Strawberry_Seeds).)
 
 ### Spring 14
 

@@ -3,7 +3,7 @@
 - This is a "min-max" guide for a Stardew Valley run created by [BlackSight6](https://old.reddit.com/user/BlackSight6) & [Zamiel](https://www.twitch.tv/Zamiell).
 - This route / strategy is designed for experienced Stardew players; knowledge of many game mechanics is assumed. While the guide is fairly in-depth, obvious things will not be explained.
 - We assume some reasonable [restrictions/rules](#appendix-a-recommended-restrictions), which makes this different from other min-max guides out there (or min-max streamers like [TheHaboo](https://www.twitch.tv/thehaboo)).
-- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.6](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, explosive ammo is nerfed, the mushroom floor is nerfed, and so forth.)
+- Many guides out there are designed for older versions of the game. This guide is designed for [version 1.5.6](https://stardewvalleywiki.com/Version_History). (In this version, you have access to Ginger Island, [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) is nerfed, the mushroom floor is nerfed, and so forth.)
 
 <br />
 
@@ -176,41 +176,59 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### General Skull Caverns Strategy
 
+#### Initial Visit & Trading
+
 - When you first go to the desert, you will need to use the bus. Pam exits her house at 8:40 AM. Stand in front of her door to block her and it will force her into a state where she will start running. Do the same trick again once Pam enters the Bus Stop screen. Combined, this makes Pam get to the bus at 9:36 AM instead of at 10:09 AM (saving 33 minutes).
-- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase) (only on Sunday).
+- Trade all [Jade](https://stardewvalleywiki.com/Jade) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Staircases](https://stardewvalleywiki.com/Staircase) (only on Sunday). (See the next section for more information on jade.)
 - Trade all [Emeralds](https://stardewvalleywiki.com/Emerald) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Cheese](https://stardewvalleywiki.com/Cheese) (only on Friday). Cheese is almost the exact same GPE as Salad, but it is helpful to have because going out of your way to the Saloon can be a huge waste of time.
 - Trade all [Rubies](https://stardewvalleywiki.com/Ruby) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Spicy Eels](https://stardewvalleywiki.com/Spicy_Eel). Use one immediately for the speed boost and keep it going for the whole day.
-- Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day. (If you run out of coffee, then you should be using purchased [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) instead.)
+- Trade all [Diamonds](https://stardewvalleywiki.com/Diamond) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Triple Shot Espressos](https://stardewvalleywiki.com/Triple_Shot_Espresso). Use one immediately for the speed boost and keep it going for the whole day. (If you run out of coffee, then you should be using purchased [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) instead. See the next section for more information on diamonds.)
 - Trade all [Omni Geodes](https://stardewvalleywiki.com/Omni_Geode) to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) for [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert), at least initially. Use these to get to the desert on subsequent days. If you have 5-10 totems or more, then you can start to save the geodes for minerals.
+
+#### General Tips
+
 - In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
-- It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs](https://stardewvalleywiki.com/Bomb). (You get 5 explosive ammo per 5 iron ore and 2 coal versus 1 Bomb per 4 iron ore and 1 coal.) You should craft a lot of explosive ammo, but do not go overboard, as you need to build up some ore for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
-- You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
+- The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
+- On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
+- The goal for the day should be to the deep floors as soon as possible, because deep floors will have tons of iridium nodes that you can efficiently break all at once with bombs. Thus, this means that you should ignore almost everything and take a ladder/shaft as soon as you see it. (Don't sidetrack for ore or anything else!)
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
+- For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
+
+#### Managing Explosions
+
+- Using a pickaxe to kill every single rock is too slow - we would not be able to make it to the deep floors with lots of Iridium nodes, which means the whole day would be a waste of time due to only getting a tiny bit of income. Thus, even though it wastes money and precious resources to use explosions, we need to spend money to make money. But this is a delicate balance!
+- On your first Skull Caverns runs, the idea will be to use the pickaxe for most things and to only use bombs for big clumps of rocks. As you get richer, you will transition to more liberal use of bombs. In the "end game", you will be buying a tremendous amount of coal from Clint and crafting [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo). (It is more efficient to craft [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) rather than [Bombs](https://stardewvalleywiki.com/Bomb), since you get 5 explosive ammo per 5 iron ore + 2 coal versus 1 bomb per 4 iron ore + 1 coal.)
+- But at the beginning, which kinds of bombs should be used?
+  - [Cherry Bomb](https://stardewvalleywiki.com/Cherry_Bomb) - Crafted with [Copper Ore](https://stardewvalleywiki.com/Copper_Ore). However, we need copper ore for crafting lots of [Furnaces](https://stardewvalleywiki.com/Furnace).
+  - [Bomb](https://stardewvalleywiki.com/Bomb) / [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) - Crafted with [Iron Ore](https://stardewvalleywiki.com/Iron_Ore). However, we need iron ore for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler).
+  - [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) - Crafted with [Gold Ore](https://stardewvalleywiki.com/Iron_Ore) / [Void Essence](https://stardewvalleywiki.com/Void_Essence) / [Solar Essence](https://stardewvalleywiki.com/Solar_Essence). However, we need the gold ore for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler). Additionally, we will need 100 Void Essence and Solar Essence to craft two Iridium Bands.
+- Given all this, early on it is best to use a mix of Cherry Bombs and Bombs (sparingly) until you build up 100 Solar Essence, and then you can switch to using your extra Solar Essence on Mega Bombs. (Make sure to kill clumps of 4 or more [Mummies](https://stardewvalleywiki.com/Mummy) in order to build up extra Solar Essence!) Mega Bombs have the excellent advantage that they do not take any coal to craft.
+
+#### Other
+
+- You will be tempted to get an [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) as soon as possible, but you should hold off until summer. This is because you will be fishing on the day that Clint works on the pickaxe, and fishing in summer is much more profitable than fishing in spring.
 - When you start doing the Skull Cavern, you will only have the first backpack upgrade. You will want to buy the 2nd backpack upgrade (10,000g) as soon as possible. (On average, you should be able to afford it after the first two Skull Cavern runs.)
 - After using your first [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) on the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword), the remaining Prismatic Shards should be turned in to the [Desert Trader](https://stardewvalleywiki.com/Desert_Trader) on Thursdays for [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy).
   - This is worth it because overall, the extra +4 luck should help you get more than 6,000g in Iridium Ore.
   - The worse the daily luck is, the more beneficial Magic Rock Candy is. On the worst possible luck (skull) days, you probably don't want to go to the Skull Cavern at all and instead take care of other miscellaneous tasks. Thus, it is optimal to save and use the Magic Rock Candies on slightly unlucky days (e.g. bat on the TV).
   - It is optimal to use Magic Rock Candies immediately (on floor 1) as opposed to saving them for deeper floors. This is because you want to get out of the early floors as fast as possible.
-- The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
-- On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
 - Use a staircase when:
   - You get the long spiral floor. (This is the worst floor.)
   - You get the long vertical floor. (This is the 2nd worst floor.)
   - You hit a big dead end with no rocks left to kill in the immediate area.
 - Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bomb-able.
-- If you are lucky enough to get a [Lucky Ring](https://stardewvalleywiki.com/Lucky_Ring) to drop, then you will want to use that (instead of e.g. two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band)).
-- For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
+- If you are lucky enough to get a [Lucky Ring](https://stardewvalleywiki.com/Lucky_Ring) to drop, then you will want to use that instead of two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band). (In fact, because the Lucky Ring is so good, you should kill any nearby crates in order to try to get one.)
 
 ### Diamond & Jade Farming (for Skull Cavern)
 
-- Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Coffee](https://stardewvalleywiki.com/Coffee) / 
-[Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) buff activated.
-- In Summer, you can use extra money to buy [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) from either [JojaMart](https://stardewvalleywiki.com/JojaMart) (during the day) or the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) (at night). However, early on, you won't have any extra money, so you will need to rely on trading Diamonds to the Desert Trader.
-- For this reason, it is helpful to put Diamonds into the first 1-2 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
+- Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) or the [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) buff activated.
+- Triple Shot Espresso comes from trading diamonds to the Desert Trader. All of your diamonds should be going towards this purpose. During your first week or two of Skull Cavern runs, you will not have enough diamonds to keep Triple Shot Espresso going constantly. Thus, you should route in buying some [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) from either [JojaMart](https://stardewvalleywiki.com/JojaMart) (during the day) or the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) (at night).
+  - However, money is also extremely tight during your first two weeks of Skull Cavern runs, so you could also forgo using Joja Cola until you have your first summer Starfruit crop planted.
+- Due to the speed buff being so useful, diamonds should be put into the first 1-3 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
 - Ultimately though, in order to optimize Skull Cavern farming, you need a ton of Jade, so Jade should be put in any subsequent Crystalariums.
 - [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft more Crystalariums.
 - Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit, getting tool upgrades, and buying buildings from Robin. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
-- In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm. (But on some runs, you may not have the foraging experience to be able to craft Lightning Rods, which is not a big deal.)
+- In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm. (On some runs, you may not have the foraging experience to be able to craft Lightning Rods before the first storm comes, which is not a big deal.)
 
 ### Weather Modifications
 

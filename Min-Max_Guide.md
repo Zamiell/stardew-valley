@@ -217,7 +217,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - You get the long vertical floor. (This is the 2nd worst floor.)
   - You hit a big dead end with no rocks left to kill in the immediate area.
 - Once you have built up a lot of staircases, you can start to be more liberal with your staircase usage and staircase past any floor that does not have any big open spaces that are easily bomb-able.
-- If you are lucky enough to get a [Lucky Ring](https://stardewvalleywiki.com/Lucky_Ring) to drop, then you will want to use that instead of two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band). (In fact, because the Lucky Ring is so good, you should kill any nearby crates in order to try to get one.)
+- You should kill nearby crates until you get 2x [Lucky Rings](https://stardewvalleywiki.com/Lucky_Ring). Most of the time, you should be wearing your Lucky Rings, but you should also keep your two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band) in your inventory and swap them out after an explosion. (When the game is paused, you can equip both Iridium Bands, wait for the magnetism to pull all of the items into your inventory, and then equip the Lucky Rings again, all without wasting any in-game time.)
 
 ### Diamond & Jade Farming (for Skull Cavern)
 

@@ -224,11 +224,12 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) or the [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) buff activated.
 - Triple Shot Espresso comes from trading diamonds to the Desert Trader. All of your diamonds should be going towards this purpose. During your first week or two of Skull Cavern runs, you will not have enough diamonds to keep Triple Shot Espresso going constantly. Thus, you should route in buying some [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) from either [JojaMart](https://stardewvalleywiki.com/JojaMart) (during the day) or the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) (at night).
   - However, money is also extremely tight during your first two weeks of Skull Cavern runs, so you could also forgo using Joja Cola until you have your first summer Starfruit crop planted.
-- Due to the speed buff being so useful, diamonds should be put into the first 1-3 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
+- Due to the speed buff being so useful, diamonds should be put into the first 5-10 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
 - Ultimately though, in order to optimize Skull Cavern farming, you need a ton of Jade, so Jade should be put in any subsequent Crystalariums.
 - [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft more Crystalariums.
 - Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit, getting tool upgrades, and buying buildings from Robin. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
 - In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm. (On some runs, you may not have the foraging experience to be able to craft Lightning Rods before the first storm comes, which is not a big deal.)
+- If you have any [Rain Totems](https://stardewvalleywiki.com/Rain_Totem) from Skull Cavern treasure chests, then you should use those on storm days in order to force the next day to also be a storm day. This way, you can farm batteries from your lightning rods much quicker.
 
 ### Weather Modifications
 

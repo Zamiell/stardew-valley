@@ -800,7 +800,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 ### Summer 25
 
 - Buy additional [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) from the [Oasis](https://stardewvalleywiki.com/Oasis).
-- Sometime between now and Summer 28, hoe and place all the quality sprinklers and additional Deluxe Speed-Gro. The wheat will not be ready on Fall 2 if the soil is not watered on the Summer 28.
+- Sometime between now and Summer 28, hoe and place all the quality sprinklers and additional Deluxe Speed-Gro. The wheat will not be ready on Fall 2 if the soil is not watered on Summer 28.
 
 ### Summer 26
 
@@ -814,7 +814,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 
 - Harvest the Starfruit.
 - At 9 AM, go to Pierre's and buy enough [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) to cover your whole farm.
-- Plant the Wheat Seeds.
+- Plant the Wheat Seeds (as a linger crop, which keeps the Deluxe Speed Gro).
 
 ### Fall 1
 

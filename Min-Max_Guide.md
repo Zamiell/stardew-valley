@@ -726,7 +726,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Check the Queen of Sauce for the [Omelet](https://stardewvalleywiki.com/Omelet) recipe.
 - Ship as many items as possible. (We want as much gold for tomorrow as possible.)
 - Craft + place Quality Sprinklers.
-- Plant Parsnip Seeds (as a "linger" crop) if you haven't already done so earlier on in the season.
+- Plant Parsnip Seeds (as a linger crop) if you haven't already done so earlier on in the season.
   - Do not use Deluxe Speed-Gro on the Parsnip Seeds, as it will not carry over to Summer 1.
 - If you finish before around noon, then you can spend the rest of the day in the Skull Cavern.
 
@@ -1067,7 +1067,7 @@ For the Nautilus Shell:
 - The friendship from a liked gift would be fully depleted on Spring 10 of year 3.
 - Pierre's store opens at 9 AM.
 - In this route, it is inconvenient to give Pierre a gift, since you have to wait until for the store to open, and you are typically warping to the Skull Cavern at 6 AM.
-- Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjunction with buying Parsnip Seeds (as a "linger" crop).
+- Even if you care about friendship with Pierre, it is probably not worth it to waste 3 potential hours at the Skull Cavern. If you are doing a "farm prep" day on the 26th (clearing debris, etc.) instead of going to the Skull Cavern, then you might want to give him a present in conjunction with buying Parsnip Seeds (as a linger crop).
 
 #### Emily - Spring 27
 

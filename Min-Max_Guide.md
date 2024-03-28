@@ -955,6 +955,10 @@ By default, this mod speeds up a lot of different animations, so it must be cust
 
 This changes the color of unfilled [Preserves Jar](https://stardewvalleywiki.com/Preserves_Jar) and [Kegs](https://stardewvalleywiki.com/Keg) to be red. This is helpful because when you are filling massive amounts of jars or kegs, it is common to accidentally miss one. This allows you to easily see missed jars/kegs. (Otherwise, you would have to pause the game and squint to examine if all of the jars/kegs on the screen have a pulsating animation.)
 
+#### [Morning Auto-Pause](https://www.nexusmods.com/stardewvalley/mods/21266/)
+
+This automatically pauses the game at the beginning of the day. This is useful since the game can lag when first loading the day, wasting precious in-game seconds.
+
 #### [No Defend With Sword](https://github.com/DiscipleOfEris/NoDefendWithSword)
 
 This prevents the usage of defending with a sword. This is helpful because accidental usage of defend is a common mistake.

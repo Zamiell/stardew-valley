@@ -935,6 +935,10 @@ This automatically clicks on the "Organize Chest" button whenever a new item is 
 
 This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negligible.
 
+#### [Eat & Drink From Inventory](https://www.nexusmods.com/stardewvalley/mods/21280)
+
+This allows food and drink items to be consumed from the pause screen by pressing a hotkey. This is a quality of life feature to prevent having to accept the eating dialog confirmation box over and over. 
+
 #### [Energy Count](https://www.nexusmods.com/stardewvalley/mods/4272)
 
 This always shows the numerical energy count on screen so that you don't have to constantly pause the game and mouse over the energy bar in order to see it. It also shows an accurate count when the energy drops into negative values, which is helpful.
@@ -962,10 +966,6 @@ This automatically pauses the game at the beginning of the day. This is useful s
 #### [No Defend With Sword](https://github.com/DiscipleOfEris/NoDefendWithSword)
 
 This prevents the usage of defending with a sword. This is helpful because accidental usage of defend is a common mistake.
-
-#### [Remember Faced Direction](https://www.nexusmods.com/stardewvalley/mods/6946)
-
-This fixes the bug where the game removes your faced direction after performing an action (like eating).
 
 #### [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518)
 

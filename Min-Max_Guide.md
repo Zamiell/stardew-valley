@@ -94,15 +94,15 @@ The general goal of this route is to maximize the total amount of money gained b
 
 In that vein, the route is very detailed in spring, but starts to get less detailed in summer (while still listing some high-level objectives). From summer onwards, fill the rest of your time by accomplishing whatever objectives are the most important for your particular run.
 
-In order to maximize money, this route completely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the Skull Caverns). All of that stuff can wait until much later on in the run when you have a huge economy going.
+In order to maximize money, this route completely ignores friendship with NPCs, filling the museum, and completing the community center (outside of what is explicitly required to open the [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern)). All of that stuff can wait until much later on in the run when you have a huge economy going.
 
 ### Route Overview
 
 - This route starts off by doing a ton of fishing.
 - We upgrade the pickaxe to gold as soon as possible.
-- Then we unlock the [Skull Caverns](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
-- Once the Skull Caverns are opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
-  - Routes that involve fishing + Skull Caverns are leaps and bounds more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
+- Then we unlock the [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible.
+- Once the Skull Cavern is opened, you craft and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) to make a lot of money.
+  - Routes that involve fishing + Skull Cavern are much more profitable than the typical naive strategy of planting massive amounts of [Strawberries](https://stardewvalleywiki.com/Strawberry) or other crops.
 - With the revenue from the Iridium Bars, we buy a lot of [Starfruit](https://stardewvalleywiki.com/Starfruit) + [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro), with the goal to get three Starfruit harvests during summer (and with all of the crops being automatically watered by [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)).
 
 ### Rules
@@ -174,7 +174,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - The best way to farm gold ore is by doing floor 81 over and over.
 - When you get to floor 100, don't immediately take the Stardrop. Save it for when you are completely out of energy. (It restores all of your energy in addition to increasing the maximum amount of energy.)
 
-### General Skull Caverns Strategy
+### General Skull Cavern Strategy
 
 #### Initial Visit & Trading
 
@@ -202,7 +202,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - [Cherry Bomb](https://stardewvalleywiki.com/Cherry_Bomb) - Crafted with [Copper Ore](https://stardewvalleywiki.com/Copper_Ore). However, we need copper ore early on for crafting lots of [Furnaces](https://stardewvalleywiki.com/Furnace). Later on, we also need lots of copper ore for crafting lots of [Kegs](https://stardewvalleywiki.com/Keg).
   - [Bomb](https://stardewvalleywiki.com/Bomb) / [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) - Crafted with [Iron Ore](https://stardewvalleywiki.com/Iron_Ore). However, we need iron ore early on for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler). Later on, we also need lots of iron ore for crafting lots of [Kegs](https://stardewvalleywiki.com/Keg).
   - [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) - Crafted with [Gold Ore](https://stardewvalleywiki.com/Iron_Ore) / [Void Essence](https://stardewvalleywiki.com/Void_Essence) / [Solar Essence](https://stardewvalleywiki.com/Solar_Essence). However, we need the gold ore for crafting lots of [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler) and [Crystalariums](https://stardewvalleywiki.com/Crystalarium). Additionally, you might want to build up to 100 Void Essence and Solar Essence to craft two [Iridium Bands](https://stardewvalleywiki.com/Iridium_Band).
-- On your first Skull Caverns runs, the idea will be to use the pickaxe for most things and to only use bombs for big clumps of rocks. Once you get mining level 10 and start to sell Iridium Bars, you will transition to more liberal use of bombs.
+- On your first couple Skull Cavern runs, the idea will be to use the pickaxe for most things and to only use bombs for big clumps of rocks. Once you get mining level 10 and start to sell Iridium Bars, you will transition to more liberal use of bombs.
 - Mega Bombs are nice early on in that you can save on precious coal. While Mega Bombs should be generally preferred, you should still use the other options, depending on the explosive size needed. This helps balance your ore expenditure.
 - Explosive Ammo is more efficient to craft than Bombs (since you get 5 explosive ammo per 5 iron ore + 2 coal versus 1 bomb per 4 iron ore + 1 coal). You want to transition to using Explosive Ammo fairly quickly, with the strategy on killing iridium nodes that are close to walls. It is worth it to spend 1 Explosive Ammo for 1 iridium node (since you save 4+ pickaxe swings).
 - Between spending coal directly on explosives and using coal to craft bars, you will quickly run out of coal. The profits from Iridium Bars should be spent on more coal as needed.
@@ -227,7 +227,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Diamond & Jade Farming (for Skull Cavern)
 
-- Moving as quickly as possible in the Skull Caverns is essential, so you need to always have the [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) or the [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) buff activated.
+- Moving as quickly as possible in the Skull Cavern is essential, so you need to always have the [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso) or the [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) buff activated.
 - Triple Shot Espresso comes from trading diamonds to the Desert Trader. All of your diamonds should be going towards this purpose. During your first week or two of Skull Cavern runs, you will not have enough diamonds to keep Triple Shot Espresso going constantly. Thus, you should route in buying some [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) from either [JojaMart](https://stardewvalleywiki.com/JojaMart) (during the day) or the [Saloon](https://stardewvalleywiki.com/The_Stardrop_Saloon) (at night).
   - However, money is also extremely tight during your first two weeks of Skull Cavern runs, so you could also forgo using Joja Cola until you have your first summer Starfruit crop planted.
 - Due to the speed buff being so useful, diamonds should be put into the first 5-10 [Crystalariums](https://stardewvalleywiki.com/Crystalarium) that you get.
@@ -467,7 +467,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Craft a chest and take it with you. 
 - Make a note of how many iron ore and gold ore you have, if any. (They randomly drop from fishing chests.)
 - Retrieve the pickaxe + gems + stone + coal + copper + all but 3 parsnips from the chest.
-  - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Caverns.
+  - Leave Jade, Emeralds, Rubies, and Diamonds though since we want to save those for the Skull Cavern.
   - We need 1 parsnip for the bundle, 1 parsnip to ship (optional), and 1 parsnip for Pam (optional).
   - You may leave one coal behind to craft a Scarecrow tomorrow.
 - Go to the mines.
@@ -927,6 +927,10 @@ This mod is a compilation of several different features:
 
 (UI Info Suite is the most important mod that we recommend. The mods below here are listed in alphabetical order.)
 
+#### [Always Organize Chests](https://www.nexusmods.com/stardewvalley/mods/21207)
+
+This automatically clicks on the "Organize Chest" button whenever a new item is put into a chest. This is a quality of life feature for those of us who compulsively click on the button manually all the time.
+
 #### [Always Scroll Map](https://www.nexusmods.com/stardewvalley/mods/2733)
 
 This allows the screen to be centered on the player. It can be toggled on and off by pressing ";" and the default behavior is customizable. This is helpful for restocking massive amounts of jars/kegs in a Shed, for example, because when the screen is centered, you need to do a lot less mouse movements. This is not considered cheating because the "skill" difference between moving the mouse a little more while restocking a shed or planting crops is negligible.
@@ -974,6 +978,10 @@ This removes the intro cutscene (e.g. the cutscene that appears before you get t
 #### [Sleepless Fisherman](https://www.nexusmods.com/stardewvalley/mods/5915)
 
 This disables the "ZZZ" animation that plays at 12 AM and 1 PM when you happen to be fishing. This is helpful since it can be confused with a bite animation, causing you to waste precious energy.
+
+#### [Swap Rings](https://www.nexusmods.com/stardewvalley/mods/21205)
+
+This swap rings upon pressing a hotkey. This is extremely useful in a min-max run, because you will be constantly swapping out [Lucky Rings](https://stardewvalleywiki.com/Lucky_Ring) and magnatism rings in the Skull Cavern.
 
 #### [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363)
 
@@ -1083,14 +1091,14 @@ For the Nautilus Shell:
 #### Jas - Summer 4
 
 - Jas loves [Fairy Rose](https://stardewvalleywiki.com/Fairy_Rose), [Pink Cake](https://stardewvalleywiki.com/Pink_Cake), and [Plum Pudding](https://stardewvalleywiki.com/Plum_Pudding).
-- If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Caverns.
+- If your player is male, then you will have gotten a Fairy Cake in the mail, so this is the perfect gift. Otherwise, you can give a [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from the Skull Cavern.
 - Jas leaves her bedroom at 11:05 AM.
 - In this route, it is inconvenient to give Jas gift, since you have to wait for her to come out, and you are typically warping to the Skull Cavern at 6 AM.
 - Even if you care about friendship with Jas, it is probably not worth it to waste 5 potential hours at the Skull Cavern. If you are doing a non-Skull Cavern day, then you might want to give her a present in conjunction with upgrading the pickaxe.
 
 #### Birthdays in Summer and Beyond
 
-- In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Caverns runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
+- In summer, you are on less of a time crunch than in spring. With that said, most of your days are going to be filled with Skull Cavern runs, so you might only want to give a gift if you have some other task to do during the day (e.g. farm prep, buying a building from Robin, etc.).
 
 <br />
 

@@ -190,6 +190,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - In general, ignore all enemies and focus on breaking rocks. (This is the same general strategy as the mines.) It is hard to avoid [Serpents](https://stardewvalleywiki.com/Serpent) though, so you will have to kill some of them.
 - The same pausing trick that you do in the mines also applies to the Skull Cavern (e.g. you should pause at the beginning of every floor).
 - On mini-floors with a chest, you should destroy every rock on the floor until you get either a staircase or a shaft. (This is an easy way to get a shaft.)
+  - Once you get a ladder, you can stop looking for a shaft, because shafts stop spawning as long as there is there is a non-hard-coded ladder.
 - The goal for the day should be to the deep floors as soon as possible, because deep floors will have tons of iridium nodes that you can efficiently break all at once with bombs. Thus, this means that you should ignore almost everything and take a ladder/shaft as soon as you see it. (Don't sidetrack for ore or anything else!)
 - Smelt all [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) into [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar). Besides selling various gems, the bars will be the main source of revenue from the Skull Cavern. However, wait until you have the Blacksmith profession (from level 10 mining) before selling any Iridium Bars.
 - For reference, the chances to get iridium nodes for each floor of the Skull Cavern can be found in [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE/edit).
@@ -235,7 +236,6 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 - [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) will drop on your Skull Cavern runs (from Iridium Bats). Focus on using your batteries to craft more Crystalariums.
 - Crystalariums are expensive to craft, especially in the early game, when you are trying to balance buying Starfruit, getting tool upgrades, and buying buildings from Robin. However, you should prioritize Crystalariums, because in the long-run, they will pay for themselves ten times over: copious use of Staircases will double your Iridium Ore rate per day.
 - In order to get as many batteries as you can, make sure you craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as you can before the first summer storm. (On some runs, you may not have the foraging experience to be able to craft Lightning Rods before the first storm comes, which is not a big deal.)
-- If you have any [Rain Totems](https://stardewvalleywiki.com/Rain_Totem) from Skull Cavern treasure chests, then you should use those on storm days in order to force the next day to also be a storm day. This way, you can farm batteries from your lightning rods much quicker.
 
 ### Weather Modifications
 

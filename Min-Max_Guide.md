@@ -250,7 +250,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 ### Pet Mechanics (Dog/Cat)
 
 - If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a dog/cat at all, as they get in your way and make you lose time.
-- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they get in your way less.
+- If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa point. (Having the pet at 1000 points of friendship gets you 1 point, which is the maximum amount.) In this case, it is optimal to choose a cat over a dog, since they get in your way less.
 - Note that it only takes 83 pets (+12 per pet) in order to maximize the friendship value of the dog/cat. Thus, since dog/cat friendship does not decay, you may be able to defer wasting any time petting the pet until summer of year 2. (It is optimal to wait as long as possible since "spare time" is extremely limited at the beginning of the game.)
 - Subsequently, because of the petting mechanic, you should **never** have to fill up the pet's bowl. (Unless for whatever reason you deferred petting for too long and need to get extra friendship before the deadline. Filling the bowl gives +6 points.)
 

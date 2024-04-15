@@ -37,7 +37,7 @@ This guide is the synthesis of other guides that have come before. Guides are li
   - [General Mines Strategy](#general-mines-strategy)
   - [General Skull Cavern Strategy](#general-skull-caverns-strategy)
   - [Weather Modifications](#weather-modifications)
-  - [Dog/Cat Mechanics](#dogcat-mechanics) <!-- cspell:disable-line -->
+  - [Pet Mechanics](#pet-mechanics) <!-- cspell:disable-line -->
   - [Ginger Island](#ginger-island)
   - [NPC Friendship & Birthdays](#npc-friendship--birthdays)
   - [Other Notes](#other-notes)
@@ -247,7 +247,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
   - If it is raining and you have already completed the vault, then it is usually better to do Skull Cavern runs than to fish. (The exception is if you want to buy the 2nd upgraded backpack.)
 - For reference, you can get about 10,000g per day when fishing at the forest river when it rains (at level 10).
 
-### Dog/Cat Mechanics
+### Pet Mechanics (Dog/Cat)
 
 - If you are not doing a Grandpa-points-related challenge, then it is optimal to not have a dog/cat at all, as they get in your way and make you lose time.
 - If you are doing a Grandpa-points-related challenge, then you may need to get the dog/cat for the Grandpa points. In this case, it is optimal to choose a cat over a dog, since they get in your way less.
@@ -460,7 +460,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
 The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.com/Copper_Bar) as soon as possible and then make it to Clint before he closes to upgrade the pickaxe. (The window to do this is small.) Then, we plant some seeds. Then, we fish.
 
 - From here on out, check the TV every single day to reveal the current day's luck.
-- Choose to either take the pet or decline it. (See [Dog/Cat Mechanics](#dogcat-mechanics).) <!-- cspell:disable-line -->
+- Choose to either take the pet or decline it. (See [Pet Mechanics](#pet-mechanics).)
 - Harvest the Parsnips and make a note of how many you harvested.
 - Make a note of which mixed seeds you have planted. (You can tell either by looking at the appearance of the seed or by using [a mod](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#ui-info-suite).)
 - Claim the reward for the parsnip quest (100g).

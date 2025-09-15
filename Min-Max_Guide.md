@@ -111,7 +111,7 @@ The guide is generally designed for players who are playing on the latest versio
 
 ### Gold per Energy List (GPE)
 
-In general, you should always eat items with the [lowest gold per energy ratio](https://stardewcommunitywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the following simple rule:
+In general, you should always eat items with the [lowest gold per energy ratio](https://stardewvalleywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the following simple rule:
 
 - save everything with a ratio equal to or less than 2 for eating
 - sell everything with a ratio above 2
@@ -144,9 +144,9 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 #### Weapon Progression
 
-- When you start doing the mines, you will likely be using the [Rusty Sword](https://stardewcommunitywiki.com/Rusty_Sword). The exception is if you got a [Neptune's Glaive](https://stardewcommunitywiki.com/Neptune%27s_Glaive) or a [Broken Trident](https://stardewcommunitywiki.com/Broken_Trident) from a fishing chest (during the massive amount of fishing that you will do from Spring 2 to Spring 11).
+- When you start doing the mines, you will likely be using the [Rusty Sword](https://stardewvalleywiki.com/Rusty_Sword). The exception is if you got a [Neptune's Glaive](https://stardewvalleywiki.com/Neptune%27s_Glaive) or a [Broken Trident](https://stardewvalleywiki.com/Broken_Trident) from a fishing chest (during the massive amount of fishing that you will do from Spring 2 to Spring 11).
 - After that, you will simply use the weapons found in the mines treasure chests. The exception is if you get a lucky weapon drop from a champion enemy. (You can tell champion slimes apart from normal slimes because of the gold star, but other champions are indistinguishable.)
-- Your first trip into the Skull Cavern will use the [Obsidian Edge](https://stardewcommunitywiki.com/Obsidian_Edge) from the chest on floor 90. Hopefully, your first trip will get you at least one [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard), which you will then use to get the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword) for your second and subsequent Skull Cavern runs.
+- Your first trip into the Skull Cavern will use the [Obsidian Edge](https://stardewvalleywiki.com/Obsidian_Edge) from the chest on floor 90. Hopefully, your first trip will get you at least one [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard), which you will then use to get the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword) for your second and subsequent Skull Cavern runs.
 - Once you have the Galaxy Sword, this is all you will need, since swords are considered better than hammers and daggers (with some caveats; see below).
 - Ultimately, you will want to upgrade the Galaxy Sword into the Infinity Sword with 3x Ruby upgrades, but that is an end-game task that is outside of the scope of this guide.
 
@@ -154,7 +154,7 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 - There exists a bug in the game where if you press the "Use Tool" button while slamming a hammer, it will deal extra damage to surrounding enemies.
 - The optimal way to exploit this bug is to alternate between pressing left-click and the c button as fast as possible while the hammer is in the slamming animation.
-- Using this bug allows hammers to deal rediculous amounts of damage, which is why some people will claim that the [Galaxy Hammer](https://stardewcommunitywiki.com/Galaxy_Hammer) or the [Dwarf Hammer](https://stardewcommunitywiki.com/Dwarf_Hammer) are "better" than the Galaxy Sword.
+- Using this bug allows hammers to deal rediculous amounts of damage, which is why some people will claim that the [Galaxy Hammer](https://stardewvalleywiki.com/Galaxy_Hammer) or the [Dwarf Hammer](https://stardewvalleywiki.com/Dwarf_Hammer) are "better" than the Galaxy Sword.
 - However, utilizing this bug makes combat too easy, and the authors of this guide recommend that you challenge yourself to not use any bugs or glitches in the game.
 
 ### General Mines Strategy
@@ -256,9 +256,9 @@ Eventually, you will stop worrying about this and will only eat from a large sta
 
 ### Ginger Island
 
-Completing the Community Center unlocks [Ginger Island](https://stardewcommunitywiki.com/Ginger_Island), which contains various end-game content. For most challenge runs, you will probably want to get access to Ginger Island as soon as possible, whether that be for the crop profits from the [Island Farm](https://stardewcommunitywiki.com/Ginger_Island#The_Farm), or for easier access to artifacts such as the [Prehistoric Scapula](https://stardewcommunitywiki.com/Prehistoric_Scapula), or for the weapon upgrades, etc.
+Completing the Community Center unlocks [Ginger Island](https://stardewvalleywiki.com/Ginger_Island), which contains various end-game content. For most challenge runs, you will probably want to get access to Ginger Island as soon as possible, whether that be for the crop profits from the [Island Farm](https://stardewvalleywiki.com/Ginger_Island#The_Farm), or for easier access to artifacts such as the [Prehistoric Scapula](https://stardewvalleywiki.com/Prehistoric_Scapula), or for the weapon upgrades, etc.
 
-In a typical min-max run, by Winter 1 you will have completed most of the bundles, with just the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell) remaining. Depending on your foraging luck, you can get them anywhere between Winter 1 and Winter 7. After completing the CC, you can unlock the boat on the subsequent day.
+In a typical min-max run, by Winter 1 you will have completed most of the bundles, with just the [Snow Yam](https://stardewvalleywiki.com/Snow_Yam), [Crocus](https://stardewvalleywiki.com/Crocus), and the [Nautilus Shell](https://stardewvalleywiki.com/Nautilus_Shell) remaining. Depending on your foraging luck, you can get them anywhere between Winter 1 and Winter 7. After completing the CC, you can unlock the boat on the subsequent day.
 
 For certain challenge runs, you might want to gain access to Ginger Island before Winter. See [Appendix D](#appendix-d-early-community-center) for how to do this.
 
@@ -882,7 +882,7 @@ We recommend the following self-imposed restrictions:
 - No animation canceling (e.g. to swing a tool extra fast).
 - No using RNG manipulation to get [massive amounts of clay](https://www.youtube.com/watch?v=mIUeZZ14y54).
 - No using RNG manipulation to guarantee [Ancient Seeds from a Seed Maker](https://www.youtube.com/watch?v=i38oWhqN59k).
-- No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewcommunitywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewcommunitywiki.com/Casino).
+- No using RNG manipulation to get massive amounts of [Warp Totem: Farm](https://stardewvalleywiki.com/Warp_Totem:_Farm) from the [Casino](https://stardewvalleywiki.com/Casino).
 - No using RNG manipulation to count steps and change the luck of the subsequent day.
 - You are allowed to use [Stardew Checkup](https://mouseypounds.github.io/stardew-checkup/) (since it is easier than manually writing down all of the items you donate to the museum).
 - You are allowed to zoom the game [past the normal 75% value](#zoom-level-keybinding). (See below for the reasoning.)
@@ -1011,18 +1011,18 @@ In some challenge runs, getting to Ginger Island in winter is fine, since you ar
 
 Even with our recommended restrictions, it is possible to complete the Community Center by Fall 14, which gets you to the island 14 days faster (the boat will be unlocked on Fall 16 but will be delayed by a day because of the Stardew Valley Fair). 
 
-The 3 items needed are the [Snow Yam](https://stardewcommunitywiki.com/Snow_Yam), [Crocus](https://stardewcommunitywiki.com/Crocus), and the [Nautilus Shell](https://stardewcommunitywiki.com/Nautilus_Shell).
+The 3 items needed are the [Snow Yam](https://stardewvalleywiki.com/Snow_Yam), [Crocus](https://stardewvalleywiki.com/Crocus), and the [Nautilus Shell](https://stardewvalleywiki.com/Nautilus_Shell).
 
 For the Snow Yam and the Crocus:
 - Complete the Greenhouse by Fall 9 (by planting a Pumpkin with Deluxe Speed-Gro on Fall 1).
-- Put [Winter Roots](https://stardewcommunitywiki.com/Winter_Root) in a [Seed Maker](https://stardewcommunitywiki.com/Seed_Maker) to get [Winter Seeds](https://stardewcommunitywiki.com/Winter_Seeds). (Winter Roots drop from blue slimes on levels 41-79 of the Mines.)
+- Put [Winter Roots](https://stardewvalleywiki.com/Winter_Root) in a [Seed Maker](https://stardewvalleywiki.com/Seed_Maker) to get [Winter Seeds](https://stardewvalleywiki.com/Winter_Seeds). (Winter Roots drop from blue slimes on levels 41-79 of the Mines.)
  - Alternatively if you have spare Spring Seeds you can trade 2 to the Desert Trader for Winter Seeds on Saturdays.
 - Plant the Winter Seeds in the Greenhouse on Fall 10.
 
 For the Nautilus Shell:
 - You can get randomly them from the Traveling Cart. If you check the Traveling Cart every day from Spring 5 onwards, you are likely to find one in the first year.
   - Note that in this ruleset, we consider using Stardew Predictor to be cheating, so you must actually walk to the Traveling Cart on every Friday and Sunday.
-- You can also get them as a rare drop from [Fish Pond](https://stardewcommunitywiki.com/Fish_Pond) with Crab Pot fish, but for the purposes of min-maxing, we can safely ignore this method.
+- You can also get them as a rare drop from [Fish Pond](https://stardewvalleywiki.com/Fish_Pond) with Crab Pot fish, but for the purposes of min-maxing, we can safely ignore this method.
 - You can also get them as a random present from Demetrius, but for the purposes of min-maxing, we can safely ignore this method.
 
 <br />

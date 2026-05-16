@@ -424,7 +424,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
     * The amount of bait you can buy at this point will depend on how well your run is going, but it can be anywhere between 500 to 700. However, no matter how much you buy, it will be guaranteed to be used up by the end of Spring.
     * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convenient place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
-  - Empty the contents of the chest and pick it up with the hoe. (Alternatively, select an empty square on the toolbar and spam left-click.)
+  - Empty the contents of the chest. (To do this at no energy cost, select an empty square on the toolbar and spam left-click.)
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
 - The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.

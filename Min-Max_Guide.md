@@ -424,11 +424,11 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Buy bait until you only have 75g left. (However, if you already found a copper ore from a fishing chest, you can spend all money on bait.)
     * The amount of bait you can buy at this point will depend on how well your run is going, but it can be anywhere between 500 to 700. However, no matter how much you buy, it will be guaranteed to be used up by the end of Spring.
     * Technically, we could defer selling some fish until we have the Fisher profession. However, this has three problems. First, it is only worth it if you would gain more money than around an hour of fishing at the mountain lake. Second, you can only bring so many fish back with you when you pass out at the end of Spring 3. Third, the next convenient place to buy bait is on Spring 5 after turning in the pickaxe, and there is almost no spare time on this day. Thus, it is overall simpler and much less risky to sell the fish now.
-  - Empty the contents of the chest and pick it up. (To pick up a chest without a pickaxe, select an empty square on the toolbar and spam left-click.)
+  - Empty the contents of the chest and pick it up with the hoe. (Alternatively, select an empty square on the toolbar and spam left-click.)
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
 - The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.
-  - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/4/44/Pathing-Forest.jpg) on the wiki.
+  - You are aiming for the deep water east of the small island.  For reference see [the river fishing zones](https://stardewvalleywiki.com/File:ForestRiverFishingZones.png) on the wiki.
 - Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
 - At the end of the day, you should get:
@@ -442,8 +442,8 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - This is because we will need 2 more chests and a scarecrow over the next 2 days.
 - Craft a Chest and take it with you.
 - Empty your inventory. Retrieve the Fiberglass Rod + crafted chest.
-- Go to the mountain lake. The best spot to fish is casting east while standing next to the fence at the bottom of the screen. Place the chest three tiles behind you.
-  - For reference, see [the pathing infographic](https://stardewvalleywiki.com/mediawiki/images/e/e2/Pathing-Mountain.jpg) on the wiki.
+- Go to the mountain lake. The best spot to fish is casting east while standing next to the long fence at the bottom of the screen. Place the chest three tiles behind you.
+  - You are shooting for the deep water near the submerged log. For reference, see [the lake fishing zones](https://stardewvalleywiki.com/File:MountainLakeFishingZones.png) on the wiki.
 - Fish until 1:00 AM. Fill your inventory with any gems, ore, coal, and the most expensive fish.
   - You can leave your Fiberglass Rod in the chest unless it is going to rain tomorrow.
 - Go home. 

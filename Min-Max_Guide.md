@@ -528,7 +528,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Craft and place a scarecrow.
 - Chop trees until 7:40 AM.
 - Empty inventory + retrieve Fiberglass Rod.
-- Go into town from the Bus Stop. You will trigger the community center cutscene; **do not skip the cutscene**.
+- Go into town from the Bus Stop but do not enter the town before 8 AM. You will trigger the community center cutscene; **do not skip the cutscene**.
   - This is because if you skip the cutscene, you will be placed at the entrance to town. If you watch it, you will be placed next to the community center.
 - Go into the community center and touch the Golden Scroll square (to start the quest).
 - Go to the mountain lake and fish until 1 AM. Fill your inventory with 5 iron bars + the most expensive items to sell.
@@ -568,6 +568,7 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - Water.
 - Chop wood until around 8 AM.
 - Empty inventory. Retrieve the Fiberglass Rod.
+- If you need to buy bait today, go directly to Willy. He closes shop at 10 AM for a doctor visit.
 - Go to the blacksmith and upgrade to the Gold Pickaxe (10,000g).
 - Go to Pierre's and buy the backpack upgrade (2,000g).
 - Fish at the mountain lake until 2 AM, then pass out.
@@ -713,7 +714,6 @@ The main goal for this day is to make 5 [Copper Bars](https://stardewvalleywiki.
 - At 9 AM, go to Clint, retrieve the [Copper Hoe](https://stardewvalleywiki.com/Hoes), and upgrade to the [Steel Hoe](https://stardewvalleywiki.com/Hoes) (5,000g).
 - Go to the [Oasis](https://stardewvalleywiki.com/Oasis) and buy 1 [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) for every Starfruit Seed that you plan to purchase.
   - The Oasis only sells Deluxe Speed-Gro on Thursdays and we need it by Summer 2.
-  - Note that you must use a [Warp Totem: Desert](https://stardewvalleywiki.com/Warp_Totem:_Desert) to access the desert today, since [Pam](https://stardewvalleywiki.com/Pam) will go to the clinic for an appointment (instead of driving the bus). On most runs, this is never an issue, since you are generally using Warp Totems on every single day to prevent wasting time & gold.
 - Spend the rest of your money on Starfruit Seeds so that you can pass out without penalty. (You will buy the rest of the Starfruit Seeds on Summer 2.)
 
 ### Spring 26

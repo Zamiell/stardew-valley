@@ -430,7 +430,7 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - Go to the forest river.
 - The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.
   - You are aiming for the deep water east of the small island. For reference see [the river fishing zones](https://stardewvalleywiki.com/File:ForestRiverFishingZones.png) on the wiki.
-- Now is the time to eat a Sea Jelly because you can use any fishing buff you can get. 
+- If it won't max out your energy, now is the time to eat a Sea Jelly because Catfish are a challenge. 
 - Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
 - At the end of the day, you should get:

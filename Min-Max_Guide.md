@@ -356,7 +356,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Kill the weeds to the west of the community center.
 - Kill the weeds to the west of the fountain.
 - Go home. (Get any foragable items at the Bus Stop you missed earlier.)
-- Hoe + plant + water Parsnip Seeds + Mixed Seeds.
+- Hoe + plant + water all the seeds you have (Parsnip, Mixed and Carrot Seeds). Plant Rice Shoots near the pond where they are self watering.
   - Crows can eat one or more crops every day by planting additional crops beyond the 15 initial Parsnip Seeds. However, planting the Mixed Seeds makes this worth the extra value. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later.)
 - Chop wood until around 4-6 energy left.
 - Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe, plant, and water all the Mixed Seeds before 2 AM.)
@@ -400,6 +400,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   - Also see [General Fishing Strategy](#general-fishing-strategy).
 - If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).
+- If you get a [Sea Jelly](https://stardewvalleywiki.com/Sea_Jelly) save it for tomorrow.
 - When you have enough fish to sell to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
   - Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 - Fish using max casts at the same spot as before.
@@ -413,7 +414,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 The main goal for this day is to catch as many [Catfish](https://stardewvalleywiki.com/Catfish) as possible. (This is also the goal for almost any rainy day in Spring, really.)
 
 - It always rains on Spring 3.
-- Empty all inventory in the chest. Retrieve the Fiberglass Rod.
+- Empty all inventory in the chest. Retrieve the Fiberglass Rod and any Sea Jelly.
 - If you have 80+ bait and you got copper ore from a fishing chest on Spring 2, craft a chest and take it with you, then go directly to the forest river to fish. Remember to divert from the guide and buy more bait from Willy tomorrow before going to the mountain lake.
 - Otherwise:
   - Retrieve the hoe from the chest.
@@ -428,7 +429,8 @@ The main goal for this day is to catch as many [Catfish](https://stardewvalleywi
   - If you saved 75g, go to Clint and buy a copper ore (75g) in order to initiate the Clint cutscene tomorrow. (You do not have to drop the copper on the ground.)
   - Go to the forest river.
 - The best spot to fish at the forest river is casting south 6 tiles west of Leah's door. Place the chest one tile north and east of you.
-  - You are aiming for the deep water east of the small island.  For reference see [the river fishing zones](https://stardewvalleywiki.com/File:ForestRiverFishingZones.png) on the wiki.
+  - You are aiming for the deep water east of the small island. For reference see [the river fishing zones](https://stardewvalleywiki.com/File:ForestRiverFishingZones.png) on the wiki.
+- If it won't max out your energy, now is the time to eat a Sea Jelly because Catfish are a challenge. 
 - Fish until 2 AM. Before passing out, fill your inventory with the rod + gems + ore + coal + the most expensive fish.
   - You will not return to this chest until Spring 7 (or the next rainy day, whichever is sooner).
 - At the end of the day, you should get:

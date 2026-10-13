@@ -16,19 +16,19 @@ The value of 2 comes from [Salad](https://stardewvalleywiki.com/Salad), an easy-
 Of course, you do not have to use a cutoff value of 2; you can simply survey the raw ratios below in order to get a general sense for each item's general "eating value";
 
 # Contents
-1. [Crops (Spring)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-spring)
-1. [Crops (Summer)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-summer)
-1. [Crops (Fall)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-fall)
-1. [Crops (Winter)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-winter)
-1. [Foraging (Spring)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-spring)
-1. [Foraging (Summer)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-summer)  
-1. [Foraging (Fall)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-fall)  
-1. [Foraging (Winter)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-winter)  
-1. [Foraging (Other)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-other)
-1. [Fish](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#fish)
-1. [Non-Fish](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-spring)
-1. [Food (Buyable)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#food-buyable)
-1. [Food (Craftable)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#food-craftable)
+1. [Crops (Spring)](#crops-spring)
+1. [Crops (Summer)](#crops-summer)
+1. [Crops (Fall)](#crops-fall)
+1. [Crops (Winter)](#crops-winter)
+1. [Foraging (Spring)](#foraging-spring)
+1. [Foraging (Summer)](#foraging-summer)  
+1. [Foraging (Fall)](#foraging-fall)  
+1. [Foraging (Winter)](#foraging-winter)  
+1. [Foraging (Other)](#foraging-other)
+1. [Fish](#fish)
+1. [Non-Fish](#foraging-spring)
+1. [Food (Buyable)](#food-buyable)
+1. [Food (Craftable)](#food-craftable)
 
 ## Crops (Spring)
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Tiller (10%) |

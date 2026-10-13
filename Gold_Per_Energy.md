@@ -16,23 +16,21 @@ The value of 2 comes from [Salad](https://stardewvalleywiki.com/Salad), an easy-
 Of course, you do not have to use a cutoff value of 2; you can simply survey the raw ratios below in order to get a general sense for each item's general "eating value";
 
 # Contents
-1 Crops (Spring)  
-2 Crops (Summer)  
-3 Crops (Fall)  
-  Crops (Winter)  
-4 Foraging (Spring)
-5 Foraging (Summer)  
-6 Foraging (Fall)  
-7 Foraging (Winter)  
-8 Foraging (Other)  
-9 Fish  
-10 Non-Fish  
-11 Food (Buyable)  
-12 Food (Craftable)  
-
+1. [Crops (Spring)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-spring)
+1. [Crops (Summer)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-summer)
+1. [Crops (Fall)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-fall)
+1. [Crops (Winter)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#crops-winter)
+1. [Foraging (Spring)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-spring)
+1. [Foraging (Summer)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-summer)  
+1. [Foraging (Fall)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-fall)  
+1. [Foraging (Winter)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-winter)  
+1. [Foraging (Other)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-other)
+1. [Fish](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#fish)
+1. [Non-Fish](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#foraging-spring)
+1. [Food (Buyable)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#food-buyable)
+1. [Food (Craftable)](https://github.com/Zamiell/stardew-valley/blob/main/Gold_Per_Energy.md#food-craftable)
 
 ## Crops (Spring)
-
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Tiller (10%) |
 |------|---------|------|--------|-------|-----------------------|
 | [Blue Jazz](https://stardewvalleywiki.com/Blue_Jazz) | Normal | 50g | 45 | 1.11 | 1.22 |
@@ -80,8 +78,7 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Unmilled Rice](https://stardewvalleywiki.com/Unmilled_Rice) | Gold | 45g | 5 | 9 | 9.8 |
 | [Unmilled Rice](https://stardewvalleywiki.com/Unmilled_Rice) | Iridium | 60g | 7 | 8.57 | 9.43 |
 
-# Crops (Summer)
-
+## Crops (Summer)
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Tiller (10%) |
 |------|---------|------|--------|-------|-----------------------|
 | Blueberry | Normal | 50g | 25 | 2 | 2.2 |
@@ -175,7 +172,6 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 
 
 ## Crops (Winter)
-
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Tiller (10%) |
 |------|---------|------|--------|-------|-----------------------|
 Powdermelon | Normal | 60 | 63 | 0.95 | 1.05 |
@@ -184,7 +180,6 @@ Powdermelon | Gold | 90 | 113 | 0.8 | 0.88 |
 Powdermelon | Iridium | 120 | 163 | 0.74 | 0.81 |
 
 ## Foraging (Spring)
-
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
 | Wild Horseradish | Normal | 50g | 13 | 3.85 |
@@ -236,7 +231,7 @@ Powdermelon | Iridium | 120 | 163 | 0.74 | 0.81 |
 | Blackberry | Gold | 30g | 45 | 0.67 |
 | Blackberry | Iridium | 40g | 65 | 0.62 |
 
-Foraging (Winter)
+## Foraging (Winter)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
 | Winter Root | Normal | 70g | 25 | 2.8 |
@@ -252,7 +247,7 @@ Foraging (Winter)
 | Snow Yam | Gold | 150g | 54 | 2.78 |
 | Snow Yam | Iridium | 200g | 78 | 2.56 |
 
-# Foraging (Other)
+## Foraging (Other)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
 | Morel | Normal | 150g | 20 | 7.5 |
@@ -452,7 +447,7 @@ Foraging (Winter)
 | Blobfish | Gold | 750g | 68 | 11.03 | 13.78 | 16.54 |
 | Blobfish | Iridium | 1000g | 98 | 10.2 | 12.76 | 15.31 |
 
-# Non-Fish
+## Non-Fish
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
 | Joja Cola | Normal | 25g | 13 | 1.92 |

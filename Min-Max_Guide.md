@@ -111,7 +111,7 @@ The guide is generally designed for players who are playing on the latest versio
 
 ### Gold per Energy List (GPE)
 
-In general, you should always eat items with the [lowest gold per energy ratio](https://web.archive.org/web/20220103173825/https://stardewcommunitywiki.com/User:Zamiel/Gold_to_Energy_Ratios). For this route, you can use the following simple rule:
+In general, you should always eat items with the [lowest gold per energy ratio](https://github.com/Zamiell/stardew-valley/blob/master/Gold_Per_Energy.md). For this route, you can use the following simple rule:
 
 - save everything with a ratio equal to or less than 2 for eating
 - sell everything with a ratio above 2

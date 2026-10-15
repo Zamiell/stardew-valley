@@ -217,6 +217,10 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Silver | 100g | 35 | 2.86 |
 | [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Gold | 120g | 45 | 2.67 |
 | [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Iridium | 160g | 65 | 2.46 |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Normal | 50g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Silver | 62g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Gold | 75g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Iridium | 100g | 0 | INF |
 
 ## Foraging (Fall)
 | Name | Quality | Gold | Energy | Ratio |

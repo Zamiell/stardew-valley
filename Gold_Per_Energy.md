@@ -8,10 +8,12 @@ Early on in the game, players are generally very short on gold and do not have a
 
 Given a choice between eating two different items, with all else equal, it is optimal to eat the one with the lower gold to energy ratio.  
 
-Importantly, lots of items are used in quests, lots of items are useful for gifting, and lots of items are used for crafting. This page is not a replacement for knowing all of the uses for an item; you should only be using the ratio as a baseline for your decision of what to do with it.  
+Importantly, lots of items are used in quests, lots of items are useful for gifting, and lots of items are used for crafting. This page is not a replacement for knowing all of the uses for an item; you should only be using the ratio as a baseline for your decision of what to do with it.
+
 If you know that a particular item will have no other use than eating or selling, then a rule of thumb that you might want to use is:  
-eat the item if it has a ratio equal to or less than 2  
-sell the item if it has a ratio above 2  
+ * eat the item if it has a ratio equal to or less than 2  
+ * sell the item if it has a ratio above 2
+
 The value of 2 comes from [Salad](https://stardewvalleywiki.com/Salad), an easy-to-purchase food from the Saloon.
 Of course, you do not have to use a cutoff value of 2; you can simply survey the raw ratios below in order to get a general sense for each item's general "eating value";
 
@@ -37,14 +39,14 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Blue Jazz](https://stardewvalleywiki.com/Blue_Jazz) | Silver | 62g | 63 | 0.98 | 1.08 |
 | [Blue Jazz](https://stardewvalleywiki.com/Blue_Jazz) | Gold | 75g | 81 | 0.93 | 1.01 |
 | [Blue Jazz](https://stardewvalleywiki.com/Blue_Jazz) | Iridium | 100g | 117 | 0.85 | 0.94 |
-| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Normal | 175g | 75 | 2.33 | 2.57 |
-| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Silver | 218g | 105 | 2.08 | 2.29 |
-| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Gold | 262g | 135 | 1.94 | 2.13 |
-| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Iridium | 350g | 195 | 1.79 | 1.97 |
 | [Carrot](https://stardewvalleywiki.com/Carrot) | Normal | 35g | 75 | 0.47 | 0.51 |
 | [Carrot](https://stardewvalleywiki.com/Carrot) | Silver | 43g | 105 | 0.41 | 0.45 |
 | [Carrot](https://stardewvalleywiki.com/Carrot) | Gold | 52g | 135 | 0.39 | 0.42 |
 | [Carrot](https://stardewvalleywiki.com/Carrot) | Iridium | 70g | 195 | 0.36 | 0.39 |
+| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Normal | 175g | 75 | 2.33 | 2.57 |
+| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Silver | 218g | 105 | 2.08 | 2.29 |
+| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Gold | 262g | 135 | 1.94 | 2.13 |
+| [Cauliflower](https://stardewvalleywiki.com/Cauliflower) | Iridium | 350g | 195 | 1.79 | 1.97 |
 | [Garlic](https://stardewvalleywiki.com/Garlic) | Normal | 60g | 20 | 3 | 3.3 |
 | [Garlic](https://stardewvalleywiki.com/Garlic) | Silver | 75g | 28 | 2.68 | 2.93 |
 | [Garlic](https://stardewvalleywiki.com/Garlic) | Gold | 90g | 36 | 2.5 | 2.75 |
@@ -182,62 +184,63 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 ## Foraging (Spring)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Normal | 50g | 13 | 3.85 |
-| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Silver | 62g | 18 | 3.44 |
-| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Gold | 75g | 23 | 3.26 |
-| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Iridium | 100g | 33 | 3.03 |
-| [Leek](https://stardewvalleywiki.com/Leek) | Normal | 60g | 40 | 1.5 |
-| [Leek](https://stardewvalleywiki.com/Leek) | Silver | 75g | 56 | 1.34 |
-| [Leek](https://stardewvalleywiki.com/Leek) | Gold | 90g | 72 | 1.25 |
-| [Leek](https://stardewvalleywiki.com/Leek) | Iridium | 120g | 104 | 1.15 |
 | [Dandelion](https://stardewvalleywiki.com/Dandelion) | Normal | 40g | 25 | 1.6 |
 | [Dandelion](https://stardewvalleywiki.com/Dandelion) | Silver | 50g | 35 | 1.43 |
 | [Dandelion](https://stardewvalleywiki.com/Dandelion) | Gold | 60g | 45 | 1.33 |
 | [Dandelion](https://stardewvalleywiki.com/Dandelion) | Iridium | 80g | 65 | 1.23 |
-| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Normal | 8g | 13 | 0.62 |
-| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Silver | 10g | 18 | 0.56 |
-| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Gold | 12g | 23 | 0.52 |
-| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Iridium | 16g | 33 | 0.48 |
+| [Leek](https://stardewvalleywiki.com/Leek) | Normal | 60g | 40 | 1.5 |
+| [Leek](https://stardewvalleywiki.com/Leek) | Silver | 75g | 56 | 1.34 |
+| [Leek](https://stardewvalleywiki.com/Leek) | Gold | 90g | 72 | 1.25 |
+| [Leek](https://stardewvalleywiki.com/Leek) | Iridium | 120g | 104 | 1.15 |
 | [Salmonberry](https://stardewvalleywiki.com/Salmonberry) | Normal | 5g | 25 | 0.2 |
 | [Salmonberry](https://stardewvalleywiki.com/Salmonberry) | Silver | 6g | 35 | 0.17 |
 | [Salmonberry](https://stardewvalleywiki.com/Salmonberry) | Gold | 7g | 45 | 0.16 |
 | [Salmonberry](https://stardewvalleywiki.com/Salmonberry) | Iridium | 10g | 65 | 0.15 |
+| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Normal | 8g | 13 | 0.62 |
+| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Silver | 10g | 18 | 0.56 |
+| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Gold | 12g | 23 | 0.52 |
+| [Spring Onion](https://stardewvalleywiki.com/Spring_Onion) | Iridium | 16g | 33 | 0.48 |
+| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Normal | 50g | 13 | 3.85 |
+| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Silver | 62g | 18 | 3.44 |
+| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Gold | 75g | 23 | 3.26 |
+| [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish) | Iridium | 100g | 33 | 3.03 |
+
 
 ## Foraging (Summer)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Normal | 80g | 25 | 3.2 |
-| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Silver | 100g | 35 | 2.86 |
-| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Gold | 120g | 45 | 2.67 |
-| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Iridium | 160g | 65 | 2.46 |
 | [Grape](https://stardewvalleywiki.com/Grape) | Normal | 80g | 38 | 2.11 |
 | [Grape](https://stardewvalleywiki.com/Grape) | Silver | 100g | 53 | 1.89 |
 | [Grape](https://stardewvalleywiki.com/Grape) | Gold | 120g | 68 | 1.76 |
 | [Grape](https://stardewvalleywiki.com/Grape) | Iridium | 160g | 98 | 1.63 |
+| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Normal | 80g | 25 | 3.2 |
+| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Silver | 100g | 35 | 2.86 |
+| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Gold | 120g | 45 | 2.67 |
+| [Spice Berry](https://stardewvalleywiki.com/Spice_Berry) | Iridium | 160g | 65 | 2.46 |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Normal | 50g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Silver | 62g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Gold | 75g | 0 | INF |
+| [Sweet Pea](https://stardewvalleywiki.com/Sweet_Pea) | Iridium | 100g | 0 | INF |
 
 ## Foraging (Fall)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Normal | 80g | 25 | 3.2 |
-| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Silver | 100g | 35 | 2.86 |
-| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Gold | 120g | 45 | 2.67 |
-| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Iridium | 160g | 65 | 2.46 |
-| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Normal | 90g | 30 | 3 |
-| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Silver | 112g | 42 | 2.67 |
-| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Gold | 135g | 54 | 2.5 |
-| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Iridium | 180g | 78 | 2.31 |
 | [Blackberry](https://stardewvalleywiki.com/Blackberry) | Normal | 20g | 25 | 0.8 |
 | [Blackberry](https://stardewvalleywiki.com/Blackberry) | Silver | 25g | 35 | 0.71 |
 | [Blackberry](https://stardewvalleywiki.com/Blackberry) | Gold | 30g | 45 | 0.67 |
 | [Blackberry](https://stardewvalleywiki.com/Blackberry) | Iridium | 40g | 65 | 0.62 |
+| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Normal | 90g | 30 | 3 |
+| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Silver | 112g | 42 | 2.67 |
+| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Gold | 135g | 54 | 2.5 |
+| [Hazelnut](https://stardewvalleywiki.com/Hazelnut) | Iridium | 180g | 78 | 2.31 |
+| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Normal | 80g | 25 | 3.2 |
+| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Silver | 100g | 35 | 2.86 |
+| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Gold | 120g | 45 | 2.67 |
+| [Wild Plum](https://stardewvalleywiki.com/Wild_Plum) | Iridium | 160g | 65 | 2.46 |
 
 ## Foraging (Winter)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Normal | 70g | 25 | 2.8 |
-| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Silver | 87g | 35 | 2.49 |
-| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Gold | 105g | 45 | 2.33 |
-| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Iridium | 140g | 65 | 2.15 |
 | [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) | Normal | 150g | 63 | 2.38 |
 | [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) | Silver | 187g | 88 | 2.13 |
 | [Crystal Fruit](https://stardewvalleywiki.com/Crystal_Fruit) | Gold | 225g | 113 | 1.99 |
@@ -246,14 +249,26 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) | Silver | 125g | 42 | 2.98 |
 | [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) | Gold | 150g | 54 | 2.78 |
 | [Snow Yam](https://stardewvalleywiki.com/Snow_Yam) | Iridium | 200g | 78 | 2.56 |
+| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Normal | 70g | 25 | 2.8 |
+| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Silver | 87g | 35 | 2.49 |
+| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Gold | 105g | 45 | 2.33 |
+| [Winter Root](https://stardewvalleywiki.com/Winter_Root) | Iridium | 140g | 65 | 2.15 |
 
 ## Foraging (Other)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Morel](https://stardewvalleywiki.com/Morel) | Normal | 150g | 20 | 7.5 |
-| [Morel](https://stardewvalleywiki.com/Morel) | Silver | 187g | 28 | 6.68 |
-| [Morel](https://stardewvalleywiki.com/Morel) | Gold | 225g | 36 | 6.25 |
-| [Morel](https://stardewvalleywiki.com/Morel) | Iridium | 300g | 52 | 5.77 |
+| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Normal | 75g | 75 | 1 |
+| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Silver | 93g | 105 | 0.89 |
+| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Gold | 112g | 135 | 0.83 |
+| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Iridium | 150g | 195 | 0.77 |
+| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Normal | 25g | 30 | 0.83 |
+| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Silver | 31g | 42 | 0.74 |
+| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Gold | 37g | 54 | 0.69 |
+| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Iridium | 50g | 78 | 0.64 |
+| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Normal | 160g | 75 | 2.13 |
+| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Silver | 200g | 105 | 1.9 |
+| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Gold | 240g | 135 | 1.78 |
+| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Iridium | 320g | 195 | 1.64 |
 | [Common Mushroom](https://stardewvalleywiki.com/Common_Mushroom) | Normal | 40g | 38 | 1.05 |
 | [Common Mushroom](https://stardewvalleywiki.com/Common_Mushroom) | Silver | 50g | 53 | 0.94 |
 | [Common Mushroom](https://stardewvalleywiki.com/Common_Mushroom) | Gold | 60g | 68 | 0.88 |
@@ -262,62 +277,34 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Fiddlehead Fern](https://stardewvalleywiki.com/Fiddlehead_Fern) | Silver | 112g | 35 | 3.2 |
 | [Fiddlehead Fern](https://stardewvalleywiki.com/Fiddlehead_Fern) | Gold | 135g | 45 | 3 |
 | [Fiddlehead Fern](https://stardewvalleywiki.com/Fiddlehead_Fern) | Iridium | 180g | 65 | 2.77 |
-| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Normal | 160g | 75 | 2.13 |
-| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Silver | 200g | 105 | 1.9 |
-| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Gold | 240g | 135 | 1.78 |
-| [Chanterelle](https://stardewvalleywiki.com/Chanterelle) | Iridium | 320g | 195 | 1.64 |
+| [Morel](https://stardewvalleywiki.com/Morel) | Normal | 150g | 20 | 7.5 |
+| [Morel](https://stardewvalleywiki.com/Morel) | Silver | 187g | 28 | 6.68 |
+| [Morel](https://stardewvalleywiki.com/Morel) | Gold | 225g | 36 | 6.25 |
+| [Morel](https://stardewvalleywiki.com/Morel) | Iridium | 300g | 52 | 5.77 |
 | [Purple Mushroom](https://stardewvalleywiki.com/Purple_Mushroom) | Normal | 250g | 125 | 2 |
 | [Purple Mushroom](https://stardewvalleywiki.com/Purple_Mushroom) | Silver | 312g | 175 | 1.78 |
 | [Purple Mushroom](https://stardewvalleywiki.com/Purple_Mushroom) | Gold | 375g | 225 | 1.67 |
 | [Purple Mushroom](https://stardewvalleywiki.com/Purple_Mushroom) | Iridium | 500g | 325 | 1.54 |
-| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Normal | 25g | 30 | 0.83 |
-| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Silver | 31g | 42 | 0.74 |
-| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Gold | 37g | 54 | 0.69 |
-| [Cave Carrot](https://stardewvalleywiki.com/Cave_Carrot) | Iridium | 50g | 78 | 0.64 |
-| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Normal | 75g | 75 | 1 |
-| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Silver | 93g | 105 | 0.89 |
-| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Gold | 112g | 135 | 0.83 |
-| [Cactus Fruit](https://stardewvalleywiki.com/Cactus_Fruit) | Iridium | 150g | 195 | 0.77 |
 
 ## Fish
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Fisher (25%) | Ratio w/ Angler (50%) |
 |------|---------|------|--------|-------|-----------------------|-----------------------|
+| [Albacore](https://stardewvalleywiki.com/Albacore) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
+| [Albacore](https://stardewvalleywiki.com/Albacore) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
+| [Albacore](https://stardewvalleywiki.com/Albacore) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
+| [Albacore](https://stardewvalleywiki.com/Albacore) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
 | [Anchovy](https://stardewvalleywiki.com/Anchovy) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
 | [Anchovy](https://stardewvalleywiki.com/Anchovy) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
 | [Anchovy](https://stardewvalleywiki.com/Anchovy) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
 | [Anchovy](https://stardewvalleywiki.com/Anchovy) | Iridium | 60g | 33 | 1.82 | 2.27 | 2.73 |
-| [Tuna](https://stardewvalleywiki.com/Tuna) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
-| [Tuna](https://stardewvalleywiki.com/Tuna) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
-| [Tuna](https://stardewvalleywiki.com/Tuna) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
-| [Tuna](https://stardewvalleywiki.com/Tuna) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
-| [Sardine](https://stardewvalleywiki.com/Sardine) | Normal | 40g | 13 | 3.08 | 3.85 | 4.62 |
-| [Sardine](https://stardewvalleywiki.com/Sardine) | Silver | 50g | 18 | 2.78 | 3.44 | 4.17 |
-| [Sardine](https://stardewvalleywiki.com/Sardine) | Gold | 60g | 23 | 2.61 | 3.26 | 3.91 |
-| [Sardine](https://stardewvalleywiki.com/Sardine) | Iridium | 80g | 33 | 2.42 | 3.03 | 3.64 |
-| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
-| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
-| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
-| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
-| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Normal | 50g | 25 | 2 | 2.5 | 3 |
-| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Silver | 62g | 35 | 1.77 | 2.23 | 2.66 |
-| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Gold | 75g | 45 | 1.67 | 2.07 | 2.49 |
-| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Iridium | 100g | 65 | 1.54 | 1.92 | 2.31 |
-| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Normal | 65g | 25 | 2.6 | 3.25 | 3.9 |
-| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Silver | 81g | 35 | 2.31 | 2.89 | 3.46 |
-| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Gold | 97g | 45 | 2.16 | 2.69 | 3.24 |
-| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Iridium | 130g | 65 | 2 | 2.49 | 3 |
-| [Salmon](https://stardewvalleywiki.com/Salmon) | Normal | 75g | 38 | 1.97 | 2.47 | 2.96 |
-| [Salmon](https://stardewvalleywiki.com/Salmon) | Silver | 93g | 53 | 1.75 | 2.21 | 2.64 |
-| [Salmon](https://stardewvalleywiki.com/Salmon) | Gold | 112g | 68 | 1.65 | 2.06 | 2.47 |
-| [Salmon](https://stardewvalleywiki.com/Salmon) | Iridium | 150g | 98 | 1.53 | 1.91 | 2.3 |
-| [Walleye](https://stardewvalleywiki.com/Walleye) | Normal | 105g | 30 | 3.5 | 4.38 | 5.25 |
-| [Walleye](https://stardewvalleywiki.com/Walleye) | Silver | 131g | 42 | 3.12 | 3.9 | 4.67 |
-| [Walleye](https://stardewvalleywiki.com/Walleye) | Gold | 157g | 54 | 2.91 | 3.63 | 4.37 |
-| [Walleye](https://stardewvalleywiki.com/Walleye) | Iridium | 210g | 78 | 2.69 | 3.36 | 4.04 |
-| [Perch](https://stardewvalleywiki.com/Perch) | Normal | 55g | 25 | 2.2 | 2.75 | 3.3 |
-| [Perch](https://stardewvalleywiki.com/Perch) | Silver | 68g | 35 | 1.94 | 2.43 | 2.94 |
-| [Perch](https://stardewvalleywiki.com/Perch) | Gold | 82g | 45 | 1.82 | 2.29 | 2.73 |
-| [Perch](https://stardewvalleywiki.com/Perch) | Iridium | 110g | 65 | 1.69 | 2.11 | 2.54 |
+| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Normal | 500g | 38 | 13.16 | 16.45 | 19.74 |
+| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Silver | 625g | 53 | 11.79 | 14.74 | 17.68 |
+| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Gold | 750g | 68 | 11.03 | 13.78 | 16.54 |
+| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Iridium | 1000g | 98 | 10.2 | 12.76 | 15.31 |
+| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
+| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
+| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
+| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
 | [Carp](https://stardewvalleywiki.com/Carp) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
 | [Carp](https://stardewvalleywiki.com/Carp) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
 | [Carp](https://stardewvalleywiki.com/Carp) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
@@ -326,78 +313,6 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Catfish](https://stardewvalleywiki.com/Catfish) | Silver | 250g | 70 | 3.57 | 4.46 | 5.36 |
 | [Catfish](https://stardewvalleywiki.com/Catfish) | Gold | 300g | 90 | 3.33 | 4.17 | 5 |
 | [Catfish](https://stardewvalleywiki.com/Catfish) | Iridium | 400g | 130 | 3.08 | 3.85 | 4.62 |
-| [Pike](https://stardewvalleywiki.com/Pike) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
-| [Pike](https://stardewvalleywiki.com/Pike) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
-| [Pike](https://stardewvalleywiki.com/Pike) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
-| [Pike](https://stardewvalleywiki.com/Pike) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
-| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
-| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
-| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
-| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Iridium | 60g | 33 | 1.82 | 2.27 | 2.73 |
-| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
-| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
-| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
-| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
-| [Herring](https://stardewvalleywiki.com/Herring) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
-| [Herring](https://stardewvalleywiki.com/Herring) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
-| [Herring](https://stardewvalleywiki.com/Herring) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
-| [Herring](https://stardewvalleywiki.com/Herring) | Iridium | 60g | 33 | 1.82 | 2.27 | 2.73 |
-| [Eel](https://stardewvalleywiki.com/Eel) | Normal | 85g | 30 | 2.83 | 3.54 | 4.25 |
-| [Eel](https://stardewvalleywiki.com/Eel) | Silver | 106g | 42 | 2.52 | 3.14 | 3.79 |
-| [Eel](https://stardewvalleywiki.com/Eel) | Gold | 127g | 54 | 2.35 | 2.94 | 3.54 |
-| [Eel](https://stardewvalleywiki.com/Eel) | Iridium | 170g | 78 | 2.18 | 2.72 | 3.27 |
-| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Normal | 50g | 25 | 2 | 2.5 | 3 |
-| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Silver | 62g | 35 | 1.77 | 2.23 | 2.66 |
-| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Gold | 75g | 45 | 1.67 | 2.07 | 2.49 |
-| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Iridium | 100g | 65 | 1.54 | 1.92 | 2.31 |
-| [Squid](https://stardewvalleywiki.com/Squid) | Normal | 80g | 25 | 3.2 | 4 | 4.8 |
-| [Squid](https://stardewvalleywiki.com/Squid) | Silver | 100g | 35 | 2.86 | 3.57 | 4.29 |
-| [Squid](https://stardewvalleywiki.com/Squid) | Gold | 120g | 45 | 2.67 | 3.33 | 4 |
-| [Squid](https://stardewvalleywiki.com/Squid) | Iridium | 160g | 65 | 2.46 | 3.08 | 3.69 |
-| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Normal | 250g | 125 | 2 | 2.5 | 3 |
-| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Silver | 312g | 175 | 1.78 | 2.23 | 2.67 |
-| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Gold | 375g | 225 | 1.67 | 2.08 | 2.5 |
-| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Iridium | 500g | 325 | 1.54 | 1.92 | 2.31 |
-| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Normal | 45g | 38 | 1.18 | 1.48 | 1.78 |
-| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Silver | 56g | 53 | 1.06 | 1.32 | 1.58 |
-| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Gold | 67g | 68 | 0.99 | 1.24 | 1.49 |
-| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Iridium | 90g | 98 | 0.92 | 1.14 | 1.38 |
-| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Normal | 500g | 38 | 13.16 | 16.45 | 19.74 |
-| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Silver | 625g | 53 | 11.79 | 14.74 | 17.68 |
-| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Gold | 750g | 68 | 11.03 | 13.78 | 16.54 |
-| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Iridium | 1000g | 98 | 10.2 | 12.76 | 15.31 |
-| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Normal | 700g | 50 | 14 | 17.5 | 21 |
-| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Silver | 875g | 70 | 12.5 | 15.61 | 18.74 |
-| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Gold | 1050g | 90 | 11.67 | 14.58 | 17.5 |
-| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Iridium | 1400g | 130 | 10.77 | 13.46 | 16.15 |
-| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Normal | 75g | 13 | 5.77 | 7.21 | 8.65 |
-| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Silver | 93g | 18 | 5.17 | 6.5 | 7.78 |
-| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Gold | 112g | 23 | 4.87 | 6.09 | 7.3 |
-| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Iridium | 150g | 33 | 4.55 | 5.67 | 6.82 |
-| [Flounder](https://stardewvalleywiki.com/Flounder) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
-| [Flounder](https://stardewvalleywiki.com/Flounder) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
-| [Flounder](https://stardewvalleywiki.com/Flounder) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
-| [Flounder](https://stardewvalleywiki.com/Flounder) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
-| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Normal | 150g | 50 | 3 | 3.75 | 4.5 |
-| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Silver | 187g | 70 | 2.67 | 3.34 | 4.01 |
-| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Gold | 225g | 90 | 2.5 | 3.12 | 3.74 |
-| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Iridium | 300g | 130 | 2.31 | 2.88 | 3.46 |
-| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Normal | 200g | 25 | 8 | 10 | 12 |
-| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Silver | 250g | 35 | 7.14 | 8.91 | 10.71 |
-| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Gold | 300g | 45 | 6.67 | 8.33 | 10 |
-| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Iridium | 400g | 65 | 6.15 | 7.69 | 9.23 |
-| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Normal | 150g | 25 | 6 | 7.5 | 9 |
-| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Silver | 187g | 35 | 5.34 | 6.69 | 8.03 |
-| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Gold | 225g | 45 | 5 | 6.24 | 7.49 |
-| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Iridium | 300g | 65 | 4.62 | 5.77 | 6.92 |
-| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
-| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
-| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
-| [Bullhead](https://stardewvalleywiki.com/Bullhead) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
-| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
-| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
-| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
-| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
 | [Chub](https://stardewvalleywiki.com/Chub) | Normal | 50g | 25 | 2 | 2.5 | 3 |
 | [Chub](https://stardewvalleywiki.com/Chub) | Silver | 62g | 35 | 1.77 | 2.23 | 2.66 |
 | [Chub](https://stardewvalleywiki.com/Chub) | Gold | 75g | 45 | 1.67 | 2.07 | 2.49 |
@@ -406,75 +321,166 @@ Of course, you do not have to use a cutoff value of 2; you can simply survey the
 | [Dorado](https://stardewvalleywiki.com/Dorado) | Silver | 125g | 35 | 3.57 | 4.46 | 5.34 |
 | [Dorado](https://stardewvalleywiki.com/Dorado) | Gold | 150g | 45 | 3.33 | 4.16 | 5 |
 | [Dorado](https://stardewvalleywiki.com/Dorado) | Iridium | 200g | 65 | 3.08 | 3.85 | 4.62 |
-| [Albacore](https://stardewvalleywiki.com/Albacore) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
-| [Albacore](https://stardewvalleywiki.com/Albacore) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
-| [Albacore](https://stardewvalleywiki.com/Albacore) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
-| [Albacore](https://stardewvalleywiki.com/Albacore) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
-| [Shad](https://stardewvalleywiki.com/Shad) | Normal | 60g | 25 | 2.4 | 3 | 3.6 |
-| [Shad](https://stardewvalleywiki.com/Shad) | Silver | 75g | 35 | 2.14 | 2.66 | 3.2 |
-| [Shad](https://stardewvalleywiki.com/Shad) | Gold | 90g | 45 | 2 | 2.49 | 3 |
-| [Shad](https://stardewvalleywiki.com/Shad) | Iridium | 120g | 65 | 1.85 | 2.31 | 2.77 |
-| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Normal | 120g | 25 | 4.8 | 6 | 7.2 |
-| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Silver | 150g | 35 | 4.29 | 5.34 | 6.43 |
-| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Gold | 180g | 45 | 4 | 5 | 6 |
-| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Iridium | 240g | 65 | 3.69 | 4.62 | 5.54 |
+| [Eel](https://stardewvalleywiki.com/Eel) | Normal | 85g | 30 | 2.83 | 3.54 | 4.25 |
+| [Eel](https://stardewvalleywiki.com/Eel) | Silver | 106g | 42 | 2.52 | 3.14 | 3.79 |
+| [Eel](https://stardewvalleywiki.com/Eel) | Gold | 127g | 54 | 2.35 | 2.94 | 3.54 |
+| [Eel](https://stardewvalleywiki.com/Eel) | Iridium | 170g | 78 | 2.18 | 2.72 | 3.27 |
+| [Flounder](https://stardewvalleywiki.com/Flounder) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
+| [Flounder](https://stardewvalleywiki.com/Flounder) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
+| [Flounder](https://stardewvalleywiki.com/Flounder) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
+| [Flounder](https://stardewvalleywiki.com/Flounder) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Normal | 45g | 38 | 1.18 | 1.48 | 1.78 |
+| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Silver | 56g | 53 | 1.06 | 1.32 | 1.58 |
+| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Gold | 67g | 68 | 0.99 | 1.24 | 1.49 |
+| [Ghostfish](https://stardewvalleywiki.com/Ghostfish) | Iridium | 90g | 98 | 0.92 | 1.14 | 1.38 |
 | [Halibut](https://stardewvalleywiki.com/Halibut) | Normal | 80g | 25 | 3.2 | 4 | 4.8 |
 | [Halibut](https://stardewvalleywiki.com/Halibut) | Silver | 100g | 35 | 2.86 | 3.57 | 4.29 |
 | [Halibut](https://stardewvalleywiki.com/Halibut) | Gold | 120g | 45 | 2.67 | 3.33 | 4 |
 | [Halibut](https://stardewvalleywiki.com/Halibut) | Iridium | 160g | 65 | 2.46 | 3.08 | 3.69 |
-| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
-| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
-| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
-| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
-| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Normal | 150g | 63 | 2.38 | 2.98 | 3.57 |
-| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Silver | 187g | 88 | 2.13 | 2.66 | 3.19 |
-| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Gold | 225g | 113 | 1.99 | 2.49 | 2.98 |
-| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Iridium | 300g | 163 | 1.84 | 2.3 | 2.76 |
-| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
-| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
-| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
-| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Herring](https://stardewvalleywiki.com/Herring) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
+| [Herring](https://stardewvalleywiki.com/Herring) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
+| [Herring](https://stardewvalleywiki.com/Herring) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
+| [Herring](https://stardewvalleywiki.com/Herring) | Iridium | 60g | 33 | 1.82 | 2.27 | 2.73 |
+| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Normal | 500g | 38 | 13.16 | 16.45 | 19.74 |
+| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Silver | 625g | 53 | 11.79 | 14.74 | 17.68 |
+| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Gold | 750g | 68 | 11.03 | 13.78 | 16.54 |
+| [Ice Pip](https://stardewvalleywiki.com/Ice_Pip) | Iridium | 1000g | 98 | 10.2 | 12.76 | 15.31 |
+| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
+| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
+| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
+| [Largemouth Bass](https://stardewvalleywiki.com/Largemouth_Bass) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Normal | 700g | 50 | 14 | 17.5 | 21 |
+| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Silver | 875g | 70 | 12.5 | 15.61 | 18.74 |
+| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Gold | 1050g | 90 | 11.67 | 14.58 | 17.5 |
+| [Lava Eel](https://stardewvalleywiki.com/Lava_Eel) | Iridium | 1400g | 130 | 10.77 | 13.46 | 16.15 |
+| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Normal | 120g | 25 | 4.8 | 6 | 7.2 |
+| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Silver | 150g | 35 | 4.29 | 5.34 | 6.43 |
+| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Gold | 180g | 45 | 4 | 5 | 6 |
+| [Lingcod](https://stardewvalleywiki.com/Lingcod) | Iridium | 240g | 65 | 3.69 | 4.62 | 5.54 |
+| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Normal | 150g | 50 | 3 | 3.75 | 4.5 |
+| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Silver | 187g | 70 | 2.67 | 3.34 | 4.01 |
+| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Gold | 225g | 90 | 2.5 | 3.12 | 3.74 |
+| [Midnight Carp](https://stardewvalleywiki.com/Midnight_Carp) | Iridium | 300g | 130 | 2.31 | 2.88 | 3.46 |
 | [Midnight Squid](https://stardewvalleywiki.com/Midnight_Squid) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
 | [Midnight Squid](https://stardewvalleywiki.com/Midnight_Squid) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
 | [Midnight Squid](https://stardewvalleywiki.com/Midnight_Squid) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
 | [Midnight Squid](https://stardewvalleywiki.com/Midnight_Squid) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Perch](https://stardewvalleywiki.com/Perch) | Normal | 55g | 25 | 2.2 | 2.75 | 3.3 |
+| [Perch](https://stardewvalleywiki.com/Perch) | Silver | 68g | 35 | 1.94 | 2.43 | 2.94 |
+| [Perch](https://stardewvalleywiki.com/Perch) | Gold | 82g | 45 | 1.82 | 2.29 | 2.73 |
+| [Perch](https://stardewvalleywiki.com/Perch) | Iridium | 110g | 65 | 1.69 | 2.11 | 2.54 |
+| [Pike](https://stardewvalleywiki.com/Pike) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
+| [Pike](https://stardewvalleywiki.com/Pike) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
+| [Pike](https://stardewvalleywiki.com/Pike) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
+| [Pike](https://stardewvalleywiki.com/Pike) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Normal | 65g | 25 | 2.6 | 3.25 | 3.9 |
+| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Silver | 81g | 35 | 2.31 | 2.89 | 3.46 |
+| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Gold | 97g | 45 | 2.16 | 2.69 | 3.24 |
+| [Rainbow Trout](https://stardewvalleywiki.com/Rainbow_Trout) | Iridium | 130g | 65 | 2 | 2.49 | 3 |
+| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
+| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
+| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
+| [Red Mullet](https://stardewvalleywiki.com/Red_Mullet) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
+| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Normal | 50g | 25 | 2 | 2.5 | 3 |
+| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Silver | 62g | 35 | 1.77 | 2.23 | 2.66 |
+| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Gold | 75g | 45 | 1.67 | 2.07 | 2.49 |
+| [Red Snapper](https://stardewvalleywiki.com/Red_Snapper) | Iridium | 100g | 65 | 1.54 | 1.92 | 2.31 |
+| [Salmon](https://stardewvalleywiki.com/Salmon) | Normal | 75g | 38 | 1.97 | 2.47 | 2.96 |
+| [Salmon](https://stardewvalleywiki.com/Salmon) | Silver | 93g | 53 | 1.75 | 2.21 | 2.64 |
+| [Salmon](https://stardewvalleywiki.com/Salmon) | Gold | 112g | 68 | 1.65 | 2.06 | 2.47 |
+| [Salmon](https://stardewvalleywiki.com/Salmon) | Iridium | 150g | 98 | 1.53 | 1.91 | 2.3 |
+| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Normal | 75g | 13 | 5.77 | 7.21 | 8.65 |
+| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Silver | 93g | 18 | 5.17 | 6.5 | 7.78 |
+| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Gold | 112g | 23 | 4.87 | 6.09 | 7.3 |
+| [Sandfish](https://stardewvalleywiki.com/Sandfish) | Iridium | 150g | 33 | 4.55 | 5.67 | 6.82 |
+| [Sardine](https://stardewvalleywiki.com/Sardine) | Normal | 40g | 13 | 3.08 | 3.85 | 4.62 |
+| [Sardine](https://stardewvalleywiki.com/Sardine) | Silver | 50g | 18 | 2.78 | 3.44 | 4.17 |
+| [Sardine](https://stardewvalleywiki.com/Sardine) | Gold | 60g | 23 | 2.61 | 3.26 | 3.91 |
+| [Sardine](https://stardewvalleywiki.com/Sardine) | Iridium | 80g | 33 | 2.42 | 3.03 | 3.64 |
+| [Shad](https://stardewvalleywiki.com/Shad) | Normal | 60g | 25 | 2.4 | 3 | 3.6 |
+| [Shad](https://stardewvalleywiki.com/Shad) | Silver | 75g | 35 | 2.14 | 2.66 | 3.2 |
+| [Shad](https://stardewvalleywiki.com/Shad) | Gold | 90g | 45 | 2 | 2.49 | 3 |
+| [Shad](https://stardewvalleywiki.com/Shad) | Iridium | 120g | 65 | 1.85 | 2.31 | 2.77 |
+| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
+| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
+| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
+| [Slimejack](https://stardewvalleywiki.com/Slimejack) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Normal | 50g | 25 | 2 | 2.5 | 3 |
+| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Silver | 62g | 35 | 1.77 | 2.23 | 2.66 |
+| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Gold | 75g | 45 | 1.67 | 2.07 | 2.49 |
+| [Smallmouth Bass](https://stardewvalleywiki.com/Smallmouth_Bass) | Iridium | 100g | 65 | 1.54 | 1.92 | 2.31 |
 | [Spook Fish](https://stardewvalleywiki.com/Spook_Fish) | Normal | 220g | 38 | 5.79 | 7.24 | 8.68 |
 | [Spook Fish](https://stardewvalleywiki.com/Spook_Fish) | Silver | 275g | 53 | 5.19 | 6.47 | 7.77 |
 | [Spook Fish](https://stardewvalleywiki.com/Spook_Fish) | Gold | 330g | 68 | 4.85 | 6.06 | 7.28 |
 | [Spook Fish](https://stardewvalleywiki.com/Spook_Fish) | Iridium | 440g | 98 | 4.49 | 5.61 | 6.73 |
-| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Normal | 500g | 38 | 13.16 | 16.45 | 19.74 |
-| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Silver | 625g | 53 | 11.79 | 14.74 | 17.68 |
-| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Gold | 750g | 68 | 11.03 | 13.78 | 16.54 |
-| [Blobfish](https://stardewvalleywiki.com/Blobfish) | Iridium | 1000g | 98 | 10.2 | 12.76 | 15.31 |
+| [Squid](https://stardewvalleywiki.com/Squid) | Normal | 80g | 25 | 3.2 | 4 | 4.8 |
+| [Squid](https://stardewvalleywiki.com/Squid) | Silver | 100g | 35 | 2.86 | 3.57 | 4.29 |
+| [Squid](https://stardewvalleywiki.com/Squid) | Gold | 120g | 45 | 2.67 | 3.33 | 4 |
+| [Squid](https://stardewvalleywiki.com/Squid) | Iridium | 160g | 65 | 2.46 | 3.08 | 3.69 |
+| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Normal | 30g | 13 | 2.31 | 2.88 | 3.46 |
+| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Silver | 37g | 18 | 2.06 | 2.56 | 3.11 |
+| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Gold | 45g | 23 | 1.96 | 2.43 | 2.91 |
+| [Sunfish](https://stardewvalleywiki.com/Sunfish) | Iridium | 60g | 33 | 1.82 | 2.27 | 2.73 |
+| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Normal | 250g | 125 | 2 | 2.5 | 3 |
+| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Silver | 312g | 175 | 1.78 | 2.23 | 2.67 |
+| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Gold | 375g | 225 | 1.67 | 2.08 | 2.5 |
+| [Super Cucumber](https://stardewvalleywiki.com/Super_Cucumber) | Iridium | 500g | 325 | 1.54 | 1.92 | 2.31 |
+| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Normal | 200g | 25 | 8 | 10 | 12 |
+| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Silver | 250g | 35 | 7.14 | 8.91 | 10.71 |
+| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Gold | 300g | 45 | 6.67 | 8.33 | 10 |
+| [Sturgeon](https://stardewvalleywiki.com/Sturgeon) | Iridium | 400g | 65 | 6.15 | 7.69 | 9.23 |
+| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Normal | 150g | 25 | 6 | 7.5 | 9 |
+| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Silver | 187g | 35 | 5.34 | 6.69 | 8.03 |
+| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Gold | 225g | 45 | 5 | 6.24 | 7.49 |
+| [Tiger Trout](https://stardewvalleywiki.com/Tiger_Trout) | Iridium | 300g | 65 | 4.62 | 5.77 | 6.92 |
+| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
+| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
+| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
+| [Tilapia](https://stardewvalleywiki.com/Tilapia) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
+| [Tuna](https://stardewvalleywiki.com/Tuna) | Normal | 100g | 38 | 2.63 | 3.29 | 3.95 |
+| [Tuna](https://stardewvalleywiki.com/Tuna) | Silver | 125g | 53 | 2.36 | 2.94 | 3.53 |
+| [Tuna](https://stardewvalleywiki.com/Tuna) | Gold | 150g | 68 | 2.21 | 2.75 | 3.31 |
+| [Tuna](https://stardewvalleywiki.com/Tuna) | Iridium | 200g | 98 | 2.04 | 2.55 | 3.06 |
+| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Normal | 150g | 63 | 2.38 | 2.98 | 3.57 |
+| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Silver | 187g | 88 | 2.13 | 2.66 | 3.19 |
+| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Gold | 225g | 113 | 1.99 | 2.49 | 2.98 |
+| [Void Salmon](https://stardewvalleywiki.com/Void_Salmon) | Iridium | 300g | 163 | 1.84 | 2.3 | 2.76 |
+| [Walleye](https://stardewvalleywiki.com/Walleye) | Normal | 105g | 30 | 3.5 | 4.38 | 5.25 |
+| [Walleye](https://stardewvalleywiki.com/Walleye) | Silver | 131g | 42 | 3.12 | 3.9 | 4.67 |
+| [Walleye](https://stardewvalleywiki.com/Walleye) | Gold | 157g | 54 | 2.91 | 3.63 | 4.37 |
+| [Walleye](https://stardewvalleywiki.com/Walleye) | Iridium | 210g | 78 | 2.69 | 3.36 | 4.04 |
+| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Normal | 75g | 25 | 3 | 3.75 | 4.5 |
+| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Silver | 93g | 35 | 2.66 | 3.34 | 4 |
+| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Gold | 112g | 45 | 2.49 | 3.11 | 3.73 |
+| [Woodskip](https://stardewvalleywiki.com/Woodskip) | Iridium | 150g | 65 | 2.31 | 2.88 | 3.46 |
 
 ## Non-Fish
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
+| [Green Algae](https://stardewvalleywiki.com/Green _Algae) | Normal | 15g | 13 | 1.15 |
 | [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) | Normal | 25g | 13 | 1.92 |
 | [Seaweed](https://stardewvalleywiki.com/Seaweed) | Normal | 20g | 13 | 1.54 |
-| [Green Algae](https://stardewvalleywiki.com/Green _Algae) | Normal | 15g | 13 | 1.15 |
 | [White Algae](https://stardewvalleywiki.com/White _Algae) | Normal | 25g | 20 | 1.25 |
 
 ## Food (Buyable)
 | Name | Quality | Gold | Energy | Ratio | Ratio w/ Buying |
 |------|---------|------|--------|-------|-----------------|
 | [Beer](https://stardewvalleywiki.com/Beer) | Normal | 200g | 50 | 4 | 8 |
-| [Salad](https://stardewvalleywiki.com/Salad) | Normal | 110g | 113 | 0.97 | 1.95 |
 | [Bread](https://stardewvalleywiki.com/Bread) | Normal | 60g | 50 | 1.2 | 2.4 |
-| [Spaghetti](https://stardewvalleywiki.com/Spaghetti) | Normal | 120g | 75 | 1.6 | 3.2 |
-| [Pizza](https://stardewvalleywiki.com/Pizza) | Normal | 300g | 150 | 2 | 4 |
-| [Ice Cream](https://stardewvalleywiki.com/Ice_Cream) | Normal | 120g | 100 | 1.2 | 2.4 |
 | [Energy Tonic](https://stardewvalleywiki.com/Energy_Tonic) | Normal | 500g | 500 | 1 | 2 |
-| [Muscle Remedy](https://stardewvalleywiki.com/Muscle_Remedy) | Normal | 500g | 50 | 10 | 20 |
+| [Ice Cream](https://stardewvalleywiki.com/Ice_Cream) | Normal | 120g | 100 | 1.2 | 2.4 |
 | [Miner's Treat](https://stardewvalleywiki.com/Miner%27s_Treat) | Normal | 200g | 125 | 1.6 | 3.2 |
+| [Muscle Remedy](https://stardewvalleywiki.com/Muscle_Remedy) | Normal | 500g | 50 | 10 | 20 |
 | [Life Elixir](https://stardewvalleywiki.com/Life Elixir) | Normal | 500g | 200 | 2.5 | 5 |
+| [Pizza](https://stardewvalleywiki.com/Pizza) | Normal | 300g | 150 | 2 | 4 |
+| [Salad](https://stardewvalleywiki.com/Salad) | Normal | 110g | 113 | 0.97 | 1.95 |
+| [Spaghetti](https://stardewvalleywiki.com/Spaghetti) | Normal | 120g | 75 | 1.6 | 3.2 |
 
 ## Food (Craftable)
 | Name | Quality | Gold | Energy | Ratio |
 |------|---------|------|--------|-------|
-| [Sashimi](https://stardewvalleywiki.com/Sashimi) | Normal | 75g | 75 | 1 |
-| [Field Snack](https://stardewvalleywiki.com/Field_Snack) | Normal | 20g | 45 | 0.44 |
-| [Cookie](https://stardewvalleywiki.com/Cookie) | Normal | 140g | 90 | 1.56 |
 | [Chocolate Cake](https://stardewvalleywiki.com/Chocolate_Cake) | Normal | 200g | 150 | 1.33 |
+| [Cookie](https://stardewvalleywiki.com/Cookie) | Normal | 140g | 90 | 1.56 |
+| [Field Snack](https://stardewvalleywiki.com/Field_Snack) | Normal | 20g | 45 | 0.44 |
+| [Sashimi](https://stardewvalleywiki.com/Sashimi) | Normal | 75g | 75 | 1 |
 | [Strange Bun](https://stardewvalleywiki.com/Strange Bun) | Normal | 225g | 100 | 2.25 |
-
